@@ -1,0 +1,222 @@
+---
+title: "PSYC2016 Can we trust this science?"
+author: "Alex Holcombe"
+date: 09-08-2023
+format: 
+  revealjs:
+    self-contained: false
+    slide-number: c/t
+    width: 1600
+    height: 900
+    footer: "[PSYC3888](https://alexholcombe.github.io/PSYC3888)"
+    theme: ["simple", "styles.scss"]
+    echo: true
+    multiplex: false
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+editor: source
+---
+
+## 
+
+```         
+All day, the world makes its demands. There's so much of it, world
+
+begging to be noticed.
+```
+
+<BR><BR><BR>
+
+```         
+- Leila Chatti
+```
+
+::: notes
+This unit can't answer the questions raised by this quote, but it takes on the basic issue of why we have issues with this.
+:::
+
+## 
+
+![](images/WmJames.jpg)
+```
+Everyone knows what attention is. It is the taking possession by the mind, in a clear and vivid form of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration of consciousness are of its essence. It implies withdrawal from some things in order to deal with others.
+```
+
+```
+-	William James (1890)
+```
+
+## Logistics
+
+::: notes
+Lecturing was very depressing during the pandemic and online
+:::
+
+## "It implies withdrawal from some things in order to deal with others"
+
+![](images/LeavingAFlatTasteInYourMouth.png)
+
+
+## English expressions
+
+-   Please “pay attention!”
+-   “Sorry, I wasn’t listening”
+-   “Sorry, I missed that.”
+-   “I didn’t notice that.”
+
+## Why?
+
+-   Why do we need selective attention?
+-   Why do we get distracted?
+
+::: notes
+By the end of these 4 lectures you'll understand distraction better
+:::
+
+## Consciousness and attention
+
+Global Neuronal Workspace theory:
+"Attention and consciousness are the same process"
+
+-- David Alas' slide 36 of Consciousness 2 
+
+## Ways to select a stimulus
+
+-   Spatial/object selection
+-   Feature selection
+
+## What happens when a spatial location is selected?
+
+-   Activity makes it through the bottleneck
+-   Recurrent activity
+
+## What happens when a spatial location is selected?
+
+Activity makes it through the bottleneck
+
+![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png)
+On the left, activity doesn't get through the bottleneck.
+
+
+## What happens when a spatial location is selected?
+
+Recurrent activity
+
+![](images/AlaisSlide38Consciousness2Recurrent.png)
+
+
+
+
+## LECTURE QUIZ QUESTION and Publish Canvas page
+
+##  {background-image="images/wallabyCampsitePittwater.JPG"}
+
+::: notes
+Have you ever tried to sneak up on a wallaby or a kangaroo?
+:::
+
+CONSCIOUSNESS
+
+## The chita
+
+{{< video https://www.youtube.com/embed/AlSt2mT8ztw >}}
+
+https://cervidonline.wixsite.com/cervid-online/post/vigilance-behaviour-in-chital
+
+::: notes
+How do we strike the balance between looking out for important new things coming from anywhere, and focusing on another task we've decided on
+:::
+
+## vigilance
+
+leopard, wild dogs
+
+## Why do we need selective attention?
+
+Limited processing capacity
+
+![](images/bottleneck.png){width="40%"}
+
+## Interrupt signals
+
+Alt+F4
+
+![](images/forceQuit.png)
+
+::: notes
+Computers used to freeze all the time. With a lot of advances in operating system technology
+:::
+
+## Does not compute... {background-image="images/8Ois.gif"}
+
+::: notes
+Your own operating system isn't upgraded as often. But on the other hand, it's had millions of years to evolve. So we rarely freeze.
+:::
+
+## Your turn
+
+Mentimer: PSYC2016gettingToKnowYou
+
+## Homework: The distraction diary
+
+![](images/usingTheStopwatch.jpeg)
+
+For when you have ten minutes or more to concentrate on studying or other computer work.
+
+-   Put your phone on airplane mode.
+-   Turn off notifications on your computer if you know how.
+-   Start the stopwatch (often in Clock in Android).
+-   Press "lap" every time you can't help yourself and you check social media, the news, or otherwise get off task.
+
+<!--Create Google Doc to enter data-->
+
+## In a future class, bump up the distraction diary to keeping phone on as normal aand recording notification checks
+
+## To add to textbook
+
+Selective vs. non-selective pathway. Add to bottom of change-blindness thing. This is the biggest mystery. But point out limitations to detecting change in scene meaning.
+
+## Visual search
+
+Visual search slides including expertise - xrays,
+
+## For distraction add the taste study in Irina's slides
+
+## Four factors for managing attention
+
+https://psyc2016.whatanimalssee.com/the-role-of-memory-and-expectation.html#fourFactors
+
+## The tipsy gorilla study
+
+I have a comment to enter it here: https://psyc2016.whatanimalssee.com/the-role-of-memory-and-expectation.html#fourFactors
+
+## Other topics
+
+Automaticity
+
+## QUOTE
+
+> To pay attention, this is our endless and proper work
+
+-   Mary Oliver
+
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
