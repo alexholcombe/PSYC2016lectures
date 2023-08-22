@@ -23,12 +23,13 @@ format:
 editor: source
 ---
 <!--sometimes have to turn multiplex false to load speaker notes -->
+<!--As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.-->
 
 ##
 
 <!--- {{< video images/AlexLifeJourney.mp4 >}}     Doesn't work even though it should --->
 
-[Alex's journey](images/AlexLifeJourney.mp4)
+[Alex](images/AlexLifeJourney.mp4)
 
 ##
 
@@ -47,7 +48,7 @@ begging to be noticed.
 
 ::: {.fragment}
 Leila Chatti
-![](images/LeilaChatti.jpeg){width=70%}
+![](images/LeilaChatti.jpeg){width=50%}
 :::
 
 ::: notes
@@ -113,11 +114,11 @@ Lecturing was very depressing then.
 So I wrote this mini-text.
 :::
 
-## I can't be everywhere at once!
+## I can't be everywhere at once
 
 -   Implies selection
 
-## I can't do everything at once!
+## I can't do everything at once
 
 -   Only have two hands. Implies selection.
 
@@ -148,28 +149,34 @@ Once we go through the bottleneck aspect, we can circle back to consciousness.
 
 ## Just two stimuli can be enough to overwhelm capacity
 
-https://youtube.com/shorts/SAE3SY4Z2vc
+[rapid letter](https://youtube.com/shorts/SAE3SY4Z2vc)
 
 dualStreamDemoPython3
+
 ::: notes
 Recognizing letters seems effortless.
 We don't notice the capacity limit in normal circumstances.
 :::
 
+## You didn't get both letters right?
+
+-   You must not have been paying attention?
+-   "Paying attention" = devoting your resources to a task.
+
+
+## Quiz time!
+
+::: notes
+If someone didn't get both letters right, which common expression most refers to the reason why?
+:::
+
 ## Consciousness
 
 ![](images/Alais.jpg)
-
-
-## Consciousness and attention
-
-Global Neuronal Workspace theory:
-"Attention and consciousness are the same process"
-
--- David Alais' slide 36 of Consciousness 2 
 ::: notes
-Consciousness may be fresh in your minds
+Consciousness hopefully is fresh in your mind, because of this guy
 :::
+
 ## Ways to select a stimulus
 
 -   Spatial/object selection
@@ -182,22 +189,30 @@ Consciousness may be fresh in your minds
 
 ## What happens when a spatial location is selected?
 
-Activity makes it through the bottleneck
 
-![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png)
-On the left, activity doesn't get through the bottleneck.
+![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png){width=280}
 
+Why can't we be conscious of all stimuli?
 
+::: notes
+Spatial selection facilitates stimuli getting through the bottleneck.
+:::
 ## What happens when a spatial location is selected?
 
-Recurrent activity
 
 ![](images/AlaisSlide38Consciousness2Recurrent.png)
+::: notes
+Recurrent activity
+:::
+
+## Consciousness and attention
+
+Global Neuronal Workspace theory:
+"Attention and consciousness are the same process"
+
+-- David Alais' slide #36 of Consciousness lecture 2
 
 
-
-
-## LECTURE QUIZ QUESTION and Publish Canvas page
 
 ## VIGILANCE and LIMITED CAPACITY
 
@@ -207,13 +222,27 @@ Recurrent activity
 Have you ever tried to sneak up on a wallaby or a kangaroo?
 :::
 
-## The chita
+## Deer
+
+![](images/deer/Javan_Deer_East_Java.jpg)
+
+::: notes
+Deer aren't native to Australia, and you're unlikely to see them.
+But that's not because there aren't a lot around.
+They were introduced over a hundred years ago because people thought it would be good to have them hear to hunt and eat.
+Even in Sydney, they're in a park near the Georges River.
+:::
+
+## Vigilance and chita deer
 
 {{< video https://www.youtube.com/embed/AlSt2mT8ztw >}}
 
-https://cervidonline.wixsite.com/cervid-online/post/vigilance-behaviour-in-chital
+[Article about vigilance in chitas](https://cervidonline.wixsite.com/cervid-online/post/vigilance-behaviour-in-chital)
 
 ::: notes
+Show video.
+Deer aren't native to Australia, and you're unlikely to see them.
+
 How do we strike the balance between looking out for important new things coming from anywhere, and focusing on another task we've decided on
 :::
 
