@@ -9,18 +9,18 @@
 <link href="site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/quarto-contrib/videojs/video.min.js"></script>
-<link href="site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
-<meta name="author" content="Alex Holcombe">
-<meta name="dcterms.date" content="2023-09-08">
-<title>PSYC2016: Attention</title>
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-<link rel="stylesheet" href="site_libs/revealjs/dist/reset.css">
-<link rel="stylesheet" href="site_libs/revealjs/dist/reveal.css">
-<style>
+<link href="site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.3.353">
+
+  <meta name="author" content="Alex Holcombe">
+  <meta name="dcterms.date" content="2023-09-08">
+  <title>PSYC2016: Attention</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reveal.css">
+  <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -32,78 +32,13 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-    /* CSS for syntax highlighting */
-    pre > code.sourceCode { white-space: pre; position: relative; }
-    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-    pre > code.sourceCode > span:empty { height: 1.2em; }
-    .sourceCode { overflow: visible; }
-    code.sourceCode > span { color: inherit; text-decoration: inherit; }
-    div.sourceCode { margin: 1em 0; }
-    pre.sourceCode { margin: 0; }
-    @media screen {
-    div.sourceCode { overflow: auto; }
-    }
-    @media print {
-    pre > code.sourceCode { white-space: pre-wrap; }
-    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-    }
-    pre.numberSource code
-      { counter-reset: source-line 0; }
-    pre.numberSource code > span
-      { position: relative; left: -4em; counter-increment: source-line; }
-    pre.numberSource code > span > a:first-child::before
-      { content: counter(source-line);
-        position: relative; left: -1em; text-align: right; vertical-align: baseline;
-        border: none; display: inline-block;
-        -webkit-touch-callout: none; -webkit-user-select: none;
-        -khtml-user-select: none; -moz-user-select: none;
-        -ms-user-select: none; user-select: none;
-        padding: 0 4px; width: 4em;
-        color: #aaaaaa;
-      }
-    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
-    div.sourceCode
-      { color: #003b4f; background-color: #f1f3f5; }
-    @media screen {
-    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-    }
-    code span { color: #003b4f; } /* Normal */
-    code span.al { color: #ad0000; } /* Alert */
-    code span.an { color: #5e5e5e; } /* Annotation */
-    code span.at { color: #657422; } /* Attribute */
-    code span.bn { color: #ad0000; } /* BaseN */
-    code span.bu { } /* BuiltIn */
-    code span.cf { color: #003b4f; } /* ControlFlow */
-    code span.ch { color: #20794d; } /* Char */
-    code span.cn { color: #8f5902; } /* Constant */
-    code span.co { color: #5e5e5e; } /* Comment */
-    code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
-    code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
-    code span.dt { color: #ad0000; } /* DataType */
-    code span.dv { color: #ad0000; } /* DecVal */
-    code span.er { color: #ad0000; } /* Error */
-    code span.ex { } /* Extension */
-    code span.fl { color: #ad0000; } /* Float */
-    code span.fu { color: #4758ab; } /* Function */
-    code span.im { color: #00769e; } /* Import */
-    code span.in { color: #5e5e5e; } /* Information */
-    code span.kw { color: #003b4f; } /* Keyword */
-    code span.op { color: #5e5e5e; } /* Operator */
-    code span.ot { color: #003b4f; } /* Other */
-    code span.pp { color: #ad0000; } /* Preprocessor */
-    code span.sc { color: #5e5e5e; } /* SpecialChar */
-    code span.ss { color: #20794d; } /* SpecialString */
-    code span.st { color: #20794d; } /* String */
-    code span.va { color: #111111; } /* Variable */
-    code span.vs { color: #20794d; } /* VerbatimString */
-    code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
-<link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto.css">
-<link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
-<link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
-<link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
-<link href="site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
-<style type="text/css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto.css">
+  <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
 
   .callout {
     margin-top: 1em;
@@ -300,7 +235,7 @@
   }
 
   </style>
-<style type="text/css">
+  <style type="text/css">
     .reveal div.sourceCode {
       margin: 0;
       overflow: auto;
@@ -392,7 +327,8 @@
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" data-background-color="#447099" data-background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" data-background-opacity="0.8" data-background-size="contain" class="quarto-title-block center"><h1 class="title">PSYC2016: Attention</h1>
+<section id="title-slide" data-background-color="#447099" data-background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" data-background-opacity="0.8" data-background-size="contain" class="quarto-title-block center">
+  <h1 class="title">PSYC2016: Attention</h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -403,22 +339,49 @@ Alex Holcombe
 </div>
 
   <p class="date">2023-09-08</p>
-</section><section class="slide level2"><!--sometimes have to turn multiplex false to load speaker notes --><!--As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.--></section><section id="section" class="slide level2"><h2></h2>
+</section>
+<section class="slide level2">
+
+<!--sometimes have to turn multiplex false to load speaker notes -->
+<!--As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.-->
+</section>
+<section id="section" class="slide level2">
+<h2></h2>
 <!---      Doesn't work even though it should --->
 <p><a href="images/AlexLifeJourney.mp4">Alex</a></p>
-</section><section id="section-1" class="slide level2"><h2></h2>
+<aside class="notes">
+<p>Have book open on lectern PC, on second screen</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="section-1" class="slide level2">
+<h2></h2>
 <!--- ![](images/AmericanFlag.jpg) -->
 <div class="fragment">
 <p><img data-src="images/citizenshipCeremonyAshfield17Oct2013.JPG"></p>
 </div>
-</section><section id="attention" class="slide level2"><h2>Attention</h2>
-</section><section id="section-2" class="slide level2"><h2></h2>
+</section>
+<section id="attention" class="slide level2">
+<h2>Attention</h2>
+</section>
+<section id="section-2" class="slide level2">
+<h2></h2>
 <p>All day, the world makes its demands. There’s so much of it, world</p>
 <p>begging to be noticed.</p>
 <div class="fragment">
 <p>Leila Chatti <img data-src="images/LeilaChatti.jpeg" style="width:50.0%"></p>
 </div>
-<aside class="notes"><p>This is something many of us love about the world, but also something that we struggle with. This unit can’t answer the questions raised by this quote, but it takes on the basic issue of why we have issues with this. This is something that fascinates me too, in my daily life, and I do experiments to investigate aspects of it.</p>
+<aside class="notes">
+<p>This is something many of us love about the world, but also something that we struggle with. This unit can’t answer the questions raised by this quote, but it takes on the basic issue of why we have issues with this. This is something that fascinates me too, in my daily life, and I do experiments to investigate aspects of it.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -429,11 +392,15 @@ Alex Holcombe
           width: 1px!important;
           overflow: hidden!important;
           display:block!important;
-      }</style></aside></section><section id="section-3" class="slide level2"><h2></h2>
+      }</style></aside>
+</section>
+<section id="section-3" class="slide level2">
+<h2></h2>
 
 <img data-src="images/WmJames.jpg" class="r-stretch"><pre><code>Everyone knows what attention is. It is the taking possession by the mind, in a clear and vivid form of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration of consciousness are of its essence. It implies withdrawal from some things in order to deal with others.</code></pre>
 <pre><code>-   William James (1890)</code></pre>
-<aside class="notes"><p>The first great scientific psychologist. Do you think I could grow a beard like his?</p>
+<aside class="notes">
+<p>The first great scientific psychologist. Do you think I could grow a beard like his?</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -444,14 +411,18 @@ Alex Holcombe
           width: 1px!important;
           overflow: hidden!important;
           display:block!important;
-      }</style></aside></section><section id="it-implies-withdrawal-from-some-things-in-order-to-deal-with-others---william-james" class="slide level2"><h2>“It implies withdrawal from some things in order to deal with others” - William James</h2>
+      }</style></aside>
+</section>
+<section id="it-implies-withdrawal-from-some-things-in-order-to-deal-with-others---william-james" class="slide level2">
+<h2>“It implies withdrawal from some things in order to deal with others” - William James</h2>
 <ul>
 <li class="fragment">This is the part that we sometimes don’t like!</li>
 </ul>
 <div class="fragment">
 <p><img data-src="images/LeavingAFlatTasteInYourMouth.png"></p>
 </div>
-<aside class="notes"><p>Interesting example. Lot of consequences.</p>
+<aside class="notes">
+<p>Interesting example. Lot of consequences.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -462,7 +433,10 @@ Alex Holcombe
           width: 1px!important;
           overflow: hidden!important;
           display:block!important;
-      }</style></aside></section><section id="english-expressions" class="slide level2"><h2>English expressions</h2>
+      }</style></aside>
+</section>
+<section id="english-expressions" class="slide level2">
+<h2>English expressions</h2>
 <ul>
 <li class="fragment"><p>Please “pay attention!”</p></li>
 <li class="fragment"><p>“Sorry, I wasn’t listening”</p></li>
@@ -471,7 +445,8 @@ Alex Holcombe
 <li class="fragment"><p>Why do we need selective attention?</p></li>
 <li class="fragment"><p>Why do we get distracted?</p></li>
 </ul>
-<aside class="notes"><p>By the end of these 5 lectures you’ll understand distraction better</p>
+<aside class="notes">
+<p>By the end of these 5 lectures you’ll understand distraction better</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -482,13 +457,17 @@ Alex Holcombe
           width: 1px!important;
           overflow: hidden!important;
           display:block!important;
-      }</style></aside></section><section id="organisation" class="slide level2"><h2>Organisation</h2>
+      }</style></aside>
+</section>
+<section id="organisation" class="slide level2">
+<h2>Organisation</h2>
 <ul>
 <li class="fragment">The mini-text: PSYC2016.whatanimalssee.com</li>
 <li class="fragment">These slides: linked from Canvas</li>
 <li class="fragment">The Week 5 tutorial: Finding and noticing things in the lab, and in the real world</li>
 </ul>
-<aside class="notes"><p>During the pandemic. I recognized that 50-minute lecture videos were not the best way to communicate things. Lecturing was very depressing then. So I wrote this mini-text.</p>
+<aside class="notes">
+<p>During the pandemic. I recognized that 50-minute lecture videos were not the best way to communicate things. Lecturing was very depressing then. So I wrote this mini-text.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -499,36 +478,66 @@ Alex Holcombe
           width: 1px!important;
           overflow: hidden!important;
           display:block!important;
-      }</style></aside></section><section id="i-cant-be-everywhere-at-once" class="slide level2"><h2>I can’t be everywhere at once</h2>
+      }</style></aside>
+</section>
+<section id="your-turn" class="slide level2">
+<h2>Your turn</h2>
+<p>Menti.com</p>
+<aside class="notes">
+<p>Mentimeter: PSYC2016gettingToKnowYou</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="i-cant-be-everywhere-at-once" class="slide level2">
+<h2>I can’t be everywhere at once</h2>
 <ul>
 <li class="fragment">Implies selection</li>
-</ul></section><section id="i-cant-do-everything-at-once" class="slide level2"><h2>I can’t do everything at once</h2>
+</ul>
+</section>
+<section id="i-cant-do-everything-at-once" class="slide level2">
+<h2>I can’t do everything at once</h2>
 <ul>
 <li class="fragment">Only have two hands. Implies selection.</li>
-</ul></section><section id="need-for-selection" class="slide level2"><h2>Need for selection</h2>
+</ul>
+</section>
+<section id="need-for-selection" class="slide level2">
+<h2>Need for selection</h2>
 <ul>
 <li class="fragment">Can only be in one place at a time</li>
 <li class="fragment">Can only act on a few things at a time</li>
 <li class="fragment">Can only look directly at one thing at a time</li>
 <li class="fragment">Can only <em>extensively mentally process</em> a few things at once</li>
-</ul></section><section id="attentional-selection" class="slide level2"><h2>Attentional selection</h2>
+</ul>
+</section>
+<section id="attentional-selection" class="slide level2">
+<h2>Attentional selection</h2>
 <ul>
 <li class="fragment">Can only look directly at one thing at a time
 <ul>
-<li class="fragment">Directing gaze is <em>overt attention</em>
-</li>
-</ul>
-</li>
+<li class="fragment">Directing gaze is <em>overt attention</em></li>
+</ul></li>
 <li class="fragment">Can only extensively mentally process a few things at once
 <ul>
-<li class="fragment">Directing mental resources only is <em>covert attention</em>
-</li>
+<li class="fragment">Directing mental resources only is <em>covert attention</em></li>
+</ul></li>
 </ul>
-</li>
-</ul></section><section id="can-only-extensively-mentally-process-a-few-things-at-once" class="slide level2"><h2>Can only extensively mentally process a few things at once</h2>
+</section>
+<section id="can-only-extensively-mentally-process-a-few-things-at-once" class="slide level2">
+<h2>Can only extensively mentally process a few things at once</h2>
 <p>Limited resources</p>
 <p>Specifically, a bottleneck</p>
-<aside class="notes"><p>You have plenty of resources for low-level visual processing! Once we go through the bottleneck aspect, we can circle back to consciousness.</p>
+
+<img data-src="images/bottleneck.png" style="width:50.0%" class="r-stretch"><aside class="notes">
+<p>You have plenty of resources for low-level visual processing! Once we go through the bottleneck aspect, we can circle back to consciousness.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -539,10 +548,14 @@ Alex Holcombe
           width: 1px!important;
           overflow: hidden!important;
           display:block!important;
-      }</style></aside></section><section id="just-two-stimuli-can-be-enough-to-overwhelm-capacity" class="slide level2"><h2>Just two stimuli can be enough to overwhelm capacity</h2>
+      }</style></aside>
+</section>
+<section id="just-two-stimuli-can-be-enough-to-overwhelm-capacity" class="slide level2">
+<h2>Just two stimuli can be enough to overwhelm capacity</h2>
 <p><a href="https://youtube.com/shorts/SAE3SY4Z2vc">rapid letter</a></p>
 <p>dualStreamDemoPython3</p>
-<aside class="notes"><p>Recognizing letters seems effortless. We don’t notice the capacity limit in normal circumstances.</p>
+<aside class="notes">
+<p>Recognizing letters seems effortless. And it is effortless, at the conscious level! But that doesn’t mean it’s easy for our brains! Make ISIms short enough that starts to be very hard.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -553,12 +566,27 @@ Alex Holcombe
           width: 1px!important;
           overflow: hidden!important;
           display:block!important;
-      }</style></aside></section><section id="you-didnt-get-both-letters-right" class="slide level2"><h2>You didn’t get both letters right?</h2>
+      }</style></aside>
+</section>
+<section id="just-two-stimuli-can-overwhelm-capacity" class="slide level2">
+<h2>Just two stimuli can overwhelm capacity</h2>
+<ul>
+<li class="fragment">Recognizing letters seems effortless. And it is effortless, at the conscious level!</li>
+<li class="fragment">But that doesn’t mean it’s easy for our brains!</li>
+<li class="fragment">We don’t notice the capacity limit in normal circumstances.</li>
+</ul>
+</section>
+<section id="you-didnt-get-both-letters-right" class="slide level2">
+<h2>You didn’t get both letters right?</h2>
 <ul>
 <li class="fragment">You must not have been paying attention?</li>
 <li class="fragment">“Paying attention” = devoting your resources to a task.</li>
-</ul></section><section id="quiz-time" class="slide level2"><h2>Quiz time!</h2>
-<aside class="notes"><p>If someone didn’t get both letters right, which common expression most refers to the reason why?</p>
+</ul>
+</section>
+<section id="quiz-time" class="slide level2">
+<h2>Quiz time!</h2>
+<aside class="notes">
+<p>If someone didn’t get both letters right, which common expression most refers to the reason why?</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -569,20 +597,32 @@ Alex Holcombe
           width: 1px!important;
           overflow: hidden!important;
           display:block!important;
-      }</style></aside></section><section id="consciousness" class="slide level2"><h2>Consciousness</h2>
-<p><img data-src="images/Alais.jpg"> ::: notes Consciousness hopefully is fresh in your mind, because of this guy :::</p>
-</section><section id="ways-to-select-a-stimulus" class="slide level2"><h2>Ways to select a stimulus</h2>
+      }</style></aside>
+</section>
+<section id="consciousness" class="slide level2">
+<h2>Consciousness</h2>
+<p><img data-src="images/Alais.jpg"> ::: notes The topic of consciousness hopefully is fresh in your mind, because of this guy. :::</p>
+</section>
+<section id="ways-to-select-a-stimulus" class="slide level2">
+<h2>Ways to select a stimulus</h2>
 <ul>
 <li class="fragment">Spatial/object selection</li>
 <li class="fragment">Feature selection</li>
-</ul></section><section id="what-happens-when-a-spatial-location-is-selected" class="slide level2"><h2>What happens when a spatial location is selected?</h2>
+</ul>
+</section>
+<section id="what-happens-when-a-spatial-location-is-selected" class="slide level2">
+<h2>What happens when a spatial location is selected?</h2>
 <ul>
 <li class="fragment">Activity makes it through the bottleneck</li>
 <li class="fragment">Recurrent activity</li>
-</ul></section><section id="what-happens-when-a-spatial-location-is-selected-1" class="slide level2"><h2>What happens when a spatial location is selected?</h2>
+</ul>
+</section>
+<section id="what-happens-when-a-spatial-location-is-selected-1" class="slide level2">
+<h2>What happens when a spatial location is selected?</h2>
 
 <img data-src="images/AlaisSlide36Consciousness2globalNeuralWorkspace.png" width="280" class="r-stretch"><p>Why can’t we be conscious of all stimuli?</p>
-<aside class="notes"><p>Spatial selection facilitates stimuli getting through the bottleneck.</p>
+<aside class="notes">
+<p>Spatial selection facilitates stimuli getting through the bottleneck.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -593,14 +633,17 @@ Alex Holcombe
           width: 1px!important;
           overflow: hidden!important;
           display:block!important;
-      }</style></aside></section><section id="what-happens-when-a-spatial-location-is-selected-2" class="slide level2"><h2>What happens when a spatial location is selected?</h2>
+      }</style></aside>
+</section>
+<section id="what-happens-when-a-spatial-location-is-selected-2" class="slide level2">
+<h2>What happens when a spatial location is selected?</h2>
 <p><img data-src="images/AlaisSlide38Consciousness2Recurrent.png"> ::: notes Recurrent activity :::</p>
-</section><section id="consciousness-and-attention" class="slide level2"><h2>Consciousness and attention</h2>
-<p>Global Neuronal Workspace theory: “Attention and consciousness are the same process”</p>
-<p>– David Alais’ slide #36 of Consciousness lecture 2</p>
-</section><section id="vigilance-and-limited-capacity" class="slide level2"><h2>VIGILANCE and LIMITED CAPACITY</h2>
-</section><section id="section-4" class="slide level2" data-background-image="images/wallabyCampsitePittwater.JPG"><h2></h2>
-<aside class="notes"><p>Have you ever tried to sneak up on a wallaby or a kangaroo?</p>
+</section>
+<section id="your-turn-1" class="slide level2">
+<h2>Your turn</h2>
+<p>Menti.com</p>
+<aside class="notes">
+<p>Mentimer: PSYC2016gettingToKnowYou</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -611,9 +654,32 @@ Alex Holcombe
           width: 1px!important;
           overflow: hidden!important;
           display:block!important;
-      }</style></aside></section><section id="deer" class="slide level2"><h2>Deer</h2>
+      }</style></aside>
+</section>
+<section id="vigilance-and-limited-capacity" class="slide level2">
+<h2>VIGILANCE and LIMITED CAPACITY</h2>
+</section>
+<section id="section-4" class="slide level2" data-background-image="images/wallabyCampsitePittwater.JPG">
+<h2></h2>
+<aside class="notes">
+<p>Have you ever tried to sneak up on a wallaby or a kangaroo?</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="deer" class="slide level2">
+<h2>Deer</h2>
 
-<img data-src="images/deer/Javan_Deer_East_Java.jpg" class="r-stretch"><aside class="notes"><p>Deer aren’t native to Australia, and you’re unlikely to see them. But that’s not because there aren’t a lot around. They were introduced over a hundred years ago because people thought it would be good to have them hear to hunt and eat. Even in Sydney, they’re in a park near the Georges River.</p>
+<img data-src="images/deer/Javan_Deer_East_Java.jpg" class="r-stretch"><aside class="notes">
+<p>Deer aren’t native to Australia, and you’re unlikely to see them. But that’s not because there aren’t a lot around. They were introduced over a hundred years ago because people thought it would be good to have them hear to hunt and eat. Even in Sydney, they’re in a park near the Georges River.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -624,10 +690,14 @@ Alex Holcombe
           width: 1px!important;
           overflow: hidden!important;
           display:block!important;
-      }</style></aside></section><section id="vigilance-and-chita-deer" class="slide level2"><h2>Vigilance and chita deer</h2>
+      }</style></aside>
+</section>
+<section id="vigilance-and-chita-deer" class="slide level2">
+<h2>Vigilance and chita deer</h2>
 <iframe data-external="1" src="https://www.youtube.com/embed/AlSt2mT8ztw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p><a href="https://cervidonline.wixsite.com/cervid-online/post/vigilance-behaviour-in-chital">Article about vigilance in chitas</a></p>
-<aside class="notes"><p>Show video. Deer aren’t native to Australia, and you’re unlikely to see them.</p>
+<aside class="notes">
+<p>Show video. Deer aren’t native to Australia, and you’re unlikely to see them.</p>
 <p>How do we strike the balance between looking out for important new things coming from anywhere, and focusing on another task we’ve decided on</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
@@ -639,15 +709,23 @@ Alex Holcombe
           width: 1px!important;
           overflow: hidden!important;
           display:block!important;
-      }</style></aside></section><section id="vigilance" class="slide level2"><h2>vigilance</h2>
+      }</style></aside>
+</section>
+<section id="vigilance" class="slide level2">
+<h2>vigilance</h2>
 <p>leopard, wild dogs</p>
-</section><section id="why-do-we-need-selective-attention" class="slide level2"><h2>Why do we need selective attention?</h2>
+</section>
+<section id="why-do-we-need-selective-attention" class="slide level2">
+<h2>Why do we need selective attention?</h2>
 <p>Limited processing capacity</p>
 
-<img data-src="images/bottleneck.png" style="width:70.0%" class="r-stretch"></section><section id="interrupt-signals" class="slide level2"><h2>Interrupt signals</h2>
+<img data-src="images/bottleneck.png" style="width:70.0%" class="r-stretch"></section>
+<section id="interrupt-signals" class="slide level2">
+<h2>Interrupt signals</h2>
 <p>Alt+F4</p>
 
-<img data-src="images/forceQuit.png" class="r-stretch"><aside class="notes"><p>Computers used to freeze all the time. With a lot of advances in operating system technology</p>
+<img data-src="images/forceQuit.png" class="r-stretch"><aside class="notes">
+<p>Computers used to freeze all the time. With a lot of advances in operating system technology</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -658,8 +736,12 @@ Alex Holcombe
           width: 1px!important;
           overflow: hidden!important;
           display:block!important;
-      }</style></aside></section><section id="does-not-compute" class="slide level2" data-background-image="images/8Ois.gif"><h2>Does not compute…</h2>
-<aside class="notes"><p>Your own operating system isn’t upgraded as often. But on the other hand, it’s had millions of years to evolve. So we rarely freeze.</p>
+      }</style></aside>
+</section>
+<section id="does-not-compute" class="slide level2" data-background-image="images/8Ois.gif">
+<h2>Does not compute…</h2>
+<aside class="notes">
+<p>Your own operating system isn’t upgraded as often. But on the other hand, it’s had millions of years to evolve. So we rarely freeze.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -670,79 +752,32 @@ Alex Holcombe
           width: 1px!important;
           overflow: hidden!important;
           display:block!important;
-      }</style></aside></section><section id="your-turn" class="slide level2"><h2>Your turn</h2>
-<p>Mentimer: PSYC2016gettingToKnowYou</p>
-</section><section id="homework-the-distraction-diary" class="slide level2"><h2>Homework: The distraction diary</h2>
-
-<img data-src="images/usingTheStopwatch.jpeg" class="r-stretch"><p>For when you have ten minutes or more to concentrate on studying or other computer work.</p>
-<ul>
-<li class="fragment">Put your phone on airplane mode.</li>
-<li class="fragment">Turn off notifications on your computer if you know how.</li>
-<li class="fragment">Start the stopwatch (often in Clock in Android).</li>
-<li class="fragment">Press “lap” every time you can’t help yourself and you check social media, the news, or otherwise get off task.</li>
-</ul>
-<!--Create Google Doc to enter data--></section><section id="in-a-future-class-bump-up-the-distraction-diary-to-keeping-phone-on-as-normal-aand-recording-notification-checks" class="slide level2"><h2>In a future class, bump up the distraction diary to keeping phone on as normal aand recording notification checks</h2>
-</section><section id="earplugs" class="slide level2"><h2>Earplugs</h2>
-<p>Don’t be a passive victim of your animal nature!</p>
-<p>What do you do to shut out the world?</p>
-
-<img data-src="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" class="r-stretch"></section><section id="are-you-not-going-to-do-it-because-its-not-cool" class="slide level2"><h2>Are you not going to do it because it’s not cool?</h2>
-<p><img data-src="images/masksComfortablePrincessBridge.jpg"> ::: notes Why do you wear a mask, do you have horrible scars? :::</p>
-</section><section id="section-5" class="slide level2"><h2></h2>
-
-<img data-src="images/earplug.jpg" style="width:40.0%" class="r-stretch"><aside class="notes"><p>But you know what, you don’t have to wait</p>
-<style type="text/css">
-        span.MJX_Assistive_MathML {
-          position:absolute!important;
-          clip: rect(1px, 1px, 1px, 1px);
-          padding: 1px 0 0 0!important;
-          border: 0!important;
-          height: 1px!important;
-          width: 1px!important;
-          overflow: hidden!important;
-          display:block!important;
-      }</style></aside></section><section id="mentimeter-when-have-you-been-most-focused" class="slide level2"><h2>MENTIMETER: WHEN HAVE YOU BEEN MOST FOCUSED?</h2>
-</section><section id="to-add-to-textbook" class="slide level2"><h2>To add to textbook</h2>
-<p>Selective vs.&nbsp;non-selective pathway. Add to bottom of change-blindness thing. This is the biggest mystery. But point out limitations to detecting change in scene meaning.</p>
-</section><section id="visual-search" class="slide level2"><h2>Visual search</h2>
-<p>Visual search slides including expertise - xrays,</p>
-</section><section id="for-distraction-add-the-taste-study-in-irinas-slides" class="slide level2"><h2>For distraction add the taste study in Irina’s slides</h2>
-</section><section id="four-factors-for-managing-attention" class="slide level2"><h2>Four factors for managing attention</h2>
-<p>https://psyc2016.whatanimalssee.com/the-role-of-memory-and-expectation.html#fourFactors</p>
-</section><section id="the-tipsy-gorilla-study" class="slide level2"><h2>The tipsy gorilla study</h2>
-<p>I have a comment to enter it here: https://psyc2016.whatanimalssee.com/the-role-of-memory-and-expectation.html#fourFactors</p>
-</section><section id="other-topics" class="slide level2"><h2>Other topics</h2>
-<p>Automaticity</p>
-</section><section id="quote" class="slide level2"><h2>QUOTE</h2>
-<blockquote>
-<p>To pay attention, this is our endless and proper work</p>
-</blockquote>
-<ul>
-<li class="fragment">Mary Oliver</li>
-</ul></section><section id="quarto" class="slide level2"><h2>Quarto</h2>
-<p>Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <a href="https://quarto.org/docs/presentations/" class="uri">https://quarto.org/docs/presentations/</a>.</p>
-</section><section id="bullets" class="slide level2"><h2>Bullets</h2>
-<p>When you click the <strong>Render</strong> button a document will be generated that includes:</p>
-<ul>
-<li class="fragment">Content authored with markdown</li>
-<li class="fragment">Output from executable code</li>
-</ul></section><section id="code" class="slide level2"><h2>Code</h2>
-<p>When you click the <strong>Render</strong> button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
+      }</style></aside>
 
 <div class="footer footer-default">
 <p><a href="https://alexholcombe.github.io/PSYC2016lectures">PSYC2016: Attention</a></p>
 </div>
 </section>
-</div>
+    </div>
   </div>
 
-  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="site_libs/revealjs/dist/reveal.js"></script><!-- reveal.js plugins --><script src="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script><script src="site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script><script src="site_libs/revealjs/plugin/reveal-menu/menu.js"></script><script src="site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script><script src="site_libs/revealjs/plugin/quarto-support/support.js"></script><script src="site_libs/revealjs/plugin/notes/notes.js"></script><script src="site_libs/revealjs/plugin/search/search.js"></script><script src="site_libs/revealjs/plugin/zoom/zoom.js"></script><script src="site_libs/revealjs/plugin/math/math.js"></script><script>window.define = window.backupDefine; window.backupDefine = undefined;</script><script>
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
 
       // Full list of configuration options available at:
       // https://revealjs.com/config/
@@ -933,42 +968,8 @@ Alex Holcombe
           RevealZoom
         ]
       });
-    </script><script>
-      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
-      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
-      // slide changes (different for each slide format).
-      (function () {
-        // dispatch for htmlwidgets
-        function fireSlideEnter() {
-          const event = window.document.createEvent("Event");
-          event.initEvent("slideenter", true, true);
-          window.document.dispatchEvent(event);
-        }
-
-        function fireSlideChanged(previousSlide, currentSlide) {
-          fireSlideEnter();
-
-          // dispatch for shiny
-          if (window.jQuery) {
-            if (previousSlide) {
-              window.jQuery(previousSlide).trigger("hidden");
-            }
-            if (currentSlide) {
-              window.jQuery(currentSlide).trigger("shown");
-            }
-          }
-        }
-
-        // hookup for slidy
-        if (window.w3c_slidy) {
-          window.w3c_slidy.add_observer(function (slide_num) {
-            // slide_num starts at position 1
-            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
-          });
-        }
-
-      })();
-    </script><script id="quarto-html-after-body" type="application/javascript">
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {
         const mode = bsSheetEl.getAttribute("data-mode");
@@ -1114,6 +1115,7 @@ Alex Holcombe
       }
     });
     </script>
-
+    
+    
 
 </body></html>

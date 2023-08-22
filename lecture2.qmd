@@ -1,0 +1,161 @@
+---
+title: "PSYC2016: Attention"
+title-slide-attributes:
+  data-background-image: images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg
+  data-background-size: contain
+  data-background-opacity: "0.8"
+author: "Alex Holcombe"
+date: 09-08-2023
+format: 
+  revealjs:
+    incremental: true
+    self-contained: false
+    slide-number: c/t
+    width: 1600
+    height: 900
+    footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
+    theme: ["simple", "styles.scss"]
+    echo: true
+    multiplex: false
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+editor: source
+---
+<!--sometimes have to turn multiplex false to load speaker notes -->
+<!--As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.-->
+
+
+
+
+
+
+## Why do we need selective attention?
+
+Limited processing capacity
+
+![](images/bottleneck.png){width="70%"}
+
+## Interrupt signals
+
+Alt+F4
+
+![](images/forceQuit.png)
+
+::: notes
+Computers used to freeze all the time. With a lot of advances in operating system technology
+:::
+
+## Does not compute... {background-image="images/8Ois.gif"}
+
+::: notes
+Your own operating system isn't upgraded as often. But on the other hand, it's had millions of years to evolve. So we rarely freeze.
+:::
+
+## CHANGE BLINDNESS QUESTIONS should put on Mentimeter
+
+Attention2SocrativeResponses.pdf
+
+
+## Consciousness and attention
+
+Global Neuronal Workspace theory:
+"Attention and consciousness are the same process"
+
+-- David Alais' slide #40 of Consciousness lecture 2
+
+::: notes
+You're not conscious of anything except what you are attending to.
+Whereas the Recurrent Processing Theory says you're conscious of the whole visual field in a rich way.
+This is a hard part of consciousness to explain, because when we probe what people are seeing, it seems like they're not seeing much (change blindness)
+
+This actually may be part of the non-selective pathway.
+:::
+
+## Homework: The distraction diary
+
+![](images/usingTheStopwatch.jpeg)
+
+For when you have ten minutes or more to concentrate on studying or other computer work.
+
+-   Put your phone on airplane mode.
+-   Turn off notifications on your computer if you know how.
+-   Start the stopwatch (often in Clock in Android).
+-   Press "lap" every time you can't help yourself and you check social media, the news, or otherwise get off task.
+
+<!--Create Google Doc to enter data-->
+
+## In a future class, bump up the distraction diary to keeping phone on as normal aand recording notification checks
+
+## Earplugs
+
+Don't be a passive victim of your animal nature!
+
+What do you do to shut out the world?
+
+![](images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg)
+
+## Are you not going to do it because it's not cool?
+
+![](images/masksComfortablePrincessBridge.jpg)
+::: notes
+Why do you wear a mask, do you have horrible scars?
+:::
+
+## 
+
+![](images/earplug.jpg){width="40%"}
+
+::: notes
+But you know what, you don't have to wait
+:::
+
+## MENTIMETER: WHEN HAVE YOU BEEN MOST FOCUSED?
+
+## To add to textbook
+
+Selective vs. non-selective pathway. Add to bottom of change-blindness thing. This is the biggest mystery. But point out limitations to detecting change in scene meaning.
+
+## Visual search
+
+Visual search slides including expertise - xrays,
+
+## For distraction add the taste study in Irina's slides
+
+## Four factors for managing attention
+
+https://psyc2016.whatanimalssee.com/the-role-of-memory-and-expectation.html#fourFactors
+
+## The tipsy gorilla study
+
+I have a comment to enter it here: https://psyc2016.whatanimalssee.com/the-role-of-memory-and-expectation.html#fourFactors
+
+## Other topics
+
+Automaticity
+
+## QUOTE
+
+> To pay attention, this is our endless and proper work
+
+-   Mary Oliver
+
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
