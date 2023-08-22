@@ -57,46 +57,23 @@ Leila Chatti
 
 ::: notes
 This is something many of us love about the world, but also something that we struggle with.
-This unit can't answer the questions raised by this quote, but it takes on the basic issue of why we have issues with this.
+My lectures take on the basic issue of why we have issues with this.
 This is something that fascinates me too, in my daily life, and I do experiments to investigate aspects of it.
 :::
 
-## 
 
-![](images/WmJames.jpg)
-```
-Everyone knows what attention is. It is the taking possession by the mind, in a clear and vivid form of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration of consciousness are of its essence. It implies withdrawal from some things in order to deal with others.
-```
-
-```
--	William James (1890)
-```
-:::notes
-The first great scientific psychologist. Do you think I could grow a beard like his?
-:::
-
-## "It implies withdrawal from some things in order to deal with others" - William James
-
--   This is the part that we sometimes don't like!
-
-::: {.fragment}
-![](images/LeavingAFlatTasteInYourMouth.png)
-:::
-
-::: notes
-Interesting example. Lot of consequences.
-:::
-
-## English expressions
+## Common expressions
 
 -   Please “pay attention!”
 -   “Sorry, I wasn’t listening”
 -   “Sorry, I missed that.”
 -   “I didn’t notice that.”
+
 ::: notes
 What do you mean you weren't listening? How come your ears being open isn't enough?
 We have limited resources.
 :::
+
 ## Why?
 
 -   Why do we need selective attention?
@@ -126,34 +103,58 @@ Menti.com
 Mentimeter: PSYC2016gettingToKnowYou
 :::
 
+## 
 
-## I can't be everywhere at once
+![](images/WmJames.jpg)
+```
+Everyone knows what attention is. It is the taking possession by the mind, in a clear and vivid form of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration of consciousness are of its essence. It implies withdrawal from some things in order to deal with others.
+```
+
+```
+-	William James (1890)
+```
+:::notes
+The first great scientific psychologist. Do you think I could grow a beard like his?
+:::
+
+## "It implies withdrawal from some things in order to deal with others" - William James
+
+-   This is the part that we sometimes don't like!
+
+::: {.fragment}
+![](images/LeavingAFlatTasteInYourMouth.png)
+:::
+
+::: notes
+Withdrawing of the mind has Lot of consequences.
+:::
+
+
+## "I can't be everywhere at once"
 
 -   Implies selection
 
-## I can't do everything at once
+## "I can't do everything at once"
 
--   Only have two hands. Implies selection.
+-   Only have two hands, so there's a selection requirement to do things.
 
 ## Need for selection
 
 -   Can only be in one place at a time
--   Can only act on a few things at a time
--   Can only look directly at one thing at a time 
--   Can only *extensively mentally process* a few things at once
+-   Can act on only a few things at a time
+-   Can look directly at only one thing at a time 
+-   Can only *extensively mentally process* a limited number of things simultaneously
 
 ## Attentional selection
 
--   Can only look directly at one thing at a time
+-   Can look directly at only one thing at a time
     -   Directing gaze is *overt attention*
 -   Can only extensively mentally process a few things at once
-    -   Directing mental resources only is *covert attention*
+    -   Directing mental resources is *covert attention*
 
 ## Can only extensively mentally process a few things at once
 
-Limited resources 
-
-Specifically, a bottleneck
+Limited mental resources 
 
 ![](images/bottleneck.png){width="50%"}
 
@@ -183,7 +184,7 @@ Make ISIms short enough that starts to be very hard.
 
 ## You didn't get both letters right?
 
--   You must not have been paying attention?
+-   You must not have been paying attention...?
 -   "Paying attention" = devoting your resources to a task.
 
 ## Quiz time!
@@ -192,6 +193,20 @@ Make ISIms short enough that starts to be very hard.
 If someone didn't get both letters right, which common expression most refers to the reason why?
 :::
 
+## Can only extensively mentally process a few things at once
+
+Limited resources 
+
+Specifically, a bottleneck
+
+![](images/bottleneck.png){width="50%"}
+
+::: notes
+You have plenty of resources for low-level visual processing!
+Once we go through the bottleneck aspect, we can circle back to consciousness.
+:::
+
+
 ## Consciousness
 
 ![](images/Alais.jpg)
@@ -199,12 +214,8 @@ If someone didn't get both letters right, which common expression most refers to
 The topic of consciousness hopefully is fresh in your mind, because of this guy.
 :::
 
-## Ways to select a stimulus
 
--   Spatial/object selection
--   Feature selection
-
-## What happens when a spatial location is selected?
+## What happens when a stimulus location is selected?
 
 -   Activity makes it through the bottleneck
 -   Recurrent activity
@@ -228,13 +239,17 @@ Recurrent activity
 :::
 
 
+## Ways to select a stimulus
 
-## Your turn
+-   Spatial/object selection
+-   Feature selection
+
+## End of lecture survey
 
 Menti.com
 
 ::: notes
-Mentimer: PSYC2016gettingToKnowYou
+Mentimer:
 :::
 
 ## VIGILANCE and LIMITED CAPACITY
@@ -243,6 +258,7 @@ Mentimer: PSYC2016gettingToKnowYou
 
 ::: notes
 Have you ever tried to sneak up on a wallaby or a kangaroo?
+They're not the hardest animals to sneak up on. The haven't evolved to be very vigilant. Not many predators historically.
 :::
 
 ## Deer
@@ -271,7 +287,11 @@ How do we strike the balance between looking out for important new things coming
 
 ## vigilance
 
-leopard, wild dogs
+Tiger, leopard, dholes
+
+::: notes
+Wild dogs
+:::
 
 ## Why do we need selective attention?
 
