@@ -27,30 +27,197 @@ editor: source
 
 
 
+## Lecture 1 CLEAN-UP and REVIEW
+
+## Organization of Alex's material
+
+> Can the lecture be downloaded as PDF?
+
+Yes.
+
+->Tools->PDF Export
+
+##
+
+> What's the point of the lectures if everything is in the mini-text?
+<BR>
+Lectures:
+
+-   Go over the same concepts but with different examples and wording
+-   Thanks to the mini-text, can address issues that come up without worrying I shouldn't because I'd run out of time
+-   Show demos
+-   Quiz you and solicit your personal experiences
+
+## 
+
+> You said the two letters are processed simultaneously, but other lecturer said the faces of Trump and Jinping alternate
+
+-   ![](images/Alais.jpg){width=60%}
+
+::: notes :::
+Remember this guy? 
+::: 
+
+##
+
+> You said the two letters are processed simultaneously, but other lecturer said the faces of Trump and Jinping alternate
+
+![](images/AlaisRivalrySlide.png)
+<!-- {{< video images/2targets4timesFaster.mp4 >}} -->
+
+## Binocular rivalry versus dual letters
+
+-   Binocular rivalry: different stimuli presented to the two eyes
+    -   Processed in parallel to a point
+    -   *Incompatible*: Brain expects the same object in both eyes, therefore
+    -   Direct competition for a single location, and winner occurs relatively early
+    
+-   Dual letters in different locations
+    -   No incompatibility, so *processed in parallel until bottleneck*
+    -   Competition only because high-level processing is limited in capacity
+
+## Lecture 1 CLEAN-UP and REVIEW
+    
+## 
+
+> Something I didn't understand: Brain loop cycle bits
+
+<BR>
+![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png){width=100%}
+
+## Global neuronal workspace theory
+
+![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png){width=100%}
+
+-   There's a bottleneck prior to the frontal lobe
+-   If a stimulus gets through, it results in reverberating widespread activity associated with that stimulus
+
+## Check Irina slides
 
 
 
-## Why do we need selective attention?
+
+
+
+
+## Homework: The distraction diary
+
+
+Do it when you have ten minutes or more to concentrate on studying or other computer work.
+
+-   Put your phone on airplane mode.
+-   Turn off notifications on your computer if you know how.
+-   Start the stopwatch (often in Clock in Android).
+-   Press "lap" every time you can't help yourself and you check social media, the news, or otherwise get off task.
+
+![](images/usingTheStopwatch.jpeg)
+
+
+::: notes :::
+Try not to think of this as homework,
+You should be reading the mini-text anyway, so why not let it do double duty as a self-insight exercise.
+::: 
+
+<!--Create Google Doc to enter data-->
+
+## Practice: Let's spend 5 minutes reading the mini-text
+
+Then we'll answer some questions from it.
+
+Chapter 7: Three kinds of attentional selection.
+
+::: notes
+
+I know not everyone is going to do the exercise but please don't interfering with other people.
+Start the stopwatch "NOW"
+
+:::
+
+## Practice results and chapter questions
+
+Menti.com
+
+::: notes
+Mentimeter: DistractionDiaryPractice
+:::
+
+## Chapter 7: Combinations of features can't be directly selected
+
+-   Features are processed somewhat separately by the brain.
+-   Conjoining them requires a capacity-limited process
+
+
+## Chapter 7: location versus feature selection
+
+Feature selection is global. You can't do it locally!
+
+![](images/redBlueFeatureLocationSelectionCantBeCombined.png)
+
+::: notes
+Global facilitation of attended features is obligatory and restricts divided attention. Anderson et al.
+They showed this with EEG 
+::: 
+
+## Chapter 7: location versus feature selection
+
+Difficult to perceive cluster of red shapes on left while simultaneously perceiving cluster of blue shapes on right.
+
+The *combination* of location and feature selection can't be done.
+
+You can either select a simple feature everywhere (e.g., red objects),
+or select the stimuli in a particular region, but you can't combine those two abilities.
+
+![](images/redBlueFeatureLocationSelectionCantBeCombined.png){width=40%}
+
+
+## Combining location and feature selection can't be done
+
+Probably because of separation of what and where pathways.
+
+![](images/300px-Ventral-dorsal_streams.png)
+
+
+
+## Quiz question from Lecture 1
+
+> why didn't see second letter
+
+Why was "I missed that" the right answer
+
+
+## Bottleneck
 
 Limited processing capacity
 
 ![](images/bottleneck.png){width="70%"}
 
-## Interrupt signals
 
-Alt+F4
+## Alex White words paper
 
-![](images/forceQuit.png)
+## Bottom-up and top-down selection
 
-::: notes
-Computers used to freeze all the time. With a lot of advances in operating system technology
-:::
+Deciding which info goes hrough the bottleneck
 
-## Does not compute... {background-image="images/8Ois.gif"}
+## Remember this?
 
-::: notes
-Your own operating system isn't upgraded as often. But on the other hand, it's had millions of years to evolve. So we rarely freeze.
-:::
+[movie](images/2targets4timesFaster.mov)
+
+<!-- {{< video images/2targets4timesFaster.mov >}} -->
+
+## How is info prioritized at the bottleneck?
+
+## Reading-order prioritisation
+
+![Accuracy in left and right streams for the English-Arabic bilinguals. They showed a left advantage when tested in English ,  but not when tested in Arabic. Pale dots indicate data points for individual participants, joined by dashed lines.](images/HolcombeGoodbourn/RansleyEnglishArabic.png)
+## Reading-order prioritisation
+
+![The mirror-reversed condition of Holcombe, Nguyen, & Goodbourn (2017)](images/HolcombeGoodbourn/ReversedLtrsStimSeq.png)
+
+## Reading-order prioritisation
+
+![The mirror-reversed condition of Holcombe, Nguyen, & Goodbourn (2017)](images/HolcombeGoodbourn/ReversedLtrsResults.png)
+
+
 
 ## CHANGE BLINDNESS QUESTIONS should put on Mentimeter
 
@@ -72,20 +239,60 @@ This is a hard part of consciousness to explain, because when we probe what peop
 This actually may be part of the non-selective pathway.
 :::
 
-## Homework: The distraction diary
 
-![](images/usingTheStopwatch.jpeg)
 
-For when you have ten minutes or more to concentrate on studying or other computer work.
+## DISTRACTION
 
--   Put your phone on airplane mode.
--   Turn off notifications on your computer if you know how.
--   Start the stopwatch (often in Clock in Android).
--   Press "lap" every time you can't help yourself and you check social media, the news, or otherwise get off task.
+## What most distracts you doing lecture?
 
-<!--Create Google Doc to enter data-->
+![](images/distractionsDuringLectureCensored.png)
+::: notes
+Some of these are bottom-up sensory events
+Some are ongoing life concerns (top-down)
+Some are basic drives (hunger)
+:::
+
+## 
+
+All day, the world makes its demands. There's so much of it, world
+
+begging to be noticed.
+
+
+![](images/LeilaChatti.jpeg){width=40%}
+
+##
+
+ultrawhelmed
+sensorium, my self  
+
+taxed with being a self, brimming with living’s rowdy mechanics and disruptions
+unremitting, a thought flits by, then another (an unpaid bill, a jingle’s tenacious refrain)—and,
+... I attend, as best I can,...  
+yielding to the most persuasive god, the most recent, to each thing I say Yes? Yes!—
+zealot of whatever calls me next.
+
+::: notes
+It was actually called "A poem for Sunday" and on a Sunday there can be a joy in this.
+Mindfulness or living in the moment
+
+:::
+
+## Interrupt signals
+
+Alt+F4
+
+![](images/forceQuit.png)
+
+::: notes
+Computers used to freeze all the time. With a lot of advances in operating system technology
+:::
 
 ## In a future class, bump up the distraction diary to keeping phone on as normal aand recording notification checks
+
+## CONTROLLING BOTTOM-UP SENSORY EVENTS
+
+## Turn off phone notifications!
 
 ## Earplugs
 
@@ -110,17 +317,16 @@ Why do you wear a mask, do you have horrible scars?
 But you know what, you don't have to wait
 :::
 
+
 ## MENTIMETER: WHEN HAVE YOU BEEN MOST FOCUSED?
 
-## To add to textbook
+## Find a study on how repeated events or learned events become less distracting
 
-Selective vs. non-selective pathway. Add to bottom of change-blindness thing. This is the biggest mystery. But point out limitations to detecting change in scene meaning.
 
 ## Visual search
 
 Visual search slides including expertise - xrays,
 
-## For distraction add the taste study in Irina's slides
 
 ## Four factors for managing attention
 
@@ -141,21 +347,18 @@ Automaticity
 -   Mary Oliver
 
 
-## Quarto
+##
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
-
-## Bullets
-
-When you click the **Render** button a document will be generated that includes:
-
--   Content authored with markdown
--   Output from executable code
-
-## Code
-
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
+- Lecture 2
+	- People have known about distraction for thousands of years
+		- Buddhism. Are you a victim of your attentional mechanisms?
+		- Flash a bunch of self-help book images.
+		- animals for millions
+	- “What in this image attracts your attention?” Gradual transition from salience to more goal-directed
+- My story
+	- Like many others, I spend too much time on social media.
+	- Tried apps that stopped me from using the internet.
+	- Fall off the wagon
+	- The Pomodoro method - preserve the rewards, but delay them so you have more uninterrupted work session.
+	
+	Come back to dual-letters and explain left advantage

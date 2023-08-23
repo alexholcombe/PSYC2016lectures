@@ -50,15 +50,26 @@ All day, the world makes its demands. There's so much of it, world
 
 begging to be noticed.
 
+
 ::: {.fragment}
-Leila Chatti
-![](images/LeilaChatti.jpeg){width=50%}
+-- Leila Chatti
 :::
 
 ::: notes
 This is something many of us love about the world, but also something that we struggle with.
 My lectures take on the basic issue of why we have issues with this.
 This is something that fascinates me too, in my daily life, and I do experiments to investigate aspects of it.
+:::
+
+## 
+
+
+![](images/LeilaChatti.jpeg){width=70%}
+Leila Chatti
+
+::: notes
+Your generation has had this more than any other in human history
+
 :::
 
 
@@ -70,7 +81,7 @@ This is something that fascinates me too, in my daily life, and I do experiments
 -   “I didn’t notice that.”
 
 ::: notes
-What do you mean you weren't listening? How come your ears being open isn't enough?
+What do you mean you weren't listening? Were your ears not open?
 We have limited resources.
 :::
 
@@ -83,7 +94,7 @@ We have limited resources.
 By the end of these 5 lectures you'll understand distraction better
 :::
 
-## Organisation
+## Organisation of Alex's material
 
 -   The mini-text: PSYC2016.whatanimalssee.com
 -   These slides: linked from Canvas
@@ -175,6 +186,8 @@ Recognizing letters seems effortless. And it is effortless, at the conscious lev
 But that doesn't mean it's easy for our brains!
 Make ISIms short enough that starts to be very hard.
 :::
+
+<!--next year add slide with results from one of our papers-->
 
 ## Just two stimuli can overwhelm capacity
 
@@ -285,12 +298,15 @@ Deer aren't native to Australia, and you're unlikely to see them.
 How do we strike the balance between looking out for important new things coming from anywhere, and focusing on another task we've decided on
 :::
 
-## vigilance
+## 
 
-Tiger, leopard, dholes
+![](images/tiger.jpg)
+![](images/leopard.jpeg)
+![](images/dhole.jpeg)
+-   Vigilance
 
 ::: notes
-Wild dogs
+Tiger, leopard, dholes Wild dogs
 :::
 
 ## Why do we need selective attention?
