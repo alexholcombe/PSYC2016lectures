@@ -1,9 +1,9 @@
 ---
-title: "PSYC2016: Attention"
+title: "PSYC2016: Attention lecture 2"
 title-slide-attributes:
   data-background-image: images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg
   data-background-size: contain
-  data-background-opacity: "0.8"
+  data-background-opacity: "0.4"
 author: "Alex Holcombe"
 date: today
 format: 
@@ -11,8 +11,6 @@ format:
     incremental: true
     self-contained: false
     slide-number: c/t
-    width: 1600
-    height: 900
     logo: "images/threeWiseMonkeys/monkeyNoHearHeadOnly.jpeg"
     footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
     theme: ["simple", "styles.scss"]
@@ -27,6 +25,18 @@ editor: source
 <!--As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.-->
 <!-- Can't figure out how to turn off capitlatization in better themes like sky but this is related: https://stackoverflow.com/questions/47057398/reveal-js-title-with-capitalized-words-but-not-in-uppercase -->
 
+## TODAY
+
+::: {.nonincremental}
+-   Lecture 1 clean-up and review
+-   Top-down vs. bottom-up attention
+-   The Distraction Diary
+-   Location selection
+-   Feature selection
+-   Absence of combined selection
+:::
+
+
 ## Lecture 1 CLEAN-UP and REVIEW
 
 ::: notes :::
@@ -38,6 +48,7 @@ https://www.youtube.com/embed/sXjoGtuAkNU?si=84n6LvMVW98ykm8y&amp;start=29
 
 > Can the lecture be downloaded as PDF?
 
+<BR>
 Yes.
 
 <BR>
@@ -51,9 +62,13 @@ Yes.
 Lectures:
 
 -   Go over the same concepts but with different examples and wording
--   Thanks to the mini-text, can address issues that come up without worrying I shouldn't because I'd run out of time
+-   Thanks to the mini-text, can address issues that come up without worrying I'll run out of time
 -   Show demos
--   Quiz you and solicit your personal experiences
+-   Quiz you, and solicit your personal experiences
+
+::: notes
+which can be useful to you on the exam
+:::
 
 ## 
 
@@ -73,21 +88,22 @@ Remember this guy?
 <!-- {{< video images/2targets4timesFaster.mp4 >}} -->
 
 ## Binocular rivalry versus dual letters
-
 -   Binocular rivalry: different stimuli presented to the two eyes
     -   Processed in parallel to a point
-    -   *Incompatible*: Brain expects the same object in both eyes, therefore
+    -   *Incompatible*: brain expects the same object in both eyes, therefore
     -   Direct competition for a single location, and winner occurs relatively early
-    
 -   Dual letters in different locations
-    -   No incompatibility, so *processed in parallel until bottleneck*
-    -   Competition only because high-level processing is limited in capacity
+    -   No incompatibility, so *processed in parallel until bottleneck*, then compete for that
+
+::: notes :::
+He told youa bout it because useful for studying ocnsiousness because stimulus doesn't change
+:::
 
 ## Lecture 1 CLEAN-UP and REVIEW
     
 ## 
 
-> Something I didn't understand: Brain loop cycle bits
+> Didn't understand "Brain loop cycle bits"
 
 <BR>
 ![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png){width=100%}
@@ -102,20 +118,24 @@ Remember this guy?
 ## TODAY
 
 ::: {.nonincremental}
--   Review of top-down vs. bottom-up attention
+-   Top-down vs. bottom-up attention
 -   The Distraction Diary
 -   Location selection
 -   Feature selection
 -   Absence of combined selection
 :::
 
+
 ## Bottom-up attention
 
 [.](https://www.youtube.com/embed/sXjoGtuAkNU?si=84n6LvMVW98ykm8y&amp;start=29)
 
 ::: notes :::
+Look over here.... next is monster
 Play on laptop screen.
 :::
+
+## {background-image="images/monster.png"}
 
 ## Bottom-up attention
 
@@ -140,13 +160,13 @@ Play on laptop screen.
 ## Combination of top-down and bottom-up 
 
 ![](images/brainBottomupTopdownTheeuwesFailing.png)
+
 ::: notes
 What we attend to reflects a combination of things we are voluntarily (endogenously) directing our attention to and things that exogenously capture our attention 
 :::
 
 ## Homework: The distraction diary
-
-
+<BR>
 To do when you have ten minutes or more to concentrate on studying or other computer work.
 
 -   Put your phone on airplane mode.
@@ -166,6 +186,7 @@ You should be reading the mini-text anyway, so why not let it do double duty as 
 
 ## Practice: Let's spend 5 minutes reading the mini-text
 
+<BR>
 Then we'll answer some questions from it.
 
 Chapter 7: Three kinds of attentional selection.
@@ -191,11 +212,15 @@ Mentimeter: DistractionDiaryPractice
 -   Conjoining them requires a capacity-limited process
 
 
-## Chapter 7: Feature selection is compulsorily global.
+## {background-image="images/redBlueFeatureLocationSelectionCantBeCombined.png"}
+
+## Chapter 7: Feature selection is compulsorily global
 
 ![](images/redBlueFeatureLocationSelectionCantBeCombined.png)
 
 ::: notes
+Need to make better (sparser?) version of this.
+
 Global facilitation of attended features is obligatory and restricts divided attention. Anderson et al.
 They showed this with EEG 
 ::: 
@@ -214,11 +239,15 @@ or select the stimuli in a particular region, but you can't combine those two ab
 Probably due to separation of what and where pathways.
 
 ![](images/300px-Ventral-dorsal_streams.png)
+::: notes :::
+I ad-libbed about how it makes sense that object recognition doesn't need location information much, whereas location is more important for action.
+:::
+
 
 ## TODAY
 
 ::: {.nonincremental}
--   Review of top-down vs. bottom-up attention
+-   Top-down vs. bottom-up attention
 -   The Distraction Diary
 -   Location selection
 -   Feature selection

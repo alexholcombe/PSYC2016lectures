@@ -1,9 +1,9 @@
 ---
-title: "PSYC2016: Attention"
+title: "PSYC2016: Attention Lecture 3"
 title-slide-attributes:
   data-background-image: images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg
   data-background-size: contain
-  data-background-opacity: "0.8"
+  data-background-opacity: "0.5"
 author: "Alex Holcombe"
 date: today
 format: 
@@ -11,8 +11,6 @@ format:
     incremental: true
     self-contained: false
     slide-number: c/t
-    width: 1600
-    height: 900
     logo: "images/threeWiseMonkeys/monkeyNoHearHeadOnly.jpeg"
     footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
     theme: ["simple", "styles.scss"]
@@ -30,8 +28,19 @@ editor: source
 ## Lecture 2 CLEAN-UP and REVIEW
 
 
+## Didn't understand:
 
+> Location selection; can we get a demo for it like feature selection?
 
+## Didn't understand:
+
+> Will the entire textbook be assessed?
+
+Yes but it's short.
+
+> The different brain regions responsible for object and feature selection
+
+You don't need to know that.
 
 ## Quiz question from Lecture 1
 
@@ -45,7 +54,264 @@ Why was "I missed that" the right answer
 Limited processing capacity
 
 ![](images/bottleneck.png){width="70%"}
+## Bottom-up attention
 
+-   Salience computation
+    -   Neurons tuned to the same feature inhibit each other
+    -   Added a new paragraph on this to [5.0](https://psyc2016.whatanimalssee.com/btmUpTopDown.html#btmUpTopDown)
+
+## Features
+
+-   Feature *dimension*s include color, motion, orientation
+    -   Color feature *values* include red, green, blue
+    -   Motion feature *values* include leftward, downward
+    
+## Review of feature processing
+
+-   Within a feature dimension, *salience* computation occurs in parallel
+    -   e.g. unique color target is salient, unique motion target is salient
+-   Across dimensions, feature binding is slow.
+
+
+## Between-dimension binding is slow
+
+[Chapter 8](https://psyc2016.whatanimalssee.com/bindingTime.html)
+
+{{< video images/colorMotionBindingSlow
+.gif >}}
+
+<!-- ![](images/colorMotionBindingSlow
+.gif) -->
+
+## Between-dimension binding is slow
+
+Possibly doesn't occur unless selective attention routes the features through the bottleneck.
+
+![](images/bottleneck.png){width="30%"}
+
+
+##
+
+Gif not rendering?
+
+![](images/colorMotionBindingMedium
+.gif)
+
+
+## What about binding *within* a feature dimension?
+
+-   Within-feature salience is computed pre-bottleneck ([Chapter 5](https://psyc2016.whatanimalssee.com/btmUpTopDown.html#btmUpTopDown))
+    -   That's differencing
+-   What about binding parts together into a larger shape?
+
+<!-- -   Theory predicts within-feature binding can happen pre-bottleneck -->
+
+## Shape
+
+Involves combining elements of a single feature dimension: orientation
+
+![](images/GlassPatterns/sunflowerUnambiguousShape.png)
+
+::: notes :::
+We don't process elements one-by-one, nobody seriously ever thought that,
+but scientists wanted a way to study the combining of elements
+:::
+
+## Combining oriented elements into a shape: Sometimes hard
+
+![](images/GlassPatterns/BregmanBsWithoutOccluder.png){width=60%}
+## Combining oriented elements into a shape
+
+![](images/GlassPatterns/BregmanBs.png){width=60%}
+
+## Combining oriented elements into a shape
+
+![](images/GlassPatterns/BregmanBs.png){width=60%}
+## Combining oriented elements into a shape
+
+Brain has to combine elements across shape in a sophisticated way.
+    -   Cues for occlusion
+    -   Next: averaging out noise
+
+## Quantitative assessment 
+<BR>
+<!--Asssess spatial integration underlying identifying a shape-->
+
+![](images/GlassPatterns/SeymourConstructionFig1AlexModified.png)
+
+
+## **Dipole** = two dots, defines an orientation
+
+![](images/GlassPatterns/Circular_100pctCoherent_Nankoo2015.png){width=35%}
+
+
+## Circular or radial?
+
+::: notes :::
+get ready
+:::
+
+## Circular or radial?
+<BR>
+![](images/GlassPatterns/RadialGarciaKauaiKourtzi.jpeg)
+
+## Circular or radial?
+
+::: notes :::
+get ready
+:::
+
+## Circular or radial?
+
+![](images/GlassPatterns/CircularGarciaKauaiKourtzi.jpeg)
+
+
+## 
+
+![](images/GlassPatterns/GlassPatternsNoLabelNankooExcerpt.png)
+
+## Combining many required if add lots of randomly-spaced dots
+    
+![](images/GlassPatterns/SeymourConstructionFig1AlexModified.png)
+
+## 40% of the dipoles randomly-oriented
+
+-   ![](images/GlassPatterns/Concentric60pct_Nankoo2012.jpg)
+
+::: notes :::
+Enough random dots that your visual system had to do averaging.
+
+:::
+
+## 
+
+![](images/GlassPatterns/coherenceVariationCircular.png)
+
+## Lots of the dipoles are randomly-oriented
+
+![](images/GlassPatterns/radial_WilsonWilkinson98.png)
+
+## Summation
+
+![](images/GlassPatterns/CCChen2009model.jpeg)
+
+## Shapes: clockwise and anti-clockwise spirals
+
+![](images/GlassPatterns/twoSpiralsLabeled.png)
+
+## Shape processing: speed
+
+## Two anti-clockwise in alternation
+
+![](images/GlassPatterns/temporalResltn/antiClockwiseSlow.gif)
+
+## Two in alternation, and sum of the two
+
+![](images/GlassPatterns/temporalResltn/antiClockwiseSlowWithLabelAlternating.gif){width=40%}
+![](images/GlassPatterns/temporalResltn/sum.png){width=30%}
+
+## Rapid alternation
+
+![](images/GlassPatterns/temporalResltn/antiClockwiseFastestAccordingToEzGif.gif)
+
+## Rapid alternation
+
+![](images/GlassPatterns/temporalResltn/antiClockwiseFastestAccordingToEzGif.gif){width=20%}
+
+-   Can still perceive even at 30 images per second
+-   Implies that shape is computed in less than 0.06 sec
+
+::: notes :::
+Thanks to having this way to certify global integration had to occur, we can see how quickly it happens
+:::
+
+##
+
+## Pairing shape with color
+
+![](images/GlassPatterns/radialGreenSignalRedNoise.png)
+
+-   green radial signal dots; red noise dots
+
+## Pairing shape with color
+
+-   Takes time to determine which dots form the shape and which are random
+-   Suggests attentional scrutiny is required 
+-   ![](images/bottleneckRotated.png){width="70%"}
+
+
+## Pairing shape with color
+
+Signal dots one color, noise dots another color
+
+![](images/GlassPatterns/redSignalGreenNoiseCircleCliffordOriginal.png)
+
+::: notes :::
+Open file in Photopea if red/green not set right.
+:::
+
+
+## Quantifying binding cost {background-image="images/GlassPatterns/redSignalGreenNoiseCircleCliffordOriginal.png" background-opacity="0.2"}
+
+Percentage signal dots needed to perceive shape*color combination is:
+
+-   higher than percentage needed for shape alone
+-   higher than percentage needed for color alone
+-   e.g., 10% to perceive shape and 20% to perceive shape-color combo (Seymour, McDonald, Clifford, 2009)
+
+## Pairing shape with color
+
+Signal dots are one color, noise dots are another color
+
+![](images/GlassPatterns/blueSignalRedNoiseCircular.png)
+::: notes :::
+Blue signal red noise
+:::
+
+## Pairing shape with color
+
+Signal dots are one color, noise dots are another color
+
+![](images/GlassPatterns/redSignalBlueNoiseCircular.png)
+##
+
+![](images/GlassPatterns/redBlueSideBySideCircular.png)
+
+## Shape extractor does not preserve color information
+
+![](images/GlassPatterns/CCChen2009model.jpeg)
+
+This is already 
+
+
+
+Orientations get bound together but not with color.
+
+## Shape take-aways
+
+-   Binding of individual orientations into single global shape is fast and may occur before bottleneck
+-   Color is processed independently, even though all the signal dots are that color
+
+<!-- -   Shape processes do not know about color -->
+
+## Feature binding / pairing
+
+-   Pairing different feature
+    -   Color with motion
+    -   Color with shape
+-   I suggested that the reason is a need to bring together separate neural populations
+    - Might only occur post-bottleneck
+ 
+::: notes :::
+I suggested that the reason is a need to bring together separate neural populations
+:::
+
+<!--END GLASS PATTERNS-->
+
+
+## Mobile computation?
+
+## Binding motion vectors together also
 
 ## Alex White words paper
 
@@ -60,6 +326,11 @@ Deciding which info goes hrough the bottleneck
 <!-- {{< video images/2targets4timesFaster.mov >}} -->
 
 ## How is info prioritized at the bottleneck?
+
+-   Bottom-up / endogenous / stimulus-driven salience
+-   Current plans
+-   Automatic routines
+    - reading
 
 ## Reading-order prioritisation
 
@@ -133,17 +404,102 @@ Mindfulness or living in the moment
 
 :::
 
+## Social factors
+
+When we did that demonstration, we did it as a big group
+
+Co-working sessions.
+
+Shut up and write sessions
+
+One reason team sports are great, you're not going to just stop running and let down the team
+
+##
+
+Ezra Klein wrote beautifully about this situation this week in the New York Times:
+
+Gloria Mark, a professor of information science at the University of California, Irvine, and the author of “Attention Span,” started researching the way people used computers in 2004. The average time people spent on a single screen was 2.5 minutes. “I was astounded,” she told me. “That was so much worse than I’d thought it would be.” But that was just the beginning. By 2012, Mark and her colleagues found the average time on a single task was 75 seconds. Now it’s down to about 47.
+
+This is an acid bath for human cognition. Multitasking is mostly a myth. We can focus on one thing at a time. “It’s like we have an internal whiteboard in our minds,” Mark said. “If I’m working on one task, I have all the info I need on that mental whiteboard. Then I switch to email. I have to mentally erase that whiteboard and write all the information I need to do email. And just like on a real whiteboard, there can be a residue in our minds. We may still be thinking of something from three tasks ago.”
 
 
-::: notes
-Computers used to freeze all the time. With a lot of advances in operating system technology
+## Individual differences
+
+-   What do we know?
+    -   You're going to be disappointed
+
+::: notes :::
+This is one of the things people are most interested in
 :::
 
-## In a future class, bump up the distraction diary to keeping phone on as normal aand recording notification checks
+## Demonstration: studying humans requires getting lots of data
+
+-   Data is noisy
+-   Need multiple humans or lots of trials
+
+## Time perception mini-study
+
+
+::: notes :::
+Close eyes for 34 sec
+:::
+
+## Give your answer
+
+https://forms.gle/yy3NXtMfXxJESzzR9
+
+![](images/googleFormOneResponseURLbarcode.png)
+
+-   How many seconds do you think that was?
+-   Ask your neighbor how long they thought. Enter the average of your two numbers
+
+
+## Results
+
+::: notes :::
+https://docs.google.com/spreadsheets/d/1NeXENqg0K9HTEsZUMksamHq_iJ3qho9Az9ji-5mjrSE
+:::
+
+## To find out how accurate time perception is, averaged people together
+
+-   We found out that for the average person here, today, it was _________
+-   If we had taken just number
+
+## Sources of individual differences
+
+-   Stable
+-   Temporary (day, month, year)
+
+## Sources of individual differences
+
+-   Stable
+-   Temporary (day, month, year) vs. stable
+-   Motivation
+    -   Stable
+    -   Temporary: To do well in that particular study, or on that day
+-   Understood instructions versus didn't
+
+## Sources of individual differences
+
+-   Continuum, neurodiversity
+-   What is the "normal range"?
+    -   No objective answer usually
+    -   Clinicians have to define it in terms of impairment of culturally-expected functioning
+
+
+
+## In one of these classes, vary the distraction diary to keeping phone on as normal aand recording notification checks
 
 ## CONTROLLING BOTTOM-UP SENSORY EVENTS
 
 ## Turn off phone notifications!
+
+##
+
+You might be saying I really need to co ce trade on this, but millions years evolution is saying otherwise, that 
+you need to keep your ears turned on
+
+
 
 ## Earplugs
 
@@ -220,3 +576,9 @@ Automaticity
 	- The Pomodoro method - preserve the rewards, but delay them so you have more uninterrupted work session.
 	
 	Come back to dual-letters and explain left advantage
+
+
+## Explore/exploit
+
+You might be saying I really need to co ce trade on this, but millions years evolution is saying otherwise, that 
+you need to keep checking for things
