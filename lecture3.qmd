@@ -75,13 +75,13 @@ Why was "I missed that" the right answer
 ## 
 
 <BR><BR>
-![](images/salienceFromFIT.png)
+![](images/salienceFromFIT.png){width=50%}
 
 -   Within a feature dimension, *salience* computation is massively parallel
     -   "parallel" = simultaneously at many locations in the visual field
     -   e.g. detecting a unique color
     
-## Odd-color: parallel salience processing 
+## Parallel salience processing 
 
 ![](images/parallelUniqueColorAndGraph.png)
     
@@ -92,7 +92,7 @@ Why was "I missed that" the right answer
 
 ## {.smaller}
 
-![](images/featureIntegrationTheorySchematic.png)
+![](images/featureIntegrationTheorySchematic.png){width=50%}
 
 ::: {.nonincremental}
 -   *Within* a feature dimension, salience computation is massively parallel
@@ -103,7 +103,15 @@ Why was "I missed that" the right answer
 These two points explain many characteristics of visual search
 :::
 
+## Odd *pair* of features: *serial* processing
 
+::: notes :::
+Get ready to look for the odd pair of features
+:::
+
+##
+
+![](images/serialUniqueConjunction.png)
 
 ## Odd *pair* of features: *serial* processing
 
@@ -121,7 +129,7 @@ Monday quiz. Remains open until 3pm Tues.
 
 ## {background-image="images/hardQuiz.jpg" background-opacity="0.2"}
 
-According to Treisman's feature integration theory, when search is serial what is also true?
+According to Treisman's feature integration theory, when search is serial, what is also true?
 
 A. It usually involves search for a single feature (such as "blue")
 
@@ -143,8 +151,8 @@ D. Focused attention has to visit each location
 
 ## Bottlenecks ([Section 3.4](https://psyc2016.whatanimalssee.com/bottlenecks.html#bottleneckObjects) of mini-text)
 
--   For identifying features that belong to the same object
 -   For identifying two features from two different objects
+-   For identifying features that belong to the same object
 
 ![](images/Duncan1980stimulusDotted.png){width=50%}
 
@@ -166,23 +174,19 @@ Bottleneck for feature binding and for reporting features from two different obj
 <!-- ![](images/colorMotionBindingSlow
 .gif) -->
 ```
-## Identifying feature combinations is slow
+## Identifying feature combinations is slow {.smaller}
 
 Possibly doesn't occur unless selective attention routes the features through the bottleneck.
 
 ![](images/bottleneck.png){width="30%"}
 
-## Feature pairing
-
-![Chapter 8](https://psyc2016.whatanimalssee.com/bindingTime.html)
-
-![](images/colorMotionBindingMedium.gif)
 
 ## It feels like we see everything at once
 
 -   "phenomenal content overflows cognitive access." - [Ned Block](https://royalsocietypublishing.org/doi/10.1098/rstb.2017.0353)
 -   phenomenal consciousness
 -   access consciousness 
+-   ![](images/Alais.jpg){width=40%}
 
 ::: notes ::: 
 Added to end of bottleneck chapter
@@ -206,7 +210,7 @@ The discrepancy between what people think they experience and what information t
 Researchers can't yet fully explain the difference between phenomenal consciousness and access consciousness. However, they have discovered various visual processes that are *not* very capacity-limited, which can help account for some aspects of phenomenal consciousness. In the following chapters, we will go through some of these processes.
 :::
 
-## Something's missing from our theories { .smaller }
+## Something's missing { .smaller }
 
 Wolfe et al. ([2011](https://www.sciencedirect.com/science/article/pii/S1364661310002536))
 
