@@ -1,0 +1,279 @@
+---
+title: "Shape"
+title-slide-attributes:
+  data-background-image: images/GlassPatterns/Van_Gogh_Zwei_abgeschnittene_Sonnenblumen1.jpeg
+  data-background-size: contain
+  data-background-opacity: "0.7"
+author: "Alex Holcombe"
+date: today
+format: 
+  revealjs:
+    incremental: true
+    self-contained: false
+    slide-number: c/t
+    logo: "images/threeWiseMonkeys/monkeyNoHearHeadOnly.jpeg"
+    footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
+    theme: ["simple", "styles.scss"]
+    echo: true
+    multiplex: false
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+editor: source
+---
+
+<!--sometimes have to turn multiplex false to load speaker notes -->
+
+<!--As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on Tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.-->
+
+
+
+## What about pairing *within* a feature dimension?
+
+-   Within-feature salience is computed pre-bottleneck ([Chapter 5](https://psyc2016.whatanimalssee.com/btmUpTopDown.html#btmUpTopDown))
+    -   That's differencing
+-   What about combining parts into a larger shape?
+
+<!-- -   Theory predicts within-feature binding can happen pre-bottleneck -->
+
+## Shape
+
+Involves combining elements of a single feature dimension: orientation
+
+![](images/GlassPatterns/sunflowerUnambiguousShape.png)
+
+::: notes :::
+We don't process elements one-by-one, nobody seriously ever thought that, but scientists wanted a way to study the combining of elements
+:::
+
+## Combining into a shape: Sometimes hard
+
+![](images/GlassPatterns/BregmanBsWithoutOccluder.png){width="60%"} 
+
+## Combining into a shape
+
+![](images/GlassPatterns/BregmanBs.png){width="60%"}
+
+## Combining oriented elements into a shape
+
+![](images/GlassPatterns/BregmanBs.png){width="60%"} 
+
+## Shape processing
+
+Combines elements in a sophisticated way. 
+
+  -   Cues for occlusion
+  -   Next: averaging out noise
+
+## Quantitative assessment of combining
+
+<BR> <!--Asssess spatial integration underlying identifying a shape-->
+
+![](images/GlassPatterns/Circular_100pctCoherent_Nankoo2015.png){width="35%"}
+
+## **Dipole** = two dots, defines an orientation
+
+![](images/GlassPatterns/SeymourConstructionFig1AlexModified.png)
+
+## Circular or radial?
+
+![](images/GlassPatterns/GlassPatternsNoLabelNankooExcerpt.png)
+
+::: notes
+get ready
+:::
+
+## Circular or radial?
+
+<BR> ![](images/GlassPatterns/RadialGarciaKauaiKourtzi.jpeg)
+
+## Circular or radial?
+
+::: notes
+get ready
+:::
+
+## Circular or radial?
+
+![](images/GlassPatterns/CircularGarciaKauaiKourtzi.jpeg)
+
+
+## Combining many necessary if add lots of randomly-spaced dots
+
+![](images/GlassPatterns/SeymourConstructionFig1AlexModified.png)
+
+## 40% of dots are random instead of oriented
+
+-   ![](images/GlassPatterns/Concentric60pct_Nankoo2012.jpg)
+
+::: notes
+Enough random dots that your visual system had to do averaging.
+:::
+
+## Circular with noise
+
+![](images/GlassPatterns/coherenceVariationCircular.png)
+
+## 
+
+![](images/GlassPatterns/radial_WilsonWilkinson98.png)
+::: notes :::
+radial or cicular?
+:::
+
+## Theory
+
+![](images/GlassPatterns/CCChen2009model.jpeg)
+::: notes :::
+You don't need to understand this theory.
+This is just to say that models have been constructed to help interpret the data.
+:::
+
+
+## Radial or circular?
+
+::: notes :::
+get ready
+:::
+
+## 
+
+![](images/GlassPatterns/radialGreenSignalRedNoise.png)
+
+## Radial
+
+-   What color were the radial dipoles?
+-   All the radial dipoles were one color, and the random dots were a different color
+
+::: notes :::
+Let's see it again. Ready?
+:::
+
+## 
+
+![](images/GlassPatterns/radialGreenSignalRedNoise.png)
+
+## 
+
+![](images/GlassPatterns/radialGreenSignalRedNoise.png)
+
+-   green radial signal dots; red noise dots
+
+
+
+## Pairing shape with color
+
+-   Takes time to determine which dots form the shape and which are random
+-   Suggests attentional scrutiny is required
+-   ![](images/bottleneckRotated.png){width="70%"}
+
+## Pairing shape with color
+
+Signal dots one color, noise dots another color
+
+![](images/GlassPatterns/redSignalGreenNoiseCircleCliffordOriginal.png)
+
+::: notes :::
+Open file in Photopea if red/green not set right.
+:::
+
+## Quantifying binding cost {background-image="images/GlassPatterns/redSignalGreenNoiseCircleCliffordOriginal.png" background-opacity="0.2"}
+
+Percentage signal dots needed to perceive shape-color combination is:
+
+-   higher than needed for shape alone
+-   higher than needed for color alone
+-   e.g., 10% to perceive shape and 20% to perceive shape-color combo ^[Seymour, McDonald, & Clifford (2009)]
+
+## Pairing shape with color
+
+Signal dots are one color, noise dots are another color
+
+![](images/GlassPatterns/blueSignalRedNoiseCircular.png) ::: notes ::: Blue signal red noise :::
+
+## Pairing shape with color
+
+Signal dots are one color, noise dots are another color
+
+![](images/GlassPatterns/redSignalBlueNoiseCircular.png) \##
+
+![](images/GlassPatterns/redBlueSideBySideCircular.png)
+
+## Shape extractor does not preserve color information
+
+![](images/GlassPatterns/CCChen2009model.jpeg)
+
+This is already
+
+Orientations get bound together but not with color.
+
+## Shape take-aways
+
+-   Binding of individual orientations into single global shape is fast and may occur before bottleneck
+-   Color is processed independently, even though all the signal dots are that color
+
+<!-- -   Shape processes do not know about color -->
+
+## Feature pairing
+
+-   Pairing different feature
+    -   Color with motion
+    -   Color with shape
+-   I suggested that the reason is a need to bring together separate neural populations
+    -   Might only occur post-bottleneck
+
+I suggested that the reason is a need to bring together separate neural populations
+
+## Shape processing: speed
+
+## Clockwise and anti-clockwise spirals
+
+![](images/GlassPatterns/twoSpiralsLabeled.png)
+
+## Two anti-clockwise in alternation
+
+![](images/GlassPatterns/temporalResltn/antiClockwiseSlow.gif)
+
+## Two in alternation, and sum of the two
+
+![](images/GlassPatterns/temporalResltn/antiClockwiseSlowWithLabelAlternating.gif){width="40%"} ![](images/GlassPatterns/temporalResltn/sum.png){width="30%"}
+
+## Rapid alternation
+
+![](images/GlassPatterns/temporalResltn/antiClockwiseFastestAccordingToEzGif.gif)
+
+## Rapid alternation
+
+![](images/GlassPatterns/temporalResltn/antiClockwiseFastestAccordingToEzGif.gif){width="20%"}
+
+-   Can still perceive even at 30 images per second
+-   Implies that shape is computed in less than 0.06 sec
+
+::: notes
+Thanks to having this way to certify global integration had to occur, we can see how quickly it happens
+:::
+
+## Alternating pattern with noise
+
+![](images/GlassPatterns/temporalResltn/greenSpiralRedNoiseSlow.gif)
+
+## Alternating pattern with noise
+
+![](images/GlassPatterns/temporalResltn/greenSpiralRedNoiseSlow.gif)
+
+## Fast alternation pattern with noise
+
+![](images/GlassPatterns/temporalResltn/greenSpiralRedNoiseFastestAccordingToEzGif.gif)
+
+## Two colored spirals
+
+![](images/GlassPatterns/temporalResltn/greenDimmestClockwiseRedAntiFastest.gif)
+
+## Rapid alternation
+
+-   Shape elements bound and processed quickly
+-   Color of shape is lost
+
+<!--END GLASS PATTERNS-->
+
+

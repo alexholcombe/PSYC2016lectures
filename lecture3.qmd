@@ -1,5 +1,5 @@
 ---
-title: "PSYC2016: Attention Lecture 3"
+title: "Attention Lecture 3"
 title-slide-attributes:
   data-background-image: images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg
   data-background-size: contain
@@ -21,564 +21,219 @@ format:
       data-background-color: "#447099"
 editor: source
 ---
+
 <!--sometimes have to turn multiplex false to load speaker notes -->
+
 <!--As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.-->
 
-
 ## Lecture 2 CLEAN-UP and REVIEW
-
 
 ## Didn't understand:
 
 > Location selection; can we get a demo for it like feature selection?
 
+<BR>
+[HERE](https://www.psytoolkit.org/experiment-library/experiment_cueing.html
+) is an online Posner cuing experiment.
+
+
 ## Didn't understand:
 
 > Will the entire textbook be assessed?
 
-Yes but it's short.
+Yes but it's short, and the exam will focus on material referred to in lecture.
+<BR><BR>
 
 > The different brain regions responsible for object and feature selection
 
-You don't need to know that.
+You only need to know dorsal = parietal = where = location, ventral = temporal = what = object recognition
 
-## Quiz question from Lecture 1
+::: notes :::
+Read it on your phone, at the bus stop, while waiting for a train.
+:::
+
+
+## Quiz question from Lecture 1 {visibility="hidden"}
 
 > why didn't see second letter
 
 Why was "I missed that" the right answer
 
+## Salience computation
 
-## Bottleneck
+![](images/brainBottomupTopdownTheeuwesFailing.png)
 
-Limited processing capacity
-
-![](images/bottleneck.png){width="70%"}
-## Bottom-up attention
-
--   Salience computation
-    -   Neurons tuned to the same feature inhibit each other
-    -   Added a new paragraph on this to [5.0](https://psyc2016.whatanimalssee.com/btmUpTopDown.html#btmUpTopDown)
+-   Neurons tuned to the same feature inhibit each other
+-   Added a new paragraph on this to [Chapter 5](https://psyc2016.whatanimalssee.com/btmUpTopDown.html#btmUpTopDown)
 
 ## Features
 
 -   Feature *dimension*s include color, motion, orientation
-    -   Color feature *values* include red, green, blue
-    -   Motion feature *values* include leftward, downward
+    -   Feature *values*: red, blue for color
+    -   Feature *values*: leftward, downward for motion
+
+## 
+
+<BR><BR>
+![](images/salienceFromFIT.png)
+
+-   Within a feature dimension, *salience* computation is massively parallel
+    -   "parallel" = simultaneously at many locations in the visual field
+    -   e.g. detecting a unique color
     
-## Review of feature processing
+## Odd-color: parallel salience processing 
 
--   Within a feature dimension, *salience* computation occurs in parallel
-    -   e.g. unique color target is salient, unique motion target is salient
--   Across dimensions, feature binding is slow.
+![](images/parallelUniqueColorAndGraph.png)
+    
+## Feature processing
+
+-   *Within* a feature dimension, salience computation is massively parallel
+-   *Across* dimensions, identifying features is slow.
+
+## {.smaller}
+
+![](images/featureIntegrationTheorySchematic.png)
+
+::: {.nonincremental}
+-   *Within* a feature dimension, salience computation is massively parallel
+-   *Across* dimensions, identifying features is slow.
+:::
+
+::: notes :::
+These two points explain many characteristics of visual search
+:::
 
 
-## Between-dimension binding is slow
+
+## Odd *pair* of features: *serial* processing
+
+![](images/serialUniqueConjunctionAndGraph.png)
+
+## Feature integration theory of Anne Treisman
+
+![](images/featureIntegrationTheorySchematic.png)
+
+## {background-image="images/hardQuiz.jpg" background-opacity="0.8"}
+
+::: notes :::
+Monday quiz. Remains open until 3pm Tues.
+:::
+
+## {background-image="images/hardQuiz.jpg" background-opacity="0.2"}
+
+According to Treisman's feature integration theory, when search is serial what is also true?
+
+A. It usually involves search for a single feature (such as "blue")
+
+B. The person has been distracted by a unique item
+
+C. Motion is one of the features involved
+
+D. Focused attention has to visit each location
+
+::: notes :::
+LECTURE 3 QUIZ
+According to Treisman's feature integration theory, when search is serial what is also true?
+
+A. It usually involves search for a single feature (such as "blue")
+B. The person has been distracted by a unique item
+C. Motion is one of the features involved
+D. Focused attention has to visit each location
+:::
+
+## Bottlenecks ([Section 3.4](https://psyc2016.whatanimalssee.com/bottlenecks.html#bottleneckObjects) of mini-text)
+
+-   For identifying features that belong to the same object
+-   For identifying two features from two different objects
+
+![](images/Duncan1980stimulusDotted.png){width=50%}
+
+::: notes :::
+Bottleneck for feature binding and for reporting features from two different objects
+:::
+
+
+## 
+
+
+## Identifying feature combinations is slow
 
 [Chapter 8](https://psyc2016.whatanimalssee.com/bindingTime.html)
 
-{{< video images/colorMotionBindingSlow
-.gif >}}
+{{< video images/colorMotionBindingSlow .gif >}}
 
+```{=html}
 <!-- ![](images/colorMotionBindingSlow
 .gif) -->
-
-## Between-dimension binding is slow
+```
+## Identifying feature combinations is slow
 
 Possibly doesn't occur unless selective attention routes the features through the bottleneck.
 
 ![](images/bottleneck.png){width="30%"}
 
+## Feature pairing
+
+![Chapter 8](https://psyc2016.whatanimalssee.com/bindingTime.html)
+
+![](images/colorMotionBindingMedium.gif)
+
+## It feels like we see everything at once
+
+-   "phenomenal content overflows cognitive access." - [Ned Block](https://royalsocietypublishing.org/doi/10.1098/rstb.2017.0353)
+-   phenomenal consciousness
+-   access consciousness 
+
+::: notes ::: 
+Added to end of bottleneck chapter
+it *doesn't* feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn't feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don't give them time to move their attention around, the results suggest much processing is limited to only a few objects.
+:::
+
+## It feels like we see everything at once
+
+-   Attention shifts so quickly we don't notice it
+    -   The refrigerator light illusion
+-   Something's missing from our theories
+
+::: notes ::: 
+
+Added to end of bottleneck chapter
+
+it *doesn't* feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn't feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don't give them time to move their attention around, the results suggest much processing is limited to only a few objects.
+
+The discrepancy between what people think they experience and what information they can report is sometimes referred to as the puzzle of phenomenal experience. The simultaneous experience of the entire visual field is labelled "phenomenal consciousness" and the more limited ability to report information about the contents of visual experience has been labelled "access consciousness" 
+
+Researchers can't yet fully explain the difference between phenomenal consciousness and access consciousness. However, they have discovered various visual processes that are *not* very capacity-limited, which can help account for some aspects of phenomenal consciousness. In the following chapters, we will go through some of these processes.
+:::
+
+## Something's missing from our theories { .smaller }
+
+Wolfe et al. ([2011](https://www.sciencedirect.com/science/article/pii/S1364661310002536))
+
+> a ‘selective’ path in which candidate objects must be individually selected for recognition and a ‘nonselective’ path in which information can be extracted from global and/or statistical information.
+
+![](images/NonselectivePathwayWolfeEtAl2011.png){size=30%}
+
+
+## Distraction diary: results
+
+Menti.com
+
+::: notes :::
+DistractionDiaryRealResults
+:::
 
 ##
 
-Gif not rendering?
-
-![](images/colorMotionBindingMedium
-.gif)
-
-
-## What about binding *within* a feature dimension?
-
--   Within-feature salience is computed pre-bottleneck ([Chapter 5](https://psyc2016.whatanimalssee.com/btmUpTopDown.html#btmUpTopDown))
-    -   That's differencing
--   What about binding parts together into a larger shape?
-
-<!-- -   Theory predicts within-feature binding can happen pre-bottleneck -->
-
-## Shape
-
-Involves combining elements of a single feature dimension: orientation
-
-![](images/GlassPatterns/sunflowerUnambiguousShape.png)
-
-::: notes :::
-We don't process elements one-by-one, nobody seriously ever thought that,
-but scientists wanted a way to study the combining of elements
-:::
-
-## Combining oriented elements into a shape: Sometimes hard
-
-![](images/GlassPatterns/BregmanBsWithoutOccluder.png){width=60%}
-## Combining oriented elements into a shape
-
-![](images/GlassPatterns/BregmanBs.png){width=60%}
-
-## Combining oriented elements into a shape
-
-![](images/GlassPatterns/BregmanBs.png){width=60%}
-## Combining oriented elements into a shape
-
-Brain has to combine elements across shape in a sophisticated way.
-    -   Cues for occlusion
-    -   Next: averaging out noise
-
-## Quantitative assessment 
-<BR>
-<!--Asssess spatial integration underlying identifying a shape-->
-
-![](images/GlassPatterns/SeymourConstructionFig1AlexModified.png)
-
-
-## **Dipole** = two dots, defines an orientation
-
-![](images/GlassPatterns/Circular_100pctCoherent_Nankoo2015.png){width=35%}
-
-
-## Circular or radial?
-
-::: notes :::
-get ready
-:::
-
-## Circular or radial?
-<BR>
-![](images/GlassPatterns/RadialGarciaKauaiKourtzi.jpeg)
-
-## Circular or radial?
-
-::: notes :::
-get ready
-:::
-
-## Circular or radial?
-
-![](images/GlassPatterns/CircularGarciaKauaiKourtzi.jpeg)
-
+![](images/surveyEndOfLecture.png)
 
 ## 
 
-![](images/GlassPatterns/GlassPatternsNoLabelNankooExcerpt.png)
+[globalShape.html](globalShape.html)
 
-## Combining many required if add lots of randomly-spaced dots
-    
-![](images/GlassPatterns/SeymourConstructionFig1AlexModified.png)
 
-## 40% of the dipoles randomly-oriented
+<!--There's a tension between simultaneous selection found by Goodbourn & Holcombe and that it takes time. So it seems the selection doesn't take much time, but rather a subsequent identification process, as hypothesized by Nishida -->
 
--   ![](images/GlassPatterns/Concentric60pct_Nankoo2012.jpg)
 
-::: notes :::
-Enough random dots that your visual system had to do averaging.
 
-:::
 
-## 
-
-![](images/GlassPatterns/coherenceVariationCircular.png)
-
-## Lots of the dipoles are randomly-oriented
-
-![](images/GlassPatterns/radial_WilsonWilkinson98.png)
-
-## Summation
-
-![](images/GlassPatterns/CCChen2009model.jpeg)
-
-## Shapes: clockwise and anti-clockwise spirals
-
-![](images/GlassPatterns/twoSpiralsLabeled.png)
-
-## Shape processing: speed
-
-## Two anti-clockwise in alternation
-
-![](images/GlassPatterns/temporalResltn/antiClockwiseSlow.gif)
-
-## Two in alternation, and sum of the two
-
-![](images/GlassPatterns/temporalResltn/antiClockwiseSlowWithLabelAlternating.gif){width=40%}
-![](images/GlassPatterns/temporalResltn/sum.png){width=30%}
-
-## Rapid alternation
-
-![](images/GlassPatterns/temporalResltn/antiClockwiseFastestAccordingToEzGif.gif)
-
-## Rapid alternation
-
-![](images/GlassPatterns/temporalResltn/antiClockwiseFastestAccordingToEzGif.gif){width=20%}
-
--   Can still perceive even at 30 images per second
--   Implies that shape is computed in less than 0.06 sec
-
-::: notes :::
-Thanks to having this way to certify global integration had to occur, we can see how quickly it happens
-:::
-
-##
-
-## Pairing shape with color
-
-![](images/GlassPatterns/radialGreenSignalRedNoise.png)
-
--   green radial signal dots; red noise dots
-
-## Pairing shape with color
-
--   Takes time to determine which dots form the shape and which are random
--   Suggests attentional scrutiny is required 
--   ![](images/bottleneckRotated.png){width="70%"}
-
-
-## Pairing shape with color
-
-Signal dots one color, noise dots another color
-
-![](images/GlassPatterns/redSignalGreenNoiseCircleCliffordOriginal.png)
-
-::: notes :::
-Open file in Photopea if red/green not set right.
-:::
-
-
-## Quantifying binding cost {background-image="images/GlassPatterns/redSignalGreenNoiseCircleCliffordOriginal.png" background-opacity="0.2"}
-
-Percentage signal dots needed to perceive shape*color combination is:
-
--   higher than percentage needed for shape alone
--   higher than percentage needed for color alone
--   e.g., 10% to perceive shape and 20% to perceive shape-color combo (Seymour, McDonald, Clifford, 2009)
-
-## Pairing shape with color
-
-Signal dots are one color, noise dots are another color
-
-![](images/GlassPatterns/blueSignalRedNoiseCircular.png)
-::: notes :::
-Blue signal red noise
-:::
-
-## Pairing shape with color
-
-Signal dots are one color, noise dots are another color
-
-![](images/GlassPatterns/redSignalBlueNoiseCircular.png)
-##
-
-![](images/GlassPatterns/redBlueSideBySideCircular.png)
-
-## Shape extractor does not preserve color information
-
-![](images/GlassPatterns/CCChen2009model.jpeg)
-
-This is already 
-
-
-
-Orientations get bound together but not with color.
-
-## Shape take-aways
-
--   Binding of individual orientations into single global shape is fast and may occur before bottleneck
--   Color is processed independently, even though all the signal dots are that color
-
-<!-- -   Shape processes do not know about color -->
-
-## Feature binding / pairing
-
--   Pairing different feature
-    -   Color with motion
-    -   Color with shape
--   I suggested that the reason is a need to bring together separate neural populations
-    - Might only occur post-bottleneck
- 
-::: notes :::
-I suggested that the reason is a need to bring together separate neural populations
-:::
-
-<!--END GLASS PATTERNS-->
-
-
-## Mobile computation?
-
-## Binding motion vectors together also
-
-## Alex White words paper
-
-## Bottom-up and top-down selection
-
-Deciding which info goes hrough the bottleneck
-
-## Remember this?
-
-[movie](images/2targets4timesFaster.mov)
-
-<!-- {{< video images/2targets4timesFaster.mov >}} -->
-
-## How is info prioritized at the bottleneck?
-
--   Bottom-up / endogenous / stimulus-driven salience
--   Current plans
--   Automatic routines
-    - reading
-
-## Reading-order prioritisation
-
-![Accuracy in left and right streams for the English-Arabic bilinguals. They showed a left advantage when tested in English ,  but not when tested in Arabic. Pale dots indicate data points for individual participants, joined by dashed lines.](images/HolcombeGoodbourn/RansleyEnglishArabic.png)
-## Reading-order prioritisation
-
-![The mirror-reversed condition of Holcombe, Nguyen, & Goodbourn (2017)](images/HolcombeGoodbourn/ReversedLtrsStimSeq.png)
-
-## Reading-order prioritisation
-
-![The mirror-reversed condition of Holcombe, Nguyen, & Goodbourn (2017)](images/HolcombeGoodbourn/ReversedLtrsResults.png)
-
-
-
-## CHANGE BLINDNESS QUESTIONS should put on Mentimeter
-
-Attention2SocrativeResponses.pdf
-
-
-## Consciousness and attention
-
-Global Neuronal Workspace theory:
-"Attention and consciousness are the same process"
-
--- David Alais' slide #40 of Consciousness lecture 2
-
-::: notes
-You're not conscious of anything except what you are attending to.
-Whereas the Recurrent Processing Theory says you're conscious of the whole visual field in a rich way.
-This is a hard part of consciousness to explain, because when we probe what people are seeing, it seems like they're not seeing much (change blindness)
-
-This actually may be part of the non-selective pathway.
-:::
-
-
-
-## DISTRACTION
-
-## What most distracts you doing lecture?
-
-![](images/distractionsDuringLectureCensored.png)
-::: notes
-Some of these are bottom-up sensory events
-Some are ongoing life concerns (top-down)
-Some are basic drives (hunger)
-:::
-
-## 
-
-All day, the world makes its demands. There's so much of it, world
-
-begging to be noticed.
-
-
-![](images/LeilaChatti.jpeg){width=40%}
-
-##
-
-ultrawhelmed
-sensorium, my self  
-
-taxed with being a self, brimming with living’s rowdy mechanics and disruptions
-unremitting, a thought flits by, then another (an unpaid bill, a jingle’s tenacious refrain)—and,
-... I attend, as best I can,...  
-yielding to the most persuasive god, the most recent, to each thing I say Yes? Yes!—
-zealot of whatever calls me next.
-
-::: notes
-It was actually called "A poem for Sunday" and on a Sunday there can be a joy in this.
-Mindfulness or living in the moment
-
-:::
-
-## Social factors
-
-When we did that demonstration, we did it as a big group
-
-Co-working sessions.
-
-Shut up and write sessions
-
-One reason team sports are great, you're not going to just stop running and let down the team
-
-##
-
-Ezra Klein wrote beautifully about this situation this week in the New York Times:
-
-Gloria Mark, a professor of information science at the University of California, Irvine, and the author of “Attention Span,” started researching the way people used computers in 2004. The average time people spent on a single screen was 2.5 minutes. “I was astounded,” she told me. “That was so much worse than I’d thought it would be.” But that was just the beginning. By 2012, Mark and her colleagues found the average time on a single task was 75 seconds. Now it’s down to about 47.
-
-This is an acid bath for human cognition. Multitasking is mostly a myth. We can focus on one thing at a time. “It’s like we have an internal whiteboard in our minds,” Mark said. “If I’m working on one task, I have all the info I need on that mental whiteboard. Then I switch to email. I have to mentally erase that whiteboard and write all the information I need to do email. And just like on a real whiteboard, there can be a residue in our minds. We may still be thinking of something from three tasks ago.”
-
-
-## Individual differences
-
--   What do we know?
-    -   You're going to be disappointed
-
-::: notes :::
-This is one of the things people are most interested in
-:::
-
-## Demonstration: studying humans requires getting lots of data
-
--   Data is noisy
--   Need multiple humans or lots of trials
-
-## Time perception mini-study
-
-
-::: notes :::
-Close eyes for 34 sec
-:::
-
-## Give your answer
-
-https://forms.gle/yy3NXtMfXxJESzzR9
-
-![](images/googleFormOneResponseURLbarcode.png)
-
--   How many seconds do you think that was?
--   Ask your neighbor how long they thought. Enter the average of your two numbers
-
-
-## Results
-
-::: notes :::
-https://docs.google.com/spreadsheets/d/1NeXENqg0K9HTEsZUMksamHq_iJ3qho9Az9ji-5mjrSE
-:::
-
-## To find out how accurate time perception is, averaged people together
-
--   We found out that for the average person here, today, it was _________
--   If we had taken just number
-
-## Sources of individual differences
-
--   Stable
--   Temporary (day, month, year)
-
-## Sources of individual differences
-
--   Stable
--   Temporary (day, month, year) vs. stable
--   Motivation
-    -   Stable
-    -   Temporary: To do well in that particular study, or on that day
--   Understood instructions versus didn't
-
-## Sources of individual differences
-
--   Continuum, neurodiversity
--   What is the "normal range"?
-    -   No objective answer usually
-    -   Clinicians have to define it in terms of impairment of culturally-expected functioning
-
-
-
-## In one of these classes, vary the distraction diary to keeping phone on as normal aand recording notification checks
-
-## CONTROLLING BOTTOM-UP SENSORY EVENTS
-
-## Turn off phone notifications!
-
-##
-
-You might be saying I really need to co ce trade on this, but millions years evolution is saying otherwise, that 
-you need to keep your ears turned on
-
-
-
-## Earplugs
-
-Don't be a passive victim of your animal nature!
-
-What do you do to shut out the world?
-
-![](images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg)
-
-## Are you not going to do it because it's not cool?
-
-![](images/masksComfortablePrincessBridge.jpg)
-::: notes
-Why do you wear a mask, do you have horrible scars?
-:::
-
-## {background-image="images/threeWiseMonkeys/monkeyNoHear.jpeg" background-size="800px" background-repeat="repeat"}
-
-
--   ![](images/earplug.jpg){width="40%"}
-
-::: notes
-But you know what, you don't have to wait
-:::
-
-
-## MENTIMETER: WHEN HAVE YOU BEEN MOST FOCUSED?
-
-IRINA'S VIDEO GAMER DIES FROM FOCUS
-
-## Find a study on how repeated events or learned events become less distracting
-
-[.](https://www.youtube.com/embed/sXjoGtuAkNU?si=84n6LvMVW98ykm8y&amp;start=29)
-
-The dog's bark changes rapidly and has a chaotic rhythm. If it was a constant repetition and rhythm, you'd anticipate it well and could suppress it better.
-
-
-## Visual search
-
-Visual search slides including expertise - xrays,
-
-
-## Four factors for managing attention
-
-https://psyc2016.whatanimalssee.com/the-role-of-memory-and-expectation.html#fourFactors
-
-## The tipsy gorilla study
-
-I have a comment to enter it here: https://psyc2016.whatanimalssee.com/the-role-of-memory-and-expectation.html#fourFactors
-
-## Other topics
-
-Automaticity
-
-## QUOTE
-
-> To pay attention, this is our endless and proper work
-
--   Mary Oliver
-
-
-##
-
-- Lecture 2
-	- People have known about distraction for thousands of years
-		- Buddhism. Are you a victim of your attentional mechanisms?
-		- Flash a bunch of self-help book images.
-		- animals for millions
-	- “What in this image attracts your attention?” Gradual transition from salience to more goal-directed
-- My story
-	- Like many others, I spend too much time on social media.
-	- Tried apps that stopped me from using the internet.
-	- Fall off the wagon
-	- The Pomodoro method - preserve the rewards, but delay them so you have more uninterrupted work session.
-	
-	Come back to dual-letters and explain left advantage
-
-
-## Explore/exploit
-
-You might be saying I really need to co ce trade on this, but millions years evolution is saying otherwise, that 
-you need to keep checking for things

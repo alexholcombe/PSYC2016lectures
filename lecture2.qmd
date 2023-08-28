@@ -115,6 +115,14 @@ He told youa bout it because useful for studying ocnsiousness because stimulus d
 -   There's a bottleneck prior to the frontal lobe
 -   If a stimulus gets through, it results in reverberating widespread activity associated with that stimulus
 
+<!--
+## Consciousness and attention
+
+Global Neuronal Workspace theory: "Attention and consciousness are the same process"
+
+-- David Alais' slide #40 of Consciousness lecture 2
+-->
+
 ## TODAY
 
 ::: {.nonincremental}
@@ -173,6 +181,7 @@ To do when you have ten minutes or more to concentrate on studying or other comp
 -   Turn off notifications on your computer if you know how.
 -   Start the stopwatch (often in Clock in Android).
 -   Press "lap" every time you can't help yourself and you check social media, the news, or otherwise get off task.
+-   Write down / save all the "lap" times of the first ten minutes
 
 ![](images/usingTheStopwatch.jpeg)
 
