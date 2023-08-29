@@ -1,0 +1,85 @@
+---
+title: "Attention Lecture 4"
+title-slide-attributes:
+  data-background-image: images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg
+  data-background-size: contain
+  data-background-opacity: "0.5"
+author: "Alex Holcombe"
+date: today
+format: 
+  revealjs:
+    smaller: true
+    auto-stretch: false #Otherwise manual image resize (e.g. width) doesn't work!
+    incremental: true
+    self-contained: false
+    slide-number: c/t
+    footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
+    theme: ["simple", "styles.scss"]
+    echo: true
+    multiplex: false
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+editor: source
+---
+
+<!--sometimes have to turn multiplex false to load speaker notes -->
+
+<!--As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.-->
+
+
+
+## 2 kinds of bottleneck
+
+AB memory
+
+## What is conjunction search?
+
+(SOCRATIV)
+Not just that the target is a feature pair, but also that the distractors have both features
+
+
+## Binding motion vectors together also
+
+## Alex White words paper
+
+## Bottom-up and top-down selection
+
+Deciding which info goes through the bottleneck
+
+## Remember this?
+
+[movie](images/2targets4timesFaster.mov)
+
+<!-- {{< video images/2targets4timesFaster.mov >}} -->
+
+## How is info prioritized at the bottleneck?
+
+-   Bottom-up / endogenous / stimulus-driven salience
+-   Current plans
+-   Automatic routines
+    -   reading
+
+## Reading-order prioritisation
+
+![Accuracy in left and right streams for the English-Arabic bilinguals. They showed a left advantage when tested in English , but not when tested in Arabic. Pale dots indicate data points for individual participants, joined by dashed lines.](images/HolcombeGoodbourn/RansleyEnglishArabic.png) \## Reading-order prioritisation
+
+![The mirror-reversed condition of Holcombe, Nguyen, & Goodbourn (2017)](images/HolcombeGoodbourn/ReversedLtrsStimSeq.png)
+
+## Reading-order prioritisation
+
+![The mirror-reversed condition of Holcombe, Nguyen, & Goodbourn (2017)](images/HolcombeGoodbourn/ReversedLtrsResults.png)
+
+## CHANGE BLINDNESS QUESTIONS should put on Mentimeter
+
+Attention2SocrativeResponses.pdf
+
+
+
+::: notes
+You're not conscious of anything except what you are attending to. Whereas the Recurrent Processing Theory says you're conscious of the whole visual field in a rich way. This is a hard part of consciousness to explain, because when we probe what people are seeing, it seems like they're not seeing much (change blindness)
+
+This actually may be part of the non-selective pathway.
+:::
+
+

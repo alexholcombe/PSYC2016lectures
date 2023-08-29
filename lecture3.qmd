@@ -84,7 +84,9 @@ Why was "I missed that" the right answer
 ## Parallel salience processing 
 
 ![](images/parallelUniqueColorAndGraph.png)
-    
+
+<!-- Make odd color displays fill the whole screen, otherwise my joke of "Have you found it yet?" doesn't work -->
+
 ## Feature processing
 
 -   *Within* a feature dimension, salience computation is massively parallel
@@ -157,6 +159,7 @@ D. Focused attention has to visit each location
 ![](images/Duncan1980stimulusDotted.png){width=50%}
 
 ::: notes :::
+THIS DIDN'T MAKE SENSE
 Bottleneck for feature binding and for reporting features from two different objects
 :::
 
@@ -219,7 +222,7 @@ Wolfe et al. ([2011](https://www.sciencedirect.com/science/article/pii/S13646613
 ![](images/NonselectivePathwayWolfeEtAl2011.png){size=30%}
 
 
-## Distraction diary: results
+## Distraction diary
 
 Menti.com
 
@@ -235,6 +238,9 @@ DistractionDiaryRealResults
 
 [globalShape.html](globalShape.html)
 
+::: notes :::
+After going through all this and the shape slides, I still had a minute left.
+:::
 
 <!--There's a tension between simultaneous selection found by Goodbourn & Holcombe and that it takes time. So it seems the selection doesn't take much time, but rather a subsequent identification process, as hypothesized by Nishida -->
 
