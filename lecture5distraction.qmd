@@ -9,7 +9,7 @@ date: today
 format: 
   revealjs:
     smaller: true
-    auto-stretch: false #Otherwise manual image resize (e.g. width) doesn't work!
+    auto-stretch: true #Otherwise specifying image size (e.g. width) doesn't work!
     incremental: true
     self-contained: false
     slide-number: c/t
@@ -30,16 +30,34 @@ editor: source
 ## Lecture 4 CLEAN-UP and REVIEW {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 ## Didn't understand:
+<BR>
 
-![](images/lecture3DidntUnderstandWithAnswers.png)
+![](images/responses/didntUnderstandLecture4_29Aug2023.png)
 
+::: notes :::
+there were a few questions about the grand illusion which I address next
+:::
 
+##
+
+![](images/responses/WhatDidYouThinkOfGrandIllusionArgument.png)
+
+##  {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+![](images/responses/grandIllusionThoughts.png)
+
+::: aside
+For more, see [Overgaard (2018)](https://royalsocietypublishing.org/doi/10.1098/rstb.2017.0353)
+:::
+
+::: notes :::
+I know it's hard.
+:::
 
 ## DISTRACTION {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.3"}
 
-Socrative slide 23
 
-## What most distracts you doing lecture? {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## What most distracts you during lecture? {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 ![](images/distractionsDuringLectureCensored.png) 
 
@@ -47,9 +65,23 @@ Socrative slide 23
 Some of these are bottom-up sensory events Some are ongoing life concerns (top-down) Some are basic drives (hunger)
 :::
 
-## Distractions during studying
+## What most distracts you during lecture?
 
-phone, phone, Phone, Phone, phone, Phone, phone, my phone, cellphone, My phone, buzzing phone, Phone buzzing, My damn phonnneeee :(
+**Sensory events**: noise, other peoples laptops, dense slides, muscle soreness, *phone*
+
+**Drives**: hunger, sleepiness, boys
+
+**Cognitive and interest**: "boring lectures", social media - instagram, *phone*, tangents, spring break planning, content is too hard or ez
+
+**Life issues**: issues in my life, other works
+
+## 
+
+Some of the cognitive is habits created by rewards
+
+## What distracts you during studying?
+
+phone; phone; Phone; Phone; phone; Phone; phone; my phone; cellphone; My phone; buzzing phone; Phone buzzing; My damn phonnneeee :(
 
 My phone, the habit of picking it up all the time
 
@@ -74,11 +106,21 @@ Cans of kombucha being drunk.
 my housemates
 
 
-## Distraction diary results
+## Distraction diary
 
 ![](images/inClassVsOutsideClass.png)
 
+::: notes :::
+I was hoping that I would be able to compare amount of distractions in-class compared to outside-of-class
+:::
 
+## Comparison
+
+![](images/inClassVsOutsideClass.png)
+
+-   5 min versus 10 min
+-   Selection bias
+    -   Those who do the homework are more motivated to do homework and thus likely get distracted less
 
 ## Social factors
 
@@ -237,11 +279,7 @@ I have a comment to enter it here: https://psyc2016.whatanimalssee.com/the-role-
 
 Automaticity
 
-## QUOTE
 
-> To pay attention, this is our endless and proper work
-
--   Mary Oliver
 
 ## 
 
@@ -262,6 +300,11 @@ Automaticity
 
     Come back to dual-letters and explain left advantage
 
+My partner doesn't get distracted. Whereas I can't have the TV on, on anything!
+
 ## Explore/exploit
 
 You might be saying I really need to co ce trade on this, but millions years evolution is saying otherwise, that you need to keep checking for things
+
+
+Socrative slide 23

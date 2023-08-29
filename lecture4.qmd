@@ -27,6 +27,9 @@ editor: source
 
 <!--As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.-->
 
+<!--2023 notes I still had time at the end of the lecture despite 5 questions from the audience and hamming up the change blindness videos. But don't forget to go very slow in the syllogism and Grand illusion stuff!
+-->
+
 ## Lecture 3 CLEAN-UP and REVIEW {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 ## Didn't understand: {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
@@ -74,7 +77,7 @@ Number of insights into the processes that determine whether we notice things
 
 ## Find the change {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
-![](images/Change_blindness_easy_branch.gif)
+![](images/Change_blindness_easy_branch.gif){width=70%}
 
 ::: notes :::
 Raise your hand when you see the change
@@ -83,7 +86,7 @@ Raise your hand when you see the change
 
 ## Change blindness {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
-![](images/changeBlindnessPants.gif)
+![](images/changeBlindnessPants.gif){width=70%}
 
 ::: notes :::
 Raise your hand when you see the change
@@ -104,15 +107,15 @@ Be able to explain why it inspired the "grand illusion of visual experience" the
 
 -   **Premise 2**. You don't detect major changes to most objects in a scene (in the blank-screen sandwich movies).
 
--   **Conclusion**. Therefore, you don't visually experience most objects in a scene.
+-   **Conclusion**. Therefore, you *don't* visually experience most objects in a scene.
 
 <BR><BR>
 
 If A, then B.  
 
-Not B.
+B is not true.
 
-Therefore, not A.
+Therefore, A is not true.
 
 ::: notes :::
 A bad habit that most of us have is that we rarely spell out the reasons for our beliefs very carefully.
@@ -120,10 +123,10 @@ If you negate the consequent, the antecedent must be false.
 If A, then B.  Not B. Therefore, not A.
 :::
 
-## Menti.com {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## Menti.com 3276 7700 {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 <BR>
 
-Answer a queston about the argument.
+Answer a question about the argument.
 
 ::: notes :::
 Grand illusion argument logic
