@@ -46,9 +46,31 @@ Why was "I missed that" the right answer
     -   We experience less than we think
     -   A "grand illusion of visual experience" ([6.1](https://psyc2016.whatanimalssee.com/twoPicChangeBlindness.html#the-grand-illusion-of-visual-experience))
 
+::: notes :::
+Less phenomenal content
+:::
+
 ## CHANGE BLINDNESS - [Chapter 6](https://psyc2016.whatanimalssee.com/twoPicChangeBlindness.html) {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
-A "grand illusion of visual experience"?
+<BR>
+Points to "a grand illusion of visual experience"?
+
+## Blank-screen sandwiches: Lessons {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+<BR>
+
+::: {.nonincremental}
+-   Grand illusion of visual experience?
+-   Peripheral vision
+-   Motion detectors
+    -   Blank screen
+    -   Gradual changes
+-   Memory
+:::
+
+::: notes :::
+As well as shedding light on this idea, CB
+Number of insights into the processes that determine whether we notice things
+:::
 
 ## Find the change {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
@@ -75,7 +97,7 @@ Be able to explain why it inspired the "grand illusion of visual experience" the
 ![](images/changeBlindnessPants.gif)
 
 
-## Argument for the "grand illusion" {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## Argument for "the grand illusion" {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 <BR>
 
 -   **Premise 1**. If you visually experience most of a scene's objects, you will notice major changes to them.
@@ -84,6 +106,8 @@ Be able to explain why it inspired the "grand illusion of visual experience" the
 
 -   **Conclusion**. Therefore, you don't visually experience most objects in a scene.
 
+<BR><BR>
+
 If A, then B.  
 
 Not B.
@@ -91,13 +115,15 @@ Not B.
 Therefore, not A.
 
 ::: notes :::
+A bad habit that most of us have is that we rarely spell out the reasons for our beliefs very carefully.
 If you negate the consequent, the antecedent must be false.
 If A, then B.  Not B. Therefore, not A.
 :::
 
 ## Menti.com {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+<BR>
 
-What do you think of the argument?
+Answer a queston about the argument.
 
 ::: notes :::
 Grand illusion argument logic
@@ -109,7 +135,7 @@ Premise 2 does not negate the consequent of Premise 1.
 Something else.
 :::
 
-## Argument for the grand illusion {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## Argument for "the grand illusion" {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 <BR>
 
 **Premise 1**. If you visually experience most of a scene's objects, you will notice major changes to them.
@@ -123,6 +149,7 @@ Researchers have mostly contested premise 1.
 :::
 
 ## Needed to detect a change {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+<BR>
 
 1. Internal representations of the object before and after the change.
 
@@ -138,12 +165,14 @@ Researchers have mostly contested premise 1.
 
 
 ::: notes :::
-Does visually experiencing most of a scene's objects entail having all 3 of these processes?
+Does visually experiencing most of a scene's objects entail having what's necessary to detect a change?
+In other words, is it possible to have visual experience without having one of these?
+In that case, you can 
 There's a lot of text here, so let's simplify
 :::
 
 
-## 2 of the processes for detecting a change {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## The processes for detecting a change {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 <BR>
 
 1. Before / after
@@ -159,7 +188,7 @@ There's a lot of text here, so let's simplify
 :::
 
 -   Premise 1 is questionable
--   Having visual experience of all the objects in a scene may not necessarily mean you also have 1 and 2
+-   You might be able to have visual experience of the objects without you having 1 and/or 2
 
 ::: notes :::
 If any one of these is not entailed by
@@ -172,7 +201,7 @@ Does having visual experience of all the objects in a scene mean you also have #
 
 -   Premise 1 was part of the argument for the grand illusion
 -   Premise 1 is highly questionable
--   The argument for the "grand illusion" is not good
+-   The argument for the "grand illusion" is not good!
 
 ## Explaining change blindness
 
@@ -190,17 +219,23 @@ Or both.
 ## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 ::: {.fragment .strike}
-Change blindness -> "grand illusion"
+Change blindness -> "the grand illusion"
 :::
 
--   You can still think that there is a "grand illusion" of visual experience, but change blindness is not a good argument for it.
--   There is other evidence that we only have access to a few visual objects
-    -   Ned Block still thinks that phenomenal content overflows cognitive access. 
+-   You can still believe there is a "grand illusion" of visual experience, but change blindness is not a good argument for it.
 
+<BR>
+
+-   There is *other* evidence that we only have access to a few visual objects
+    -   ![](images/NedBlockBook.jpg)
+    
 ::: aside
 For more, see [Overgaard (2018)](https://royalsocietypublishing.org/doi/10.1098/rstb.2017.0353)
 :::
 
+::: notes :::
+Ned Block still thinks that phenomenal content overflows cognitive access. 
+:::
 
 ## Blank-screen sandwiches: Other lessons {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
@@ -214,24 +249,27 @@ Some other lessons we can draw from change blindness
 
 ##  {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
-![](images/changeBlindnessLeafTooHardSmallPeriphery.gif)
+![](images/changeBlindnessLeafTooHardSmallPeriphery.gif){width=90%}
 
 ::: notes :::
 May need to refresh page to see GIF
 :::
 
 ## Peripheral vision {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+<BR>
 
-Good experiments ensure that the object is visible in the periphery.
+Good experimenters ensure that the object is visible in the periphery.
 
 -   If the object is not visible in the periphery, need *overt* attention to the location, not just covert attention
+    -   Unsurprising that this can't be done at all locations at once!
 
 ::: notes :::
 I've conditioned you to say "bottleneck" but in this particular demonstration, the change is quite small.
 :::
 
 
-## Poor peripheral vision
+## Peripheral vision
+<BR>
 
 ![](images/changeBlindnessBoatEditedFromWikipediaSmallPeripheral.gif)
 
@@ -247,15 +285,21 @@ Poor peripheral vision
 
 -   In experiments, stimuli are placed carefully so they are visible in the periphery
 
+::: aside
+![Becker, Anstis, and Pashler (2000)](https://journals.sagepub.com/doi/10.1068/p3035)
+:::
+
 ::: notes :::
 Experimenters control this
 :::
 
 ## Once you find it, it's hard to un-see it {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+<BR>
 
 ![](images/changeBlindnessPants.gif)
 
 -   Memories guide attention quickly
+-   This helps us in countless situations, including on the road
 
 <!--changeBlindnessMilkOregan.gif-->
 
@@ -264,7 +308,8 @@ Showing one you already saw before.
 Once you find it, it's so hard to un-see it
 :::
 
-## Without an intervening frame {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## No blank frame {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+<BR>
 
 ![](images/changeBlindnessNoBlank.gif)
 
@@ -283,7 +328,13 @@ Nulls the motion detectors
 
 ![](images/changeBlindnessPants.gif)
 
--   Motion detectors respond to flicker 
+-   Motion detectors respond to flicker
+-   If there's motion everywhere, there might as well be motion nowhere
+    -  Odd motion detector response no longer makes change location salient
+    
+::: notes :::
+Motion no longer informs us of the change
+:::
 
 ## {background-image="images/hardQuiz.jpg" background-opacity="0.6"}
 
@@ -300,7 +351,7 @@ D. It hurts peripheral vision, making the change harder to detect.
 
 ## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
-![](images/changeBlindnessMudSplashesRoad.gif)
+![](images/changeBlindnessMudSplashesRoad.gif){width=70%}
 
 -   "Mud splashes" almost as good as blank screen
 -   Motion detectors misdirect attention
@@ -335,22 +386,25 @@ Why are gradual changes hard to find?
 
 
 ## Tutorial Week 5 {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+<BR>
 
 Implications for driving
 
-## Change blindness in continuous video {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## Change blindness in continuous movie {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 <BR>
 
 {{< video https://www.youtube.com/embed/hkEMkgVI3y4?si=-mttE-QT3mappfrb&amp;start=36 >}}
 
+
 ::: aside
-![Youtube](https://www.youtube.com/watch?v=hkEMkgVI3y4)
+[Youtube](https://www.youtube.com/watch?v=hkEMkgVI3y4)
 :::
 
 ## 
 
 {{< video https://www.youtube.com/embed/hkEMkgVI3y4?si=-mttE-QT3mappfrb&amp;start=36 >}}
 
+<BR>
 Menti.com
 
 Why do people miss many of the changes?

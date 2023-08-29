@@ -1,0 +1,267 @@
+---
+title: "Attention Lecture 5"
+title-slide-attributes:
+  data-background-image: images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg
+  data-background-size: contain
+  data-background-opacity: "0.5"
+author: "Alex Holcombe"
+date: today
+format: 
+  revealjs:
+    smaller: true
+    auto-stretch: false #Otherwise manual image resize (e.g. width) doesn't work!
+    incremental: true
+    self-contained: false
+    slide-number: c/t
+    footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
+    theme: ["simple", "styles.scss"]
+    echo: true
+    multiplex: false
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+editor: source
+---
+
+<!--sometimes have to turn multiplex false to load speaker notes -->
+
+<!--As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.-->
+
+## Lecture 4 CLEAN-UP and REVIEW {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+## Didn't understand:
+
+![](images/lecture3DidntUnderstandWithAnswers.png)
+
+
+
+## DISTRACTION {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.3"}
+
+Socrative slide 23
+
+## What most distracts you doing lecture? {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+![](images/distractionsDuringLectureCensored.png) 
+
+::: notes 
+Some of these are bottom-up sensory events Some are ongoing life concerns (top-down) Some are basic drives (hunger)
+:::
+
+## Distractions during studying
+
+phone, phone, Phone, Phone, phone, Phone, phone, my phone, cellphone, My phone, buzzing phone, Phone buzzing, My damn phonnneeee :(
+
+My phone, the habit of picking it up all the time
+
+messages/instagram
+
+my boyfriend playing video games right next to me
+
+flat mate coming into my room
+
+The clock
+
+Social media
+
+snacks
+
+vacuumming in the background, remembering random things
+
+My own thoughts
+
+Cans of kombucha being drunk.
+
+my housemates
+
+
+## Distraction diary results
+
+![](images/inClassVsOutsideClass.png)
+
+
+
+## Social factors
+
+When we did that demonstration, we did it as a big group
+
+Co-working sessions.
+
+Shut up and write sessions
+
+One reason team sports are great, you're not going to just stop running and let down the team
+
+## 
+
+Ezra Klein wrote beautifully about this situation this week in the New York Times:
+
+Gloria Mark, a professor of information science at the University of California, Irvine, and the author of "Attention Span," started researching the way people used computers in 2004. The average time people spent on a single screen was 2.5 minutes. "I was astounded," she told me. "That was so much worse than I'd thought it would be." But that was just the beginning. By 2012, Mark and her colleagues found the average time on a single task was 75 seconds. Now it's down to about 47.
+
+This is an acid bath for human cognition. Multitasking is mostly a myth. We can focus on one thing at a time. "It's like we have an internal whiteboard in our minds," Mark said. "If I'm working on one task, I have all the info I need on that mental whiteboard. Then I switch to email. I have to mentally erase that whiteboard and write all the information I need to do email. And just like on a real whiteboard, there can be a residue in our minds. We may still be thinking of something from three tasks ago."
+
+## Individual differences
+
+-   What do we know?
+    -   You're going to be disappointed
+
+::: notes
+This is one of the things people are most interested in
+:::
+
+## Demonstration: studying humans requires getting lots of data
+
+-   Data is noisy
+-   Need multiple humans or lots of trials
+
+## Time perception mini-study
+
+::: notes
+Close eyes for 34 sec
+:::
+
+## Give your answer
+
+https://forms.gle/yy3NXtMfXxJESzzR9
+
+![](images/googleFormOneResponseURLbarcode.png)
+
+-   How many seconds do you think that was?
+-   Ask your neighbor how long they thought. Enter the average of your two numbers
+
+## Results
+
+::: notes
+https://docs.google.com/spreadsheets/d/1NeXENqg0K9HTEsZUMksamHq_iJ3qho9Az9ji-5mjrSE
+:::
+
+## To find out how accurate time perception is, averaged people together
+
+-   We found out that for the average person here, today, it was \_\_\_\_\_\_\_\_\_
+-   If we had taken just number
+
+## Sources of individual differences
+
+-   Stable
+-   Temporary (day, month, year)
+
+## Sources of individual differences
+
+-   Stable
+-   Temporary (day, month, year) vs. stable
+-   Motivation
+    -   Stable
+    -   Temporary: To do well in that particular study, or on that day
+-   Understood instructions versus didn't
+
+## Sources of individual differences
+
+-   Continuum, neurodiversity
+-   What is the "normal range"?
+    -   No objective answer usually
+    -   Clinicians have to define it in terms of impairment of culturally-expected functioning
+
+
+<!-- In one of these classes, vary the distraction diary to keeping phone on as normal aand recording notification checks -->
+
+## CONTROLLING BOTTOM-UP SENSORY EVENTS
+
+## Turn off phone notifications!
+
+## 
+
+You might be saying I really need to co ce trade on this, but millions years evolution is saying otherwise, that you need to keep your ears turned on
+
+## Earplugs
+
+Don't be a passive victim of your animal nature!
+
+What do you do to shut out the world?
+
+![](images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg)
+
+## Are you not going to do it because it's not cool?
+
+![](images/masksComfortablePrincessBridge.jpg) ::: notes Why do you wear a mask, do you have horrible scars? :::
+
+##  {background-image="images/threeWiseMonkeys/monkeyNoHear.jpeg" background-size="800px" background-repeat="repeat"}
+
+-   ![](images/earplug.jpg){width="40%"}
+
+::: notes
+But you know what, you don't have to wait.
+There won't be any psychology tricks that are as effective as mechanical solutions.
+:::
+
+## MENTIMETER: WHEN HAVE YOU BEEN MOST FOCUSED?
+
+IRINA'S VIDEO GAMER DIES FROM FOCUS
+
+## Find a study on how repeated events or learned events become less distracting
+
+[.](https://www.youtube.com/embed/sXjoGtuAkNU?si=84n6LvMVW98ykm8y&start=29)
+
+The dog's bark changes rapidly and has a chaotic rhythm. If it was a constant repetition and rhythm, you'd anticipate it well and could suppress it better.
+
+<!--Another side to the poem - enjoying sensory absorption. You decide when it will occur -->
+## 
+
+All day, the world makes its demands. There's so much of it, world
+
+begging to be noticed.
+
+![](images/LeilaChatti.jpeg){width="40%"}
+
+## 
+
+ultrawhelmed sensorium, my self
+
+taxed with being a self, brimming with living's rowdy mechanics and disruptions unremitting, a thought flits by, then another (an unpaid bill, a jingle's tenacious refrain)---and, ... I attend, as best I can,...\
+yielding to the most persuasive god, the most recent, to each thing I say Yes? Yes!--- zealot of whatever calls me next.
+
+::: notes
+It was actually called "A poem for Sunday" and on a Sunday there can be a joy in this. Mindfulness or living in the moment
+:::
+
+## Visual search
+
+Visual search slides including expertise - xrays,
+
+## Four factors for managing attention
+
+https://psyc2016.whatanimalssee.com/the-role-of-memory-and-expectation.html#fourFactors
+
+## The tipsy gorilla study
+
+I have a comment to enter it here: https://psyc2016.whatanimalssee.com/the-role-of-memory-and-expectation.html#fourFactors
+
+## Other topics
+
+Automaticity
+
+## QUOTE
+
+> To pay attention, this is our endless and proper work
+
+-   Mary Oliver
+
+## 
+
+-   Lecture 2
+
+    -   People have known about distraction for thousands of years
+        -   Buddhism. Are you a victim of your attentional mechanisms?
+        -   Flash a bunch of self-help book images.
+        -   animals for millions
+    -   "What in this image attracts your attention?" Gradual transition from salience to more goal-directed
+
+-   My story
+
+    -   Like many others, I spend too much time on social media.
+    -   Tried apps that stopped me from using the internet.
+    -   Fall off the wagon
+    -   The Pomodoro method - preserve the rewards, but delay them so you have more uninterrupted work session.
+
+    Come back to dual-letters and explain left advantage
+
+## Explore/exploit
+
+You might be saying I really need to co ce trade on this, but millions years evolution is saying otherwise, that you need to keep checking for things
