@@ -191,15 +191,19 @@ Let's have another look at this diagram. I categorized your responses
 ## What most distracts you during lecture?
 <BR>
 
-**Sensory events**: noise, other peoples laptops, dense slides, muscle soreness, *phone* [CHAPTER 5](https://psyc2016.whatanimalssee.com/btmUpTopDown.html)
+**Sensory events**: noise, other peoples laptops, dense slides, muscle soreness, *phone* [Chapter 5](https://psyc2016.whatanimalssee.com/btmUpTopDown.html)
 
 **Cognitive and interest**: "boring lectures", social media - instagram, *phone*, tangents, spring break planning, content is too hard or ez.  ALL CHAPTERS THAT MENTION TOP-DOWN, MEMORY, and [Chapter 16](https://psyc2016.whatanimalssee.com/distraction1.html)
 
-**Drives**: hunger, sleepiness, boys. NOT COVERED IN PSYC2016. Social contact
+**Drives**: hunger, sleepiness, boys. NOT COVERED IN PSYC2016. 
 
 **Life issues**: issues in my life, other works, other deadlines. NOT COVERED IN PSYC2016
 
-## [Ezra Klein](https://www.nytimes.com/2023/05/28/opinion/artificial-intelligence-thinking-minds-concentration.html) on mobile phones
+::: notes :::
+Drive for social contact
+::::
+
+## [Ezra Klein](https://www.nytimes.com/2023/05/28/opinion/artificial-intelligence-thinking-minds-concentration.html) on mobile phones {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 -   In 1970, imagine I told you that I was going to invent a sinister tool...
 
@@ -211,29 +215,30 @@ Let's have another look at this diagram. I categorized your responses
 
 -   What would you have thought this engine of distraction, division and cognitive fracture would do to humanity?
 
+-   Also: Drives social interaction by stoking outrage around the news.
+
 ::: notes :::
 He refers to societal interest factors. These have been weaponized into an outrage machine.
-:::
-
-## Societal + social
-
-Promoting the hottest takes on the latest news, to drive social interaction around outrage.
-
-::: notes :::
 I'm not a social psychologist or sociologist
 :::
 
-## Pairing this melange of interesting things with opening the app
+## Associative learning
 
-Every time you open an app, you get one of these many interesting things
+-   Most times you open an app, you get one of these many interesting things
 
 Some of the cognitive is habits created by rewards [Chapter 16](https://psyc2016.whatanimalssee.com/distraction1.html)
 
-## Ultimate is videogames
+## Ultimate is videogames {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
+![](images/videoGameBingerDies.png)
+::: notes :::
+Video games provide the right level of challenge, a constant sense of achievement 
+But this illustrates how a videogame can be so rewarding that it crowds out all other activities.
 
+An important thing to gain out of a university education, in addition to logical reasoning, is skepticism!
+:::
 
-## What distracts you during studying?
+## What distracts you during studying? {background-image="images/UsydClassStudents.png" background-opacity="0.15"}
 
 phone; phone; Phone; Phone; phone; Phone; phone; my phone; cellphone; My phone; buzzing phone; Phone buzzing; My damn phonnneeee :(
 
@@ -280,6 +285,10 @@ This is an acid bath for human cognition. Multitasking is mostly a myth. We can 
 
 ![](images/GloriaMarkAttentionSpanBook.jpeg)
 
+::: notes :::
+Think about how little time you spend on each post
+:::
+
 ## Distraction diary
 
 ![](images/inClassVsOutsideClass.png)
@@ -299,40 +308,57 @@ I was hoping that I would be able to compare amount of distractions in-class com
 
 ## Cognitive / motivational factors
 
-Explore/exploit
+-   When we find something rewarding/worthwhile, we **exploit** that opportunity
+-   Vigilance isn't the only reason we attend to events that aren't part of our current task
+-   Exploration is a drive
+    -   The *yin* to exploitation's *yang*
+-   The "explore/exploit trade-off"
 
-You might be saying I really need to co ce trade on this, but millions years evolution is saying otherwise, that you need to keep checking for things
+::: notes :::
+Many animals, including us, have a drive to explore the world.
+:::
 
 
 ## CONTROLLING BOTTOM-UP SENSORY EVENTS
 
 ## Turn off phone notifications!
 
+![](images/notificationDetoxIrishTimes.png) [Irish times](https://www.irishtimes.com/culture/tv-radio-web/one-ping-after-another-why-we-all-need-a-notification-detox-1.4153895)
+
 ## 
 
-You might be saying I really need to concentrate on this, but millions years evolution is saying otherwise, that you need to keep your ears turned on
+![](images/SiliconValleySchoolNoDevices.png)
+::: notes :::
+My teenager
+:::
 
-## Earplugs
-
-Don't be a passive victim of your animal nature!
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 What do you do to shut out the world?
 
 ![](images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg)
+::: notes :::
+You might be saying I really need to concentrate on this, but millions years evolution is saying otherwise, that you need to keep your ears turned on
+:::
 
-## Are you not going to do it because it's not cool?
-
-![](images/masksComfortablePrincessBridge.jpg) ::: notes Why do you wear a mask, do you have horrible scars? :::
 
 ##  {background-image="images/threeWiseMonkeys/monkeyNoHear.jpeg" background-size="800px" background-repeat="repeat"}
 
--   ![](images/earplug.jpg){width="40%"}
+![](images/earplug.jpg){width="40%"}
 
 ::: notes
 But you know what, you don't have to wait.
 There won't be any psychology tricks that are as effective as mechanical solutions.
+Put on mask.
 :::
 
+## Are you not going to do it because it's not cool? {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+![](images/masksComfortablePrincessBridge.jpg) 
+
+::: notes 
+Why do you wear a mask, do you have horrible scars on your face or something? 
+:::
 
 ## Molly Worthen on monastic university classes
 
@@ -409,7 +435,9 @@ https://docs.google.com/spreadsheets/d/1NeXENqg0K9HTEsZUMksamHq_iJ3qho9Az9ji-5mj
 
 <!-- In one of these classes, vary the distraction diary to keeping phone on as normal aand recording notification checks -->
 
+## Join the lab
 
+![](images/labPhoto.png)
 
 ## Find a study on how repeated events or learned events become less distracting I ALREADY HAVE ASPLUND IN THE BOOK
 
