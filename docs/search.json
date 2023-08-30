@@ -466,7 +466,7 @@
     "href": "lecture2.html#homework-the-distraction-diary",
     "title": "PSYC2016: Attention lecture 2",
     "section": "Homework: The distraction diary",
-    "text": "Homework: The distraction diary\n To do when you have ten minutes or more to concentrate on studying or other computer work.\n\nPut your phone on airplane mode.\nTurn off notifications on your computer if you know how.\nStart the stopwatch (often in Clock in Android).\nPress “lap” every time you can’t help yourself and you check social media, the news, or otherwise get off task.\n\n\n\nTry not to think of this as homework, You should be reading the mini-text anyway, so why not let it do double duty as a self-insight exercise."
+    "text": "Homework: The distraction diary\n To do when you have ten minutes or more to concentrate on studying or other computer work.\n\nPut your phone on airplane mode.\nTurn off notifications on your computer if you know how.\nStart the stopwatch (often in Clock in Android).\nPress “lap” every time you can’t help yourself and you check social media, the news, or otherwise get off task.\nWrite down / save all the “lap” times of the first ten minutes\n\n\n\nTry not to think of this as homework, You should be reading the mini-text anyway, so why not let it do double duty as a self-insight exercise."
   },
   {
     "objectID": "lecture2.html#distraction",
@@ -746,7 +746,7 @@
     "href": "lecture2.html#combining-location-and-feature-selection-cant-be-done",
     "title": "PSYC2016: Attention lecture 2",
     "section": "Combining location and feature selection can’t be done",
-    "text": "Combining location and feature selection can’t be done\nProbably due to separation of what and where pathways.\n ::: notes ::: I ad-libbed about how it makes sense that object recognition doesn’t need location information much, whereas location is more important for action. :::"
+    "text": "Combining location and feature selection can’t be done\nProbably due to separation of what and where pathways.\n\n\nI ad-libbed about how it makes sense that object recognition doesn’t need location information much, whereas location is more important for action."
   },
   {
     "objectID": "lecture2.html#binocular-rivalry-versus-dual-letters",
@@ -809,7 +809,7 @@
     "href": "lecture2.html#chapter-7-feature-selection-is-compulsorily-global",
     "title": "PSYC2016: Attention lecture 2",
     "section": "Chapter 7: Feature selection is compulsorily global",
-    "text": "Chapter 7: Feature selection is compulsorily global\n\n\nGlobal facilitation of attended features is obligatory and restricts divided attention. Anderson et al. They showed this with EEG"
+    "text": "Chapter 7: Feature selection is compulsorily global\n\n\nNeed to make better (sparser?) version of this.\nGlobal facilitation of attended features is obligatory and restricts divided attention. Anderson et al. They showed this with EEG"
   },
   {
     "objectID": "lecture2.html#chapter-7-feature-selection-is-compulsorily-global-1",
@@ -2244,7 +2244,7 @@
     "href": "globalShape.html#pairing-shape-with-color-2",
     "title": "Shape",
     "section": "Pairing shape with color",
-    "text": "Pairing shape with color\nSignal dots are one color, noise dots are another color\n ::: notes ::: Blue signal red noise :::"
+    "text": "Pairing shape with color\nSignal dots are one color, noise dots are another color\n\n\nBlue signal red noise"
   },
   {
     "objectID": "globalShape.html#quantifying-binding-cost",
@@ -2258,7 +2258,7 @@
     "href": "globalShape.html#pairing-shape-with-color-3",
     "title": "Shape",
     "section": "Pairing shape with color",
-    "text": "Pairing shape with color\nSignal dots are one color, noise dots are another color\n ##"
+    "text": "Pairing shape with color\nSignal dots are one color, noise dots are another color"
   },
   {
     "objectID": "globalShape.html#pairing-shape-with-color-4",
@@ -3491,5 +3491,397 @@
     "title": "Attention Lecture 5",
     "section": "",
     "text": "Lecture 2\n\nPeople have known about distraction for thousands of years\n\nBuddhism. Are you a victim of your attentional mechanisms?\nFlash a bunch of self-help book images.\nanimals for millions\n\n“What in this image attracts your attention?” Gradual transition from salience to more goal-directed\n\nMy story\n\nLike many others, I spend too much time on social media.\nTried apps that stopped me from using the internet.\nFall off the wagon\nThe Pomodoro method - preserve the rewards, but delay them so you have more uninterrupted work session.\n\nCome back to dual-letters and explain left advantage\n\nMy partner doesn’t get distracted. Whereas I can’t have the TV on, on anything!"
+  },
+  {
+    "objectID": "lecture5distraction.html#lecture-4-clean-up-and-review",
+    "href": "lecture5distraction.html#lecture-4-clean-up-and-review",
+    "title": "Attention Lecture 5",
+    "section": "Lecture 4 CLEAN-UP and REVIEW",
+    "text": "Lecture 4 CLEAN-UP and REVIEW"
+  },
+  {
+    "objectID": "lecture5distraction.html#didnt-understand",
+    "href": "lecture5distraction.html#didnt-understand",
+    "title": "Attention Lecture 5",
+    "section": "Didn’t understand:",
+    "text": "Didn’t understand:\n\n\n\nthere were a few questions about the grand illusion which I address next"
+  },
+  {
+    "objectID": "lecture5distraction.html#section",
+    "href": "lecture5distraction.html#section",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "It relies on having visual experience of the whole visual field entailing that you’d detect major changes to the visual field. (look up the word “entail”)\nBut based on our analysis of what change detection involves, it may not entail that.\nSo that argument for the “grand illusion” is not very good."
+  },
+  {
+    "objectID": "lecture5distraction.html#section-1",
+    "href": "lecture5distraction.html#section-1",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "When I first presented the argument, the majority agreed that our feeling of experiencing everything must be only an illusion.\nThe “grand illusion” argument goes that if we really did experience everything in the scene, we would quickly detect changes to the objects in the scene. So, because we don’t quickly detect many changes to the scene (change blindness), we must not really experience everything.\nThis is not a great argument, specifically the first part that says that if we really did experience everything, we would quickly detect changes. Maybe we really do experience everything but we don’t have a comparison process that’s always comparing everything. Or maybe we really do experience everything but we don’t have a representation of the scene a short time ago, so we can’t do the comparison.\n\nI know it’s hard."
+  },
+  {
+    "objectID": "lecture5distraction.html#distraction",
+    "href": "lecture5distraction.html#distraction",
+    "title": "Attention Lecture 5",
+    "section": "DISTRACTION",
+    "text": "DISTRACTION"
+  },
+  {
+    "objectID": "lecture5distraction.html#what-most-distracts-you-during-lecture",
+    "href": "lecture5distraction.html#what-most-distracts-you-during-lecture",
+    "title": "Attention Lecture 5",
+    "section": "What most distracts you during lecture?",
+    "text": "What most distracts you during lecture?\n\n\nSome of these are bottom-up sensory events Some are ongoing life concerns (top-down) Some are basic drives (hunger)"
+  },
+  {
+    "objectID": "lecture5distraction.html#what-most-distracts-you-during-lecture-1",
+    "href": "lecture5distraction.html#what-most-distracts-you-during-lecture-1",
+    "title": "Attention Lecture 5",
+    "section": "What most distracts you during lecture?",
+    "text": "What most distracts you during lecture?\n\nSensory events: noise, other peoples laptops, dense slides, muscle soreness, phone CHAPTER 5\nCognitive and interest: “boring lectures”, social media - instagram, phone, tangents, spring break planning, content is too hard or ez. ALL CHAPTERS THAT MENTION TOP-DOWN, MEMORY, and Chapter 16\nDrives: hunger, sleepiness, boys. NOT COVERED IN PSYC2016\nLife issues: issues in my life, other works, other deadlines. NOT COVERED IN PSYC2016"
+  },
+  {
+    "objectID": "lecture5distraction.html#section-2",
+    "href": "lecture5distraction.html#section-2",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "“Our mind becomes like a pinball propelled from lever to lever by text chimes, social media notifications and targeted ads.”\n\n“Without top-down control of our attention, we open ourselves up to stimuli that steer our attention for us.”"
+  },
+  {
+    "objectID": "lecture5distraction.html#what-distracts-you-during-studying",
+    "href": "lecture5distraction.html#what-distracts-you-during-studying",
+    "title": "Attention Lecture 5",
+    "section": "What distracts you during studying?",
+    "text": "What distracts you during studying?\nphone; phone; Phone; Phone; phone; Phone; phone; my phone; cellphone; My phone; buzzing phone; Phone buzzing; My damn phonnneeee :(\nMy phone, the habit of picking it up all the time\nmessages/instagram\nmy boyfriend playing video games right next to me\nflat mate coming into my room\nThe clock\nSocial media\nsnacks\nvacuumming in the background, remembering random things\nMy own thoughts\nCans of kombucha being drunk.\nmy housemates"
+  },
+  {
+    "objectID": "lecture5distraction.html#distraction-diary",
+    "href": "lecture5distraction.html#distraction-diary",
+    "title": "Attention Lecture 5",
+    "section": "Distraction diary",
+    "text": "Distraction diary\n\n\nI was hoping that I would be able to compare amount of distractions in-class compared to outside-of-class"
+  },
+  {
+    "objectID": "lecture5distraction.html#comparison",
+    "href": "lecture5distraction.html#comparison",
+    "title": "Attention Lecture 5",
+    "section": "Comparison",
+    "text": "Comparison\n\n\n5 min versus 10 min\nSelection bias\n\nThose who do the homework are more motivated to do homework and thus likely get distracted less"
+  },
+  {
+    "objectID": "lecture5distraction.html#social-factors",
+    "href": "lecture5distraction.html#social-factors",
+    "title": "Attention Lecture 5",
+    "section": "Social factors",
+    "text": "Social factors\nSocial facilitation\nThe in-class homework practice was done as a big group\nCo-working sessions.\nShut up and write sessions\n\nOne reason team sports are great, you’re not going to just stop running and let down the team"
+  },
+  {
+    "objectID": "lecture5distraction.html#section-3",
+    "href": "lecture5distraction.html#section-3",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "Some of the cognitive is habits created by rewards"
+  },
+  {
+    "objectID": "lecture5distraction.html#individual-differences",
+    "href": "lecture5distraction.html#individual-differences",
+    "title": "Attention Lecture 5",
+    "section": "Individual differences",
+    "text": "Individual differences\n\nWhat do we know?\n\nYou’re going to be disappointed\n\n\n\nThis is one of the things people are most interested in"
+  },
+  {
+    "objectID": "lecture5distraction.html#demonstration-studying-humans-requires-getting-lots-of-data",
+    "href": "lecture5distraction.html#demonstration-studying-humans-requires-getting-lots-of-data",
+    "title": "Attention Lecture 5",
+    "section": "Demonstration: studying humans requires getting lots of data",
+    "text": "Demonstration: studying humans requires getting lots of data\n\nData is noisy\nNeed multiple humans or lots of trials"
+  },
+  {
+    "objectID": "lecture5distraction.html#time-perception-mini-study",
+    "href": "lecture5distraction.html#time-perception-mini-study",
+    "title": "Attention Lecture 5",
+    "section": "Time perception mini-study",
+    "text": "Time perception mini-study\n\nClose eyes for 34 sec"
+  },
+  {
+    "objectID": "lecture5distraction.html#give-your-answer",
+    "href": "lecture5distraction.html#give-your-answer",
+    "title": "Attention Lecture 5",
+    "section": "Give your answer",
+    "text": "Give your answer\nhttps://forms.gle/yy3NXtMfXxJESzzR9\n\n\nHow many seconds do you think that was?\nAsk your neighbor how long they thought. Enter the average of your two numbers"
+  },
+  {
+    "objectID": "lecture5distraction.html#results",
+    "href": "lecture5distraction.html#results",
+    "title": "Attention Lecture 5",
+    "section": "Results",
+    "text": "Results\n\nhttps://docs.google.com/spreadsheets/d/1NeXENqg0K9HTEsZUMksamHq_iJ3qho9Az9ji-5mjrSE"
+  },
+  {
+    "objectID": "lecture5distraction.html#to-find-out-how-accurate-time-perception-is-averaged-people-together",
+    "href": "lecture5distraction.html#to-find-out-how-accurate-time-perception-is-averaged-people-together",
+    "title": "Attention Lecture 5",
+    "section": "To find out how accurate time perception is, averaged people together",
+    "text": "To find out how accurate time perception is, averaged people together\n\nWe found out that for the average person here, today, it was _________\nIf we had taken just number"
+  },
+  {
+    "objectID": "lecture5distraction.html#sources-of-individual-differences",
+    "href": "lecture5distraction.html#sources-of-individual-differences",
+    "title": "Attention Lecture 5",
+    "section": "Sources of individual differences",
+    "text": "Sources of individual differences\n\nStable\nTemporary (day, month, year)"
+  },
+  {
+    "objectID": "lecture5distraction.html#sources-of-individual-differences-1",
+    "href": "lecture5distraction.html#sources-of-individual-differences-1",
+    "title": "Attention Lecture 5",
+    "section": "Sources of individual differences",
+    "text": "Sources of individual differences\n\nStable\nTemporary (day, month, year) vs. stable\nMotivation\n\nStable\nTemporary: To do well in that particular study, or on that day\n\nUnderstood instructions versus didn’t"
+  },
+  {
+    "objectID": "lecture5distraction.html#sources-of-individual-differences-2",
+    "href": "lecture5distraction.html#sources-of-individual-differences-2",
+    "title": "Attention Lecture 5",
+    "section": "Sources of individual differences",
+    "text": "Sources of individual differences\n\nContinuum, neurodiversity\nWhat is the “normal range”?\n\nNo objective answer usually\nClinicians have to define it in terms of impairment of culturally-expected functioning"
+  },
+  {
+    "objectID": "lecture5distraction.html#controlling-bottom-up-sensory-events",
+    "href": "lecture5distraction.html#controlling-bottom-up-sensory-events",
+    "title": "Attention Lecture 5",
+    "section": "CONTROLLING BOTTOM-UP SENSORY EVENTS",
+    "text": "CONTROLLING BOTTOM-UP SENSORY EVENTS"
+  },
+  {
+    "objectID": "lecture5distraction.html#turn-off-phone-notifications",
+    "href": "lecture5distraction.html#turn-off-phone-notifications",
+    "title": "Attention Lecture 5",
+    "section": "Turn off phone notifications!",
+    "text": "Turn off phone notifications!"
+  },
+  {
+    "objectID": "lecture5distraction.html#section-4",
+    "href": "lecture5distraction.html#section-4",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "Gloria Mark, a professor of information science at the University of California, Irvine, and the author of “Attention Span,” started researching the way people used computers in 2004. The average time people spent on a single screen was 2.5 minutes. “I was astounded,” she told me. “That was so much worse than I’d thought it would be.” But that was just the beginning. By 2012, Mark and her colleagues found the average time on a single task was 75 seconds. Now it’s down to about 47.\nThis is an acid bath for human cognition. Multitasking is mostly a myth. We can focus on one thing at a time. “It’s like we have an internal whiteboard in our minds,” Mark said. “If I’m working on one task, I have all the info I need on that mental whiteboard. Then I switch to email. I have to mentally erase that whiteboard and write all the information I need to do email. And just like on a real whiteboard, there can be a residue in our minds. We may still be thinking of something from three tasks ago.”"
+  },
+  {
+    "objectID": "lecture5distraction.html#earplugs",
+    "href": "lecture5distraction.html#earplugs",
+    "title": "Attention Lecture 5",
+    "section": "Earplugs",
+    "text": "Earplugs\nDon’t be a passive victim of your animal nature!\nWhat do you do to shut out the world?"
+  },
+  {
+    "objectID": "lecture5distraction.html#are-you-not-going-to-do-it-because-its-not-cool",
+    "href": "lecture5distraction.html#are-you-not-going-to-do-it-because-its-not-cool",
+    "title": "Attention Lecture 5",
+    "section": "Are you not going to do it because it’s not cool?",
+    "text": "Are you not going to do it because it’s not cool?\n ::: notes Why do you wear a mask, do you have horrible scars? :::"
+  },
+  {
+    "objectID": "lecture5distraction.html#section-5",
+    "href": "lecture5distraction.html#section-5",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "You might be saying I really need to co ce trade on this, but millions years evolution is saying otherwise, that you need to keep your ears turned on"
+  },
+  {
+    "objectID": "lecture5distraction.html#mentimeter-when-have-you-been-most-focused",
+    "href": "lecture5distraction.html#mentimeter-when-have-you-been-most-focused",
+    "title": "Attention Lecture 5",
+    "section": "MENTIMETER: WHEN HAVE YOU BEEN MOST FOCUSED?",
+    "text": "MENTIMETER: WHEN HAVE YOU BEEN MOST FOCUSED?\nIRINA’S VIDEO GAMER DIES FROM FOCUS"
+  },
+  {
+    "objectID": "lecture5distraction.html#find-a-study-on-how-repeated-events-or-learned-events-become-less-distracting",
+    "href": "lecture5distraction.html#find-a-study-on-how-repeated-events-or-learned-events-become-less-distracting",
+    "title": "Attention Lecture 5",
+    "section": "Find a study on how repeated events or learned events become less distracting",
+    "text": "Find a study on how repeated events or learned events become less distracting\n.\nThe dog’s bark changes rapidly and has a chaotic rhythm. If it was a constant repetition and rhythm, you’d anticipate it well and could suppress it better."
+  },
+  {
+    "objectID": "lecture5distraction.html#section-6",
+    "href": "lecture5distraction.html#section-6",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "You might be saying I really need to co ce trade on this, but millions years evolution is saying otherwise, that you need to keep your ears turned on"
+  },
+  {
+    "objectID": "lecture5distraction.html#section-7",
+    "href": "lecture5distraction.html#section-7",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "But you know what, you don’t have to wait. There won’t be any psychology tricks that are as effective as mechanical solutions."
+  },
+  {
+    "objectID": "lecture5distraction.html#visual-search",
+    "href": "lecture5distraction.html#visual-search",
+    "title": "Attention Lecture 5",
+    "section": "Visual search",
+    "text": "Visual search\nVisual search slides including expertise - xrays,"
+  },
+  {
+    "objectID": "lecture5distraction.html#four-factors-for-managing-attention",
+    "href": "lecture5distraction.html#four-factors-for-managing-attention",
+    "title": "Attention Lecture 5",
+    "section": "Four factors for managing attention",
+    "text": "Four factors for managing attention\nhttps://psyc2016.whatanimalssee.com/the-role-of-memory-and-expectation.html#fourFactors"
+  },
+  {
+    "objectID": "lecture5distraction.html#the-tipsy-gorilla-study",
+    "href": "lecture5distraction.html#the-tipsy-gorilla-study",
+    "title": "Attention Lecture 5",
+    "section": "The tipsy gorilla study",
+    "text": "The tipsy gorilla study\nI have a comment to enter it here: https://psyc2016.whatanimalssee.com/the-role-of-memory-and-expectation.html#fourFactors"
+  },
+  {
+    "objectID": "lecture5distraction.html#other-topics",
+    "href": "lecture5distraction.html#other-topics",
+    "title": "Attention Lecture 5",
+    "section": "Other topics",
+    "text": "Other topics\nAutomaticity"
+  },
+  {
+    "objectID": "lecture5distraction.html#section-8",
+    "href": "lecture5distraction.html#section-8",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "All day, the world makes its demands. There’s so much of it, world\nbegging to be noticed."
+  },
+  {
+    "objectID": "lecture5distraction.html#exploreexploit",
+    "href": "lecture5distraction.html#exploreexploit",
+    "title": "Attention Lecture 5",
+    "section": "Explore/exploit",
+    "text": "Explore/exploit\nYou might be saying I really need to co ce trade on this, but millions years evolution is saying otherwise, that you need to keep checking for things\nSocrative slide 23\n\n\nPSYC2016: Attention"
+  },
+  {
+    "objectID": "lecture5distraction.html#section-9",
+    "href": "lecture5distraction.html#section-9",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "ultrawhelmed sensorium, my self\ntaxed with being a self, brimming with living’s rowdy mechanics and disruptions unremitting, a thought flits by, then another (an unpaid bill, a jingle’s tenacious refrain)—and, … I attend, as best I can,…\nyielding to the most persuasive god, the most recent, to each thing I say Yes? Yes!— zealot of whatever calls me next.\n\nIt was actually called “A poem for Sunday” and on a Sunday there can be a joy in this. Mindfulness or living in the moment"
+  },
+  {
+    "objectID": "lecture5distraction.html#what-most-distracts-you-during-lecture-2",
+    "href": "lecture5distraction.html#what-most-distracts-you-during-lecture-2",
+    "title": "Attention Lecture 5",
+    "section": "What most distracts you during lecture?",
+    "text": "What most distracts you during lecture?\n\nSensory events: noise, other peoples laptops, dense slides, muscle soreness, phone CHAPTER 5\nCognitive and interest: “boring lectures”, social media - instagram, phone, tangents, spring break planning, content is too hard or ez ALL CHAPTERS THAT MENTION TOP-DOWN,\nDrives: hunger, sleepiness, boys NOT COVERED\nLife issues: issues in my life, other works, other deadlines"
+  },
+  {
+    "objectID": "lecture5distraction.html#mobile-phones",
+    "href": "lecture5distraction.html#mobile-phones",
+    "title": "Attention Lecture 5",
+    "section": "Mobile phones",
+    "text": "Mobile phones\n\nWhen I was a kid, we didn’t have mobile phones! The #1 distraction didn’t exist."
+  },
+  {
+    "objectID": "lecture5distraction.html#section-10",
+    "href": "lecture5distraction.html#section-10",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "Lecture 2\n\nPeople have known about distraction for thousands of years\n\nBuddhism. Are you a victim of your attentional mechanisms?\nFlash a bunch of self-help book images.\nanimals for millions\n\n“What in this image attracts your attention?” Gradual transition from salience to more goal-directed\n\nMy story\n\nLike many others, I spend too much time on social media.\nTried apps that stopped me from using the internet.\nFall off the wagon\nThe Pomodoro method - preserve the rewards, but delay them so you have more uninterrupted work session.\n\nCome back to dual-letters and explain left advantage\n\nMy partner doesn’t get distracted. Whereas I can’t have the TV on, on anything!"
+  },
+  {
+    "objectID": "lecture5distraction.html#section-11",
+    "href": "lecture5distraction.html#section-11",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "Lecture 2\n\nPeople have known about distraction for thousands of years\n\nBuddhism. Are you a victim of your attentional mechanisms?\nFlash a bunch of self-help book images.\nanimals for millions\n\n“What in this image attracts your attention?” Gradual transition from salience to more goal-directed\n\nMy story\n\nLike many others, I spend too much time on social media.\nTried apps that stopped me from using the internet.\nFall off the wagon\nThe Pomodoro method - preserve the rewards, but delay them so you have more uninterrupted work session.\n\nCome back to dual-letters and explain left advantage\n\nMy partner doesn’t get distracted. Whereas I can’t have the TV on, on anything!"
+  },
+  {
+    "objectID": "lecture5distraction.html#ezra-klein-on-mobile-phones",
+    "href": "lecture5distraction.html#ezra-klein-on-mobile-phones",
+    "title": "Attention Lecture 5",
+    "section": "Ezra Klein on mobile phones",
+    "text": "Ezra Klein on mobile phones\n\nIn 1970, imagine I told you that I was going to invent a sinister tool…\nAs people used it, their attention spans would degrade, as the tool would constantly shift their focus, weakening their powers of concentration and contemplation.\nThis tool would show people whatever it is they found most difficult to look away from — which would often be what was most threatening about the world, from the worst ideas of their political opponents to the deep injustices of their society.\nIt would fit in their pockets and glow on their night stands and never truly be quiet; there would never be a moment when people could be free of the sense that the pile of messages and warnings and tasks needed to be checked.\nWhat would you have thought this engine of distraction, division and cognitive fracture would do to humanity?"
+  },
+  {
+    "objectID": "lecture5distraction.html#lecture-5",
+    "href": "lecture5distraction.html#lecture-5",
+    "title": "Attention Lecture 5",
+    "section": "Lecture 5",
+    "text": "Lecture 5\n\nThese Attention lectures form a bridge between the Perception and Cognition parts of PSYC2016\nI’ve been telling you about the perception end, the architecture\nBut these operate in a broader environment of social, motivational, and environmental factors\nSo I will briefly tell you about high-level factors that affect cognition"
+  },
+  {
+    "objectID": "lecture5distraction.html#molly-worthen-on-monastic-university-classes",
+    "href": "lecture5distraction.html#molly-worthen-on-monastic-university-classes",
+    "title": "Attention Lecture 5",
+    "section": "Molly Worthen on monastic university classes",
+    "text": "Molly Worthen on monastic university classes\nWe need an intervention: … a bold move to put the screens, the pinging notifications and the creepy humanoid A.I. chatbots in their proper place. They are our tools, not our masters. That doesn’t mean a futile attempt to wall off higher education from the modern world; it does mean selectively returning to the university’s roots in the monastic schools of medieval Europe and rekindling the old-fashioned quest for meaning.\nColleges should offer a radically low-tech first-year program for students who want to apply: a secular monastery within the modern university, with a curated set of courses that ban glowing rectangles of any kind from the classroom. Students could opt to live in dorms that restrict technology, too.\nThe first step is dethroning the small silicon idol in their pocket — and making space for the uncomfortable silence and questions that follow. The experience stuck with Ms. Ouyang, the nursing major. “I didn’t look forward to getting my phone back,” she said."
+  },
+  {
+    "objectID": "lecture5distraction.html#what-was-all-that-again",
+    "href": "lecture5distraction.html#what-was-all-that-again",
+    "title": "Attention Lecture 5",
+    "section": "What was all that again?",
+    "text": "What was all that again?\nReview, now in essay format:\nWhen I first presented the argument, the majority of students agreed that our feeling of experiencing everything must be only an illusion.\nThe “grand illusion” argument: if we really did experience everything in the scene, we would quickly detect changes to the objects in the scene. So, because we don’t quickly detect many changes to the scene (change blindness), we must not really experience everything.\nThis is not a great argument; the first part that says that if we really did experience everything, we would quickly detect changes. Maybe we really do experience everything but we don’t have a comparison process that’s always comparing everything. Or maybe we really do experience everything but we don’t have a representation of the scene a short time ago, so we can’t do the comparison. In other words, the idea that “if we really did experience everything, we would quickly detect changes” may be false.\n\nI know it’s hard."
+  },
+  {
+    "objectID": "lecture5distraction.html#the-puzzle",
+    "href": "lecture5distraction.html#the-puzzle",
+    "title": "Attention Lecture 5",
+    "section": "The puzzle",
+    "text": "The puzzle\n\nIntrospection says we experience the entire visual field simultaneously.\nResults of experiments find knowledge of what’s in the visual field is very limited, to only several objects, if you do things to prevent attention wandering around and building up the scene representation over time.\n\nHow do we reconcile 1 and 2?"
+  },
+  {
+    "objectID": "lecture5distraction.html#resolution",
+    "href": "lecture5distraction.html#resolution",
+    "title": "Attention Lecture 5",
+    "section": "Resolution",
+    "text": "Resolution\nBlock: “We do visually experience the whole visual field simultaneously, let me explain how the results of the experiments can also be true” (proceeds to write 550-page book)\n“Grand illusion of visual experience” people: “Block, you’re wrong. But we know you and others strongly believe you do experience the whole visual field simultaneously. We have to explain why you believe it so strongly, so we’ll posit that there’s a grand illusion of visual experience throughout the visual field. Maybe it’s caused in the same way as the refrigerator light illusion.”"
+  },
+  {
+    "objectID": "lecture5distraction.html#argument-for-the-grand-illusion-with-the-two-premises-and-conclusion",
+    "href": "lecture5distraction.html#argument-for-the-grand-illusion-with-the-two-premises-and-conclusion",
+    "title": "Attention Lecture 5",
+    "section": "Argument for the “grand illusion” with the two premises and conclusion",
+    "text": "Argument for the “grand illusion” with the two premises and conclusion\nIt relied on having visual experience of the whole visual field entailing that you’d detect major changes to the visual field. (look up the word “entail”)\nBut based on our analysis of what change detection involves, it may not entail that.\nSo that argument for the “grand illusion” is not very good."
+  },
+  {
+    "objectID": "lecture5distraction.html#reviewing-all-that-now-in-essay-format",
+    "href": "lecture5distraction.html#reviewing-all-that-now-in-essay-format",
+    "title": "Attention Lecture 5",
+    "section": "Reviewing all that, now in essay format",
+    "text": "Reviewing all that, now in essay format\nThe “grand illusion” argument: if we really did experience everything in the scene, we would quickly detect changes to the objects in the scene. So, because we don’t quickly detect many changes to the scene (change blindness), we must not really experience everything.\nAfter hearing the argument, the majority of Menti-responding students agreed that our feeling of experiencing everything must be only an illusion.\n\nBut the grand illusion argument is actually not a great argument; the first part that says that if we really did experience everything, we would quickly detect changes. Maybe we really do experience everything but we don’t have a comparison process that’s always comparing everything. Or maybe we really do experience everything but we don’t have a representation of the scene a short time ago, so we can’t do the comparison. In other words, the idea that “if we really did experience everything, we would quickly detect changes” may be false.\n\nI know it’s hard."
+  },
+  {
+    "objectID": "lecture5distraction.html#review-of-the-argument-now-in-essay-format",
+    "href": "lecture5distraction.html#review-of-the-argument-now-in-essay-format",
+    "title": "Attention Lecture 5",
+    "section": "Review of the argument, now in essay format",
+    "text": "Review of the argument, now in essay format\nThe “grand illusion” argument: if we really did experience everything in the scene, we would quickly detect changes to the objects in the scene. So, because we don’t quickly detect many changes to the scene (change blindness), we must not really experience everything.\nAfter hearing the argument, about half of students agreed that our feeling of experiencing everything must be only an illusion.\n\nBut the grand illusion argument is actually not a great argument; the first part that says that if we really did experience everything, we would quickly detect changes. Maybe we really do experience everything but we don’t have a comparison process that’s always comparing everything. Or maybe we really do experience everything but we don’t have a representation of the scene a short time ago, so we can’t do the comparison. In other words, the idea that “if we really did experience everything, we would quickly detect changes” may be false.\n\nI know it’s hard."
+  },
+  {
+    "objectID": "lecture5distraction.html#lectures-1-4-overview",
+    "href": "lecture5distraction.html#lectures-1-4-overview",
+    "title": "Attention Lecture 5",
+    "section": "Lectures 1-4 overview",
+    "text": "Lectures 1-4 overview\n\nA bridge between the Perception and Cognition parts of PSYC2016\nOur mental architecture is massively parallel followed by a bottleneck\n\nVarious details of this, including individual vs. combining features and change blindness\n\nTo deal with this limitation, we have\n\nCrude salience and alerting mechanisms\nGuidance of attention by memory\n\nThis helps explain distractions\n\n\nOur animal natures Now we can think in more informed way about distraction"
+  },
+  {
+    "objectID": "lecture5distraction.html#lectures-1-4-outline",
+    "href": "lecture5distraction.html#lectures-1-4-outline",
+    "title": "Attention Lecture 5",
+    "section": "Lectures 1-4 outline",
+    "text": "Lectures 1-4 outline\n\nWhy we need selective attention\n\nOvert attention\nBottleneck architecture of the visual system necessitates covert attention\nNeed for vigilance\n\nBecause of bottleneck, we evolved crude salience and alerting mechanisms\n\n\nKinds of selection\n\n\nMore on the parallel processing prior to the bottleneck\n\nBinocular rivalry vs. two separated letters\n\nBottom-up attention (Chapters 7 and 9)\nOur behavior is a mish-mash of competition between top-down and bottom-up\nCombinations of features typically aren’t processed in parallel - Selective attention is needed to combine features\nFeature selection is compulsorily global - Maybe because What processing (features) occurs on different pathway than Where pathway, which mediates spatial attention\n\n\nTreisman’s diagram and combining features\n\n\nIndividual-feature salience is computed in parallel\nFlat search slopes (parallel) vs. steep (serial)\nCombining features from two different objects takes the longest, but even within an object takes awhile (both require focused attention)\nIt feels like we see everything at once\nThe mysterious non-selective pathway\nShape - Combining oriented elements into a shape doesn’t require focused attention\n\nUses sophisticated cues\nFast\nCan combine many elements, oaveraging over noise\n\nCombining that shape with a color does require focused attention\n\n\n\n\nChange blindness"
+  },
+  {
+    "objectID": "lecture5distraction.html#a-combination-of-factors",
+    "href": "lecture5distraction.html#a-combination-of-factors",
+    "title": "Attention Lecture 5",
+    "section": "A combination of factors",
+    "text": "A combination of factors\n\n\nWe can’t understand distraction entirely in terms of sensory events and salience\n\n\nLet’s have another look at this diagram. I categorized your responses"
+  },
+  {
+    "objectID": "lecture5distraction.html#categorizing-the-distractions",
+    "href": "lecture5distraction.html#categorizing-the-distractions",
+    "title": "Attention Lecture 5",
+    "section": "Categorizing the distractions",
+    "text": "Categorizing the distractions\n\nSensory events: noise, other peoples laptops, dense slides, muscle soreness, phone\nCognitive and interest: “boring lectures”, social media - instagram, phone, tangents, spring break planning, content is too hard or ez\nDrives: hunger, sleepiness, boys\nLife issues: issues in my life, other works, other deadlines"
   }
 ]

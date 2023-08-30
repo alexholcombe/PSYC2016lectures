@@ -248,6 +248,7 @@ or select the stimuli in a particular region, but you can't combine those two ab
 Probably due to separation of what and where pathways.
 
 ![](images/300px-Ventral-dorsal_streams.png)
+
 ::: notes :::
 I ad-libbed about how it makes sense that object recognition doesn't need location information much, whereas location is more important for action.
 :::

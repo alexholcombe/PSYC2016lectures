@@ -189,13 +189,19 @@ Percentage signal dots needed to perceive shape-color combination is:
 
 Signal dots are one color, noise dots are another color
 
-![](images/GlassPatterns/blueSignalRedNoiseCircular.png) ::: notes ::: Blue signal red noise :::
+![](images/GlassPatterns/blueSignalRedNoiseCircular.png)
+
+::: notes ::: 
+Blue signal red noise
+:::
 
 ## Pairing shape with color
 
 Signal dots are one color, noise dots are another color
 
-![](images/GlassPatterns/redSignalBlueNoiseCircular.png) \##
+![](images/GlassPatterns/redSignalBlueNoiseCircular.png)
+
+##
 
 ![](images/GlassPatterns/redBlueSideBySideCircular.png)
 
