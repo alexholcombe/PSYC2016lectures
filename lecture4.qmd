@@ -428,5 +428,7 @@ Attention2SocrativeResponses.pdf
 
 ![](images/surveyEndOfLecture.png)
 
-
+<!--
+To give them some real meat, it would be good to go through the REnsink change blindness search logic that indicates that people check 3-4 objects per cycle for change
+-->
 

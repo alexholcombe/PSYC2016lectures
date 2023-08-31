@@ -1,5 +1,5 @@
 ---
-title: "Attention Lecture 5"
+title: "Lecture 5: Distraction"
 title-slide-attributes:
   data-background-image: images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg
   data-background-size: contain
@@ -9,7 +9,7 @@ date: today
 format: 
   revealjs:
     smaller: true
-    auto-stretch: true #Otherwise specifying image size (e.g. width) doesn't work!
+    auto-stretch: false #Otherwise specifying image size (e.g. width) doesn't work!
     incremental: true
     self-contained: false
     slide-number: c/t
@@ -21,13 +21,12 @@ format:
     title-slide-attributes:
       data-background-color: "#447099"
 editor: source
+# sometimes have to turn multiplex false to load speaker notes
+# As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.
 ---
 
-<!--sometimes have to turn multiplex false to load speaker notes -->
-
-<!--As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.-->
-
 ## Lecture 4 CLEAN-UP and REVIEW {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
+
 
 ## Didn't understand:
 <BR>
@@ -42,21 +41,43 @@ there were a few questions about the grand illusion which I address next
 
 1. Introspection says we experience the entire visual field simultaneously.
 
-2. Results of experiments find knowledge of what's in the visual field is very limited, to only several objects, if you do things to prevent attention wandering around and building up the scene representation over time.
+2. Results of experiments find knowledge of what's in the visual field is very limited, to only several objects ^[if you do things to prevent attention wandering around and building up the scene representation over time]
 
-How do we reconcile 1 and 2?
 
-## Resolution
 
-Block: "We do visually experience the whole visual field simultaneously, let me explain how the results of the experiments can also be true" (proceeds to write 550-page book)
+-   How do we reconcile 1 and 2?
 
-"Grand illusion of visual experience" people: "Block, you're wrong. But we know you and others strongly believe you do experience the whole visual field simultaneously. We have to explain why you believe it so strongly, so we'll posit that there's a grand illusion of visual experience throughout the visual field. Maybe it's caused in the same way as the refrigerator light illusion."
+## Resolving the puzzle
+
+::: columns
+::: {.column width="70%"}
+
+Ned Block: 
+
+> We **do** visually experience the whole visual field simultaneously. Allow me to explain how that's compatible with the results of the experiments...
+[writes 550-page book] 
+
+<BR>
+"Grand illusion of visual experience" people: 
+
+> Block, you're so wrong. But we know you strongly believe you do experience the whole visual field simultaneously. We want to explain why you believe it so strongly, so we'll posit that there's a grand illusion of visual experience throughout the visual field. Maybe it's kinda like the refrigerator light illusion.
+
+:::
+
+::: {.column width="30%"}
+
+<BR><BR>
+![](images/NedBlockBook.jpg){width=40%}
+
+:::
+:::
+
 
 ## 
 
 ![](images/argumentForGrandIllusion.png){width=80%}
 
-It relies on having visual experience of the whole visual field entailing that you'd detect major changes to the visual field. (look up the word "entail")
+The argument relies on having visual experience of the whole visual field entailing that you'd detect major changes to the visual field. ^[if you don't know what "entail" means, please look it up :)]
 
 But based on our analysis of what change detection involves, it may not entail that.
 
@@ -67,13 +88,13 @@ So that argument for the "grand illusion" is not very good.
 
 ![](images/responses/grandIllusionThoughts.png)
 
-## Review of the argument, now in essay format {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
+## Review of the argument, now in essay format in case it helps {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
 
 [The "grand illusion" argument]{.underline}: if we really did experience everything in the scene, we would quickly detect changes to the objects in the scene. So, because we don't quickly detect many changes to the scene (change blindness), we must *not* really experience everything.
 
 After hearing the argument, about half of students agreed that our feeling of experiencing everything must be only an illusion.
 
-![](images/responses/WhatDidYouThinkOfGrandIllusionArgument.png){width=70%}
+![](images/responses/WhatDidYouThinkOfGrandIllusionArgument.png){width=50%}
 
 But the grand illusion argument is actually *not* a great argument; the first part that says that if we really did experience everything, we would quickly detect changes. Maybe we really do experience everything but we don't have a comparison process that's always comparing everything. Or maybe we really do experience everything but we don't have a representation of the scene a short time ago, so we can't do the comparison. In other words, the idea that "if we really did experience everything, we would quickly detect changes" may be false.
 
@@ -81,24 +102,37 @@ But the grand illusion argument is actually *not* a great argument; the first pa
 I know it's hard.
 :::
 
-## Lectures 1-4 overview
+## Lectures 1-4 overview {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
 
 -   A bridge between the Perception and Cognition parts of PSYC2016
 
--   Our mental architecture is massively parallel followed by a bottleneck
-    -   Various details of this, including individual vs. combining features and change blindness
--   To deal with this limitation, we have
+-   Our mental architecture is massively-parallel, followed by bottleneck(s)
+    -   Various details, including individual vs. combining features and change blindness
+-   To deal with this architecture, we have:
     -   Crude salience and alerting mechanisms
     -   Guidance of attention by memory
 
 -   This helps explain distractions
+
+![](images/bottleneck.png){.absolute bottom=10 right=10 width="150"}
 
 ::: notes :::
 Our animal natures
 Now we can think in more informed way about distraction
 :::
 
-## Lectures 1-4 outline
+## Get involved in research! {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.1"}
+
+Talk to me or other academics.
+
+::: notes :::
+If you like this kind of stuff (and I know some of you probably hate it)
+But I know it's not just me who finds it really cool that can..
+:::
+
+## Lectures 1-2 outline {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
+
+::: {.nonincremental}
 
 1. Why we need selective attention
     -   Overt attention
@@ -107,14 +141,20 @@ Now we can think in more informed way about distraction
         -   Because of bottleneck, we evolved crude salience and alerting mechanisms
     
 2. Kinds of selection
-  - More on the parallel processing prior to the bottleneck
-      -   Binocular rivalry vs. two separated letters
-  - Bottom-up attention (Chapters 7 and 9)
-  -   Our behavior is a mish-mash of competition between top-down and bottom-up
-  -   Combinations of features typically aren't processed in parallel
-    -   Selective attention is needed to combine features
-  -   Feature selection is compulsorily global
-    -   Maybe because What processing (features) occurs on different pathway than Where pathway, which mediates spatial attention
+    - More on the parallel processing prior to the bottleneck
+        -   Binocular rivalry vs. two separated letters
+    - Bottom-up attention (Chapters 7 and 9)
+    -   Our behavior is a mish-mash of competition between top-down and bottom-up
+    -   Combinations of features typically aren't processed in parallel
+      -   Selective attention is needed to combine features
+    -   Feature selection is compulsorily global
+      -   Maybe because What processing (features) occurs on different pathway than Where pathway, which mediates spatial attention
+
+:::
+
+## Lecture 3 outline {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
+
+::: {.nonincremental}
 
 3. Treisman's diagram and combining features
   -   Individual-feature salience is computed in parallel
@@ -130,19 +170,16 @@ Now we can think in more informed way about distraction
     -   Combining that shape with a color does require focused attention
   
 4. Change blindness
-  
-## Lecture 5
 
--   These Attention lectures form a bridge between the Perception and Cognition parts of PSYC2016
--   I've been telling you about the perception end, the architecture
--   But these operate in a broader environment of social, motivational, and environmental factors
--   So I will briefly tell you about high-level factors that affect cognition
+:::
 
 
-## DISTRACTION {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.1"}
+## Lecture 5: DISTRACTION {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.1"}
 
+-   I've focused on the perception end of the perception - cognition relationship
+-   Cognition is affected by social, motivational, and environmental factors
 
-## What most distracts you during lecture? {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## What most distracts you during lecture? {background-image="images/UsydClassStudents.png" background-opacity="0.15"}
 
 ![](images/distractionsDuringLectureCensored.png) 
 
@@ -152,51 +189,78 @@ Some are ongoing life concerns (top-down)
 Some are basic drives (hunger)
 :::
 
-## Mobile phones  {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## Phones! {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+::: {.r-stack}
+![](images/notificationDetoxPhoneOnly.png){.fragment width="600" height="300"}
+![](images/oldManYellsAtCloud.jpg){.fragment width="150" height="200"}
+:::
 
 ::: notes :::
 When I was a kid, we didn't have mobile phones!
 The #1 distraction didn't exist.
 :::
 
-## 
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
-"Our mind becomes like a pinball propelled from lever to lever by text chimes, social media notifications and targeted ads."
+::: columns
+::: {.column width="60%"}
 
-![](images/GloriaMarkAttentionSpanBook.jpeg)
+![](images/GloriaMarkAttentionSpanBook.jpeg){width=30%}
 
-"Without top-down control of our attention, we open ourselves up to stimuli that steer our attention for us."
 
-## A combination of factors
+:::
+
+::: {.column width="40%"}
+
+![](images/gloria_mark.png){width=60%}
+
+:::
+:::
+
+
+> Our mind becomes like a pinball propelled from lever to lever by text chimes, social media notifications and targeted ads...
+
+> Without top-down control of our attention, we open ourselves up to stimuli that steer our attention for us.
+
+##  {background-image="images/UsydClassStudents.png" background-opacity="0.15"}
 
 ![](images/distractionsDuringLectureCensored.png)
 
--   We can't understand distraction entirely in terms of sensory events and salience
+-   A lot more to it than sensory events and salience
 
 ::: notes :::
 Let's have another look at this diagram. I categorized your responses
+A combination of factors
 :::
 
-## Categorizing the distractions
+## Distractions, categorised {background-image="images/UsydClassStudents.png" background-opacity="0.07"}
 <BR>
 
 **Sensory events**: noise, other peoples laptops, dense slides, muscle soreness, *phone*
 
-**Cognitive and interest**: "boring lectures", social media - instagram, *phone*, tangents, spring break planning, content is too hard or ez
-
+<BR>
 **Drives**: hunger, sleepiness, boys
 
+
+<BR>
+**Cognitive, interest, learning**: boring lectures, social media - instagram, *phone*, tangents, spring break planning, content is too hard or ez
+
+<BR>
 **Life issues**: issues in my life, other works, other deadlines
 
-## What most distracts you during lecture?
+## Distractions, categorised {background-image="images/UsydClassStudents.png" background-opacity="0.07"}
 <BR>
 
 **Sensory events**: noise, other peoples laptops, dense slides, muscle soreness, *phone* [Chapter 5](https://psyc2016.whatanimalssee.com/btmUpTopDown.html)
 
-**Cognitive and interest**: "boring lectures", social media - instagram, *phone*, tangents, spring break planning, content is too hard or ez.  ALL CHAPTERS THAT MENTION TOP-DOWN, MEMORY, and [Chapter 16](https://psyc2016.whatanimalssee.com/distraction1.html)
-
+<BR>
 **Drives**: hunger, sleepiness, boys. NOT COVERED IN PSYC2016. 
 
+<BR>
+**Cognitive, interest, learning**: boring lectures, social media - instagram, *phone*, tangents, spring break planning, content is too hard or ez.  MANY CHAPTERS MENTION TOP-DOWN, MEMORY, + [CHAPTER 16](https://psyc2016.whatanimalssee.com/distraction1.html)
+
+<BR>
 **Life issues**: issues in my life, other works, other deadlines. NOT COVERED IN PSYC2016
 
 ::: notes :::
@@ -205,7 +269,9 @@ Drive for social contact
 
 ## [Ezra Klein](https://www.nytimes.com/2023/05/28/opinion/artificial-intelligence-thinking-minds-concentration.html) on mobile phones {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
--   In 1970, imagine I told you that I was going to invent a sinister tool...
+![](images/EzraKlein.jpeg){size=30%}
+
+-   In 1990, imagine I told you that I was going to invent a sinister tool...
 
 - As people used it, their attention spans would degrade, as the tool would constantly shift their focus, weakening their powers of concentration and contemplation.
 
@@ -215,27 +281,33 @@ Drive for social contact
 
 -   What would you have thought this engine of distraction, division and cognitive fracture would do to humanity?
 
--   Also: Drives social interaction by stoking outrage around the news.
 
 ::: notes :::
-He refers to societal interest factors. These have been weaponized into an outrage machine.
-I'm not a social psychologist or sociologist
+He refers to societal interest factors. Combined with SOCIAL now. These have been weaponized into an outrage machine.
+This was not how we thought the internet would turn out.
 :::
 
-## Associative learning
+## Learning {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+<BR>
 
--   Most times you open an app, you get one of these many interesting things
+Association of stimuli with reward ([Chapter 16](https://psyc2016.whatanimalssee.com/distraction1.html))
 
-Some of the cognitive is habits created by rewards [Chapter 16](https://psyc2016.whatanimalssee.com/distraction1.html)
+-   When you open an app, you get interesting things
+-   Possibly a social reward
 
-## Ultimate is videogames {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+::: notes :::
+Briefly covered in Chapter 16
+:::
+
+##  {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 ![](images/videoGameBingerDies.png)
+
 ::: notes :::
 Video games provide the right level of challenge, a constant sense of achievement 
-But this illustrates how a videogame can be so rewarding that it crowds out all other activities.
 
 An important thing to gain out of a university education, in addition to logical reasoning, is skepticism!
+But this illustrates how a videogame can be so rewarding that it crowds out all other activities.
 :::
 
 ## What distracts you during studying? {background-image="images/UsydClassStudents.png" background-opacity="0.15"}
@@ -264,32 +336,93 @@ Cans of kombucha being drunk.
 
 my housemates
 
+::: notes :::
+Will be big individual differences.
+My partner doesn't really have a problem with these things. She can sit there for hours and not be distracted. Whereas I can't have the TV on, or anything!
+Whereas I have more motivation
+:::
 
-## Social facilitation
-
--   Harness sociality to keep you on task!
--   in-class homework practice was done as a big group
--   Group workouts
--   Co-working sessions.
+## Social facilitation {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+<BR>
 
 ![](images/shut-up-write.png)
+
+-   Harness sociality to keep you on task!
+-   In-class distraction diary was done as a big group
+-   Group workouts
+
+
 ::: notes :::
 One reason team sports are great, you're not going to just stop running and let down the team
 :::
 
-## 
 
-Gloria Mark, a professor of information science at the University of California, Irvine, and the author of "Attention Span," started researching the way people used computers in 2004. The average time people spent on a single screen was 2.5 minutes. "I was astounded," she told me. "That was so much worse than I'd thought it would be." But that was just the beginning. By 2012, Mark and her colleagues found the average time on a single task was 75 seconds. Now it's down to about 47.
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
-This is an acid bath for human cognition. Multitasking is mostly a myth. We can focus on one thing at a time. "It's like we have an internal whiteboard in our minds," Mark said. "If I'm working on one task, I have all the info I need on that mental whiteboard. Then I switch to email. I have to mentally erase that whiteboard and write all the information I need to do email. And just like on a real whiteboard, there can be a residue in our minds. We may still be thinking of something from three tasks ago."
+::: columns
+::: {.column width="70%"}
 
-![](images/GloriaMarkAttentionSpanBook.jpeg)
+::: {.fragment .fade-in}
+In 2004, The average time people spent on a single screen was 2.5 minutes. 
+<BR>
 
-::: notes :::
-Think about how little time you spend on each post
+"I was astounded. That was so much worse than I'd thought it would be," said Mark.
+<BR>
+
+But that was just the beginning. By 2012, Mark and her colleagues found the average time on a single task was 75 seconds. Now it's down to about 47.
+
 :::
 
-## Distraction diary
+:::
+
+::: {.column width="30%"}
+
+![](images/GloriaMarkAttentionSpanBook.jpeg){width=30%}
+
+![](images/gloria_mark.png){width=60%}
+
+:::
+:::
+
+
+::: notes :::
+Think about how little time you spend on each post when scrolling through Instagram.
+
+:::
+
+## Multi-tasking {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+<BR>
+
+::: columns
+::: {.column width="70%"}
+
+
+-   Multitasking? We can only focus on one thing at a time. 
+
+-   Task-switching.
+    -   "It's like we have an internal whiteboard in our minds," Mark said. 
+    -   "If I'm working on one task, I have all the info I need on that mental whiteboard. Then I switch to email.
+I have to mentally erase that whiteboard and write all the information I need to do email.
+And just like on a real whiteboard, there can be a residue in our minds. We may still be thinking of something from three tasks ago."
+
+:::
+
+::: {.column width="30%"}
+
+![](images/GloriaMarkAttentionSpanBook.jpeg){width=30%}
+
+![](images/gloria_mark.png){width=60%}
+
+:::
+:::
+
+::: notes :::
+Task switching is extremely costly 
+:::
+
+
+<!--
+## Distraction diary {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 ![](images/inClassVsOutsideClass.png)
 
@@ -297,70 +430,144 @@ Think about how little time you spend on each post
 I was hoping that I would be able to compare amount of distractions in-class compared to outside-of-class
 :::
 
-## An invalid comparison
+## An invalid comparison {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 ![](images/inClassVsOutsideClass.png)
 
 -   5 min versus 10 min
 -   Selection bias
     -   Those who do the homework are more motivated to do homework and thus likely get distracted less
+-->
 
+## When have you been most focused? {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+<BR><BR>
 
-## Cognitive / motivational factors
-
--   When we find something rewarding/worthwhile, we **exploit** that opportunity
--   Vigilance isn't the only reason we attend to events that aren't part of our current task
--   Exploration is a drive
-    -   The *yin* to exploitation's *yang*
--   The "explore/exploit trade-off"
-
-::: notes :::
-Many animals, including us, have a drive to explore the world.
+::: {.r-fit-text}
+Menti.com code: 7353 8682
 :::
 
+## Cognitive / motivational factors {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
-## CONTROLLING BOTTOM-UP SENSORY EVENTS
+![](images/BruceBurns.png)
 
-## Turn off phone notifications!
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+::: columns
+::: {.column width="40%"}
+
+-   When we find something rewarding/worthwhile, ideally we **exploit** it
+-   But exploration is also a drive
+    -   The *yin* to exploitation's *yang*
+    -   The **explore/exploit trade-off**
+    
+<BR>
+
+-   Vigilance is more about threats
+
+
+:::
+
+::: {.column width="60%"}
+
+![](images/exploreExploitRestaurantChoice.jpg)
+
+:::
+:::
+
+::: notes :::
+Many animals, including us, have a drive to explore the world and gather information about it.
+Vigilance is more about threats
+:::
+
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+![](images/exploreExploitRestaurantChoice.jpg){width=60%}
+
+<BR><BR>
+**Exploitation** - using known information to get rewards
+
+<BR>
+**Exploration** - exploring the environment to look for new information/rewards
+
+
+
+::: notes :::
+We are genetically programmed to explroe the environment
+:::
+
+## {background-image="images/hardQuiz.jpg" background-opacity="0.6"}
+
+::: notes :::
+
+Distraction is most associated with which process?
+
+A. Social facilitation
+B. Exploitation
+C. Exploration 
+D. Focused attention
+
+:::
+
+## CONTROLLING BOTTOM-UP SENSORY EVENTS {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+<BR>
 
 ![](images/notificationDetoxIrishTimes.png) [Irish times](https://www.irishtimes.com/culture/tv-radio-web/one-ping-after-another-why-we-all-need-a-notification-detox-1.4153895)
 
-## 
+::: notes :::
+Turn off phone notifications 
+:::
+
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 ![](images/SiliconValleySchoolNoDevices.png)
+
 ::: notes :::
-My teenager
+Her goddamned school
 :::
 
 ## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 What do you do to shut out the world?
 
+<BR><BR><BR>
+
 ![](images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg)
+
 ::: notes :::
 You might be saying I really need to concentrate on this, but millions years evolution is saying otherwise, that you need to keep your ears turned on
 :::
 
 
-##  {background-image="images/threeWiseMonkeys/monkeyNoHear.jpeg" background-size="800px" background-repeat="repeat"}
+##  {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
-![](images/earplug.jpg){width="40%"}
+![](images/threeWiseMonkeys/monkeyNoHear.jpeg)
+
+-   ![](images/loopEarplugs.png)
 
 ::: notes
+Earplugs. This is how I do.
+Not cool? Anyone heard of loop earplugs?
 But you know what, you don't have to wait.
 There won't be any psychology tricks that are as effective as mechanical solutions.
 Put on mask.
 :::
 
-## Are you not going to do it because it's not cool? {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+##  {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
-![](images/masksComfortablePrincessBridge.jpg) 
+![](images/threeWiseMonkeys/monkeyNoSee.jpeg)
+
+<BR><BR>
+
 
 ::: notes 
+I'm serious about sleep too. Mask.
+Are you not going to do it because it's not cool?
 Why do you wear a mask, do you have horrible scars on your face or something? 
 :::
 
-## Molly Worthen on monastic university classes
+## Molly Worthen on monastic uns {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 We need an intervention: ... a bold move to put the screens, the pinging notifications and the creepy humanoid A.I. chatbots in their proper place. They are our tools, not our masters. That doesn’t mean a futile attempt to wall off higher education from the modern world; it does mean selectively returning to the university’s roots in the monastic schools of medieval Europe and rekindling the old-fashioned quest for meaning.
 
@@ -368,122 +575,79 @@ Colleges should offer a radically low-tech first-year program for students who w
 
 The first step is dethroning the small silicon idol in their pocket — and making space for the uncomfortable silence and questions that follow. The experience stuck with Ms. Ouyang, the nursing major. “I didn’t look forward to getting my phone back,” she said.
 
-## Individual differences
-
--   What do we know?
-    -   You're going to be disappointed
-
-::: notes
-This is one of the things people are most interested in
-:::
-
-## Demonstration: studying humans requires getting lots of data
-
--   Data is noisy
--   Need multiple humans or lots of trials
-
-## Time perception mini-study
-
-::: notes
-Close eyes for 34 sec
-:::
-
-## {background-image="images/hardQuiz.jpg" background-opacity="0.6"}
 
 
-## Give your answer
-
-https://forms.gle/yy3NXtMfXxJESzzR9
-
-![](images/googleFormOneResponseURLbarcode.png)
-
--   How many seconds do you think that was?
--   Ask your neighbor how long they thought. Enter the average of your two numbers
-
-## Results
-
-::: notes
-https://docs.google.com/spreadsheets/d/1NeXENqg0K9HTEsZUMksamHq_iJ3qho9Az9ji-5mjrSE
-:::
-
-## To find out how accurate time perception is, averaged people together
-
--   We found out that for the average person here, today, it was \_\_\_\_\_\_\_\_\_
--   If we had taken just number
-
-## Sources of individual differences
-
--   Stable
--   Temporary (day, month, year)
-
-## Sources of individual differences
-
--   Stable
--   Temporary (day, month, year) vs. stable
--   Motivation
-    -   Stable
-    -   Temporary: To do well in that particular study, or on that day
--   Understood instructions versus didn't
-
-## Sources of individual differences
-
--   Continuum, neurodiversity
--   What is the "normal range"?
-    -   No objective answer usually
-    -   Clinicians have to define it in terms of impairment of culturally-expected functioning
-
-
-<!-- In one of these classes, vary the distraction diary to keeping phone on as normal aand recording notification checks -->
-
-## Join the lab
-
-![](images/labPhoto.png)
-
-## Find a study on how repeated events or learned events become less distracting I ALREADY HAVE ASPLUND IN THE BOOK
-
-[.](https://www.youtube.com/embed/sXjoGtuAkNU?si=84n6LvMVW98ykm8y&start=29)
-
-The dog's bark changes rapidly and has a chaotic rhythm. If it was a constant repetition and rhythm, you'd anticipate it well and could suppress it better.
 
 <!--Another side to the poem - enjoying sensory absorption. You decide when it will occur -->
-## 
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 All day, the world makes its demands. There's so much of it, world
 
 begging to be noticed.
 
+ultrawhelmed sensorium, my self
+
 ![](images/LeilaChatti.jpeg){width="40%"}
 
-## 
+::: notes :::
+The world making demands. Don't yield to its demands
+Wanna show you the rest of the poem
+:::
+
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+![](images/LeilaChatti.jpeg){width="20%"}
 
 ultrawhelmed sensorium, my self
 
-taxed with being a self, brimming with living's rowdy mechanics and disruptions unremitting, a thought flits by, then another (an unpaid bill, a jingle's tenacious refrain)---and, ... I attend, as best I can,...\
-yielding to the most persuasive god, the most recent, to each thing I say Yes? Yes!--- zealot of whatever calls me next.
-
-::: notes
-It was actually called "A poem for Sunday" and on a Sunday there can be a joy in this. Mindfulness or living in the moment
+::: {.fragment .fade-in}
+taxed with being a self, brimming with living's rowdy mechanics
 :::
 
-## Visual search
+::: {.fragment .fade-in}
+ and disruptions unremitting,
+:::
 
-Visual search slides including expertise - xrays,
+::: {.fragment .fade-in}
+a thought flits by, then another (an unpaid bill, a jingle's tenacious refrain) 
+:::
 
-## Four factors for managing attention
+::: {.fragment .fade-in}
+and, ... I attend, as best I can,...
+:::
 
-https://psyc2016.whatanimalssee.com/the-role-of-memory-and-expectation.html#fourFactors
+::: {.fragment .fade-in}
+yielding to the most persuasive god, the most recent,
+:::
 
-## The tipsy gorilla study
+::: {.fragment .fade-in}
+to each thing I say Yes? 
+:::
 
-I have a comment to enter it here: https://psyc2016.whatanimalssee.com/the-role-of-memory-and-expectation.html#fourFactors
+::: {.fragment .fade-in}
+Yes! 
+:::
 
-## Other topics
+::: {.fragment .fade-in}
+zealot of whatever calls me next.
+:::
 
-Automaticity
+::: notes
+This poem is called "A poem for Sunday" and on a Sunday there can be a joy in this. Mindfulness or living in the moment
+
+Wanted to leave you with another side of the issue, a nicer side.
+Enjoying being absorbed by sensory events.
+Even a sense of awe.
+
+Just make sure you're the one who chooses when it happens.
+:::
+
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+![](images/surveyEndOfLecture.png)
 
 
-
-## 
+<!--
 
 -   Lecture 2
 
@@ -503,7 +667,9 @@ Automaticity
     Come back to dual-letters and explain left advantage
 
 My partner doesn't get distracted. Whereas I can't have the TV on, on anything!
+-->
 
+<!--
+Next year, use section headers at top right of slide like this https://meghan.rbind.io/blog/quarto-slides/#section-header
+-->
 
-
-Socrative slide 23
