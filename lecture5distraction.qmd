@@ -179,6 +179,20 @@ But I know it's not just me who finds it really cool that can..
 -   I've focused on the perception end of the perception - cognition relationship
 -   Cognition is affected by social, motivational, and environmental factors
 
+## Not sure where to put this
+
+::: {.fragment}
+![](images/LeavingAFlatTasteInYourMouth.png)
+:::
+
+::: notes
+Withdrawing of the mind has Lots of consequences.
+
+"Participants rated the substances as less intense, consumed more, and preferred stronger tastes."
+:::
+
+
+
 ## What most distracts you during lecture? {background-image="images/UsydClassStudents.png" background-opacity="0.15"}
 
 ![](images/distractionsDuringLectureCensored.png) 
@@ -444,6 +458,11 @@ I was hoping that I would be able to compare amount of distractions in-class com
 
 ::: {.r-fit-text}
 Menti.com code: 7353 8682
+:::
+
+
+::: notes :::
+and what do to shut out the owrld?
 :::
 
 ## Cognitive / motivational factors {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}

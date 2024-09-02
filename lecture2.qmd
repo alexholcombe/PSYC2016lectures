@@ -12,6 +12,8 @@ format:
     self-contained: false
     slide-number: c/t
     logo: "images/threeWiseMonkeys/monkeyNoHearHeadOnly.jpeg"
+    width: 1920 #Wallace LT projector default
+    height: 1080 #Wallace LT projector default
     footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
     theme: ["simple", "styles.scss"]
     echo: true
@@ -96,7 +98,7 @@ Remember this guy?
     -   No incompatibility, so *processed in parallel until bottleneck*, then compete for that
 
 ::: notes :::
-He told youa bout it because useful for studying ocnsiousness because stimulus doesn't change
+He told you about it because useful for studying consciousness because stimulus doesn't change
 :::
 
 ## Lecture 1 CLEAN-UP and REVIEW
@@ -133,6 +135,9 @@ Global Neuronal Workspace theory: "Attention and consciousness are the same proc
 -   Absence of combined selection
 :::
 
+## "What most often distracts you during a lecture?" {background-image="images/notificationDetoxPhoneOnly.png"}
+
+![](images/responses/WhatMostOftenDistractsYouDuringLecture2023.png)
 
 ## Bottom-up attention
 

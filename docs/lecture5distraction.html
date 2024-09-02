@@ -8,10 +8,10 @@
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.3.353">
+  <meta name="generator" content="quarto-1.4.549">
 
   <meta name="author" content="Alex Holcombe">
-  <meta name="dcterms.date" content="2023-08-31">
+  <meta name="dcterms.date" content="2024-08-30">
   <title>Lecture 5: Distraction</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -157,7 +157,8 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -336,7 +337,7 @@ Alex Holcombe
 </div>
 </div>
 
-  <p class="date">2023-08-31</p>
+  <p class="date">2024-08-30</p>
 </section>
 <section id="lecture-4-clean-up-and-review" class="slide level2" data-background-image="images/threeWiseMonkeys/640.jpg" data-background-opacity="0.07">
 <h2>Lecture 4 CLEAN-UP and REVIEW</h2>
@@ -526,6 +527,26 @@ Alex Holcombe
 <li class="fragment">I’ve focused on the perception end of the perception - cognition relationship</li>
 <li class="fragment">Cognition is affected by social, motivational, and environmental factors</li>
 </ul>
+</section>
+<section id="not-sure-where-to-put-this" class="slide level2">
+<h2>Not sure where to put this</h2>
+<div class="fragment">
+<p><img data-src="images/LeavingAFlatTasteInYourMouth.png"></p>
+</div>
+<aside class="notes">
+<p>Withdrawing of the mind has Lots of consequences.</p>
+<p>“Participants rated the substances as less intense, consumed more, and preferred stronger tastes.”</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
 </section>
 <section id="what-most-distracts-you-during-lecture" class="slide level2" data-background-image="images/UsydClassStudents.png" data-background-opacity="0.15">
 <h2>What most distracts you during lecture?</h2>
@@ -826,6 +847,19 @@ I was hoping that I would be able to compare amount of distractions in-class com
 <div class="r-fit-text">
 <p>Menti.com code: 7353 8682</p>
 </div>
+<aside class="notes">
+<p>and what do to shut out the owrld?</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
 </section>
 <section id="cognitive-motivational-factors" class="slide level2" data-background-image="images/threeWiseMonkeys/640.jpg" data-background-opacity="0.05">
 <h2>Cognitive / motivational factors</h2>
@@ -1095,8 +1129,10 @@ My partner doesn't get distracted. Whereas I can't have the TV on, on anything!
 Next year, use section headers at top right of slide like this https://meghan.rbind.io/blog/quarto-slides/#section-header
 -->
 
+<div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 <p><a href="https://alexholcombe.github.io/PSYC2016lectures">PSYC2016: Attention</a></p>
+</div>
 </div>
 </section>
 
@@ -1126,7 +1162,6 @@ Next year, use section headers at top right of slide like this https://meghan.rb
       Reveal.initialize({
 'controlsAuto': true,
 'previewLinksAuto': false,
-'smaller': true,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -1387,10 +1422,9 @@ Next year, use section headers at top right of slide like this https://meghan.rb
         // clear code selection
         e.clearSelection();
       });
-      function tippyHover(el, contentFn) {
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
-          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -1400,8 +1434,17 @@ Next year, use section headers at top right of slide like this https://meghan.rb
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start'
+          placement: 'bottom-start',
         };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 
