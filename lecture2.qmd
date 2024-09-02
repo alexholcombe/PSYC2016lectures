@@ -31,6 +31,7 @@ editor: source
 
 ::: {.nonincremental}
 -   Lecture 1 clean-up and review
+-   Overt versus covert attention
 -   Top-down vs. bottom-up attention
 -   The Distraction Diary
 -   Location selection
@@ -48,82 +49,6 @@ https://www.youtube.com/embed/sXjoGtuAkNU?si=84n6LvMVW98ykm8y&amp;start=29
 
 ## Organization of Alex's material
 
-> Can the lecture be downloaded as PDF?
-
-<BR>
-Yes.
-
-<BR>
-->Tools->PDF Export
-
-##
-
-> What's the point of the lectures if everything is in the mini-text?
-
-<BR>
-Lectures:
-
--   Go over the same concepts but with different examples and wording
--   Thanks to the mini-text, can address issues that come up without worrying I'll run out of time
--   Show demos
--   Quiz you, and solicit your personal experiences
-
-::: notes
-which can be useful to you on the exam
-:::
-
-## 
-
-> You said the two letters are processed simultaneously, but other lecturer said the faces of Trump and Jinping alternate
-
--   ![](images/Alais.jpg){width=60%}
-
-::: notes :::
-Remember this guy? 
-::: 
-
-##
-
-> You said the two letters are processed simultaneously, but other lecturer said the faces of Trump and Jinping alternate
-
-![](images/AlaisRivalrySlide.png)
-<!-- {{< video images/2targets4timesFaster.mp4 >}} -->
-
-## Binocular rivalry versus dual letters
--   Binocular rivalry: different stimuli presented to the two eyes
-    -   Processed in parallel to a point
-    -   *Incompatible*: brain expects the same object in both eyes, therefore
-    -   Direct competition for a single location, and winner occurs relatively early
--   Dual letters in different locations
-    -   No incompatibility, so *processed in parallel until bottleneck*, then compete for that
-
-::: notes :::
-He told you about it because useful for studying consciousness because stimulus doesn't change
-:::
-
-## Lecture 1 CLEAN-UP and REVIEW
-    
-## 
-
-> Didn't understand "Brain loop cycle bits"
-
-<BR>
-![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png){width=100%}
-
-## Global neuronal workspace theory
-
-![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png){width=100%}
-
--   There's a bottleneck prior to the frontal lobe
--   If a stimulus gets through, it results in reverberating widespread activity associated with that stimulus
-
-<!--
-## Consciousness and attention
-
-Global Neuronal Workspace theory: "Attention and consciousness are the same process"
-
--- David Alais' slide #40 of Consciousness lecture 2
--->
 
 ## TODAY
 

@@ -95,7 +95,7 @@
     "href": "lecture1.html#you-didnt-get-both-letters-right",
     "title": "PSYC2016: Attention",
     "section": "You didn’t get both letters right?",
-    "text": "You didn’t get both letters right?\n\nYou must not have been paying attention…?\n“Paying attention” = devoting your resources to a task."
+    "text": "You didn’t get both letters right?\n\nA rate that is enough to process one letter is too fast for two\nSelection = choice of which stimulus, or stimuli, to extensively process\n\n\nWHAT- You must not have been paying attention…? - “Paying attention” = devoting your resources to a task."
   },
   {
     "objectID": "lecture1.html#quiz-time",
@@ -109,7 +109,7 @@
     "href": "lecture1.html#consciousness",
     "title": "PSYC2016: Attention",
     "section": "Consciousness",
-    "text": "Consciousness\n ::: notes The topic of consciousness hopefully is fresh in your mind, because of this guy. :::"
+    "text": "Consciousness\n\nDavid Alais\n\n\nThe topic of consciousness hopefully is fresh in your mind, because of this guy."
   },
   {
     "objectID": "lecture1.html#ways-to-select-a-stimulus",
@@ -123,14 +123,14 @@
     "href": "lecture1.html#what-happens-when-a-spatial-location-is-selected",
     "title": "PSYC2016: Attention",
     "section": "What happens when a spatial location is selected?",
-    "text": "What happens when a spatial location is selected?\n\nWhy can’t we be conscious of all stimuli?\n\nSpatial selection facilitates stimuli getting through the bottleneck."
+    "text": "What happens when a spatial location is selected?\n\n\nSpatial selection facilitates stimuli getting through the bottleneck."
   },
   {
     "objectID": "lecture1.html#what-happens-when-a-spatial-location-is-selected-1",
     "href": "lecture1.html#what-happens-when-a-spatial-location-is-selected-1",
     "title": "PSYC2016: Attention",
     "section": "What happens when a spatial location is selected?",
-    "text": "What happens when a spatial location is selected?\n ::: notes Recurrent activity :::"
+    "text": "What happens when a spatial location is selected?\n\n\nSpatial selection facilitates stimuli getting through the bottleneck."
   },
   {
     "objectID": "lecture1.html#what-happens-when-a-spatial-location-is-selected-2",
@@ -424,7 +424,7 @@
     "href": "lecture2.html#organization-of-alexs-material",
     "title": "PSYC2016: Attention lecture 2",
     "section": "Organization of Alex’s material",
-    "text": "Organization of Alex’s material\n\nCan the lecture be downloaded as PDF?\n\n Yes.\n -&gt;Tools-&gt;PDF Export"
+    "text": "Organization of Alex’s material"
   },
   {
     "objectID": "lecture2.html#interrupt-signals",
@@ -760,7 +760,7 @@
     "href": "lecture2.html#today",
     "title": "PSYC2016: Attention lecture 2",
     "section": "TODAY",
-    "text": "TODAY\n\n\nLecture 1 clean-up and review\nTop-down vs. bottom-up attention\nThe Distraction Diary\nLocation selection\nFeature selection\nAbsence of combined selection"
+    "text": "TODAY\n\n\nLecture 1 clean-up and review\nOvert versus covert attention\nTop-down vs. bottom-up attention\nThe Distraction Diary\nLocation selection\nFeature selection\nAbsence of combined selection"
   },
   {
     "objectID": "lecture2.html#bottom-up-attention",
@@ -4134,7 +4134,7 @@
     "href": "lecture1.html#what-distracts-you",
     "title": "PSYC2016: Attention",
     "section": "What distracts you?",
-    "text": "What distracts you?\nMenti.com\n\nMentimeter: PSYC2016gettingToKnowYou\nWe’ll talk about the results on Tuesday."
+    "text": "What distracts you?\nMenti.com result\n\nMentimeter: PSYC2016gettingToKnowYou\nWe’ll talk about the results on Tuesday."
   },
   {
     "objectID": "lecture1.html#section-8",
@@ -4218,7 +4218,7 @@
     "href": "lecture1.html#global-neuronal-workspace-theory",
     "title": "PSYC2016: Attention",
     "section": "Global neuronal workspace theory",
-    "text": "Global neuronal workspace theory\n\n\nThere’s a bottleneck prior to the frontal lobe\nIf a stimulus gets through, it results in reverberating widespread activity associated with that stimulus"
+    "text": "Global neuronal workspace theory\n\n\nWhy can’t we be conscious of all stimuli?\nThere’s a bottleneck prior to the frontal lobe\nIf a stimulus gets through, it results in reverberating widespread activity associated with that stimulus"
   },
   {
     "objectID": "lecture1.html#vigilance-and-limited-capacity-chapter",
@@ -4261,5 +4261,61 @@
     "title": "PSYC2016: Attention",
     "section": "Frequently asked questions",
     "text": "Frequently asked questions\n\nCan the lecture be downloaded as PDF?\n\n Yes.\n -&gt;Tools-&gt;PDF Export"
+  },
+  {
+    "objectID": "lecture1.html#today",
+    "href": "lecture1.html#today",
+    "title": "PSYC2016: Attention",
+    "section": "TODAY",
+    "text": "TODAY\n\n\nIntro, attention and distraction\nLimits on body\nLimits on mind\nAttentional selection\nOvert versus covert attention\nTop-down vs. bottom-up attention\nThe Distraction Diary\nLocation selection\nFeature selection\nAbsence of combined selection"
+  },
+  {
+    "objectID": "lecture1.html#just-two-letters-can-be-enough-to-overwhelm-capacity",
+    "href": "lecture1.html#just-two-letters-can-be-enough-to-overwhelm-capacity",
+    "title": "PSYC2016: Attention",
+    "section": "Just two letters can be enough to overwhelm capacity",
+    "text": "Just two letters can be enough to overwhelm capacity\nOne letter at a time\n\n\nVideo\n1target4timesFaster.mp4\n\n\n\n\nVideo\n2targets4timesFaster.mp4\n\n\n\n\nRecognizing letters seems effortless. And it is effortless, at the conscious level! But that doesn’t mean it’s easy for our brains! Make ISIms short enough that starts to be very hard."
+  },
+  {
+    "objectID": "lecture1.html#vigilance-and-limited-capacity-sprinkled-through-the-mini-text",
+    "href": "lecture1.html#vigilance-and-limited-capacity-sprinkled-through-the-mini-text",
+    "title": "PSYC2016: Attention",
+    "section": "VIGILANCE and LIMITED CAPACITY (sprinkled through the mini-text)",
+    "text": "VIGILANCE and LIMITED CAPACITY (sprinkled through the mini-text)"
+  },
+  {
+    "objectID": "lecture1.html#two-letters-can-be-enough-to-overwhelm-capacity",
+    "href": "lecture1.html#two-letters-can-be-enough-to-overwhelm-capacity",
+    "title": "PSYC2016: Attention",
+    "section": "Two letters can be enough to overwhelm capacity",
+    "text": "Two letters can be enough to overwhelm capacity\nOne letter at a time"
+  },
+  {
+    "objectID": "lecture1.html#two-letters-can-be-enough-to-overwhelm-capacity-1",
+    "href": "lecture1.html#two-letters-can-be-enough-to-overwhelm-capacity-1",
+    "title": "PSYC2016: Attention",
+    "section": "Two letters can be enough to overwhelm capacity",
+    "text": "Two letters can be enough to overwhelm capacity\n\n\nVideo\nOne letter, faster"
+  },
+  {
+    "objectID": "lecture1.html#two-letters-can-be-enough-to-overwhelm-capacity-2",
+    "href": "lecture1.html#two-letters-can-be-enough-to-overwhelm-capacity-2",
+    "title": "PSYC2016: Attention",
+    "section": "Two letters can be enough to overwhelm capacity",
+    "text": "Two letters can be enough to overwhelm capacity\n\n\nVideo\nTwo letters\n\n\n\n\nRecognizing letters seems effortless. And it is effortless, at the conscious level! But"
+  },
+  {
+    "objectID": "lecture1.html#two-letters-can-be-enough-to-overwhelm-capacity-3",
+    "href": "lecture1.html#two-letters-can-be-enough-to-overwhelm-capacity-3",
+    "title": "PSYC2016: Attention",
+    "section": "Two letters can be enough to overwhelm capacity",
+    "text": "Two letters can be enough to overwhelm capacity\n\nRecognizing letters seems effortless. It is effortless, at the conscious level.\nBut that doesn’t mean it’s easy for our brains!\nUnconscious processes process the letters enough for consciousness.\nOr not - a capacity limit means two letters can be too much"
+  },
+  {
+    "objectID": "lecture1.html#can-only-extensively-process-a-few-things-at-once",
+    "href": "lecture1.html#can-only-extensively-process-a-few-things-at-once",
+    "title": "PSYC2016: Attention",
+    "section": "Can only extensively process a few things at once",
+    "text": "Can only extensively process a few things at once\nLimited resources; a bottleneck\n\n\nYou have plenty of resources for low-level visual processing! Once we go through the bottleneck aspect, we can circle back to consciousness."
   }
 ]

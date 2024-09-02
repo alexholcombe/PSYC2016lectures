@@ -148,6 +148,20 @@ Lectures:
 which can be useful to you on the exam
 :::
 
+## TODAY
+
+::: {.nonincremental}
+-   Intro, attention and distraction
+-   Limits on body
+-   Limits on mind
+-   Attentional selection
+-   Overt versus covert attention
+-   Top-down vs. bottom-up attention
+-   The Distraction Diary
+-   Location selection
+-   Feature selection
+-   Absence of combined selection
+:::
 
 ## "It implies withdrawal from some things in order to deal with others" - William James
 
@@ -192,34 +206,45 @@ Can only extensively mentally process a few things at once
 -   Can only extensively mentally process a few things at once
     -   Directing mental resources is *covert attention*
 
+## Two letters can be enough to overwhelm capacity
 
-## Just two stimuli can be enough to overwhelm capacity
+[One letter at a time](https://youtube.com/shorts/SAE3SY4Z2vc)
 
-[rapid letter](https://youtube.com/shorts/SAE3SY4Z2vc)
+## Two letters can be enough to overwhelm capacity
 
-dualStreamDemoPython3
+![One letter, faster](images/1target4timesFaster.mp4)
+
+## Two letters can be enough to overwhelm capacity
+
+![Two letters](images/2targets4timesFaster.mp4)
+
+<!--dualStreamDemoPython3.py-->
 
 ::: notes
 Recognizing letters seems effortless. And it is effortless, at the conscious level!
-But that doesn't mean it's easy for our brains!
-Make ISIms short enough that starts to be very hard.
+But 
 :::
 
 <!--next year add slide with results from one of our papers-->
 
-## Just two stimuli can overwhelm capacity
+## Two letters can be enough to overwhelm capacity
 
--   Recognizing letters seems effortless. And it is effortless, at the conscious level!
+-   Recognizing letters seems effortless. It is effortless, at the conscious level.
 -   But that doesn't mean it's easy for our brains!
--   We don't notice the capacity limit in normal circumstances.
-
-
-
+-   Unconscious processes process the letters enough for consciousness.
+-   Or not - a capacity limit means two letters can be too much
 
 ## You didn't get both letters right?
 
--   You must not have been paying attention...?
+-   A rate that is enough to process one letter is too fast for two
+-   Selection = choice of which stimulus, or stimuli, to extensively process
+
+::: notes
+
+WHAT-   You must not have been paying attention...?
 -   "Paying attention" = devoting your resources to a task.
+
+:::
 
 ## {background-image="images/hardQuiz.jpg" background-opacity="1.0"}
 
@@ -250,23 +275,30 @@ If someone didn't get both letters right, which common expression most refers to
 the Lecture Quiz is a glorified attendance/self-assessment activity, so students will be verbally walked through the MCQ by the lecturer and surveyed for what they think the answer is, then they are told what it actually is, and that’s what they enter in Canvas
 :::
 
-## Can only extensively mentally process a few things at once
+## Can only extensively process a few things at once
 
-Limited resources 
+Limited resources;  a bottleneck
 
-Specifically, a bottleneck
-
-![](images/bottleneck.png){width="50%"}
+![](images/bottleneckDespite4effectors.png){width="40%" .absolute bottom=0 right=100}
 
 ::: notes
 You have plenty of resources for low-level visual processing!
 Once we go through the bottleneck aspect, we can circle back to consciousness.
 :::
 
+## Consciousness {background-image="images/Alais.jpg" background-opacity="1.0"}
+
+  * David Alais
+
+::: notes
+The topic of consciousness hopefully is fresh in your mind, because of this guy.
+:::
+
 ## Global neuronal workspace theory
 
 ![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png){width=100%}
 
+-   Why can't we be conscious of all stimuli?
 -   There's a bottleneck prior to the frontal lobe
 -   If a stimulus gets through, it results in reverberating widespread activity associated with that stimulus
 
@@ -279,15 +311,6 @@ Global Neuronal Workspace theory: "Attention and consciousness are the same proc
 -->
 
 
-
-## Consciousness
-
-![](images/Alais.jpg)
-::: notes
-The topic of consciousness hopefully is fresh in your mind, because of this guy.
-:::
-
-
 ## What happens when a stimulus location is selected?
 
 -   Activity makes it through the bottleneck
@@ -298,7 +321,6 @@ The topic of consciousness hopefully is fresh in your mind, because of this guy.
 
 ![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png){width=280}
 
-Why can't we be conscious of all stimuli?
 
 ::: notes
 Spatial selection facilitates stimuli getting through the bottleneck.
@@ -306,24 +328,15 @@ Spatial selection facilitates stimuli getting through the bottleneck.
 
 ## What happens when a spatial location is selected?
 
-
 ![](images/AlaisSlide38Consciousness2Recurrent.png)
+
 ::: notes
-Recurrent activity
+Spatial selection facilitates stimuli getting through the bottleneck.
 :::
-
-
-
-
-
-
-
-
-
 
 ## What distracts you?
 
-Menti.com
+Menti.com result
 
 ::: notes
 Mentimeter: PSYC2016gettingToKnowYou
@@ -331,10 +344,6 @@ Mentimeter: PSYC2016gettingToKnowYou
 We'll talk about the results on Tuesday.
 :::
 
-## Ways to select a stimulus
-
--   Spatial/object selection
--   Feature selection
 
 ## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
@@ -344,7 +353,7 @@ We'll talk about the results on Tuesday.
 Mentimer:
 :::
 
-## VIGILANCE and LIMITED CAPACITY (chapter ??)
+## VIGILANCE and LIMITED CAPACITY (sprinkled through the mini-text)
 
 ##  {background-image="images/wallabyCampsitePittwater.JPG"}
 
@@ -407,7 +416,7 @@ Tasmanian tiger?
 
 Limited processing capacity
 
-![](images/bottleneck.png){width="70%"}
+![](images/bottleneckDespite4effectors.png){width="70%"}
 
 ## Interrupt signals
 
