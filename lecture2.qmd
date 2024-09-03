@@ -5,9 +5,10 @@ title-slide-attributes:
   data-background-size: contain
   data-background-opacity: "0.4"
 author: "Alex Holcombe"
-date: today
-format: 
+date: 03-09-2024
+format:
   revealjs:
+    auto-stretch: false
     incremental: true
     self-contained: false
     slide-number: c/t
@@ -15,7 +16,7 @@ format:
     width: 1920 #Wallace LT projector default
     height: 1080 #Wallace LT projector default
     footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
-    theme: ["simple", "styles.scss"]
+    theme: ["styles.scss"]
     echo: true
     multiplex: false
     code-link: true
@@ -27,65 +28,191 @@ editor: source
 <!--As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.-->
 <!-- Can't figure out how to turn off capitlatization in better themes like sky but this is related: https://stackoverflow.com/questions/47057398/reveal-js-title-with-capitalized-words-but-not-in-uppercase -->
 
-## TODAY
+## What is your degree / major?
+
+![](images/responses/whatIsYourDegreeMajor.png)
+
+## TODAY {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 ::: {.nonincremental}
--   Lecture 1 clean-up and review
--   Overt versus covert attention
--   Top-down vs. bottom-up attention
--   The Distraction Diary
--   Location selection
--   Feature selection
--   Absence of combined selection
+-   Chapters 1-4: Bottlenecks, Overt and covert attention
+-   Vigilance
+-   Top-down vs. bottom-up attention (Ch. 5)
+-   Location selection (Ch. 7)
+-   Feature selection (Ch. 7)
+-   Absence of combined selection (Ch. 7)
 :::
 
+::: notes
+Prep: volume up, with mic pointed toward it, for dog barking sounds
 
-## Lecture 1 CLEAN-UP and REVIEW
-
-::: notes :::
 Get dog barking video ready 
 https://www.youtube.com/embed/sXjoGtuAkNU?si=84n6LvMVW98ykm8y&amp;start=29
+
 :::
 
-## Organization of Alex's material
+## VIGILANCE {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".3"}
 
+  * For ecologists, *vigilance* is monitoring surroundings for predators
+  * Hard to get close to wallabies. Why? Vigilance.
+  * The arrival of predators is an example of something that can be more important than whatever an animal is doing
 
-## TODAY
+<!-- - ![](images/redNeckedWallabyStarlightsTrack.jpeg){width=600}
+- ![](images/redNeckedWallabyStarlightsTrack2.jpeg){width=600} 
+ (sprinkled through the mini-text)
+-->
 
-::: {.nonincremental}
--   Top-down vs. bottom-up attention
--   The Distraction Diary
--   Location selection
--   Feature selection
--   Absence of combined selection
+::: notes
+The importance of vigilance is 
+
+This wallaby has been taking handouts from campsites, this one in North Sydney, for a long time, so it was easy to get close to it.
+
+Have you ever tried to sneak up on a wallaby or a kangaroo?
+They're not the hardest animals to sneak up on. The haven't evolved to be very vigilant. Not many predators historically.
 :::
 
-## "What most often distracts you during a lecture?" {background-image="images/notificationDetoxPhoneOnly.png"}
+## {background-image="images/wikimediaGeneraPlatypusTransparent.png" background-opacity="0.4"} 
 
-![](images/responses/WhatMostOftenDistractsYouDuringLecture2023.png)
+  * ![](images/platypusCecilHoskinsReserve.jpg){width=40%}
+  * Because of predators many animals (including most mammals!) are nocturnal.
 
-## Bottom-up attention
 
+::: notes
+How many of you grew up in Australia?
+Raise your hand if you've seen a platypus in the wild? Not many of you have.
+
+If you're only active at night, you have to worry much less about predators spotting you
+
+::: 
+
+## Nocturnal ancestors {background-image="images/Velociraptor_UDLwikimedia.png" background-size="1200px"  background-opacity="0.3"}
+
+  * Prior to the dinosaurs, our ancestors had vision specialized for daytime.
+  * During the dinosaurs, our ancestors shifted into the night
+
+  * ![](images/640px-Brasilitherium_riograndensis.jpg){width=20%}
+
+::: notes
+
+Our ancestors evolved during a period when dinosaurs were the dominant daytime predators. This period forced early mammals to adopt a nocturnal lifestyle to avoid predation.
+
+https://en.wikipedia.org/wiki/Nocturnal_bottleneck
+
+https://www.nature.com/articles/s41559-017-0366-5
+
+:::
+
+## Our mind evolved in an environment of predators {background-image="images/Velociraptor_UDLwikimedia.png" background-size="1200px" background-opacity="0.3"}
+
+![](images/640px-Brasilitherium_riograndensis.jpg){width=10%}
+
+  * Vigilance - periodically "look" around
+  * Balance concentration against watching out for more important things appearing
+  
+## Vigilance in deer, and monkeys
+
+<!--![](images/deer/Javan_Deer_East_Java.jpg)-->
+
+::: {.r-stack}
+![](images/deer/deerJan2024.JPG){.fragment width="1200"}
+
+![](images/deer/deerJan2024flees.JPG){.fragment width="800"}
+:::
+
+<!--Shows deer watching out and getting stalked by leopard, and monkeys also vigilant   -->
+  * {{< video https://www.youtube.com/embed/AlSt2mT8ztw?si=D5-cviExDgQz1xBC >}}
+
+::: notes
+
+[Article about vigilance in chitas](https://cervidonline.wixsite.com/cervid-online/post/vigilance-behaviour-in-chital)
+
+:::
+
+## Concentration vs. vigilance
+
+  * Solution 1: Alternate between concentrating and looking around
+  * Solution 2: Have a system for overcoming concentration with potentially-important signals
+  
+::: notes
+The drive behind the first solution is one thing that can make it hard to concentrate.
+Today we'll start talking about the second solution.
+:::
+
+## Computers were not designed with vigilance in mind
+
+::: notes
+Have you ever had your computer freeze on you?
+Like you're using Microsoft Word to write a document or something, and then the app just stops responding?
+:::
+
+## Computer scientists created "interrupt signals"
+
+- Keystroke interrupt signal
+  - Option-Command-ESC (MacOS); Alt-F4 (Windows)
+
+![](images/forceQuit.png){width="800"}
+
+::: notes
+Computers used to freeze a lot more. With a lot of advances in operating system technology
+to stop the concentration on another task.
+:::
+
+## {background-image="images/hardQuiz.jpg" background-opacity="1.0"}
+
+## {background-image="images/hardQuiz.jpg" background-opacity="0.1"}
+
+Alex, you put the question on TextEdit to avoid it appearing on the web lecture slides!
+<!--
+One reason our brains have a vigilance system is:
+
+  A) To facilitate staying on a single task
+  B) To detect predators
+  C) To maximize concentration during school
+  D) To improve invigilation during exams
+  E) To better digest vegetables
+-->
+
+::: notes
+the Lecture Quiz is a glorified attendance/self-assessment activity, so students will be verbally walked through the MCQ by the lecturer and surveyed for what they think the answer is, then they are told what it actually is, and that’s what they enter in Canvas
+:::
+
+## Does not compute! {background-image="images/8Ois.gif"}
+
+::: notes
+Unlike computers, we had to evolve so that we don't have "Does not compute" moments where we just stay stuck on a single task, or freeze 
+
+Humans basically never freeze. Because that would have been too detrimental during evolution.
+:::
+
+## BOTTOM-UP ATTENTION
+<!--Bottom-up attention-->
+
+<!--Dog barking sound effect -->
 [.](https://www.youtube.com/embed/sXjoGtuAkNU?si=84n6LvMVW98ykm8y&amp;start=29)
 
 ::: notes :::
+WAIT
 Look over here.... next is monster
 Play on laptop screen.
 :::
 
 ## {background-image="images/monster.png"}
 
-## Bottom-up attention
+## Bottom-up attention {background-image="images/monster.png" background-opacity="0.1"}
 
--   Salient stimuli
-    -   But what is salient? Different than other stimuli in terms of low-level features, see Chapters 7 and 9 <!--Should add comment to book that the fact that visual search is limited to individual features etc. also means gorillas don't capture our attention-->
--   Intense stimuli
+-   "Salient" stimuli
+-   What is salient to us?
+    - Different than other stimuli in terms of low-level features, see Chapters 7 and 9 <!--Should add comment to book that the fact that visual search is limited to individual features etc. also means gorillas don't capture our attention qua gorillas-->
+    -   Intense stimuli
 -   Good for vigilance
     -   Basic alerting system, like a smoke alarm.
-    -   A smoke alarm is pretty dumb, but doesn't take much resources and it's cheap to run it all the time.
+    -   A smoke alarm is dumb, but requires few resources. Cheap to run it all the time.
 
 ::: notes
+This has been one of the big projects in the study of visual attention, to work out what can generate an interrupt signal
 
+Part of the way this works is 
+So we do have a system f
 :::
 
 ## Top-down attention
@@ -103,53 +230,19 @@ Play on laptop screen.
 What we attend to reflects a combination of things we are voluntarily (endogenously) directing our attention to and things that exogenously capture our attention 
 :::
 
-## Homework: The distraction diary
-<BR>
-To do when you have ten minutes or more to concentrate on studying or other computer work.
+## Ways to select a stimulus
 
--   Put your phone on airplane mode.
--   Turn off notifications on your computer if you know how.
--   Start the stopwatch (often in Clock in Android).
--   Press "lap" every time you can't help yourself and you check social media, the news, or otherwise get off task.
--   Write down / save all the "lap" times of the first ten minutes
-
-![](images/usingTheStopwatch.jpeg)
-
-
-::: notes :::
-Try not to think of this as homework,
-You should be reading the mini-text anyway, so why not let it do double duty as a self-insight exercise.
-::: 
-
-<!--Create Google Doc to enter data-->
-
-## Practice: Let's spend 5 minutes reading the mini-text
-
-<BR>
-Then we'll answer some questions from it.
-
-Chapter 7: Three kinds of attentional selection.
-
-::: notes
-
-I know not everyone is going to do the exercise but please don't interfering with other people.
-Start the stopwatch "NOW"
-
-:::
-
-## Practice results and chapter questions
-
-Menti.com
-
-::: notes
-Mentimeter: DistractionDiaryPractice
-:::
+-   Spatial/object selection
+-   Feature selection
 
 ## Chapter 7: Combinations of features can't be directly selected
 
 -   Features are processed somewhat separately by the brain.
 -   Conjoining them requires a capacity-limited process
 
+::: notes
+See chapter 7
+:::
 
 ## {background-image="images/redBlueFeatureLocationSelectionCantBeCombined.png"}
 
@@ -173,9 +266,9 @@ The *combination* of location and feature selection can't be done.
 You can either select a simple feature everywhere (e.g., red objects),
 or select the stimuli in a particular region, but you can't combine those two abilities.
 
-## Combining location and feature selection can't be done
+## Compulsorily global: Combining location and feature selection can't be done
 
-Probably due to separation of what and where pathways.
+Possibly due to separation of what and where pathways.
 
 ![](images/300px-Ventral-dorsal_streams.png)
 
@@ -183,18 +276,27 @@ Probably due to separation of what and where pathways.
 I ad-libbed about how it makes sense that object recognition doesn't need location information much, whereas location is more important for action.
 :::
 
+## {auto-animate=true}
+
+::: {style="margin-top: 100px;"}
+Animating content
+:::
+
+## {auto-animate=true}
+
+::: {style="margin-top: 200px; font-size: 3em; color: red;"}
+Animating content
+:::
 
 ## TODAY
 
 ::: {.nonincremental}
 -   Top-down vs. bottom-up attention
--   The Distraction Diary
 -   Location selection
 -   Feature selection
 -   Absence of combined selection
 :::
 
 
-
-
+## {background-image="images/surveyEndOfLecture.png" background-opacity="0.5"}
 

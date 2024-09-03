@@ -1,5 +1,5 @@
 ---
-title: "PSYC2016: Attention"
+title: "PSYC2016: Attention lecture 1"
 title-slide-attributes:
   data-background-image: images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg
   data-background-size: contain
@@ -147,6 +147,13 @@ Lectures:
 ::: notes
 which can be useful to you on the exam
 :::
+
+##
+
+> I can't see everything on some mini-text pages
+
+Some things are offscreen on most phones, but will work on a laptop/desktop
+
 
 ## TODAY
 
@@ -350,89 +357,7 @@ We'll talk about the results on Tuesday.
 ![](images/surveyEndOfLecture.png)
 
 ::: notes
-Mentimer:
+Mentimeter:
 :::
-
-## VIGILANCE and LIMITED CAPACITY (sprinkled through the mini-text)
-
-##  {background-image="images/wallabyCampsitePittwater.JPG"}
-
-
-
-- ![](images/redNeckedWallabyStarlightsTrack.jpeg){width=600}
-- ![](images/redNeckedWallabyStarlightsTrack2.jpeg){width=600}
-
-::: notes
-This wallaby has been taking handouts from campsites, this one in North Sydney, for a long time, so it was easy to get close to it.
-
-Have you ever tried to sneak up on a wallaby or a kangaroo?
-They're not the hardest animals to sneak up on. The haven't evolved to be very vigilant. Not many predators historically.
-:::
-
-## {background-image="images/wikimediaGenera.png"} 
-
-::: notes
-How many of you grew up in Australia?
-Raise your hand if you've seen a platypus in the wild? Not many of you have.
-::: 
-
-## Deer
-
-![](images/deer/Javan_Deer_East_Java.jpg)
-
-::: notes
-Deer aren't native to Australia, and you're unlikely to see them.
-But that's not because there aren't a lot around.
-They were introduced over a hundred years ago because people thought it would be good to have them hear to hunt and eat.
-Even in Sydney, they're in a park near the Georges River.
-:::
-
-## Vigilance and chita deer
-
-{{< video https://www.youtube.com/embed/AlSt2mT8ztw >}}
-
-[Article about vigilance in chitas](https://cervidonline.wixsite.com/cervid-online/post/vigilance-behaviour-in-chital)
-
-::: notes
-Show video.
-Deer aren't native to Australia, and you're unlikely to see them.
-
-How do we strike the balance between looking out for important new things coming from anywhere, and focusing on another task we've decided on
-:::
-
-## 
-
-![](images/tiger.jpg)
-![](images/leopard.jpeg)
-![](images/dhole.jpeg)
--   Vigilance
-
-::: notes
-Tiger, leopard, dholes Wild dogs.
-Tasmanian tiger?
-:::
-
-## Why do we need selective attention?
-
-Limited processing capacity
-
-![](images/bottleneckDespite4effectors.png){width="70%"}
-
-## Interrupt signals
-
-Alt+F4
-
-![](images/forceQuit.png)
-
-::: notes
-Computers used to freeze all the time. With a lot of advances in operating system technology
-:::
-
-## Does not compute... {background-image="images/8Ois.gif"}
-
-::: notes
-Your own operating system isn't upgraded as often. But on the other hand, it's had millions of years to evolve. So we rarely freeze.
-:::
-
 
 
