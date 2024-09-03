@@ -1,0 +1,116 @@
+---
+title: "PSYC2016: Attention"
+title-slide-attributes:
+  data-background-image: images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg
+  data-background-size: contain
+  data-background-opacity: "0.8"
+author: "Alex Holcombe"
+date: 09-08-2023
+format: 
+  revealjs:
+    incremental: true
+    self-contained: false
+    slide-number: c/t
+    width: 1920 #Wallace LT projector default
+    height: 1080 #Wallace LT projector default
+    footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
+    theme: ["simple", "styles.scss"]
+    echo: true
+    multiplex: false
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+editor: source
+---
+<!--sometimes have to turn multiplex false to load speaker notes -->
+
+##
+
+
+## 
+
+> You said the two letters are processed simultaneously, but other lecturer said the faces of Trump and Jinping alternate
+
+-   ![](images/Alais.jpg){width=60%}
+
+::: notes :::
+Remember this guy? 
+::: 
+
+##
+
+> You said the two letters are processed simultaneously, but other lecturer said the faces of Trump and Jinping alternate
+
+![](images/AlaisRivalrySlide.png)
+<!-- {{< video images/2targets4timesFaster.mp4 >}} -->
+
+## Binocular rivalry versus dual letters
+-   Binocular rivalry: different stimuli presented to the two eyes
+    -   Processed in parallel to a point
+    -   *Incompatible*: brain expects the same object in both eyes, therefore
+    -   Direct competition for a single location, and winner occurs relatively early
+-   Dual letters in different locations
+    -   No incompatibility, so *processed in parallel until bottleneck*, then compete for that
+
+::: notes :::
+He told you about it because useful for studying consciousness because stimulus doesn't change
+:::
+
+
+## 
+
+> Didn't understand "Brain loop cycle bits"
+
+<BR>
+![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png){width=100%}
+
+## Global neuronal workspace theory
+
+![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png){width=100%}
+
+-   There's a bottleneck prior to the frontal lobe
+-   If a stimulus gets through, it results in reverberating widespread activity associated with that stimulus
+
+<!--
+## Consciousness and attention
+
+Global Neuronal Workspace theory: "Attention and consciousness are the same process"
+
+-- David Alais' slide #40 of Consciousness lecture 2
+-->
+
+
+
+## Consciousness
+
+![](images/Alais.jpg)
+::: notes
+The topic of consciousness hopefully is fresh in your mind, because of this guy.
+:::
+
+
+## What happens when a stimulus location is selected?
+
+-   Activity makes it through the bottleneck
+-   Recurrent activity
+
+## What happens when a spatial location is selected?
+
+
+![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png){width=280}
+
+Why can't we be conscious of all stimuli?
+
+::: notes
+Spatial selection facilitates stimuli getting through the bottleneck.
+:::
+
+## What happens when a spatial location is selected?
+
+
+![](images/AlaisSlide38Consciousness2Recurrent.png)
+::: notes
+Recurrent activity
+:::
+
+

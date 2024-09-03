@@ -641,14 +641,14 @@
     "href": "lecture2.html#section-4",
     "title": "PSYC2016: Attention lecture 2",
     "section": "",
-    "text": "PSYC2016: Attention"
+    "text": "Need to make better (sparser?) version of this.\nGlobal facilitation of attended features is obligatory and restricts divided attention. Anderson et al. They showed this with EEG"
   },
   {
     "objectID": "lecture2.html#section-5",
     "href": "lecture2.html#section-5",
     "title": "PSYC2016: Attention lecture 2",
     "section": "",
-    "text": "Animating content"
+    "text": "PSYC2016: Attention"
   },
   {
     "objectID": "lecture2.html#section-6",
@@ -774,14 +774,14 @@
     "href": "lecture2.html#top-down-attention",
     "title": "PSYC2016: Attention lecture 2",
     "section": "Top-down attention",
-    "text": "Top-down attention\n\nSometimes called endogenous attention\nInternally driven\nGoal directed\nCan require effort to maintain"
+    "text": "Top-down attention\n\nSometimes called endogenous attention\nInternally driven\nGoal directed"
   },
   {
     "objectID": "lecture2.html#bottom-up-attention-1",
     "href": "lecture2.html#bottom-up-attention-1",
     "title": "PSYC2016: Attention lecture 2",
     "section": "Bottom-up attention",
-    "text": "Bottom-up attention\n\n“Salient” stimuli\nWhat is salient to us?\n\nDifferent than other stimuli in terms of low-level features, see Chapters 7 and 9 \nIntense stimuli\n\nGood for vigilance\n\nBasic alerting system, like a smoke alarm.\nA smoke alarm is dumb, but requires few resources. Cheap to run it all the time.\n\n\n\nThis has been one of the big projects in the study of visual attention, to work out what can generate an interrupt signal\nPart of the way this works is So we do have a system f"
+    "text": "Bottom-up attention\n\n“Salient” stimuli\nWhat is salient to us?\n\nDifferent than other stimuli in terms of low-level features, see Chapters 7 and 9 \nIntense stimuli\n\nIs a kind of vigilance\n\nBasic alerting system\nLike a smoke alarm: dumb, but requires few resources. Cheap to run it all the time.\n\n\n\nThis has been one of the big projects in the study of visual attention, to work out what can generate an interrupt signal\nPart of the way this works is So we do have a system f"
   },
   {
     "objectID": "lecture2.html#combination-of-top-down-and-bottom-up",
@@ -4456,7 +4456,7 @@
     "href": "lecture2.html#compulsorily-global-combining-location-and-feature-selection-cant-be-done",
     "title": "PSYC2016: Attention lecture 2",
     "section": "Compulsorily global: Combining location and feature selection can’t be done",
-    "text": "Compulsorily global: Combining location and feature selection can’t be done\nPossibly due to separation of what and where pathways.\n\n\nI ad-libbed about how it makes sense that object recognition doesn’t need location information much, whereas location is more important for action."
+    "text": "Compulsorily global: Combining location and feature selection can’t be done\n\nSeparation of what and where pathways."
   },
   {
     "objectID": "lecture2.html#our-mind-evolved-in-an-environment-of-predators",
@@ -4492,5 +4492,68 @@
     "title": "PSYC2016: Attention lecture 2",
     "section": "Computer scientists created “interrupt signals”",
     "text": "Computer scientists created “interrupt signals”\n\nKeystroke interrupt signal\n\nOption-Command-ESC (MacOS); Alt-F4 (Windows)\n\n\n\n\nComputers used to freeze a lot more. With a lot of advances in operating system technology to stop the concentration on another task."
+  },
+  {
+    "objectID": "lecture2.html#top-down-combines-with-bottom-up",
+    "href": "lecture2.html#top-down-combines-with-bottom-up",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Top-down combines with bottom-up",
+    "text": "Top-down combines with bottom-up\n\n\nWhat we attend to reflects a combination of things we are voluntarily (endogenously) directing our attention to and things that exogenously capture our attention"
+  },
+  {
+    "objectID": "lecture2.html#mentimeter-survey",
+    "href": "lecture2.html#mentimeter-survey",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Mentimeter survey",
+    "text": "Mentimeter survey\nmost-focused experience\nshutting out the world"
+  },
+  {
+    "objectID": "lecture2.html#combinations-of-features-cant-be-directly-selected-ch.-7",
+    "href": "lecture2.html#combinations-of-features-cant-be-directly-selected-ch.-7",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Combinations of features can’t be directly selected (Ch. 7)",
+    "text": "Combinations of features can’t be directly selected (Ch. 7)\n\nFeatures are processed somewhat separately by the brain.\nConjoining them requires a capacity-limited process"
+  },
+  {
+    "objectID": "lecture2.html#feature-selection-is-compulsorily-global-ch.-7",
+    "href": "lecture2.html#feature-selection-is-compulsorily-global-ch.-7",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Feature selection is compulsorily global (Ch. 7)",
+    "text": "Feature selection is compulsorily global (Ch. 7)\n\nnext slide has demo"
+  },
+  {
+    "objectID": "lecture2.html#feature-selection-is-compulsorily-global-ch.-7-1",
+    "href": "lecture2.html#feature-selection-is-compulsorily-global-ch.-7-1",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Feature selection is compulsorily global (Ch. 7)",
+    "text": "Feature selection is compulsorily global (Ch. 7)\nCan’t attend to red on left side while simultaneously attending to blue on right side."
+  },
+  {
+    "objectID": "lecture2.html#feature-selection-is-compulsorily-global",
+    "href": "lecture2.html#feature-selection-is-compulsorily-global",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Feature selection is compulsorily global",
+    "text": "Feature selection is compulsorily global\nThe combination of location and feature selection can’t be done.\nYou can either select a simple feature everywhere (e.g., red objects), or select the stimuli in a particular region, but you can’t combine those two abilities."
+  },
+  {
+    "objectID": "lecture2.html#why-are-where-and-what-separated-in-the-brain",
+    "href": "lecture2.html#why-are-where-and-what-separated-in-the-brain",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Why are Where and What separated in the brain?",
+    "text": "Why are Where and What separated in the brain?\n\nObject recognition (What) doesn’t need location information much\nWhere is good for action, doesn’t need object identity much\n\n\nI ad-libbed about how it makes sense that object recognition doesn’t need location information much, whereas location is more important for action."
+  },
+  {
+    "objectID": "lecture2.html#global-combining-location-and-feature-selection-cant-be-done",
+    "href": "lecture2.html#global-combining-location-and-feature-selection-cant-be-done",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Global: Combining location and feature selection can’t be done",
+    "text": "Global: Combining location and feature selection can’t be done\n\nSeparation of what and where pathways."
+  },
+  {
+    "objectID": "lecture2.html#why-are-where-and-what-separated",
+    "href": "lecture2.html#why-are-where-and-what-separated",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Why are Where and What separated?",
+    "text": "Why are Where and What separated?\n\nObject recognition (What) doesn’t need location information much\nWhere is good for action, doesn’t need object identity much\n\n\nI ad-libbed about how it makes sense that object recognition doesn’t need location information much, whereas location is more important for action."
   }
 ]

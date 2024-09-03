@@ -28,6 +28,12 @@ editor: source
 <!--As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.-->
 <!-- Can't figure out how to turn off capitlatization in better themes like sky but this is related: https://stackoverflow.com/questions/47057398/reveal-js-title-with-capitalized-words-but-not-in-uppercase -->
 
+## Mentimeter survey
+
+most-focused experience
+
+shutting out the world
+
 ## What is your degree / major?
 
 ![](images/responses/whatIsYourDegreeMajor.png)
@@ -204,9 +210,9 @@ Play on laptop screen.
 -   What is salient to us?
     - Different than other stimuli in terms of low-level features, see Chapters 7 and 9 <!--Should add comment to book that the fact that visual search is limited to individual features etc. also means gorillas don't capture our attention qua gorillas-->
     -   Intense stimuli
--   Good for vigilance
-    -   Basic alerting system, like a smoke alarm.
-    -   A smoke alarm is dumb, but requires few resources. Cheap to run it all the time.
+-   Is a kind of vigilance
+    -   Basic alerting system
+    -   Like a smoke alarm: dumb, but requires few resources. Cheap to run it all the time.
 
 ::: notes
 This has been one of the big projects in the study of visual attention, to work out what can generate an interrupt signal
@@ -215,14 +221,13 @@ Part of the way this works is
 So we do have a system f
 :::
 
-## Top-down attention
+## Top-down attention {background-image="images/inspectorCartoon.png" background-size="600px" background-opacity="0.6"}
 
 -   Sometimes called *endogenous* attention
   -   Internally driven
 -   Goal directed
--   Can require effort to maintain
 
-## Combination of top-down and bottom-up 
+## Top-down combines with bottom-up 
 
 ![](images/brainBottomupTopdownTheeuwesFailing.png)
 
@@ -235,20 +240,20 @@ What we attend to reflects a combination of things we are voluntarily (endogenou
 -   Spatial/object selection
 -   Feature selection
 
-## Chapter 7: Combinations of features can't be directly selected
+## Combinations of features can't be directly selected (Ch. 7)
 
 -   Features are processed somewhat separately by the brain.
 -   Conjoining them requires a capacity-limited process
 
+
+
+## Feature selection is compulsorily global (Ch. 7)
+
 ::: notes
-See chapter 7
+next slide has demo
 :::
 
 ## {background-image="images/redBlueFeatureLocationSelectionCantBeCombined.png"}
-
-## Chapter 7: Feature selection is compulsorily global
-
-![](images/redBlueFeatureLocationSelectionCantBeCombined.png)
 
 ::: notes
 Need to make better (sparser?) version of this.
@@ -257,38 +262,34 @@ Global facilitation of attended features is obligatory and restricts divided att
 They showed this with EEG 
 ::: 
 
-## Chapter 7: Feature selection is compulsorily global
+## Feature selection is compulsorily global (Ch. 7) {background-image="images/redBlueFeatureLocationSelectionCantBeCombined.png" background-opacity="0.3"}
 
-Difficult to attend to red shapes on left while simultaneously attending to blue shapes on right.
+Can't attend to red on left side while simultaneously attending to blue on right side.
+
+## Feature selection is compulsorily global  {background-image="images/redBlueFeatureLocationSelectionCantBeCombined.png" background-opacity="0.1"}
 
 The *combination* of location and feature selection can't be done.
 
 You can either select a simple feature everywhere (e.g., red objects),
 or select the stimuli in a particular region, but you can't combine those two abilities.
 
-## Compulsorily global: Combining location and feature selection can't be done
+## Global: Combining location and feature selection can't be done
 
-Possibly due to separation of what and where pathways.
 
-![](images/300px-Ventral-dorsal_streams.png)
+![](images/300px-Ventral-dorsal_streams.png){width="60%"}
+
+Separation of what and where pathways.
+
+## *Why* are Where and What separated? {background-image="images/300px-Ventral-dorsal_streams.png" background-opacity="0.1"}
+
+-   Object recognition (What) doesn't need location information much
+-   Where is good for action, doesn't need object identity much
 
 ::: notes :::
 I ad-libbed about how it makes sense that object recognition doesn't need location information much, whereas location is more important for action.
 :::
 
-## {auto-animate=true}
-
-::: {style="margin-top: 100px;"}
-Animating content
-:::
-
-## {auto-animate=true}
-
-::: {style="margin-top: 200px; font-size: 3em; color: red;"}
-Animating content
-:::
-
-## TODAY
+## TODAY {background-image="images/monster.png" background-opacity="0.1"}
 
 ::: {.nonincremental}
 -   Top-down vs. bottom-up attention
