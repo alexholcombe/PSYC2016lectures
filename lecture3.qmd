@@ -9,6 +9,7 @@ date: today
 format: 
   revealjs:
     incremental: true
+    auto-stretch: false
     self-contained: false
     slide-number: c/t
     logo: "images/threeWiseMonkeys/monkeyNoHearHeadOnly.jpeg"
@@ -24,81 +25,132 @@ editor: source
 
 <!--sometimes have to turn multiplex false to load speaker notes -->
 
-<!--As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.-->
 
-## Lecture 2 CLEAN-UP and REVIEW
+## TODAY {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
-## Didn't understand:
-
-> Location selection; can we get a demo for it like feature selection?
-
-<BR>
-[HERE](https://www.psytoolkit.org/experiment-library/experiment_cueing.html
-) is an online Posner cuing experiment.
-
-
-## Didn't understand:
-
-> Will the entire textbook be assessed?
-
-Yes but it's short, and the exam will focus on material referred to in lecture.
-<BR><BR>
-
-> The different brain regions responsible for object and feature selection
-
-You only need to know dorsal = parietal = where = location, ventral = temporal = what = object recognition
-
-::: notes :::
-Read it on your phone, at the bus stop, while waiting for a train.
+::: {.nonincremental}
+-   Understanding the hand-wave and monster onset
+-   Top-down vs. bottom-up attention (Ch. 5)
+-   Parallel feature processing (Ch. 5, Ch. 7)
+-   Absence of feature pairing (Ch. 7)
+-   Feature integration theory (Ch. 9)
+-   It feels like we see everything at once (Ch. 3.5)
+-   Distraction experiment
 :::
 
+## Understanding the hand-wave and monster onset  {.smaller background-image="images/monster.png" background-opacity="0.2"}
 
-## Quiz question from Lecture 1 {visibility="hidden"}
+-   My hand motion triggered a shift of attention to it. How?
+    -   Visual cortex signals the location of odd motions
+    -   Bottom-up attention encourages a shift of attention
+    -   Your attention may leave my hand quickly, because it's not interesting
+-   The monster appeared on the screen. 
+    -   Visual cortex signalled the location of a sudden onset (Ch. 6)
+    -   Bottom-up attention encourages a shift of attention
+    -   Attention may linger, because the monster is interesting (top-down attention)
+    
+::: notes
+First I said, let me get your attention over here
 
-> why didn't see second letter
+:::
 
-Why was "I missed that" the right answer
+## Bottom-up attention {.smaller background-image="images/monster.png" background-opacity="0.1"}
 
-## Salience computation
+1) The monster appeared on the screen
+    1) Visual cortex signalled the location of a sudden onset (Ch. 6)
+    1) Bottom-up attention encourages a shift of attention
+    1) *Only then* is the monster routed through the bottleneck and recognized to be a monster
+    1) Attention may linger there, because monsters are interesting / arousing
 
-![](images/brainBottomupTopdownTheeuwesFailing.png)
+-   Steps 2-3 happen faster than you can notice!
 
--   Neurons tuned to the same feature inhibit each other
--   Added a new paragraph on this to [Chapter 5](https://psyc2016.whatanimalssee.com/btmUpTopDown.html#btmUpTopDown)
+## Did attention go to the monster because it was a monster? NO! {.smaller background-image="images/monster.png" background-opacity="0.1"}
 
-## Features
+::: {.nonincremental}
+-   The monster appeared on the screen
+    -   Visual cortex signalled the location of a sudden onset (Ch. 6)
+    -   Bottom-up attention encourages a shift of attention
+    -   *Only then* is the monster routed throught the bottleneck and recognized to be a monster.
+    -   Attention may linger there, because monsters are interesting / arousing
+:::
+
+::: notes
+It happens faster than you can notice.
+Determining that it is a monster requires extensive processing, selection for the bottleneck. But your bottleneck was busy processing something else! 
+:::
+
+## Parallel feature processing (Ch. 5 and 7)
+
+![](images/bluePopoutFromBookParallelSearchSection.png){width=70%}
+
+## Parallel feature processing {.smaller background-image="images/bluePopoutFromBookParallelSearchSection.png" background-opacity="0.15" background-size="contain"}
+
+-   Visual cortex detects color difference
+    -   Processes whole visual field simultaneously
+    -   Oddball color signal propagates (salience)
+    -   Drives bottom-up attention
+
+
+## Parallel feature processing  {.smaller background-image="images/bluePopoutFromBookParallelSearchSection.png" background-opacity="0.05" background-size="contain"}
+
+![](images/salienceFromFIT.png){width="50%" .absolute bottom=30 left=0}
+
+<!-- -   Within a feature dimension, *salience* computation is massively parallel
+    -   "parallel" = simultaneously at many locations in the visual field
+    -   e.g. detecting a unique color
+-->
+
+## Features {background-image="images/bluePopoutFromBookParallelSearchSection.png" background-opacity="0.02"}
 
 -   Feature *dimension*s include color, motion, orientation
     -   Feature *values*: red, blue for color
     -   Feature *values*: leftward, downward for motion
 
-## 
+![](images/salienceFromFIT.png){width="50%" .absolute bottom=20 left=0}
 
-<BR><BR>
-![](images/salienceFromFIT.png){width=50%}
 
--   Within a feature dimension, *salience* computation is massively parallel
-    -   "parallel" = simultaneously at many locations in the visual field
-    -   e.g. detecting a unique color
-    
-## Parallel salience processing 
+## Parallel processing 
 
-![](images/parallelUniqueColorAndGraph.png)
+<BR>Odd feature values are salient
+
+
+![](images/parallelUniqueColorAndGraph.png){.absolute bottom=0}
 
 <!-- Make odd color displays fill the whole screen, otherwise my joke of "Have you found it yet?" doesn't work -->
 
 ## Feature processing
 
 -   *Within* a feature dimension, salience computation is massively parallel
--   *Across* dimensions, identifying features is slow.
+-   Identifying feature *combinations* is *slow*.
 
-## {.smaller}
+## Identifying feature combinations is slow {background-image="images/colorMotionBindingSlow.gif" background-size="contain"}
 
-![](images/featureIntegrationTheorySchematic.png){width=50%}
+[Chapter 8](https://psyc2016.whatanimalssee.com/bindingTime.html)
+
+## Identifying feature combinations is slow {.smaller}
+
+<BR>
+Possibly doesn't occur unless selective attention routes the features through the bottleneck.
+
+![](images/bottleneck.png){height="50%"}
+
+## From lecture 2, Didn't understand: {background-image="images/300px-Ventral-dorsal_streams.png" background-opacity="0.2" background-size="contain"}
+<BR>
+
+> The different brain regions responsible for object and feature selection
+
+What you need to know:
+
+-   dorsal = parietal = where = location processing
+-   ventral = temporal = what = object recognition
+
+## Feature integration theory of Treisman {.smaller}
+
+![](images/featureIntegrationTheorySchematic.png){width=70%}
 
 ::: {.nonincremental}
 -   *Within* a feature dimension, salience computation is massively parallel
--   *Across* dimensions, identifying features is slow.
+-   Identifying feature combinations is slow.
 :::
 
 ::: notes :::
@@ -107,31 +159,37 @@ These two points explain many characteristics of visual search
 
 ## Odd *pair* of features: *serial* processing
 
+<BR><BR>
+Get ready to look for the odd pair of features!
+
+
+
 ::: notes :::
 Get ready to look for the odd pair of features
 :::
 
 ##
 
-![](images/serialUniqueConjunction.png)
+![](images/serialUniqueConjunction.png){.r-stretch}
 
-## Odd *pair* of features: *serial* processing
+## Odd feature pair: *serial* processing
 
 ![](images/serialUniqueConjunctionAndGraph.png)
 
-## Feature integration theory of Anne Treisman
+## Feature integration theory of Treisman
 
-![](images/featureIntegrationTheorySchematic.png)
+![](images/featureIntegrationTheorySchematic.png){.r-stretch}
 
 ## {background-image="images/hardQuiz.jpg" background-opacity="0.8"}
 
 ::: notes :::
-Monday quiz. Remains open until 3pm Tues.
+See question in
+quizQuestionsDuringLecture.rtf
 :::
 
 ## {background-image="images/hardQuiz.jpg" background-opacity="0.2"}
 
-According to Treisman's feature integration theory, when search is serial, what is also true?
+<!--2023 According to Treisman's Feature Integration Theory, when search is serial, what is also true?
 
 A. It usually involves search for a single feature (such as "blue")
 
@@ -139,68 +197,48 @@ B. The person has been distracted by a unique item
 
 C. Motion is one of the features involved
 
-D. Focused attention has to visit each location
+D. Focused attention has to visit each location-->
 
 ::: notes :::
-LECTURE 3 QUIZ
-According to Treisman's feature integration theory, when search is serial what is also true?
 
-A. It usually involves search for a single feature (such as "blue")
-B. The person has been distracted by a unique item
-C. Motion is one of the features involved
-D. Focused attention has to visit each location
 :::
 
-## Bottlenecks ([Section 3.4](https://psyc2016.whatanimalssee.com/bottlenecks.html#bottleneckObjects) of mini-text)
+## Two letters > processing capacity
 
--   For identifying two features from two different objects
--   For identifying features that belong to the same object
+![](images/HolcombeGoodbourn/GoodbournHolcombeStimSchematic.png){.r-stretch}
 
-![](images/Duncan1980stimulusDotted.png){width=50%}
+## Two letters > processing capacity
 
-::: notes :::
-THIS DIDN'T MAKE SENSE
-Bottleneck for feature binding and for reporting features from two different objects
+<BR><BR>
+![](images/HolcombeGoodbourn/GoodbournHolcombeSingleVersusDouble.png){width="30%"}
+
+::: notes
+Bottleneck - for letter identification
 :::
 
-
-## 
-
-
-## Identifying feature combinations is slow
-
-[Chapter 8](https://psyc2016.whatanimalssee.com/bindingTime.html)
-
-{{< video images/colorMotionBindingSlow .gif >}}
-
-```{=html}
-<!-- ![](images/colorMotionBindingSlow
-.gif) -->
-```
-## Identifying feature combinations is slow {.smaller}
-
-Possibly doesn't occur unless selective attention routes the features through the bottleneck.
-
-![](images/bottleneck.png){width="30%"}
-
-
-## It feels like we see everything at once
+## Feels like we see everything at once
 
 -   "phenomenal content overflows cognitive access." - [Ned Block](https://royalsocietypublishing.org/doi/10.1098/rstb.2017.0353)
--   phenomenal consciousness
--   access consciousness 
--   ![](images/Alais.jpg){width=40%}
+    -   "phenomenal" consciousness
+-   Chapter 3.5
+
+<!---   access consciousness 
+-   ![](images/Alais.jpg){width=40%} -->
 
 ::: notes ::: 
 Added to end of bottleneck chapter
 it *doesn't* feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn't feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don't give them time to move their attention around, the results suggest much processing is limited to only a few objects.
 :::
 
-## It feels like we see everything at once
+## Feels like we see everything at once
 
--   Attention shifts so quickly we don't notice it
-    -   The refrigerator light illusion
--   Something's missing from our theories
+↑ How can we reconcile this with the bottleneck?
+
+<BR>
+
+1)   Attention shifts so quickly we don't notice it
+      -   The refrigerator light illusion.
+1)   Something's missing from our theories?
 
 ::: notes ::: 
 
@@ -213,24 +251,64 @@ The discrepancy between what people think they experience and what information t
 Researchers can't yet fully explain the difference between phenomenal consciousness and access consciousness. However, they have discovered various visual processes that are *not* very capacity-limited, which can help account for some aspects of phenomenal consciousness. In the following chapters, we will go through some of these processes.
 :::
 
-## Something's missing { .smaller }
+## <!--Something's missing-->
 
-Wolfe et al. ([2011](https://www.sciencedirect.com/science/article/pii/S1364661310002536))
+Wolfe et al. ([2011](https://www.sciencedirect.com/science/article/pii/S1364661310002536)):
 
-> a ‘selective’ path in which candidate objects must be individually selected for recognition and a ‘nonselective’ path in which information can be extracted from global and/or statistical information.
+> there is a ‘selective’ path in which candidate objects must be individually selected for recognition and a **‘nonselective’** path in which information can be extracted from global and/or statistical information.
 
-![](images/NonselectivePathwayWolfeEtAl2011.png){size=30%}
+-   ![](images/NonselectivePathwayWolfeEtAl2011.png){width="45%"}
 
 
-## Distraction diary
+## "What most often distracts you during a lecture?" {background-image="images/notificationDetoxPhoneOnly.png" background-opacity=0.3}
 
-Menti.com
+![](images/responses/WhatMostOftenDistractsYouDuringLecture2024.png){.r-stretch}
+
+## "What most often distracts you during a lecture?" 
+
+![](images/responses/WhatMostOftenDistractsYouDuringLecture2024.png)
+
+-   Let's see what happens when we eliminate the top 2!
+
+<!--Talk about classification into categories, from distraction lecture-->
+ 
+## Distraction experiment {background-image="images/usingTheStopwatch.jpeg" background-opacity=0.3 background-size="200px"}
+<BR>
+
+-   Put your phone on airplane mode.
+-   Turn off notifications on your computer.
+-   Start the phone stopwatch (typically on Android phones, in Clock).
+-   Press "lap" every time you can't help yourself and you check social media, think about something other than what you're reading, or otherwise get off task.
 
 ::: notes :::
-DistractionDiaryRealResults
+You should be reading the mini-text anyway, so why not let it do double duty as a self-insight exercise.
+::: 
+
+## Let's spend X minutes silently reading Chapter 7
+
+<BR>
+Press 'lap' every time you get distracted.
+
+::: notes
+Then we'll answer some questions to enter our data, and about Chapter 7
+
+I know not everyone is going to do the exercise but please don't interfere with other people.
+Start the stopwatch "NOW"
 :::
 
-##
+
+## Distraction experiment results {background-image="images/surveyEndOfLecture.png" background-opacity="0.5"}
+
+<BR>
+
+-   How many times did you press 'lap'?
+
+
+::: notes :::
+Menti: DistractionExperiment and End of lecture survey - didn't understand; main point, other comments
+:::
+
+## 
 
 ![](images/surveyEndOfLecture.png)
 

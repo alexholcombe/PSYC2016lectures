@@ -382,7 +382,7 @@
     "href": "lecture1.html#organisation-of-alexs-material",
     "title": "PSYC2016: Attention lecture 1",
     "section": "Organisation of Alex’s material",
-    "text": "Organisation of Alex’s material\n\nThe mini-text: PSYC2016.whatanimalssee.com\nThese slides: linked from Canvas\nThe Week 6 tutorial: Finding and noticing things in the lab, and in the real world\n\n\nDuring the pandemic talking at people on Zoom for 50 minutes was not effective. Lecturing was very depressing then. So I wrote this mini-text. I find it freeing."
+    "text": "Organisation of Alex’s material\n\nThe mini-text: PSYC2016.whatanimalssee.com\nThese slides: linked from Canvas\nThe Week 6 tutorial: Finding and noticing things in the lab, and in the real world\n\n\nDuring the pandemic talking at people on Zoom for 50 minutes was not effective. Lecturing was very depressing then. So I wrote this mini-text. I find it freeing.\nRead it on your phone, at the bus stop, while waiting for a train. Except some images won’t fully show up"
   },
   {
     "objectID": "lecture2.html#lecture-1-clean-up-and-review",
@@ -886,7 +886,7 @@
     "href": "lecture3.html#section",
     "title": "Attention Lecture 3",
     "section": "",
-    "text": "Within a feature dimension, salience computation is massively parallel\n\n“parallel” = simultaneously at many locations in the visual field\ne.g. detecting a unique color"
+    "text": "Within a feature dimension, salience computation is massively parallel\nIdentifying feature combinations is slow.\n\n\n\nThese two points explain many characteristics of visual search"
   },
   {
     "objectID": "lecture3.html#summation-model",
@@ -1012,14 +1012,14 @@
     "href": "lecture3.html#section-1",
     "title": "Attention Lecture 3",
     "section": "",
-    "text": "Within a feature dimension, salience computation is massively parallel\nAcross dimensions, identifying features is slow.\n\n\n\nThese two points explain many characteristics of visual search"
+    "text": "See question in quizQuestionsDuringLecture.rtf"
   },
   {
     "objectID": "lecture3.html#section-2",
     "href": "lecture3.html#section-2",
     "title": "Attention Lecture 3",
     "section": "",
-    "text": "Monday quiz. Remains open until 3pm Tues."
+    "text": "See question in quizQuestionsDuringLecture.rtf"
   },
   {
     "objectID": "lecture3.html#individual-differences",
@@ -1082,7 +1082,7 @@
     "href": "lecture3.html#section-3",
     "title": "Attention Lecture 3",
     "section": "",
-    "text": "Monday quiz. Remains open until 3pm Tues."
+    "text": "Wolfe et al. (2011):\n\nthere is a ‘selective’ path in which candidate objects must be individually selected for recognition and a ‘nonselective’ path in which information can be extracted from global and/or statistical information."
   },
   {
     "objectID": "lecture3.html#earplugs",
@@ -1103,7 +1103,7 @@
     "href": "lecture3.html#section-4",
     "title": "Attention Lecture 3",
     "section": "",
-    "text": "According to Treisman’s feature integration theory, when search is serial, what is also true?\nA. It usually involves search for a single feature (such as “blue”)\nB. The person has been distracted by a unique item\nC. Motion is one of the features involved\nD. Focused attention has to visit each location\n\nLECTURE 3 QUIZ According to Treisman’s feature integration theory, when search is serial what is also true?\nA. It usually involves search for a single feature (such as “blue”) B. The person has been distracted by a unique item C. Motion is one of the features involved D. Focused attention has to visit each location"
+    "text": "globalShape.html\n\nAfter going through all this and the shape slides, I still had a minute left.\n\n\n\n\n\n\nPSYC2016: Attention"
   },
   {
     "objectID": "lecture3.html#mentimeter-when-have-you-been-most-focused",
@@ -1159,7 +1159,7 @@
     "href": "lecture3.html#section-5",
     "title": "Attention Lecture 3",
     "section": "",
-    "text": "But you know what, you don’t have to wait"
+    "text": "globalShape.html\n\nAfter going through all this and the shape slides, I still had a minute left.\n\n\n\n\n\n\nPSYC2016: Attention"
   },
   {
     "objectID": "lecture3.html#exploreexploit",
@@ -1173,7 +1173,7 @@
     "href": "lecture3.html#didnt-understand",
     "title": "Attention Lecture 3",
     "section": "Didn’t understand:",
-    "text": "Didn’t understand:\n\nLocation selection; can we get a demo for it like feature selection?\n\n HERE is an online Posner cuing experiment."
+    "text": "Didn’t understand:\n\nThe different brain regions responsible for object and feature selection\n\nWhat you need to know:\n\ndorsal = parietal = where = location processing\nventral = temporal = what = object recognition"
   },
   {
     "objectID": "lecture3.html#didnt-understand-1",
@@ -1334,14 +1334,14 @@
     "href": "lecture3.html#section-6",
     "title": "Attention Lecture 3",
     "section": "",
-    "text": "globalShape.html\n\n\n\n\nPSYC2016: Attention"
+    "text": "globalShape.html\n\nAfter going through all this and the shape slides, I still had a minute left.\n\n\n\n\n\n\nPSYC2016: Attention"
   },
   {
     "objectID": "lecture3.html#section-7",
     "href": "lecture3.html#section-7",
     "title": "Attention Lecture 3",
     "section": "",
-    "text": "globalShape.html\n\n\n\n\nPSYC2016: Attention"
+    "text": "globalShape.html\n\nAfter going through all this and the shape slides, I still had a minute left.\n\n\n\n\n\n\nPSYC2016: Attention"
   },
   {
     "objectID": "lecture3.html#section-8",
@@ -1915,7 +1915,7 @@
     "href": "lecture3.html#feature-processing",
     "title": "Attention Lecture 3",
     "section": "Feature processing",
-    "text": "Feature processing\n\nWithin a feature dimension, salience computation is massively parallel\nAcross dimensions, identifying features is slow."
+    "text": "Feature processing\n\nWithin a feature dimension, salience computation is massively parallel\nIdentifying feature combinations is slow."
   },
   {
     "objectID": "lecture3.html#odd-color-parallel-processing",
@@ -1928,8 +1928,8 @@
     "objectID": "lecture3.html#odd-feature-pair-serial-processing",
     "href": "lecture3.html#odd-feature-pair-serial-processing",
     "title": "Attention Lecture 3",
-    "section": "Odd feature-pair: serial processing",
-    "text": "Odd feature-pair: serial processing"
+    "section": "Odd feature pair: serial processing",
+    "text": "Odd feature pair: serial processing"
   },
   {
     "objectID": "lecture3.html#quiz-time-background-image-imageshardquiz.jpg",
@@ -1978,7 +1978,7 @@
     "href": "lecture3.html#odd-pair-of-features-serial-processing",
     "title": "Attention Lecture 3",
     "section": "Odd pair of features: serial processing",
-    "text": "Odd pair of features: serial processing\n\nGet ready to look for the odd pair of features"
+    "text": "Odd pair of features: serial processing\n Get ready to look for the odd pair of features!\n\nGet ready to look for the odd pair of features"
   },
   {
     "objectID": "lecture3.html#feature-integration-theory-anne-treisman",
@@ -2076,28 +2076,28 @@
     "href": "lecture3.html#bottlenecks-section-3.4-of-mini-text",
     "title": "Attention Lecture 3",
     "section": "Bottlenecks (Section 3.4 of mini-text)",
-    "text": "Bottlenecks (Section 3.4 of mini-text)\n\nFor identifying two features from two different objects\nFor identifying features that belong to the same object\n\n\n\nBottleneck for feature binding and for reporting features from two different objects"
+    "text": "Bottlenecks (Section 3.4 of mini-text)\n\nFor identifying two features from two different objects\nFor identifying features that belong to the same object\n\n\n\nTHIS DIDN’T MAKE SENSE Bottleneck for feature binding and for reporting features from two different objects"
   },
   {
     "objectID": "lecture3.html#identifying-feature-combinations-is-slow-1",
     "href": "lecture3.html#identifying-feature-combinations-is-slow-1",
     "title": "Attention Lecture 3",
     "section": "Identifying feature combinations is slow",
-    "text": "Identifying feature combinations is slow\nPossibly doesn’t occur unless selective attention routes the features through the bottleneck."
+    "text": "Identifying feature combinations is slow\n Possibly doesn’t occur unless selective attention routes the features through the bottleneck."
   },
   {
     "objectID": "lecture3.html#it-feels-like-we-see-everything-at-once",
     "href": "lecture3.html#it-feels-like-we-see-everything-at-once",
     "title": "Attention Lecture 3",
     "section": "It feels like we see everything at once",
-    "text": "It feels like we see everything at once\n\n“phenomenal content overflows cognitive access.” - Ned Block\nphenomenal consciousness\naccess consciousness\n\n\n\nAdded to end of bottleneck chapter it doesn’t feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn’t feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don’t give them time to move their attention around, the results suggest much processing is limited to only a few objects."
+    "text": "It feels like we see everything at once\n↑ How can we reconcile this with the bottleneck?\n\n\nAttention shifts so quickly we don’t notice it\n\nThe refrigerator light illusion.\n\nSomething’s missing from our theories?\n\n\nAdded to end of bottleneck chapter\nit doesn’t feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn’t feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don’t give them time to move their attention around, the results suggest much processing is limited to only a few objects.\nThe discrepancy between what people think they experience and what information they can report is sometimes referred to as the puzzle of phenomenal experience. The simultaneous experience of the entire visual field is labelled “phenomenal consciousness” and the more limited ability to report information about the contents of visual experience has been labelled “access consciousness”\nResearchers can’t yet fully explain the difference between phenomenal consciousness and access consciousness. However, they have discovered various visual processes that are not very capacity-limited, which can help account for some aspects of phenomenal consciousness. In the following chapters, we will go through some of these processes."
   },
   {
     "objectID": "lecture3.html#it-feels-like-we-see-everything-at-once-1",
     "href": "lecture3.html#it-feels-like-we-see-everything-at-once-1",
     "title": "Attention Lecture 3",
     "section": "It feels like we see everything at once",
-    "text": "It feels like we see everything at once\n\nAttention shifts so quickly we don’t notice it\n\nThe refrigerator light illusion\n\nSomething’s missing from our theories\n\n\nAdded to end of bottleneck chapter\nit doesn’t feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn’t feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don’t give them time to move their attention around, the results suggest much processing is limited to only a few objects.\nThe discrepancy between what people think they experience and what information they can report is sometimes referred to as the puzzle of phenomenal experience. The simultaneous experience of the entire visual field is labelled “phenomenal consciousness” and the more limited ability to report information about the contents of visual experience has been labelled “access consciousness”\nResearchers can’t yet fully explain the difference between phenomenal consciousness and access consciousness. However, they have discovered various visual processes that are not very capacity-limited, which can help account for some aspects of phenomenal consciousness. In the following chapters, we will go through some of these processes."
+    "text": "It feels like we see everything at once\n↑ How can we reconcile this with the bottleneck?\n\n\nAttention shifts so quickly we don’t notice it\n\nThe refrigerator light illusion.\n\nSomething’s missing from our theories?\n\n\nAdded to end of bottleneck chapter\nit doesn’t feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn’t feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don’t give them time to move their attention around, the results suggest much processing is limited to only a few objects.\nThe discrepancy between what people think they experience and what information they can report is sometimes referred to as the puzzle of phenomenal experience. The simultaneous experience of the entire visual field is labelled “phenomenal consciousness” and the more limited ability to report information about the contents of visual experience has been labelled “access consciousness”\nResearchers can’t yet fully explain the difference between phenomenal consciousness and access consciousness. However, they have discovered various visual processes that are not very capacity-limited, which can help account for some aspects of phenomenal consciousness. In the following chapters, we will go through some of these processes."
   },
   {
     "objectID": "lecture3.html#somethings-missing-from-our-theories",
@@ -2461,7 +2461,7 @@
     "href": "lecture3.html#parallel-salience-processing",
     "title": "Attention Lecture 3",
     "section": "Parallel salience processing",
-    "text": "Parallel salience processing"
+    "text": "Parallel salience processing\n Odd feature value is salient"
   },
   {
     "objectID": "lecture3.html#odd-pair-of-features-serial-processing-1",
@@ -2475,7 +2475,7 @@
     "href": "lecture3.html#somethings-missing",
     "title": "Attention Lecture 3",
     "section": "Something’s missing",
-    "text": "Something’s missing\nWolfe et al. (2011)\n\na ‘selective’ path in which candidate objects must be individually selected for recognition and a ‘nonselective’ path in which information can be extracted from global and/or statistical information."
+    "text": "Something’s missing\nWolfe et al. (2011):\n\nthere is a ‘selective’ path in which candidate objects must be individually selected for recognition and a ‘nonselective’ path in which information can be extracted from global and/or statistical information."
   },
   {
     "objectID": "lecture4.html#lecture-3-clean-up-and-review",
@@ -4302,7 +4302,7 @@
     "href": "lecture1.html#two-letters-can-be-enough-to-overwhelm-capacity-2",
     "title": "PSYC2016: Attention lecture 1",
     "section": "Two letters can be enough to overwhelm capacity",
-    "text": "Two letters can be enough to overwhelm capacity\n\n\nVideo\nTwo letters\n\n\n\n\nRecognizing letters seems effortless. And it is effortless, at the conscious level! But"
+    "text": "Two letters can be enough to overwhelm capacity\n\n\nVideo\nTwo letters"
   },
   {
     "objectID": "lecture1.html#two-letters-can-be-enough-to-overwhelm-capacity-3",
@@ -4555,5 +4555,355 @@
     "title": "PSYC2016: Attention lecture 2",
     "section": "Why are Where and What separated?",
     "text": "Why are Where and What separated?\n\nObject recognition (What) doesn’t need location information much\nWhere is good for action, doesn’t need object identity much\n\n\nI ad-libbed about how it makes sense that object recognition doesn’t need location information much, whereas location is more important for action."
+  },
+  {
+    "objectID": "lecture3.html#lecture-2-clean-up",
+    "href": "lecture3.html#lecture-2-clean-up",
+    "title": "Attention Lecture 3",
+    "section": "Lecture 2 CLEAN-UP",
+    "text": "Lecture 2 CLEAN-UP"
+  },
+  {
+    "objectID": "lecture3.html#bottom-up-attention",
+    "href": "lecture3.html#bottom-up-attention",
+    "title": "Attention Lecture 3",
+    "section": "Bottom-up attention",
+    "text": "Bottom-up attention\n\nThe monster appeared on the screen\n\nVisual cortex signalled the location of a sudden onset (Ch. 6)\nBottom-up attention encourages a shift of attention\nOnly then is the monster routed through the bottleneck and recognized to be a monster\nAttention may linger there, because monsters are interesting / arousing\n\n\n\nSteps 2-3 happen faster than you can notice!"
+  },
+  {
+    "objectID": "lecture3.html#what-most-often-distracts-you-during-a-lecture",
+    "href": "lecture3.html#what-most-often-distracts-you-during-a-lecture",
+    "title": "Attention Lecture 3",
+    "section": "“What most often distracts you during a lecture?”",
+    "text": "“What most often distracts you during a lecture?”"
+  },
+  {
+    "objectID": "lecture3.html#homework-the-distraction-diary",
+    "href": "lecture3.html#homework-the-distraction-diary",
+    "title": "Attention Lecture 3",
+    "section": "Homework: The distraction diary",
+    "text": "Homework: The distraction diary\n To do when you have ten minutes or more to concentrate on studying or other computer work.\n\nPut your phone on airplane mode.\nTurn off notifications on your computer if you know how.\nStart the stopwatch (often in Clock in Android).\nPress “lap” every time you can’t help yourself and you check social media, the news, or otherwise get off task.\nWrite down / save all the “lap” times of the first ten minutes\n\n\n\nTry not to think of this as homework, You should be reading the mini-text anyway, so why not let it do double duty as a self-insight exercise."
+  },
+  {
+    "objectID": "lecture3.html#practice-lets-spend-5-minutes-reading-the-mini-text",
+    "href": "lecture3.html#practice-lets-spend-5-minutes-reading-the-mini-text",
+    "title": "Attention Lecture 3",
+    "section": "Practice: Let’s spend 5 minutes reading the mini-text",
+    "text": "Practice: Let’s spend 5 minutes reading the mini-text\n Then we’ll answer some questions from it.\nChapter 7: Three kinds of attentional selection.\n\nI know not everyone is going to do the exercise but please don’t interfere with other people. Start the stopwatch “NOW”"
+  },
+  {
+    "objectID": "lecture3.html#practice-results-and-chapter-questions",
+    "href": "lecture3.html#practice-results-and-chapter-questions",
+    "title": "Attention Lecture 3",
+    "section": "Practice results and chapter questions",
+    "text": "Practice results and chapter questions\nMenti.com\n\nMentimeter: DistractionDiaryPractice"
+  },
+  {
+    "objectID": "lecture3.html#distraction-diary",
+    "href": "lecture3.html#distraction-diary",
+    "title": "Attention Lecture 3",
+    "section": "Distraction diary",
+    "text": "Distraction diary\nMenti.com\n\nDistractionDiaryRealResults"
+  },
+  {
+    "objectID": "lecture3.html#today",
+    "href": "lecture3.html#today",
+    "title": "Attention Lecture 3",
+    "section": "TODAY",
+    "text": "TODAY\n\n\nUnderstanding the hand-wave and monster onset\nTop-down vs. bottom-up attention (Ch. 5)\nParallel feature processing (Ch. 5, Ch. 7)\nAbsence of feature pairing (Ch. 7)\nFeature integration theory (Ch. 9)\nIt feels like we see everything at once (Ch. 3.5)\nDistraction experiment"
+  },
+  {
+    "objectID": "lecture3.html#bottom-up-attention-1",
+    "href": "lecture3.html#bottom-up-attention-1",
+    "title": "Attention Lecture 3",
+    "section": "Bottom-up attention",
+    "text": "Bottom-up attention\nDid attention go to the monster because it was a monster? NO!\n\n\nThe monster appeared on the screen\n\nVisual cortex signalled the location of a sudden onset (Ch. 6)\nBottom-up attention encourages a shift of attention\nOnly then is the monster routed throught the bottleneck and recognized to be a monster.\nAttention may linger, because monsters are interesting / arousing\n\n\n\n\nIt happens faster than you can notice. Determining that it is a monster requires extensive processing, selection for the bottleneck. But your bottleneck was busy processing something else!"
+  },
+  {
+    "objectID": "lecture3.html#features-1",
+    "href": "lecture3.html#features-1",
+    "title": "Attention Lecture 3",
+    "section": "Features",
+    "text": "Features\n\nFeature dimensions include color, motion, orientation\n\nFeature values: red, blue for color\nFeature values: leftward, downward for motion"
+  },
+  {
+    "objectID": "lecture3.html#understanding-the-hand-wave-followed-by-the-appearance-of-the-monster",
+    "href": "lecture3.html#understanding-the-hand-wave-followed-by-the-appearance-of-the-monster",
+    "title": "Attention Lecture 3",
+    "section": "Understanding the hand-wave followed by the appearance of the monster",
+    "text": "Understanding the hand-wave followed by the appearance of the monster\n\nThe motion of my hand triggered a shift of attention to it. How?\n\nVisual cortex signals the location of odd motions\nBottom-up attention encourages a shift of attention\nAttention likely left my hand quickly, because it was not interesting\n\nThe monster appeared on the screen.\n\nVisual cortex signalled the location of a sudden onset (Ch. 6)\nBottom-up attention encourages a shift of attention\nAttention may linger, because the monster is interesting (top-down attention)\n\n\n\nFirst I said, let me get your attention over here"
+  },
+  {
+    "objectID": "lecture3.html#understanding-the-hand-wave-and-monster-onset",
+    "href": "lecture3.html#understanding-the-hand-wave-and-monster-onset",
+    "title": "Attention Lecture 3",
+    "section": "Understanding the hand-wave and monster onset",
+    "text": "Understanding the hand-wave and monster onset\n\nMy hand motion triggered a shift of attention to it. How?\n\nVisual cortex signals the location of odd motions\nBottom-up attention encourages a shift of attention\nYour attention may leave my hand quickly, because it’s not interesting\n\nThe monster appeared on the screen.\n\nVisual cortex signalled the location of a sudden onset (Ch. 6)\nBottom-up attention encourages a shift of attention\nAttention may linger, because the monster is interesting (top-down attention)\n\n\n\nFirst I said, let me get your attention over here"
+  },
+  {
+    "objectID": "lecture3.html#understanding-the-hand-wave-and-monster-onset-.smaller",
+    "href": "lecture3.html#understanding-the-hand-wave-and-monster-onset-.smaller",
+    "title": "Attention Lecture 3",
+    "section": "Understanding the hand-wave and monster onset {.smaller}",
+    "text": "Understanding the hand-wave and monster onset {.smaller}\n\nMy hand motion triggered a shift of attention to it. How?\n\nVisual cortex signals the location of odd motions\nBottom-up attention encourages a shift of attention\nYour attention may leave my hand quickly, because it’s not interesting\n\nThe monster appeared on the screen.\n\nVisual cortex signalled the location of a sudden onset (Ch. 6)\nBottom-up attention encourages a shift of attention\nAttention may linger, because the monster is interesting (top-down attention)\n\n\n\nFirst I said, let me get your attention over here"
+  },
+  {
+    "objectID": "lecture3.html#parallel-feature-processing",
+    "href": "lecture3.html#parallel-feature-processing",
+    "title": "Attention Lecture 3",
+    "section": "Parallel feature processing",
+    "text": "Parallel feature processing\n\nVisual cortex detects color difference\n\nProcesses whole visual field simultaneously\nOddball color signal propagates (salience)\nDrives bottom-up attention"
+  },
+  {
+    "objectID": "lecture3.html#parallel-feature-processing-1",
+    "href": "lecture3.html#parallel-feature-processing-1",
+    "title": "Attention Lecture 3",
+    "section": "Parallel feature processing",
+    "text": "Parallel feature processing"
+  },
+  {
+    "objectID": "lecture3.html#gif",
+    "href": "lecture3.html#gif",
+    "title": "Attention Lecture 3",
+    "section": "gif",
+    "text": "gif"
+  },
+  {
+    "objectID": "lecture3.html#gif2",
+    "href": "lecture3.html#gif2",
+    "title": "Attention Lecture 3",
+    "section": "gif2",
+    "text": "gif2"
+  },
+  {
+    "objectID": "lecture1.html#bottleneck---for-letter-identification",
+    "href": "lecture1.html#bottleneck---for-letter-identification",
+    "title": "PSYC2016: Attention lecture 1",
+    "section": "Bottleneck - for letter identification",
+    "text": "Bottleneck - for letter identification"
+  },
+  {
+    "objectID": "lecture1.html#bottleneck---for-letter-identification-1",
+    "href": "lecture1.html#bottleneck---for-letter-identification-1",
+    "title": "PSYC2016: Attention lecture 1",
+    "section": "Bottleneck - for letter identification",
+    "text": "Bottleneck - for letter identification\n\n\nRecognizing letters seems effortless. And it is effortless, at the conscious level! But"
+  },
+  {
+    "objectID": "lecture3.html#two-letters-can-be-enough-to-overwhelm-capacity",
+    "href": "lecture3.html#two-letters-can-be-enough-to-overwhelm-capacity",
+    "title": "Attention Lecture 3",
+    "section": "Two letters can be enough to overwhelm capacity",
+    "text": "Two letters can be enough to overwhelm capacity"
+  },
+  {
+    "objectID": "lecture3.html#two-letters-can-be-enough-to-overwhelm-capacity-1",
+    "href": "lecture3.html#two-letters-can-be-enough-to-overwhelm-capacity-1",
+    "title": "Attention Lecture 3",
+    "section": "Two letters can be enough to overwhelm capacity",
+    "text": "Two letters can be enough to overwhelm capacity\n\n\nBottleneck - for letter identification"
+  },
+  {
+    "objectID": "lecture3.html#numbered-list",
+    "href": "lecture3.html#numbered-list",
+    "title": "Attention Lecture 3",
+    "section": "Numbered list?",
+    "text": "Numbered list?\n\nThe monster appeared on the screen\n\nVisual cortex signalled the location of a sudden onset (Ch. 6)\nBottom-up attention encourages a shift of attention\nOnly then is the monster routed throught the bottleneck and recognized to be a monster\nAttention may linger, because monsters are interesting / arousing\n\n\n\nSteps 2-3 happen faster than you can notice!"
+  },
+  {
+    "objectID": "lecture3.html#parallel-feature-processing-which-chapter",
+    "href": "lecture3.html#parallel-feature-processing-which-chapter",
+    "title": "Attention Lecture 3",
+    "section": "Parallel feature processing WHICH CHAPTER",
+    "text": "Parallel feature processing WHICH CHAPTER"
+  },
+  {
+    "objectID": "lecture3.html#two-letters-can-overwhelm-capacity",
+    "href": "lecture3.html#two-letters-can-overwhelm-capacity",
+    "title": "Attention Lecture 3",
+    "section": "Two letters can overwhelm capacity",
+    "text": "Two letters can overwhelm capacity\n\n\nBottleneck - for letter identification"
+  },
+  {
+    "objectID": "lecture3.html#two-letters-capacity",
+    "href": "lecture3.html#two-letters-capacity",
+    "title": "Attention Lecture 3",
+    "section": "Two letters > capacity",
+    "text": "Two letters &gt; capacity"
+  },
+  {
+    "objectID": "lecture3.html#two-letters-capacity-1",
+    "href": "lecture3.html#two-letters-capacity-1",
+    "title": "Attention Lecture 3",
+    "section": "Two letters > capacity",
+    "text": "Two letters &gt; capacity\n\n\nBottleneck - for letter identification"
+  },
+  {
+    "objectID": "lecture3.html#a-distraction-diary",
+    "href": "lecture3.html#a-distraction-diary",
+    "title": "Attention Lecture 3",
+    "section": "A distraction diary",
+    "text": "A distraction diary\n\n\nPut your phone on airplane mode.\nTurn off notifications on your computer if you know how.\nStart the stopwatch (often in Clock in Android).\nPress “lap” every time you can’t help yourself and you check social media, the news, or otherwise get off task.\nHow many times did you need to press ‘lap’?\n\n\n\nTry not to think of this as homework, You should be reading the mini-text anyway, so why not let it do double duty as a self-insight exercise."
+  },
+  {
+    "objectID": "lecture3.html#practice-lets-spend-x-minutes-reading-the-mini-text",
+    "href": "lecture3.html#practice-lets-spend-x-minutes-reading-the-mini-text",
+    "title": "Attention Lecture 3",
+    "section": "Practice: Let’s spend X minutes reading the mini-text",
+    "text": "Practice: Let’s spend X minutes reading the mini-text\n Then we’ll answer some questions from it.\nChapter 7: Three kinds of attentional selection.\n\nI know not everyone is going to do the exercise but please don’t interfere with other people. Start the stopwatch “NOW”"
+  },
+  {
+    "objectID": "lecture3.html#distractions-and",
+    "href": "lecture3.html#distractions-and",
+    "title": "Attention Lecture 3",
+    "section": "Distractions and",
+    "text": "Distractions and"
+  },
+  {
+    "objectID": "lecture3.html#feature-integration-theory-of-anne-treisman-1",
+    "href": "lecture3.html#feature-integration-theory-of-anne-treisman-1",
+    "title": "Attention Lecture 3",
+    "section": "Feature integration theory of Anne Treisman",
+    "text": "Feature integration theory of Anne Treisman"
+  },
+  {
+    "objectID": "lecture3.html#two-letters-processing-capacity",
+    "href": "lecture3.html#two-letters-processing-capacity",
+    "title": "Attention Lecture 3",
+    "section": "Two letters > processing capacity",
+    "text": "Two letters &gt; processing capacity"
+  },
+  {
+    "objectID": "lecture3.html#two-letters-processing-capacity-1",
+    "href": "lecture3.html#two-letters-processing-capacity-1",
+    "title": "Attention Lecture 3",
+    "section": "Two letters > processing capacity",
+    "text": "Two letters &gt; processing capacity\n \n\nBottleneck - for letter identification"
+  },
+  {
+    "objectID": "lecture3.html#what-most-often-distracts-you-during-a-lecture-1",
+    "href": "lecture3.html#what-most-often-distracts-you-during-a-lecture-1",
+    "title": "Attention Lecture 3",
+    "section": "“What most often distracts you during a lecture?”",
+    "text": "“What most often distracts you during a lecture?”\n\n\nLet’s see what happens when we eliminate the top 2!"
+  },
+  {
+    "objectID": "lecture3.html#a-distraction-experiment",
+    "href": "lecture3.html#a-distraction-experiment",
+    "title": "Attention Lecture 3",
+    "section": "A distraction experiment",
+    "text": "A distraction experiment\n\n\nPut your phone on airplane mode.\nTurn off notifications on your computer.\nStart the phone stopwatch (typically on Android phones, in Clock).\nPress “lap” every time you can’t help yourself and you check social media, think about something other than what you’re reading, or otherwise get off task.\nHow many times did you press ‘lap’?\n\n\nTry not to think of this as homework, You should be reading the mini-text anyway, so why not let it do double duty as a self-insight exercise."
+  },
+  {
+    "objectID": "lecture3.html#distraction-experiment",
+    "href": "lecture3.html#distraction-experiment",
+    "title": "Attention Lecture 3",
+    "section": "Distraction experiment",
+    "text": "Distraction experiment\n\n\nPut your phone on airplane mode.\nTurn off notifications on your computer.\nStart the phone stopwatch (typically on Android phones, in Clock).\nPress “lap” every time you can’t help yourself and you check social media, think about something other than what you’re reading, or otherwise get off task.\n\n\nYou should be reading the mini-text anyway, so why not let it do double duty as a self-insight exercise."
+  },
+  {
+    "objectID": "lecture3.html#lets-spend-x-minutes-silently-reading-chapter-7",
+    "href": "lecture3.html#lets-spend-x-minutes-silently-reading-chapter-7",
+    "title": "Attention Lecture 3",
+    "section": "Let’s spend X minutes silently reading Chapter 7",
+    "text": "Let’s spend X minutes silently reading Chapter 7\n Press ‘lap’ every time you get distracted.\n\nThen we’ll answer some questions to enter our data, and about Chapter 7\nI know not everyone is going to do the exercise but please don’t interfere with other people. Start the stopwatch “NOW”"
+  },
+  {
+    "objectID": "lecture3.html#distraction-experiment-results",
+    "href": "lecture3.html#distraction-experiment-results",
+    "title": "Attention Lecture 3",
+    "section": "Distraction experiment results",
+    "text": "Distraction experiment results\n\n\nHow many times did you press ‘lap’?\n\n\nMenti: DistractionExperiment and End of lecture survey - didn’t understand; main point, other comments"
+  },
+  {
+    "objectID": "lecture3.html#parallel-feature-processing-ch.-5-and-7",
+    "href": "lecture3.html#parallel-feature-processing-ch.-5-and-7",
+    "title": "Attention Lecture 3",
+    "section": "Parallel feature processing (Ch. 5 and 7)",
+    "text": "Parallel feature processing (Ch. 5 and 7)"
+  },
+  {
+    "objectID": "lecture3.html#it-feels-like-we-see-everything-at-once-ch.-3.5",
+    "href": "lecture3.html#it-feels-like-we-see-everything-at-once-ch.-3.5",
+    "title": "Attention Lecture 3",
+    "section": "It feels like we see everything at once (Ch. 3.5)",
+    "text": "It feels like we see everything at once (Ch. 3.5)\n\n“phenomenal content overflows cognitive access.” - Ned Block\n\n“phenomenal” consciousness\n\n\n\n\nAdded to end of bottleneck chapter it doesn’t feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn’t feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don’t give them time to move their attention around, the results suggest much processing is limited to only a few objects."
+  },
+  {
+    "objectID": "lecture3.html#lecture-2-clean-up-didnt-understand",
+    "href": "lecture3.html#lecture-2-clean-up-didnt-understand",
+    "title": "Attention Lecture 3",
+    "section": "Lecture 2 CLEAN-UP Didn’t understand:",
+    "text": "Lecture 2 CLEAN-UP Didn’t understand:\n\nThe different brain regions responsible for object and feature selection\n\nWhat you need to know:\n\ndorsal = parietal = where = location processing\nventral = temporal = what = object recognition"
+  },
+  {
+    "objectID": "lecture3.html#lecture-2-didnt-understand",
+    "href": "lecture3.html#lecture-2-didnt-understand",
+    "title": "Attention Lecture 3",
+    "section": "Lecture 2, Didn’t understand:",
+    "text": "Lecture 2, Didn’t understand:\n\n\nThe different brain regions responsible for object and feature selection\n\nWhat you need to know:\n\ndorsal = parietal = where = location processing\nventral = temporal = what = object recognition"
+  },
+  {
+    "objectID": "lecture3.html#from-lecture-2-didnt-understand",
+    "href": "lecture3.html#from-lecture-2-didnt-understand",
+    "title": "Attention Lecture 3",
+    "section": "From lecture 2, Didn’t understand:",
+    "text": "From lecture 2, Didn’t understand:\n\n\nThe different brain regions responsible for object and feature selection\n\nWhat you need to know:\n\ndorsal = parietal = where = location processing\nventral = temporal = what = object recognition"
+  },
+  {
+    "objectID": "lecture3.html#did-attention-go-to-the-monster-because-it-was-a-monster-no",
+    "href": "lecture3.html#did-attention-go-to-the-monster-because-it-was-a-monster-no",
+    "title": "Attention Lecture 3",
+    "section": "Did attention go to the monster because it was a monster? NO!",
+    "text": "Did attention go to the monster because it was a monster? NO!\n\n\nThe monster appeared on the screen\n\nVisual cortex signalled the location of a sudden onset (Ch. 6)\nBottom-up attention encourages a shift of attention\nOnly then is the monster routed throught the bottleneck and recognized to be a monster.\nAttention may linger there, because monsters are interesting / arousing\n\n\n\n\nIt happens faster than you can notice. Determining that it is a monster requires extensive processing, selection for the bottleneck. But your bottleneck was busy processing something else!"
+  },
+  {
+    "objectID": "lecture3.html#parallel-processing",
+    "href": "lecture3.html#parallel-processing",
+    "title": "Attention Lecture 3",
+    "section": "Parallel processing",
+    "text": "Parallel processing\nOdd feature values are salient"
+  },
+  {
+    "objectID": "lecture3.html#feature-integration-theory-of-treisman",
+    "href": "lecture3.html#feature-integration-theory-of-treisman",
+    "title": "Attention Lecture 3",
+    "section": "Feature integration theory of Treisman",
+    "text": "Feature integration theory of Treisman\n\n\n\nWithin a feature dimension, salience computation is massively parallel\nIdentifying feature combinations is slow.\n\n\n\nThese two points explain many characteristics of visual search"
+  },
+  {
+    "objectID": "lecture3.html#feature-integration-theory-of-treisman-1",
+    "href": "lecture3.html#feature-integration-theory-of-treisman-1",
+    "title": "Attention Lecture 3",
+    "section": "Feature integration theory of Treisman",
+    "text": "Feature integration theory of Treisman"
+  },
+  {
+    "objectID": "lecture3.html#feels-like-we-see-everything-at-once-ch.-3.5",
+    "href": "lecture3.html#feels-like-we-see-everything-at-once-ch.-3.5",
+    "title": "Attention Lecture 3",
+    "section": "Feels like we see everything at once (Ch. 3.5)",
+    "text": "Feels like we see everything at once (Ch. 3.5)\n\n“phenomenal content overflows cognitive access.” - Ned Block\n\n“phenomenal” consciousness\n\n\n\n\nAdded to end of bottleneck chapter it doesn’t feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn’t feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don’t give them time to move their attention around, the results suggest much processing is limited to only a few objects."
+  },
+  {
+    "objectID": "lecture3.html#feels-like-we-see-everything-at-once",
+    "href": "lecture3.html#feels-like-we-see-everything-at-once",
+    "title": "Attention Lecture 3",
+    "section": "Feels like we see everything at once",
+    "text": "Feels like we see everything at once\n\n“phenomenal content overflows cognitive access.” - Ned Block\n\n“phenomenal” consciousness\n\nChapter 3.5\n\n\n\nAdded to end of bottleneck chapter it doesn’t feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn’t feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don’t give them time to move their attention around, the results suggest much processing is limited to only a few objects."
+  },
+  {
+    "objectID": "lecture3.html#feels-like-we-see-everything-at-once-1",
+    "href": "lecture3.html#feels-like-we-see-everything-at-once-1",
+    "title": "Attention Lecture 3",
+    "section": "Feels like we see everything at once",
+    "text": "Feels like we see everything at once\n↑ How can we reconcile this with the bottleneck?\n\n\nAttention shifts so quickly we don’t notice it\n\nThe refrigerator light illusion.\n\nSomething’s missing from our theories?\n\n\nAdded to end of bottleneck chapter\nit doesn’t feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn’t feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don’t give them time to move their attention around, the results suggest much processing is limited to only a few objects.\nThe discrepancy between what people think they experience and what information they can report is sometimes referred to as the puzzle of phenomenal experience. The simultaneous experience of the entire visual field is labelled “phenomenal consciousness” and the more limited ability to report information about the contents of visual experience has been labelled “access consciousness”\nResearchers can’t yet fully explain the difference between phenomenal consciousness and access consciousness. However, they have discovered various visual processes that are not very capacity-limited, which can help account for some aspects of phenomenal consciousness. In the following chapters, we will go through some of these processes."
+  },
+  {
+    "objectID": "lecture3.html#smaller",
+    "href": "lecture3.html#smaller",
+    "title": "Attention Lecture 3",
+    "section": "{.smaller} ",
+    "text": "{.smaller} \nWolfe et al. (2011):\n\nthere is a ‘selective’ path in which candidate objects must be individually selected for recognition and a ‘nonselective’ path in which information can be extracted from global and/or statistical information."
   }
 ]

@@ -8,7 +8,7 @@ https://quarto.org/docs/publishing/github-pages.html#render-to-docs
 
 So whenever I push to github here, the new version will be published.
 
-## Can't understand how to add more space below slide titles
+## Can't understand how to add more space below slide titles!
 
 Tried in styles.scss:
 

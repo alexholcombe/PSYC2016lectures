@@ -109,3 +109,16 @@ This actually may be part of the non-selective pathway.
 :::
 
 
+## Bottlenecks ([Section 3.4](https://psyc2016.whatanimalssee.com/bottlenecks.html#bottleneckObjects) of mini-text)
+
+-   For identifying two features from two different objects
+-   For identifying features that belong to the same object
+
+![](images/Duncan1980stimulusDotted.png){width=50%}
+
+::: notes :::
+THIS DIDN'T MAKE SENSE
+Bottleneck for feature binding and for reporting features from two different objects
+:::
+
+
