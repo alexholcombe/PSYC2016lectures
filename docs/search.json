@@ -2146,7 +2146,7 @@
     "href": "globalShape.html#shape-processing",
     "title": "Shape",
     "section": "Shape processing",
-    "text": "Shape processing\nCombines elements in a sophisticated way.\n\nCues for occlusion\nNext: averaging out noise"
+    "text": "Shape processing\nCombines elements in a sophisticated way.\n\nOcclusion cues\nNext: averaging out noise"
   },
   {
     "objectID": "globalShape.html#quantitative-assessment",
@@ -2230,7 +2230,7 @@
     "href": "globalShape.html#pairing-shape-with-color",
     "title": "Shape",
     "section": "Pairing shape with color",
-    "text": "Pairing shape with color\n\nTakes time to determine which dots form the shape and which are random\nSuggests attentional scrutiny is required"
+    "text": "Pairing shape with color\n\nTakes time to determine which dots form the shape and which are random\nConsistent with attentional scrutiny being needed"
   },
   {
     "objectID": "globalShape.html#pairing-shape-with-color-1",
@@ -2251,7 +2251,7 @@
     "href": "globalShape.html#quantifying-binding-cost",
     "title": "Shape",
     "section": "Quantifying binding cost",
-    "text": "Quantifying binding cost\nPercentage signal dots needed to perceive shape-color combination is:\n\nhigher than needed for shape alone\nhigher than needed for color alone\ne.g., 10% to perceive shape and 20% to perceive shape-color combo 1\n\nSeymour, McDonald, & Clifford (2009)"
+    "text": "Quantifying binding cost\n% of dots needed to perceive shape-color combination is:\n\nhigher than needed for shape alone\nhigher than needed for color alone\ne.g., 10% to perceive shape and 20% to perceive shape-color combo 1\n\nSeymour, McDonald, & Clifford (2009)"
   },
   {
     "objectID": "globalShape.html#pairing-shape-with-color-3",
@@ -2272,7 +2272,7 @@
     "href": "globalShape.html#shape-extractor-does-not-preserve-color-information",
     "title": "Shape",
     "section": "Shape extractor does not preserve color information",
-    "text": "Shape extractor does not preserve color information\n\nThis is already\nOrientations get bound together but not with color."
+    "text": "Shape extractor does not preserve color information\n\n\nOrientations get bound together but not with color."
   },
   {
     "objectID": "globalShape.html#shape-take-aways",
@@ -2286,7 +2286,7 @@
     "href": "globalShape.html#feature-pairing",
     "title": "Shape",
     "section": "Feature pairing",
-    "text": "Feature pairing\n\nPairing different feature\n\nColor with motion\nColor with shape\n\nI suggested that the reason is a need to bring together separate neural populations\n\nMight only occur post-bottleneck\n\n\nI suggested that the reason is a need to bring together separate neural populations"
+    "text": "Feature pairing\n\nCost to pairing different feature dimensions\n\nColor with motion\nColor with shape\n\nNeed to bring together separate neural populations\n\nMight only occur post-bottleneck"
   },
   {
     "objectID": "globalShape.html#shape-processing-speed",
@@ -2356,7 +2356,7 @@
     "href": "globalShape.html#rapid-alternation-2",
     "title": "Shape",
     "section": "Rapid alternation",
-    "text": "Rapid alternation\n\nShape elements bound and processed quickly\nColor of shape is lost\n\n\n\n\n\nPSYC2016: Attention"
+    "text": "Rapid alternation\n\nShape elements bound and processed quickly\nColor of shape is lost"
   },
   {
     "objectID": "globalShape.html#what-about-pairing-within-a-feature-dimension",
@@ -2419,7 +2419,7 @@
     "href": "globalShape.html#theory",
     "title": "Shape",
     "section": "Theory",
-    "text": "Theory\n ::: notes ::: You don’t need to understand this theory. This is just to say that models have been constructed to help interpret the data. :::"
+    "text": "Theory\n Simplest possible theory consistent with behavior and neurons \n\n\nCan’t explain other aspects of shape perception\n\n\nResearchers try to make simplest possible theory.\nYou don’t need to understand this theory. This is just to say that models have been constructed to help interpret the data."
   },
   {
     "objectID": "globalShape.html#radial-or-circular",
@@ -2431,9 +2431,9 @@
   {
     "objectID": "globalShape.html#section-1",
     "href": "globalShape.html#section-1",
-    "title": "Shape and bottlenecks",
+    "title": "Shape",
     "section": "",
-    "text": "green radial signal dots; red noise dots"
+    "text": "##"
   },
   {
     "objectID": "globalShape.html#clockwise-and-anti-clockwise-spirals",
@@ -2447,14 +2447,14 @@
     "href": "globalShape.html#radial",
     "title": "Shape",
     "section": "Radial",
-    "text": "Radial\n\nWhat color were the radial dipoles?\nAll the radial dipoles were one color, and the random dots were a different color\n\n\nLet’s see it again. Ready?"
+    "text": "Radial\n\n\nRadial"
   },
   {
     "objectID": "globalShape.html#section-3",
     "href": "globalShape.html#section-3",
     "title": "Shape",
     "section": "",
-    "text": "green radial signal dots; red noise dots"
+    "text": "What color were the radial dipoles?\nAll the radial dipoles were one color, and the random dots were a different color\n\n\nLet’s see it again. Ready?"
   },
   {
     "objectID": "lecture3.html#parallel-salience-processing",
@@ -2489,7 +2489,7 @@
     "href": "lecture4.html#didnt-understand",
     "title": "Attention Lecture 4",
     "section": "Didn’t understand:",
-    "text": "Didn’t understand:"
+    "text": "Didn’t understand:\n\n\n\nthere were a few questions about the grand illusion which I address next\n\n\n\n\nPSYC2016: Attention"
   },
   {
     "objectID": "lecture4.html#quiz-question-from-lecture-1-.visibilityhidden",
@@ -2503,14 +2503,14 @@
     "href": "lecture4.html#it-feels-like-we-see-everything-at-once",
     "title": "Attention Lecture 4",
     "section": "It feels like we see everything at once",
-    "text": "It feels like we see everything at once\n\n“phenomenal content overflows cognitive access.” - Ned Block\nOne alternative:\n\nWe experience less than we think\nA “grand illusion of visual experience” (6.1)\n\n\n\nLess phenomenal content"
+    "text": "It feels like we see everything at once\n\nBut, change blindness!\nSo, we’re wrong that we see everything simultaneously.\n\nThere’s a “grand illusion of visual experience”\nIt’s like the refrigerator light illusion"
   },
   {
     "objectID": "lecture4.html#change-blindness",
     "href": "lecture4.html#change-blindness",
     "title": "Attention Lecture 4",
     "section": "Change blindness",
-    "text": "Change blindness\n\n\nRaise your hand when you see the change"
+    "text": "Change blindness\n Be able to explain why it inspired the “grand illusion of visual experience” theory"
   },
   {
     "objectID": "lecture4.html#the-argument",
@@ -2524,7 +2524,7 @@
     "href": "lecture4.html#section",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "Premise 1 was part of the argument for the grand illusion\nPremise 1 is highly questionable\nThe argument for the “grand illusion” is not good!"
+    "text": "Raise your hand when you see the change"
   },
   {
     "objectID": "lecture4.html#change-blindness-1",
@@ -2538,7 +2538,7 @@
     "href": "lecture4.html#menti.com",
     "title": "Attention Lecture 4",
     "section": "Menti.com",
-    "text": "Menti.com\n\nAnswer a queston about the argument.\n\nGrand illusion argument logic\nI agree with the conclusion Premise 1 is false Premise 2 is false Premise 2 does not negate the consequent of Premise 1. Something else."
+    "text": "Menti.com\n\nAnswer a question about the “grand illusion of visual experience” argument.\n\nGrand illusion argument logic\nI agree with the conclusion Premise 1 is false Premise 2 is false Premise 2 does not negate the consequent of Premise 1. Something else."
   },
   {
     "objectID": "lecture4.html#what-is-conjunction-search",
@@ -2636,7 +2636,7 @@
     "href": "lecture4.html#section-1",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "Change blindness -&gt; “the grand illusion”\n\n\nYou can still believe there is a “grand illusion” of visual experience, but change blindness is not a good argument for it.\n\n\n\nThere is other evidence that we only have access to a few visual objects\n\n\n\n\n\n\nNed Block still thinks that phenomenal content overflows cognitive access.\n\n\nFor more, see Overgaard (2018)"
+    "text": "Which is thought to be true?\nA. Combining features from different feature dimensions requires attention B. The ventral pathway is specialized for location information C. Detecting an odd feature within one feature dimension requires attention D. Peripheral vision is mostly better than central vision"
   },
   {
     "objectID": "lecture4.html#individual-differences",
@@ -2720,7 +2720,7 @@
     "href": "lecture4.html#section-2",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "May need to refresh page to see GIF"
+    "text": "Raise your hand when you see the change"
   },
   {
     "objectID": "lecture4.html#earplugs",
@@ -2741,7 +2741,7 @@
     "href": "lecture4.html#section-3",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "We have motion detectors across the scene. In other words, they are pre-bottleneck.\nNulls the motion detectors"
+    "text": "Premise 1 was part of the argument for the grand illusion\nPremise 1 is highly questionable\nThe argument for the “grand illusion” is not good!\nMaybe we do experience the whole scene"
   },
   {
     "objectID": "lecture4.html#mentimeter-when-have-you-been-most-focused",
@@ -2762,14 +2762,14 @@
     "href": "lecture4.html#section-4",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "Motion detectors respond to flicker\nIf there’s motion everywhere, there might as well be motion nowhere\n\nOdd motion detector response no longer makes change location salient\n\n\n\nMotion no longer informs us of the change"
+    "text": "Re-run Menti grand illusion argument poll\n\nShow responses when poll is done"
   },
   {
     "objectID": "lecture4.html#section-5",
     "href": "lecture4.html#section-5",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "Why is the blank screen in a blank-screen sandwich video important? (Choose all correct options)\nA. It discombobulates via increasing arousal B. It shortens the image duration C. It stimulates motion/flicker detectors in every location D. It hurts peripheral vision, making the change harder to detect."
+    "text": "Change blindness -&gt; “the grand illusion”\n\n\nYou can still believe there is a “grand illusion” of visual experience, but change blindness is not a good argument for it.\n\n\n\nFor more, see Overgaard (2018) or read Block’s 550-page book."
   },
   {
     "objectID": "lecture4.html#visual-search",
@@ -2811,7 +2811,7 @@
     "href": "lecture4.html#section-6",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "“Mud splashes” almost as good as blank screen\nMotion detectors misdirect attention"
+    "text": "May need to refresh page to see GIF"
   },
   {
     "objectID": "lecture4.html#exploreexploit",
@@ -2867,21 +2867,21 @@
     "href": "lecture4.html#section-7",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "Menti.com\nWhy do people miss many of the changes?\n\n\nDid you notice that this slide has no background image? 😄\n\n\nOccurred during film cut, where the entire scene suddenly changed - flicker Summarise points in lecture One of the cheesiest videos I’ve ever seen Attention2SocrativeResponses.pdf"
+    "text": "Poor peripheral vision prevents you from seeing it"
   },
   {
     "objectID": "lecture4.html#section-8",
     "href": "lecture4.html#section-8",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "PSYC2016: Attention"
+    "text": "This is actually a fly brain, but this aspect of the architecture is very similar to our own.\nWe have motion detectors across the scene. In other words, they are pre-bottleneck.\nNulls the motion detectors"
   },
   {
     "objectID": "lecture4.html#section-9",
     "href": "lecture4.html#section-9",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "All day, the world makes its demands. There’s so much of it, world\nbegging to be noticed."
+    "text": "Motion detectors respond to flicker\nIf there’s motion everywhere, there might as well be motion nowhere\n\nOdd motion detector response no longer makes change location salient\n\n\n\nMotion no longer informs us of the change"
   },
   {
     "objectID": "lecture4.html#change-blindness-3",
@@ -2951,7 +2951,7 @@
     "href": "lecture4.html#argument-for-the-grand-illusion",
     "title": "Attention Lecture 4",
     "section": "Argument for “the grand illusion”",
-    "text": "Argument for “the grand illusion”\n\n\nPremise 1. If you visually experience most of a scene’s objects, you will notice major changes to them.\nPremise 2. You don’t detect major changes to most objects in a scene (in the blank-screen sandwich movies).\nConclusion. Therefore, you don’t visually experience most objects in a scene.\n\n\nIf A, then B.\nB is not true.\nTherefore, A is not true.\n\nA bad habit that most of us have is that we rarely spell out the reasons for our beliefs very carefully. If you negate the consequent, the antecedent must be false. If A, then B. Not B. Therefore, not A."
+    "text": "Argument for “the grand illusion”\n\n\nPremise 1. If you visually experience most of a scene’s objects, you will notice major changes to them.\nPremise 2. You don’t detect major changes to most objects in a scene (in the blank-screen sandwich movies).\nConclusion. Therefore, you don’t visually experience most objects in a scene.\n\n\n\nIf A, then B.\nB is not true.\nTherefore, A is not true.\n\n\nA bad habit that most of us have is that we rarely spell out the reasons for our beliefs very carefully. If you negate the consequent, the antecedent must be false. If A, then B. Not B. Therefore, not A."
   },
   {
     "objectID": "lecture4.html#argument-for-the-grand-illusion-1",
@@ -2979,7 +2979,7 @@
     "href": "lecture4.html#poor-peripheral-vision",
     "title": "Attention Lecture 4",
     "section": "Poor peripheral vision",
-    "text": "Poor peripheral vision\n\n\n\nIn experiments, stimuli are placed carefully so they are visible in the periphery\n\n\n\nExperimenters control this\n\n\n\n\n\nBecker, Anstis, and Pashler (2000)"
+    "text": "Poor peripheral vision\n\n\n\nIn rigorous experiments, stimuli are placed carefully so they are visible in the periphery\n\n\n\nExperimenters control this\n\n\nBecker, Anstis, and Pashler (2000)"
   },
   {
     "objectID": "lecture4.html#poor-peripheral-vision-1",
@@ -3049,7 +3049,7 @@
     "href": "lecture4.html#section-10",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "ultrawhelmed sensorium, my self\ntaxed with being a self, brimming with living’s rowdy mechanics and disruptions unremitting, a thought flits by, then another (an unpaid bill, a jingle’s tenacious refrain)—and, … I attend, as best I can,…\nyielding to the most persuasive god, the most recent, to each thing I say Yes? Yes!— zealot of whatever calls me next.\n\nIt was actually called “A poem for Sunday” and on a Sunday there can be a joy in this. Mindfulness or living in the moment"
+    "text": "See responses to last Menti"
   },
   {
     "objectID": "lecture4.html#explaining-change-blindness",
@@ -3105,14 +3105,14 @@
     "href": "lecture4.html#section-11",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "Lecture 2\n\nPeople have known about distraction for thousands of years\n\nBuddhism. Are you a victim of your attentional mechanisms?\nFlash a bunch of self-help book images.\nanimals for millions\n\n“What in this image attracts your attention?” Gradual transition from salience to more goal-directed\n\nMy story\n\nLike many others, I spend too much time on social media.\nTried apps that stopped me from using the internet.\nFall off the wagon\nThe Pomodoro method - preserve the rewards, but delay them so you have more uninterrupted work session.\n\nCome back to dual-letters and explain left advantage"
+    "text": "“Mud splashes” almost as good as blank screen\nMotion detectors misdirect attention"
   },
   {
     "objectID": "lecture4.html#section-12",
     "href": "lecture4.html#section-12",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "Lecture 2\n\nPeople have known about distraction for thousands of years\n\nBuddhism. Are you a victim of your attentional mechanisms?\nFlash a bunch of self-help book images.\nanimals for millions\n\n“What in this image attracts your attention?” Gradual transition from salience to more goal-directed\n\nMy story\n\nLike many others, I spend too much time on social media.\nTried apps that stopped me from using the internet.\nFall off the wagon\nThe Pomodoro method - preserve the rewards, but delay them so you have more uninterrupted work session.\n\nCome back to dual-letters and explain left advantage"
+    "text": "What made the mud splashes more salient than the white road lines?\n\n\nThey are bigger and thus stimulate the motion detectors more strongly\nThey are more different to their surround (parallel bottom-up attention processing)"
   },
   {
     "objectID": "lecture4.html#gradual-changes",
@@ -3399,21 +3399,21 @@
     "href": "lecture4.html#the-processes-for-detecting-a-change",
     "title": "Attention Lecture 4",
     "section": "The processes for detecting a change",
-    "text": "The processes for detecting a change\n\n\nBefore / after\nComparison\n\n\n\n\nPremise 1. If you visually experience most of a scene’s objects, you will notice major changes to them.\n\n\n\n\nPremise 1 is questionable\nYou might be able to have visual experience of the objects without you having 1 and/or 2\n\n\nIf any one of these is not entailed by Does having visual experience of all the objects in a scene mean you also have #1 and #2?"
+    "text": "The processes for detecting a change\n\n\nBefore / after\nComparison\n\n\n\n\nPremise 1. If you visually experience most of a scene’s objects, you will notice major changes to them.\n\n\n\n\nPremise 1 is questionable\nYou might be able to have visual experience of the objects without having 1 and/or 2\n\n\nIf any one of these is not entailed by Does having visual experience of all the objects in a scene mean you also have #1 and #2?"
   },
   {
     "objectID": "lecture4.html#peripheral-vision-1",
     "href": "lecture4.html#peripheral-vision-1",
     "title": "Attention Lecture 4",
     "section": "Peripheral vision",
-    "text": "Peripheral vision\n\n\n\nPoor peripheral vision"
+    "text": "Peripheral vision\n\n\nPoor peripheral vision"
   },
   {
     "objectID": "lecture4.html#no-blank-frame",
     "href": "lecture4.html#no-blank-frame",
     "title": "Attention Lecture 4",
     "section": "No blank frame",
-    "text": "No blank frame"
+    "text": "No blank frame\n Find the change, but this time there will be no blank screen"
   },
   {
     "objectID": "lecture4.html#change-blindness-in-continuous-movie",
@@ -4905,5 +4905,250 @@
     "title": "Attention Lecture 3",
     "section": "{.smaller} ",
     "text": "{.smaller} \nWolfe et al. (2011):\n\nthere is a ‘selective’ path in which candidate objects must be individually selected for recognition and a ‘nonselective’ path in which information can be extracted from global and/or statistical information."
+  },
+  {
+    "objectID": "lecture3.html#lets-spend-x-minutes-silently-reading-chapter-7-and-8-if-you-finish",
+    "href": "lecture3.html#lets-spend-x-minutes-silently-reading-chapter-7-and-8-if-you-finish",
+    "title": "Attention Lecture 3",
+    "section": "Let’s spend X minutes silently reading Chapter 7, and 8 if you finish",
+    "text": "Let’s spend X minutes silently reading Chapter 7, and 8 if you finish\n Press ‘lap’ every time you get distracted.\n\nThen we’ll answer some questions to enter our data, and about Chapter 7\nI know not everyone is going to do the exercise but please don’t interfere with other people. Start the stopwatch “NOW”"
+  },
+  {
+    "objectID": "globalShape.html#didnt-understand",
+    "href": "globalShape.html#didnt-understand",
+    "title": "Shape",
+    "section": "Didn’t understand:",
+    "text": "Didn’t understand:\n\n\n\n\n\nAttention: Global shape"
+  },
+  {
+    "objectID": "lecture4.html#lecture-3",
+    "href": "lecture4.html#lecture-3",
+    "title": "Attention Lecture 4",
+    "section": "Lecture 3",
+    "text": "Lecture 3\n\nI’m a bit confused after that lecture. If i walk into a room and just look at nothing in particular, am I bottlenecking a particular feature, or am i simulatenously taking everything in?\n\nYou are:\n\nSimultaneously processing color, motion, but not their combination\nExtensively processing (through the bottleneck) one or a few objects at the location of your attention\nDoing additional processing that we don’t understand through your non-selective pathway"
+  },
+  {
+    "objectID": "lecture4.html#distraction-experiment",
+    "href": "lecture4.html#distraction-experiment",
+    "title": "Attention Lecture 4",
+    "section": "Distraction experiment",
+    "text": "Distraction experiment"
+  },
+  {
+    "objectID": "lecture4.html#distraction-experiment-1",
+    "href": "lecture4.html#distraction-experiment-1",
+    "title": "Attention Lecture 4",
+    "section": "Distraction experiment",
+    "text": "Distraction experiment"
+  },
+  {
+    "objectID": "lecture4.html#what-distracted-you-1",
+    "href": "lecture4.html#what-distracted-you-1",
+    "title": "Attention Lecture 4",
+    "section": "What distracted you?",
+    "text": "What distracted you?"
+  },
+  {
+    "objectID": "lecture4.html#what-distracted-you",
+    "href": "lecture4.html#what-distracted-you",
+    "title": "Attention Lecture 4",
+    "section": "What distracted you?",
+    "text": "What distracted you?"
+  },
+  {
+    "objectID": "lecture4.html#what-distracted-you-2",
+    "href": "lecture4.html#what-distracted-you-2",
+    "title": "Attention Lecture 4",
+    "section": "What distracted you?",
+    "text": "What distracted you?"
+  },
+  {
+    "objectID": "lecture3.html#lecture-3-outline",
+    "href": "lecture3.html#lecture-3-outline",
+    "title": "Attention Lecture 3",
+    "section": "Lecture 3 outline",
+    "text": "Lecture 3 outline\n\n\nTreisman’s diagram and combining features\n\n\nIndividual-feature salience is computed in parallel\nFlat search slopes (parallel) vs. steep (serial)\nCombining features from two different objects takes the longest, but even within an object takes awhile (both require focused attention)\nIt feels like we see everything at once\nThe mysterious non-selective pathway"
+  },
+  {
+    "objectID": "lecture4.html#the-puzzle",
+    "href": "lecture4.html#the-puzzle",
+    "title": "Attention Lecture 4",
+    "section": "The puzzle",
+    "text": "The puzzle\n\nIntrospection says we experience the entire visual field simultaneously.\nResults of experiments find knowledge of what’s in the visual field is very limited, to only several objects 1\n\n\nHow do we reconcile 1 and 2?\n\nif you do things to prevent attention wandering around and building up the scene representation over time"
+  },
+  {
+    "objectID": "lecture4.html#resolving-the-puzzle",
+    "href": "lecture4.html#resolving-the-puzzle",
+    "title": "Attention Lecture 4",
+    "section": "Resolving the puzzle",
+    "text": "Resolving the puzzle\n\n\nNed Block:\n\nWe do visually experience the whole visual field simultaneously. Allow me to explain how that’s compatible with the results of the experiments… [writes 550-page book]\n\n “Grand illusion of visual experience” people:\n\nBlock, you’re so wrong. But we know you strongly believe you do experience the whole visual field simultaneously. We want to explain why you believe it so strongly, so we’ll posit a grand illusion of visual experience throughout the visual field. Maybe it’s kinda like the refrigerator light illusion."
+  },
+  {
+    "objectID": "lecture4.html#review-of-the-argument-now-in-essay-format-in-case-it-helps",
+    "href": "lecture4.html#review-of-the-argument-now-in-essay-format-in-case-it-helps",
+    "title": "Attention Lecture 4",
+    "section": "Review of the argument, now in essay format in case it helps",
+    "text": "Review of the argument, now in essay format in case it helps\nThe “grand illusion” argument: if we really did experience everything in the scene, we would quickly detect changes to the objects in the scene. So, because we don’t quickly detect many changes to the scene (change blindness), we must not really experience everything.\nBut the grand illusion argument is actually not a great argument; the first part that says that if we really did experience everything, we would quickly detect changes. Maybe we really do experience everything but we don’t have a comparison process that’s always comparing everything. Or maybe we really do experience everything but we don’t have a representation of the scene a short time ago, so we can’t do the comparison. In other words, the idea that “if we really did experience everything, we would quickly detect changes” may be false.\n\nI know it’s hard."
+  },
+  {
+    "objectID": "lecture4.html#explaining-blank-screen-sandwiches",
+    "href": "lecture4.html#explaining-blank-screen-sandwiches",
+    "title": "Attention Lecture 4",
+    "section": "Explaining blank screen sandwiches",
+    "text": "Explaining blank screen sandwiches\n - Focused attention is needed to detect change\n\n\n\n\nCould be needed to hold onto the old representaiton. Or to do the comparison. Or both."
+  },
+  {
+    "objectID": "lecture4.html#blank-screen-sandwiches",
+    "href": "lecture4.html#blank-screen-sandwiches",
+    "title": "Attention Lecture 4",
+    "section": "Blank screen sandwiches",
+    "text": "Blank screen sandwiches"
+  },
+  {
+    "objectID": "lecture4.html#argument-for-the-grand-illusion-2",
+    "href": "lecture4.html#argument-for-the-grand-illusion-2",
+    "title": "Attention Lecture 4",
+    "section": "Argument for “the grand illusion”",
+    "text": "Argument for “the grand illusion”\n\nPremise 1. If you visually experience most of a scene’s objects, you will notice major changes to them.\nPremise 2. You don’t detect major changes to most objects in a scene (in the blank-screen sandwich movies).\nConclusion. Therefore, you don’t visually experience most objects in a scene.\n\nResearchers have mostly contested premise 1."
+  },
+  {
+    "objectID": "lecture4.html#reconciling-phenomenal-experience-with-experiment-findings",
+    "href": "lecture4.html#reconciling-phenomenal-experience-with-experiment-findings",
+    "title": "Attention Lecture 4",
+    "section": "Reconciling phenomenal experience with experiment findings",
+    "text": "Reconciling phenomenal experience with experiment findings\n\nIntrospection says we experience the entire visual field simultaneously.\nResults of experiments find knowledge of what’s in the visual field is very limited, to only several objects 1\n\n\nHow do we reconcile 1 and 2?\n\nif you do things to prevent attention wandering around and building up the scene representation over time"
+  },
+  {
+    "objectID": "lecture4.html#feels-like-we-see-everything-at-once",
+    "href": "lecture4.html#feels-like-we-see-everything-at-once",
+    "title": "Attention Lecture 4",
+    "section": "Feels like we see everything at once",
+    "text": "Feels like we see everything at once\n↑ How can we reconcile this with the bottleneck?\n\n\nAttention shifts so quickly we don’t notice it\n\nThe refrigerator light illusion.\n\nSomething’s missing from our theories?"
+  },
+  {
+    "objectID": "lecture4.html#it-feels-like-we-see-everything-at-once-1",
+    "href": "lecture4.html#it-feels-like-we-see-everything-at-once-1",
+    "title": "Attention Lecture 4",
+    "section": "It feels like we see everything at once",
+    "text": "It feels like we see everything at once\n\nExplanation: “phenomenal content overflows cognitive access.” - Ned Block\nAn alternative:\n\nWe experience less than we think\nA “grand illusion of visual experience” (6.1)\n\n\n\nLess phenomenal content"
+  },
+  {
+    "objectID": "globalShape.html#testing-globality-of-shape-processing",
+    "href": "globalShape.html#testing-globality-of-shape-processing",
+    "title": "Shape",
+    "section": "Testing globality of shape processing",
+    "text": "Testing globality of shape processing\n\nIn previous examples, answer can be determined by combining just 4 dots\nBy adding random dots (noise), can only get answer if combine lots of dots"
+  },
+  {
+    "objectID": "globalShape.html#of-dots-random",
+    "href": "globalShape.html#of-dots-random",
+    "title": "Shape",
+    "section": "40% of dots random",
+    "text": "40% of dots random\n\n\n\n\nEnough random dots that your visual system had to do averaging. In the same way that"
+  },
+  {
+    "objectID": "globalShape.html#global-shape-processing",
+    "href": "globalShape.html#global-shape-processing",
+    "title": "Shape",
+    "section": "Global shape processing?",
+    "text": "Global shape processing?\n\nIn previous examples, answer can be determined by combining just 4 dots\nAdd random dots (noise)\n\nCan only get answer if combine lots"
+  },
+  {
+    "objectID": "globalShape.html#section-4",
+    "href": "globalShape.html#section-4",
+    "title": "Shape",
+    "section": "",
+    "text": "green radial signal dots; red noise dots"
+  },
+  {
+    "objectID": "globalShape.html#section-2",
+    "href": "globalShape.html#section-2",
+    "title": "Shape",
+    "section": "",
+    "text": "##"
+  },
+  {
+    "objectID": "lecture4.html#combining-features-within-a-dimension",
+    "href": "lecture4.html#combining-features-within-a-dimension",
+    "title": "Attention Lecture 4",
+    "section": "Combining features within a dimension",
+    "text": "Combining features within a dimension\nglobalShape.html"
+  },
+  {
+    "objectID": "lecture4.html#section-13",
+    "href": "lecture4.html#section-13",
+    "title": "Attention Lecture 4",
+    "section": "",
+    "text": "Menti.com\nWhy do people miss many of the changes?\n\n\nDid you notice that this slide has no background image? 😄\n\n\nOccurred during film cut, where the entire scene suddenly changed - flicker Summarise points in lecture One of the cheesiest videos I’ve ever seen Attention2SocrativeResponses.pdf"
+  },
+  {
+    "objectID": "lecture4.html#section-14",
+    "href": "lecture4.html#section-14",
+    "title": "Attention Lecture 4",
+    "section": "",
+    "text": "Menti.com\nWhy do people miss many of the changes?\n\n\nDid you notice that this slide has no background image? 😄\n\n\nOccurred during film cut, where the entire scene suddenly changed - flicker Summarise points in lecture One of the cheesiest videos I’ve ever seen Attention2SocrativeResponses.pdf"
+  },
+  {
+    "objectID": "globalShape.html#section-5",
+    "href": "globalShape.html#section-5",
+    "title": "Shape",
+    "section": "",
+    "text": "green radial dots\nred noise dots"
+  },
+  {
+    "objectID": "lecture4.html#maybe-we-do-have-visual-experience-of-the-whole-scene",
+    "href": "lecture4.html#maybe-we-do-have-visual-experience-of-the-whole-scene",
+    "title": "Attention Lecture 4",
+    "section": "Maybe we do have visual experience of the whole scene",
+    "text": "Maybe we do have visual experience of the whole scene"
+  },
+  {
+    "objectID": "lecture4.html#blank-screen-sandwiches-1",
+    "href": "lecture4.html#blank-screen-sandwiches-1",
+    "title": "Attention Lecture 4",
+    "section": "Blank-screen sandwiches",
+    "text": "Blank-screen sandwiches\n\nPeripheral vision\nMotion detectors\nMemory\n\n\nSome other lessons we can draw from change blindness"
+  },
+  {
+    "objectID": "lecture4.html#blank-screen-sandwiches-2",
+    "href": "lecture4.html#blank-screen-sandwiches-2",
+    "title": "Attention Lecture 4",
+    "section": "Blank screen sandwiches",
+    "text": "Blank screen sandwiches"
+  },
+  {
+    "objectID": "lecture4.html#maybe-we-do-experience-the-whole-scene",
+    "href": "lecture4.html#maybe-we-do-experience-the-whole-scene",
+    "title": "Attention Lecture 4",
+    "section": "Maybe we do experience the whole scene",
+    "text": "Maybe we do experience the whole scene"
+  },
+  {
+    "objectID": "lecture4.html#review-of-the-argument-now-in-essay-format-in-case-that-helps",
+    "href": "lecture4.html#review-of-the-argument-now-in-essay-format-in-case-that-helps",
+    "title": "Attention Lecture 4",
+    "section": "Review of the argument (now in essay format in case that helps)",
+    "text": "Review of the argument (now in essay format in case that helps)\nThe “grand illusion” argument: if we really did experience everything in the scene, we would quickly detect changes to the objects in the scene. So, because we don’t quickly detect many changes to the scene (change blindness), we must not really experience everything.\nBut the grand illusion argument is actually not a great argument; the first part that says that if we really did experience everything, we would quickly detect changes. Maybe we really do experience everything but we don’t have a comparison process that’s always comparing everything. Or maybe we really do experience everything but we don’t have a representation of the scene a short time ago, so we can’t do the comparison. In other words, the idea that “if we really did experience everything, we would quickly detect changes” may be false.\n\nI know it’s hard."
+  },
+  {
+    "objectID": "lecture4.html#no-blank-frame-1",
+    "href": "lecture4.html#no-blank-frame-1",
+    "title": "Attention Lecture 4",
+    "section": "No blank frame",
+    "text": "No blank frame"
+  },
+  {
+    "objectID": "lecture4.html#section-15",
+    "href": "lecture4.html#section-15",
+    "title": "Attention Lecture 4",
+    "section": "",
+    "text": "PSYC2016: Attention"
+  },
+  {
+    "objectID": "globalShape.html#shape-extractor-does-not-preserve-color",
+    "href": "globalShape.html#shape-extractor-does-not-preserve-color",
+    "title": "Shape",
+    "section": "Shape extractor does not preserve color",
+    "text": "Shape extractor does not preserve color\n\n\nOrientations get bound together but not with color."
   }
 ]

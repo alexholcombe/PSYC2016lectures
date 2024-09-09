@@ -38,6 +38,27 @@ editor: source
 -   Distraction experiment
 :::
 
+## Lecture 3 outline {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
+
+::: {.nonincremental}
+
+3. Treisman's diagram and combining features
+  -   Individual-feature salience is computed in parallel
+  -   Flat search slopes (parallel) vs. steep (serial)
+  -   Combining features from two different objects takes the longest, but even within an object takes awhile (both require focused attention)
+  -   It feels like we see everything at once
+  -   The mysterious non-selective pathway
+:::
+
+<!--  -   Shape
+    -   Combining oriented elements into a shape doesn't require focused attention
+      -   Uses sophisticated cues
+      -   Fast
+      -   Can combine many elements, oaveraging over noise
+    -   Combining that shape with a color does require focused attention
+  
+4. Change blindness-->
+
 ## Understanding the hand-wave and monster onset  {.smaller background-image="images/monster.png" background-opacity="0.2"}
 
 -   My hand motion triggered a shift of attention to it. How?
@@ -284,7 +305,7 @@ Wolfe et al. ([2011](https://www.sciencedirect.com/science/article/pii/S13646613
 You should be reading the mini-text anyway, so why not let it do double duty as a self-insight exercise.
 ::: 
 
-## Let's spend X minutes silently reading Chapter 7
+## Let's spend X minutes silently reading Chapter 7, and 8 if you finish
 
 <BR>
 Press 'lap' every time you get distracted.
@@ -311,6 +332,10 @@ Menti: DistractionExperiment and End of lecture survey - didn't understand; main
 ## 
 
 ![](images/surveyEndOfLecture.png)
+
+##
+
+<!-- should have one study supporting the non-selective pathway, like perceiving the average facial expression-->
 
 ## 
 

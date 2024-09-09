@@ -30,33 +30,47 @@ editor: source
 <!--2023 notes I still had time at the end of the lecture despite 5 questions from the audience and hamming up the change blindness videos. But don't forget to go very slow in the syllogism and Grand illusion stuff!
 -->
 
-## Lecture 3 CLEAN-UP and REVIEW {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
-## Didn't understand: {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
-![](images/lecture3DidntUnderstandWithAnswers.png)
+## Lecture 3 {background-image="images/puzzledFace.png" background-opacity="0.08"}
 
-## Quiz question from Lecture 1 {visibility="hidden"}
+> I'm a bit confused after that lecture. If i walk into a room and just look at nothing in particular, am I bottlenecking a particular feature, or am i simulatenously taking everything in?
 
-> why didn't see second letter
+You are:
 
-Why was "I missed that" the right answer
+-   Simultaneously processing color, motion, but not their combination
+-   Extensively processing (through the bottleneck) one or a few objects at the location of your attention
+-   Doing additional processing that we don't understand through your non-selective pathway
 
-## It feels like we see everything at once {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## Combining features within a dimension
 
--   "phenomenal content overflows cognitive access." - [Ned Block](https://royalsocietypublishing.org/doi/10.1098/rstb.2017.0353)
--   One alternative:
-    -   We experience less than we think
-    -   A "grand illusion of visual experience" ([6.1](https://psyc2016.whatanimalssee.com/twoPicChangeBlindness.html#the-grand-illusion-of-visual-experience))
+[globalShape.html](globalShape.html)
+
+## {background-image="images/hardQuiz.jpg" background-opacity="0.9"}
+
+## {background-image="images/hardQuiz.jpg" background-opacity="0.2"}
 
 ::: notes :::
-Less phenomenal content
+
+Which is thought to be true?
+
+A. Combining features from different feature dimensions requires attention
+B. The ventral pathway is specialized for location information
+C. Detecting an odd feature within one feature dimension requires attention
+D. Peripheral vision is mostly better than central vision
+
 :::
 
 ## CHANGE BLINDNESS - [Chapter 6](https://psyc2016.whatanimalssee.com/twoPicChangeBlindness.html) {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 <BR>
 Points to "a grand illusion of visual experience"?
+
+## Blank screen sandwiches
+
+![](images/blankScreenSandwichSchematic.png){width="40%" .absolute left=0 bottom=0}
+
+![](images/320px-IceCreamSandwich.jpg){width="50%" .absolute right=0 bottom=0}
 
 ## Blank-screen sandwiches: Lessons {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 <BR>
@@ -84,7 +98,7 @@ Raise your hand when you see the change
 :::
 
 
-## Change blindness {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 ![](images/changeBlindnessPants.gif){width=70%}
 
@@ -100,6 +114,13 @@ Be able to explain why it inspired the "grand illusion of visual experience" the
 ![](images/changeBlindnessPants.gif)
 
 
+## It feels like we see everything at once {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+  -   But, change blindness!
+  -   So, we're wrong that we see everything simultaneously.
+      -   There's a "grand illusion of visual experience"
+      -   It's like the refrigerator light illusion
+  
 ## Argument for "the grand illusion" {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 <BR>
 
@@ -111,11 +132,13 @@ Be able to explain why it inspired the "grand illusion of visual experience" the
 
 <BR><BR>
 
+::: {.fragment}
 If A, then B.  
 
 B is not true.
 
 Therefore, A is not true.
+:::
 
 ::: notes :::
 A bad habit that most of us have is that we rarely spell out the reasons for our beliefs very carefully.
@@ -123,10 +146,10 @@ If you negate the consequent, the antecedent must be false.
 If A, then B.  Not B. Therefore, not A.
 :::
 
-## Menti.com 3276 7700 {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## Menti.com {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 <BR>
 
-Answer a question about the argument.
+Answer a question about the "grand illusion of visual experience" argument.
 
 ::: notes :::
 Grand illusion argument logic
@@ -138,7 +161,7 @@ Premise 2 does not negate the consequent of Premise 1.
 Something else.
 :::
 
-## Argument for "the grand illusion" {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## Argument for "the grand illusion" {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05" auto-animate=true}
 <BR>
 
 **Premise 1**. If you visually experience most of a scene's objects, you will notice major changes to them.
@@ -151,7 +174,7 @@ Something else.
 Researchers have mostly contested premise 1.
 :::
 
-## Needed to detect a change {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## Needed to detect a change {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05" auto-animate=true}
 <BR>
 
 1. Internal representations of the object before and after the change.
@@ -160,12 +183,10 @@ Researchers have mostly contested premise 1.
 
 3. A process that calls attention to, or brings into conscious awareness, the comparison results.
 
-
 ::: {.fragment .highlight-red}
--   **Premise 1**. If you visually experience most of a scene's objects, you will notice major changes to them.
-    -   Does having visual experience of all the objects in a scene mean you also have 1 and 2?
+-   **Premise 1**. *If you visually experience most of a scene's objects*, you will notice major changes to them.
+    -   Does having *visual experience of all the objects in a scene* mean you also have 1 and 2?
 :::
-
 
 ::: notes :::
 Does visually experiencing most of a scene's objects entail having what's necessary to detect a change?
@@ -191,7 +212,7 @@ There's a lot of text here, so let's simplify
 :::
 
 -   Premise 1 is questionable
--   You might be able to have visual experience of the objects without you having 1 and/or 2
+-   You might be able to have visual experience of the objects without having 1 and/or 2
 
 ::: notes :::
 If any one of these is not entailed by
@@ -205,8 +226,32 @@ Does having visual experience of all the objects in a scene mean you also have #
 -   Premise 1 was part of the argument for the grand illusion
 -   Premise 1 is highly questionable
 -   The argument for the "grand illusion" is not good!
+-   Maybe we do experience the whole scene
 
-## Explaining change blindness
+##  {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
+
+Re-run Menti grand illusion argument poll
+
+::: notes
+Show responses when poll is done
+:::
+
+## Maybe we do experience the whole scene
+
+![](images/NonselectivePathwayWolfeEtAl2011.png){width="45%"}
+
+
+## Review of the argument (now in essay format in case that helps) {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
+
+[The "grand illusion" argument]{.underline}: if we really did experience everything in the scene, we would quickly detect changes to the objects in the scene. So, because we don't quickly detect many changes to the scene (change blindness), we must *not* really experience everything.
+
+But the grand illusion argument is actually *not* a great argument; the first part that says that if we really did experience everything, we would quickly detect changes. Maybe we really do experience everything but we don't have a comparison process that's always comparing everything. Or maybe we really do experience everything but we don't have a representation of the scene a short time ago, so we can't do the comparison. In other words, the idea that "if we really did experience everything, we would quickly detect changes" may be false.
+
+::: notes :::
+I know it's hard.
+:::
+
+## Explaining blank screen sandwiches
 
 <BR>
 -   Focused attention is needed to detect change
@@ -229,18 +274,16 @@ Change blindness -> "the grand illusion"
 
 <BR>
 
--   There is *other* evidence that we only have access to a few visual objects
-    -   ![](images/NedBlockBook.jpg)
-    
-::: aside
-For more, see [Overgaard (2018)](https://royalsocietypublishing.org/doi/10.1098/rstb.2017.0353)
+::: {.fragment}
+For more, see [Overgaard (2018)](https://royalsocietypublishing.org/doi/10.1098/rstb.2017.0353) or read Block's 550-page book.
+
+![](images/NedBlockBook.jpg) 
 :::
 
 ::: notes :::
-Ned Block still thinks that phenomenal content overflows cognitive access. 
 :::
 
-## Blank-screen sandwiches: Other lessons {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## Blank-screen sandwiches {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 -   Peripheral vision
 -   Motion detectors
@@ -263,7 +306,7 @@ May need to refresh page to see GIF
 
 Good experimenters ensure that the object is visible in the periphery.
 
--   If the object is not visible in the periphery, need *overt* attention to the location, not just covert attention
+-   If the object is not visible in the periphery, need *overt* attention to the location, not just *covert* attention
     -   Unsurprising that this can't be done at all locations at once!
 
 ::: notes :::
@@ -271,13 +314,12 @@ I've conditioned you to say "bottleneck" but in this particular demonstration, t
 :::
 
 
-## Peripheral vision
+## {background-image="images/changeBlindnessBoatEditedFromWikipediaSmallPeripheral.gif"}
 <BR>
 
-![](images/changeBlindnessBoatEditedFromWikipediaSmallPeripheral.gif)
 
 ::: notes :::
-Poor peripheral vision
+Poor peripheral vision prevents you from seeing it
 :::
 
 ## Poor peripheral vision {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
@@ -286,10 +328,10 @@ Poor peripheral vision
 
 ![](images/changeDetectionIsoEccentricBeckerPashAnstis.png){width=40%}
 
--   In experiments, stimuli are placed carefully so they are visible in the periphery
+-   In rigorous experiments, stimuli are placed carefully so they are visible in the periphery
 
 ::: aside
-![Becker, Anstis, and Pashler (2000)](https://journals.sagepub.com/doi/10.1068/p3035)
+[Becker, Anstis, and Pashler (2000)](https://journals.sagepub.com/doi/10.1068/p3035)
 :::
 
 ::: notes :::
@@ -311,6 +353,20 @@ Showing one you already saw before.
 Once you find it, it's so hard to un-see it
 :::
 
+
+## Blank screen sandwiches
+
+![](images/blankScreenSandwichSchematic.png){width="40%" .absolute left=0}
+
+![](images/320px-IceCreamSandwich.jpg){width="50%" .absolute right=0}
+
+## No blank frame
+
+<BR>
+Find the change, but this time there will be no blank screen 
+
+![](images/blankScreenSandwichSchematic.png){width="40%"}
+
 ## No blank frame {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 <BR>
 
@@ -321,6 +377,8 @@ Once you find it, it's so hard to un-see it
 ![](images/arrayOfMotionDetectorsEgelhaaf2013.png)
 
 ::: notes :::
+This is actually a fly brain, but this aspect of the architecture is very similar to our own.
+
 We have motion detectors across the scene. In other words, they are pre-bottleneck.
 
 Nulls the motion detectors
@@ -339,6 +397,10 @@ Nulls the motion detectors
 Motion no longer informs us of the change
 :::
 
+## 
+
+See responses to last Menti 
+<!--
 ## {background-image="images/hardQuiz.jpg" background-opacity="0.6"}
 
 ::: notes :::
@@ -346,11 +408,12 @@ Motion no longer informs us of the change
 Why is the blank screen in a blank-screen sandwich video important? (Choose all correct options)
 
 A. It discombobulates via increasing arousal
-B. It shortens the image duration 
+B. It shortens the picture duration 
 C. It stimulates motion/flicker detectors in every location
 D. It hurts peripheral vision, making the change harder to detect.
 
 :::
+-->
 
 ## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
@@ -358,6 +421,13 @@ D. It hurts peripheral vision, making the change harder to detect.
 
 -   "Mud splashes" almost as good as blank screen
 -   Motion detectors misdirect attention
+
+## {background-image="images/puzzledFace.png" background-opacity="0.08"}
+
+> What made the mud splashes more salient than the white road lines?
+
+  -   They are bigger and thus stimulate the motion detectors more strongly
+  -   They are more different to their surround (parallel bottom-up attention processing)
 
 ## Gradual changes {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
@@ -367,7 +437,7 @@ D. It hurts peripheral vision, making the change harder to detect.
 [Youtube](https://www.youtube.com/embed/EARtANyz98Q?si=d1QnuC5ys3c9oI5O)
 :::
 
-## Gradual changes
+## Gradual changes {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 <BR>
 
 Why are gradual changes hard to find?
@@ -386,7 +456,6 @@ Why are gradual changes hard to find?
     -   Gradual changes
 -   Memory
 :::
-
 
 ## Tutorial Week 5 {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 <BR>
@@ -423,6 +492,10 @@ One of the cheesiest videos I've ever seen
 Attention2SocrativeResponses.pdf
 
 :::
+
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+![](images/bottleneckManyThingsOneThing.png)
 
 ## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 

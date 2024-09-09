@@ -1,0 +1,81 @@
+---
+title: "Shape"
+title-slide-attributes:
+  data-background-image: images/GlassPatterns/Van_Gogh_Zwei_abgeschnittene_Sonnenblumen1.jpeg
+  data-background-size: contain
+  data-background-opacity: "0.7"
+author: "Alex Holcombe"
+date: today
+format: 
+  revealjs:
+    incremental: true
+    auto-stretch: false
+    self-contained: false
+    slide-number: c/t
+    #logo: "images/threeWiseMonkeys/monkeyNoHearHeadOnly.jpeg"
+    #footer: "[Shape](https://alexholcombe.github.io/PSYC2016lectures)"
+    theme: ["simple", "styles.scss"]
+    echo: true
+    multiplex: false #sometimes have to turn multiplex false to load speaker notes
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+editor: source
+---
+<!--sometimes have to turn multiplex false to load speaker notes -->
+
+## Shape processing: speed
+
+## Clockwise and anti-clockwise spirals
+
+![](images/GlassPatterns/twoSpiralsLabeled.png)
+
+## Two anti-clockwise in alternation
+
+![](images/GlassPatterns/temporalResltn/antiClockwiseSlow.gif)
+
+## Two in alternation, and sum of the two
+
+![](images/GlassPatterns/temporalResltn/antiClockwiseSlowWithLabelAlternating.gif){width="40%"} ![](images/GlassPatterns/temporalResltn/sum.png){width="30%"}
+
+## Rapid alternation
+
+![](images/GlassPatterns/temporalResltn/antiClockwiseFastestAccordingToEzGif.gif)
+
+## Rapid alternation
+
+![](images/GlassPatterns/temporalResltn/antiClockwiseFastestAccordingToEzGif.gif){width="20%"}
+
+-   Can still perceive even at 30 images per second
+-   Implies that shape is computed in less than 0.06 sec
+
+::: notes
+Thanks to having this way to certify global integration had to occur, we can see how quickly it happens
+:::
+
+## Alternating pattern with noise
+
+![](images/GlassPatterns/temporalResltn/greenSpiralRedNoiseSlow.gif)
+
+## Alternating pattern with noise
+
+![](images/GlassPatterns/temporalResltn/greenSpiralRedNoiseSlow.gif)
+
+## Fast alternation pattern with noise
+
+![](images/GlassPatterns/temporalResltn/greenSpiralRedNoiseFastestAccordingToEzGif.gif)
+
+## Two colored spirals
+
+![](images/GlassPatterns/temporalResltn/greenDimmestClockwiseRedAntiFastest.gif)
+
+## Rapid alternation
+
+-   Shape elements bound and processed quickly
+-   Color of shape is lost
+
+<!--END GLASS PATTERNS-->
+## Didn't understand: {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+![](images/lecture3DidntUnderstandWithAnswers.png)
+
