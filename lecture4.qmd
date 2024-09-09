@@ -32,7 +32,7 @@ editor: source
 
 
 
-## Lecture 3 {background-image="images/puzzledFace.png" background-opacity="0.08"}
+## Lecture 3 student question {background-image="images/puzzledFace.png" background-opacity="0.08"}
 
 > I'm a bit confused after that lecture. If i walk into a room and just look at nothing in particular, am I bottlenecking a particular feature, or am i simulatenously taking everything in?
 
@@ -487,7 +487,6 @@ Why do people miss many of the changes?
 
 ::: notes :::
 Occurred during film cut, where the entire scene suddenly changed - flicker
-Summarise points in lecture
 One of the cheesiest videos I've ever seen
 Attention2SocrativeResponses.pdf
 
@@ -496,6 +495,10 @@ Attention2SocrativeResponses.pdf
 ## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 ![](images/bottleneckManyThingsOneThing.png)
+
+::: notes
+Occurred during film cut, where the entire scene suddenly changed - flicker
+:::
 
 ## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 

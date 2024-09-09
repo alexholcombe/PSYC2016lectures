@@ -5079,14 +5079,14 @@
     "href": "lecture4.html#section-13",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "Menti.com\nWhy do people miss many of the changes?\n\n\nDid you notice that this slide has no background image? 😄\n\n\nOccurred during film cut, where the entire scene suddenly changed - flicker Summarise points in lecture One of the cheesiest videos I’ve ever seen Attention2SocrativeResponses.pdf"
+    "text": "Menti.com\nWhy do people miss many of the changes?\n\n\nDid you notice that this slide has no background image? 😄\n\n\nOccurred during film cut, where the entire scene suddenly changed - flicker One of the cheesiest videos I’ve ever seen Attention2SocrativeResponses.pdf"
   },
   {
     "objectID": "lecture4.html#section-14",
     "href": "lecture4.html#section-14",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "Menti.com\nWhy do people miss many of the changes?\n\n\nDid you notice that this slide has no background image? 😄\n\n\nOccurred during film cut, where the entire scene suddenly changed - flicker Summarise points in lecture One of the cheesiest videos I’ve ever seen Attention2SocrativeResponses.pdf"
+    "text": "Occurred during film cut, where the entire scene suddenly changed - flicker"
   },
   {
     "objectID": "globalShape.html#section-5",
@@ -5150,5 +5150,12 @@
     "title": "Shape",
     "section": "Shape extractor does not preserve color",
     "text": "Shape extractor does not preserve color\n\n\nOrientations get bound together but not with color."
+  },
+  {
+    "objectID": "lecture4.html#lecture-3-student-question",
+    "href": "lecture4.html#lecture-3-student-question",
+    "title": "Attention Lecture 4",
+    "section": "Lecture 3 student question",
+    "text": "Lecture 3 student question\n\nI’m a bit confused after that lecture. If i walk into a room and just look at nothing in particular, am I bottlenecking a particular feature, or am i simulatenously taking everything in?\n\nYou are:\n\nSimultaneously processing color, motion, but not their combination\nExtensively processing (through the bottleneck) one or a few objects at the location of your attention\nDoing additional processing that we don’t understand through your non-selective pathway"
   }
 ]
