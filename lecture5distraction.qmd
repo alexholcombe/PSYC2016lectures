@@ -700,10 +700,12 @@ Just make sure you're the one who chooses when it happens.
 
 ## {background-image="images/BlueMtnsThorHeadMaybe.jpg" background-opacity="1.0"}
 
+- ![](images/surveyEndOfLectureTransparent.png)
+
 ## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.1"}
 
 ![](images/surveyEndOfLectureTransparent.png)
-
+<!--
 ## Not sure where to put this
 
 ::: {.fragment}
@@ -715,6 +717,7 @@ Withdrawing of the mind has Lots of consequences.
 
 "Participants rated the substances as less intense, consumed more, and preferred stronger tastes."
 :::
+-->
 
 <!--
 
