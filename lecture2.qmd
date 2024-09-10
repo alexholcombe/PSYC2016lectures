@@ -214,6 +214,8 @@ Play on laptop screen.
     -   Basic alerting system
     -   Like a smoke alarm: dumb, but requires few resources. Cheap to run it all the time.
 
+![](images/redAlertButton.jpg)
+
 ::: notes
 This has been one of the big projects in the study of visual attention, to work out what can generate an interrupt signal
 
@@ -227,7 +229,7 @@ So we do have a system f
   -   Internally driven
 -   Goal directed
 
-## Top-down combines with bottom-up 
+## Top-down combines with bottom-up (Ch. 5)
 
 ![](images/brainBottomupTopdownTheeuwesFailing.png)
 
@@ -279,6 +281,9 @@ or select the stimuli in a particular region, but you can't combine those two ab
 ![](images/300px-Ventral-dorsal_streams.png){width="60%"}
 
 Separation of what and where pathways.
+
+* dorsal = parietal = where = location
+* ventral = temporal = what = object recognition
 
 ## *Why* are Where and What separated? {background-image="images/300px-Ventral-dorsal_streams.png" background-opacity="0.1"}
 

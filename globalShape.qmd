@@ -123,7 +123,7 @@ Radial
 Simplest possible theory consistent with behavior and neurons
 <BR><BR>
 
-![](images/GlassPatterns/CCChen2009modelSmaller.jpeg){width="50%"}
+![](images/GlassPatterns/CCChen2009modelSmaller.jpeg){width="40%"}
 
 -   Can't explain other aspects of shape perception
 
@@ -218,7 +218,7 @@ Signal dots are one color, noise dots are another color
 
 ## Shape extractor does not preserve color
 
-![](images/GlassPatterns/CCChen2009model.jpeg)
+![](images/GlassPatterns/CCChen2009model.jpeg){width="40%"}
 
 -   Orientations get bound together but not with color.
 

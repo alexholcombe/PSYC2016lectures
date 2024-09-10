@@ -22,7 +22,11 @@ format:
       data-background-color: "#447099"
 editor: source
 ---
-<!--sometimes have to turn multiplex false to load speaker notes -->
+<!--   A bridge between the Perception and Cognition parts of PSYC2016, forgot to say that -->
+
+<!--
+Next year, could use section headers at top right of slide like this https://meghan.rbind.io/blog/quarto-slides/#section-header
+-->
 
 ##
 

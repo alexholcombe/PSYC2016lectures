@@ -5,7 +5,7 @@ title-slide-attributes:
   data-background-size: contain
   data-background-opacity: "0.5"
 author: "Alex Holcombe"
-date: today
+date: 05-09-2024
 format: 
   revealjs:
     incremental: true
@@ -337,13 +337,6 @@ Menti: DistractionExperiment and End of lecture survey - didn't understand; main
 
 <!-- should have one study supporting the non-selective pathway, like perceiving the average facial expression-->
 
-## 
-
-[globalShape.html](globalShape.html)
-
-::: notes :::
-After going through all this and the shape slides, I still had a minute left.
-:::
 
 <!--There's a tension between simultaneous selection found by Goodbourn & Holcombe and that it takes time. So it seems the selection doesn't take much time, but rather a subsequent identification process, as hypothesized by Nishida -->
 

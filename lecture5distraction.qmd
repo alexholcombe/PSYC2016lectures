@@ -1,136 +1,50 @@
 ---
-title: "Lecture 5: Distraction"
+title: "Attention lecture 5: Distraction"
 title-slide-attributes:
   data-background-image: images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg
   data-background-size: contain
   data-background-opacity: "0.5"
 author: "Alex Holcombe"
-date: today
+date: 10-09-2024
 format: 
   revealjs:
-    smaller: true
-    auto-stretch: false #Otherwise specifying image size (e.g. width) doesn't work!
+    auto-stretch: false #Otherwise manual image resize (e.g. width) doesn't work!
     incremental: true
+    width: 1920 #Wallace LT projector default
+    height: 1080 #Wallace LT projector default
     self-contained: false
     slide-number: c/t
-    footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
+    footer: "[PSYC2016: Distraction](https://alexholcombe.github.io/PSYC2016lectures)"
     theme: ["simple", "styles.scss"]
     echo: true
-    multiplex: false
+    multiplex: false #otherwise speaker notes sometimes doesn't work?
     code-link: true
     title-slide-attributes:
       data-background-color: "#447099"
 editor: source
-# sometimes have to turn multiplex false to load speaker notes
-# As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.
 ---
 
-## Lecture 4 CLEAN-UP and REVIEW {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
 
 
-## Didn't understand:
-<BR>
+## Attention: a bridge between Perception and Cognition  {background-image="images/topicsPerceptionAttentionCognition2024.png" background-opacity="0.5" background-size="460px"}
 
-![](images/responses/didntUnderstandLecture4_29Aug2023.png)
-
-::: notes :::
-there were a few questions about the grand illusion which I address next
-:::
-
-## The puzzle
-
-1. Introspection says we experience the entire visual field simultaneously.
-
-2. Results of experiments find knowledge of what's in the visual field is very limited, to only several objects ^[if you do things to prevent attention wandering around and building up the scene representation over time]
-
-
-
--   How do we reconcile 1 and 2?
-
-## Resolving the puzzle
-
-::: columns
-::: {.column width="70%"}
-
-Ned Block: 
-
-> We **do** visually experience the whole visual field simultaneously. Allow me to explain how that's compatible with the results of the experiments...
-[writes 550-page book] 
-
-<BR>
-"Grand illusion of visual experience" people: 
-
-> Block, you're so wrong. But we know you strongly believe you do experience the whole visual field simultaneously. We want to explain why you believe it so strongly, so we'll posit that there's a grand illusion of visual experience throughout the visual field. Maybe it's kinda like the refrigerator light illusion.
-
-:::
-
-::: {.column width="30%"}
-
-<BR><BR>
-![](images/NedBlockBook.jpg){width=40%}
-
-:::
-:::
-
-
-## 
-
-![](images/argumentForGrandIllusion.png){width=80%}
-
-The argument relies on having visual experience of the whole visual field entailing that you'd detect major changes to the visual field. ^[if you don't know what "entail" means, please look it up :)]
-
-But based on our analysis of what change detection involves, it may not entail that.
-
-So that argument for the "grand illusion" is not very good.
-
-
-##  {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
-
-![](images/responses/grandIllusionThoughts.png)
-
-## Review of the argument, now in essay format in case it helps {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
-
-[The "grand illusion" argument]{.underline}: if we really did experience everything in the scene, we would quickly detect changes to the objects in the scene. So, because we don't quickly detect many changes to the scene (change blindness), we must *not* really experience everything.
-
-After hearing the argument, about half of students agreed that our feeling of experiencing everything must be only an illusion.
-
-![](images/responses/WhatDidYouThinkOfGrandIllusionArgument.png){width=50%}
-
-But the grand illusion argument is actually *not* a great argument; the first part that says that if we really did experience everything, we would quickly detect changes. Maybe we really do experience everything but we don't have a comparison process that's always comparing everything. Or maybe we really do experience everything but we don't have a representation of the scene a short time ago, so we can't do the comparison. In other words, the idea that "if we really did experience everything, we would quickly detect changes" may be false.
-
-::: notes :::
-I know it's hard.
-:::
-
-## Lectures 1-4 overview {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
-
--   A bridge between the Perception and Cognition parts of PSYC2016
+![](images/bottleneckPerceptionCognition.png){width="15%"}
 
 -   Our mental architecture is massively-parallel, followed by bottleneck(s)
-    -   Various details, including individual vs. combining features and change blindness
 -   To deal with this architecture, we have:
     -   Crude salience and alerting mechanisms
     -   Guidance of attention by memory
-
 -   This helps explain distractions
 
-![](images/bottleneck.png){.absolute bottom=10 right=10 width="150"}
+
 
 ::: notes :::
 Our animal natures
 Now we can think in more informed way about distraction
 :::
 
-## Get involved in research! {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.1"}
 
-Talk to me or other academics.
-
-::: notes :::
-If you like this kind of stuff (and I know some of you probably hate it)
-But I know it's not just me who finds it really cool that can..
-:::
-
-## Lectures 1-2 outline {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
+## Outline of Lectures 1-4 {.smaller background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
 
 ::: {.nonincremental}
 
@@ -140,85 +54,106 @@ But I know it's not just me who finds it really cool that can..
     -   Need for vigilance
         -   Because of bottleneck, we evolved crude salience and alerting mechanisms
     
-2. Kinds of selection
-    - More on the parallel processing prior to the bottleneck
-        -   Binocular rivalry vs. two separated letters
-    - Bottom-up attention (Chapters 7 and 9)
-    -   Our behavior is a mish-mash of competition between top-down and bottom-up
+2. and 3. Kinds of selection, parallel versus serial processing
+    -   Bottom-up attention (Chapters 7 and 9)
+    -   Our behavior reflects competition between top-down and bottom-up
     -   Combinations of features typically aren't processed in parallel
-      -   Selective attention is needed to combine features
+        -   Selective attention is needed to combine features (Treisman)
     -   Feature selection is compulsorily global
-      -   Maybe because What processing (features) occurs on different pathway than Where pathway, which mediates spatial attention
+        -   Maybe because What processing (features) occurs on different pathway than Where pathway, which mediates spatial attention
 
-:::
+<BR>
 
-## Lecture 3 outline {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
+4. Shape
+    -   Combining features within a feature dimension
+    -   Quantifying shape processing efficiency with dipoles
 
-::: {.nonincremental}
+<BR>
 
-3. Treisman's diagram and combining features
-  -   Individual-feature salience is computed in parallel
-  -   Flat search slopes (parallel) vs. steep (serial)
-  -   Combining features from two different objects takes the longest, but even within an object takes awhile (both require focused attention)
-  -   It feels like we see everything at once
-  -   The mysterious non-selective pathway
-  -   Shape
-    -   Combining oriented elements into a shape doesn't require focused attention
-      -   Uses sophisticated cues
-      -   Fast
-      -   Can combine many elements, oaveraging over noise
-    -   Combining that shape with a color does require focused attention
-  
 4. Change blindness
+    -   In blank screen sandwiches, have to attend to location to detect change
+    -   A "grand illusion" of visual experience?
+    -   Poor peripheral vision can prevent change detection
+    -   Role of flicker / motion detectors
+    -   Memory for important locations can drive attention
 
 :::
 
+2,3. Kinds of selection, parallel versus serial processing
 
-## Lecture 5: DISTRACTION {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.1"}
+## Lecture 5: Distraction {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.8" background-size="100%"}
 
--   I've focused on the perception end of the perception - cognition relationship
--   Cognition is affected by social, motivational, and environmental factors
+::: notes
+The three wise monkeys from a Buddhist legend, as depicted in a wood carving in the 17th-century shrine in Nikkō, Japan
+:::
 
-## Not sure where to put this
 
-::: {.fragment}
-![](images/LeavingAFlatTasteInYourMouth.png)
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.1"}
+
+<BR><BR>
+
+::: {.r-fit-text}
+Limited processing capacity + Vigilance = Distraction
 :::
 
 ::: notes
-Withdrawing of the mind has Lots of consequences.
-
-"Participants rated the substances as less intense, consumed more, and preferred stronger tastes."
+Now that you have some appreciation of just how limited our capacities are, you can appreciate more the importance of concentration, as opposed to distraction. And how vulnerable we are to distraction because of bottom-up attention, among other factors
 :::
 
 ## What most distracts you during lecture? {background-image="images/UsydClassStudents.png" background-opacity="0.15"}
 
-![](images/distractionsDuringLectureCensored.png) 
+![](images/responses/WhatMostOftenDistractsYouDuringLecture2024transparent.png){width="100%"}
 
 ::: notes 
-Some of these are bottom-up sensory events
-Some are ongoing life concerns (top-down)
-Some are basic drives (hunger)
+Many of these are bottom-up sensory events
 :::
 
-## Phones! {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## Phones! {background-image="images/Telefon_BW_2012-02-18_13-44-32.jpeg" background-opacity="0.2"}
 
-::: {.r-stack}
-![](images/notificationDetoxPhoneOnly.png){.fragment width="600" height="300"}
-![](images/oldManYellsAtCloud.jpg){.fragment width="150" height="200"}
-:::
+  -   ![](images/oldManYellsAtCloud.jpg){.absolute bottom=0 right=0}
 
 ::: notes :::
 When I was a kid, we didn't have mobile phones!
 The #1 distraction didn't exist.
+Not just an old man raging at modernity
 :::
+
+## [Ezra Klein](https://www.nytimes.com/2023/05/28/opinion/artificial-intelligence-thinking-minds-concentration.html) on mobile phones {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+![](images/EzraKlein.jpeg){size=20%}
+
+-   In 1990, imagine I told you that I was going to invent a sinister tool...
+
+- As people used it, their attention spans would degrade, as the tool would constantly shift their focus, weakening their powers of concentration and contemplation.
+
+-   This tool would show people whatever it is they found most difficult to look away from — which would often be what was most threatening about the world, from the worst ideas of their political opponents to the deep injustices of their society.
+
+-   It would fit in their pockets and glow on their night stands and never truly be quiet; there would never be a moment when people could be free of the sense that the pile of messages and warnings and tasks needed to be checked.
+
+-   What would you have thought this engine of distraction, division, and cognitive fracture would do to humanity?
+
+
+::: notes :::
+He refers to societal interest factors. Combined with SOCIAL now. These have been weaponized into an outrage machine.
+This was not how we thought the internet would turn out.
+:::
+
+## Phones! {background-image="images/notificationDetoxPhoneOnly.png" background-opacity="0.1"}
+
+-   Alerts = Bottom-up attention. ![](images/redAlertButton.jpg)
+-   Learning (conditioning) to respond to alerts = Top-down attention? ![](images/inspectorCartoon.png)
+<BR><BR>
+-   Opening your phone even when there's no alert = Top-down attention
+
+<!--2 more factors are revealed after the bottom-up stuff -->
+
 
 ## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 ::: columns
 ::: {.column width="60%"}
 
-![](images/GloriaMarkAttentionSpanBook.jpeg){width=30%}
+![](images/GloriaMarkAttentionSpanBook.jpeg){width=20%}
 
 
 :::
@@ -235,9 +170,129 @@ The #1 distraction didn't exist.
 
 > Without top-down control of our attention, we open ourselves up to stimuli that steer our attention for us.
 
-##  {background-image="images/UsydClassStudents.png" background-opacity="0.15"}
+## Controlling bottom-up sensory events {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
-![](images/distractionsDuringLectureCensored.png)
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+<BR>
+Notification detox
+<BR>
+
+![](images/notificationDetoxIrishTimes.png) Irish Times [article](https://www.irishtimes.com/culture/tv-radio-web/one-ping-after-another-why-we-all-need-a-notification-detox-1.4153895)
+
+::: notes :::
+Turn off phone notifications 
+:::
+
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+Take some advice from the experts on phones and apps!
+<BR><BR>
+
+![](images/SiliconValleySchoolNoDevices.png)
+
+::: notes
+
+Her goddamned school
+:::
+
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+What do you do to shut out the world?
+
+<BR><BR><BR>
+
+![](images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg)
+
+::: notes :::
+You might be saying I really need to concentrate on this, but millions years evolution is saying otherwise, that you need to keep your ears turned on
+:::
+
+
+##  {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+![](images/threeWiseMonkeys/monkeyNoHear.jpeg)
+
+-   ![](images/headphonesNoiseCancelling.jpeg)
+-   ![](images/loopEarplugs.png)
+-   ![](images/headphonesNoiseCancellingAndMask.png){.absolute right=0 top=30}
+
+
+::: notes
+Noise-cancelling headphones
+Earplugs. This is how I do.
+Not cool? Anyone heard of loop earplugs?
+But you know what, you don't have to wait.
+There won't be any psychology tricks that are as effective as mechanical solutions.
+Put on mask.
+:::
+
+##  {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+![](images/threeWiseMonkeys/monkeyNoSee.jpeg)
+
+-   ![](images/sleepMask.jpeg){width="300%"}
+
+::: notes 
+I'm serious about sleep too. Mask.
+Are you not going to do it because it's not cool?
+Why do you wear a mask, do you have horrible scars on your face or something? 
+:::
+
+## Phones! {background-image="images/notificationDetoxPhoneOnly.png" background-opacity="0.1"}
+
+::: {.nonincremental}
+
+-   Alerts = Bottom-up attention. ![](images/redAlertButton.jpg)
+-   Learning (Ch. 16) to respond to alerts = Top-down attention? ![](images/inspectorCartoon.png)
+<BR><BR>
+-   **Opening your phone even when there's no alert = Top-down attention**
+:::
+
+::: notes
+conditioning
+:::
+
+## Distraction study {background-image="images/UsydClassStudents.png" background-opacity="0.15"}
+
+<BR>
+Notifications off
+
+4 minutes of silent reading
+
+-   ![](images/responses/distractionExpHowManyTimesWereYouDistracted2024.png)
+
+::: notes 
+Airplane mode
+Why were you still distracted so much?
+:::
+
+## 
+
+![](images/responses/distractionExpHowManyMinutesUntilYourFirstDistraction.png){.r-stretch}
+
+## What distracted you? {background-image="images/responses/whatDistractedYou1.png" background-opacity="0.9"}
+
+::: notes
+Hard to get rid of botton-up stuff. But also...
+:::
+
+## What distracted you? {background-image="images/responses/whatDistractedYou2.png" background-opacity="0.9"}
+
+:::notes
+thoughts
+:::
+
+## What distracted you? 
+
+![](images/responses/whatDistractedYou3.png){width="70%"}
+
+::: {.r-fit-text}
+-   "Thoughts"
+:::
+
+## 2023 {background-image="images/UsydClassStudents.png" background-opacity="0.15"}
+
+![](images/responses/WhatMostOftenDistractsYouDuringLecture2023.png)
 
 -   A lot more to it than sensory events and salience
 
@@ -252,65 +307,89 @@ A combination of factors
 **Sensory events**: noise, other peoples laptops, dense slides, muscle soreness, *phone*
 
 <BR>
-**Drives**: hunger, sleepiness, boys
+**Life issues**: issues in my life, other works, other deadlines
 
+<BR>
+**Drives**: hunger, sleepiness, boys
 
 <BR>
 **Cognitive, interest, learning**: boring lectures, social media - instagram, *phone*, tangents, spring break planning, content is too hard or ez
 
-<BR>
-**Life issues**: issues in my life, other works, other deadlines
+::: notes
+What term used in this unit best fits the “other deadlines” distraction?
+
+A. Top-down attention
+B. Bottom-up attention
+C. Lateral attention
+D. Feature combination deficit
+E. Differencing deficit
+:::
+
+## {background-image="images/hardQuiz.jpg" background-opacity="0.9"}
+
+::: notes 
+Classify these
+
+Some of these are bottom-up sensory events
+Some are ongoing life concerns (top-down)
+Some are basic drives (hunger)
+
+-   I've focused on the perception end of the perception - cognition relationship
+-   Cognition is affected by social, motivational, and environmental factors
+:::
+
+## {background-image="images/hardQuiz.jpg" background-opacity="0.2"}
+
 
 ## Distractions, categorised {background-image="images/UsydClassStudents.png" background-opacity="0.07"}
 <BR>
 
-**Sensory events**: noise, other peoples laptops, dense slides, muscle soreness, *phone* [Chapter 5](https://psyc2016.whatanimalssee.com/btmUpTopDown.html)
+**Sensory events** (bottom-up): noise, other peoples laptops, dense slides, muscle soreness, *phone*
+
+<BR>
+**Life issues** (top-down): issues in my life, other works, other deadlines
+
+<BR>
+**Drives**: hunger, sleepiness, boys
+
+<BR>
+**Cognitive, interest, learning** (top-down): boring lectures, social media - instagram, *phone*, tangents, spring break planning, content is too hard or ez
+
+## Distractions, categorised {background-image="images/UsydClassStudents.png" background-opacity="0.07"}
+<BR>
+
+**Sensory events** (bottom-up): noise, other peoples laptops, dense slides, muscle soreness, *phone* [Chapter 5](https://psyc2016.whatanimalssee.com/btmUpTopDown.html)
+
+<BR>
+**Life issues** (top-down): issues in my life, other works, other deadlines. NOT COVERED IN PSYC2016
 
 <BR>
 **Drives**: hunger, sleepiness, boys. NOT COVERED IN PSYC2016. 
 
 <BR>
-**Cognitive, interest, learning**: boring lectures, social media - instagram, *phone*, tangents, spring break planning, content is too hard or ez.  MANY CHAPTERS MENTION TOP-DOWN, MEMORY, + [CHAPTER 16](https://psyc2016.whatanimalssee.com/distraction1.html)
-
-<BR>
-**Life issues**: issues in my life, other works, other deadlines. NOT COVERED IN PSYC2016
+**Cognitive, interest, learning** (top-down): boring lectures, social media - instagram, *phone*, tangents, spring break planning, content is too hard or ez.  MULTIPLE CHAPTERS MENTION MEMORY, + [CHAPTER 16](https://psyc2016.whatanimalssee.com/distraction1.html)
 
 ::: notes :::
 Drive for social contact
 ::::
 
-## [Ezra Klein](https://www.nytimes.com/2023/05/28/opinion/artificial-intelligence-thinking-minds-concentration.html) on mobile phones {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
-
-![](images/EzraKlein.jpeg){size=30%}
-
--   In 1990, imagine I told you that I was going to invent a sinister tool...
-
-- As people used it, their attention spans would degrade, as the tool would constantly shift their focus, weakening their powers of concentration and contemplation.
-
--   This tool would show people whatever it is they found most difficult to look away from — which would often be what was most threatening about the world, from the worst ideas of their political opponents to the deep injustices of their society.
-
--   It would fit in their pockets and glow on their night stands and never truly be quiet; there would never be a moment when people could be free of the sense that the pile of messages and warnings and tasks needed to be checked.
-
--   What would you have thought this engine of distraction, division and cognitive fracture would do to humanity?
 
 
-::: notes :::
-He refers to societal interest factors. Combined with SOCIAL now. These have been weaponized into an outrage machine.
-This was not how we thought the internet would turn out.
-:::
-
-## Learning {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## Learning {background-image="images/notificationDetoxPhoneOnly.png" background-opacity="0.07"}
 <BR>
 
 Association of stimuli with reward ([Chapter 16](https://psyc2016.whatanimalssee.com/distraction1.html))
 
 -   When you open an app, you get interesting things
--   Possibly a social reward
+-   Not just interesting, but also a social reward (everyone wants to be liked)
 
-::: notes :::
+::: notes
 Briefly covered in Chapter 16
 :::
 
+
+
+<!--I OMITTED THIS TO SAVE TIME
 ##  {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 ![](images/videoGameBingerDies.png)
@@ -321,22 +400,25 @@ Video games provide the right level of challenge, a constant sense of achievemen
 An important thing to gain out of a university education, in addition to logical reasoning, is skepticism!
 But this illustrates how a videogame can be so rewarding that it crowds out all other activities.
 :::
+-->
 
-## What distracts you during studying? {background-image="images/UsydClassStudents.png" background-opacity="0.15"}
+## What distracts you during studying? {background-image="images/UsydClassStudents.png" background-opacity="0.05"}
 
+<BR><BR>
 phone; phone; Phone; Phone; phone; Phone; phone; my phone; cellphone; My phone; buzzing phone; Phone buzzing; My damn phonnneeee :(
 
 My phone, the habit of picking it up all the time
 
 messages/instagram
 
-my boyfriend playing video games right next to me
 
-flat mate coming into my room
+**flat mate coming into my room**
 
 The clock
 
 Social media
+
+**my boyfriend playing video games right next to me**
 
 snacks
 
@@ -346,7 +428,7 @@ My own thoughts
 
 Cans of kombucha being drunk.
 
-my housemates
+**my housemates**
 
 ::: notes :::
 Will be big individual differences.
@@ -358,14 +440,14 @@ Whereas I have more motivation
 <BR>
 
 ![](images/shut-up-write.png)
-
--   Harness sociality to keep you on task!
--   In-class distraction diary was done as a big group
+<BR>
+-   Harness social attention to keep you on task!
+-   Study groups
 -   Group workouts
-
+<!-- -   In-class distraction diary was done as a big group -->
 
 ::: notes :::
-One reason team sports are great, you're not going to just stop running and let down the team
+One reason team sports are great, you're not going to just stop running and check your phone and let down the team... it's very powerful
 :::
 
 
@@ -375,13 +457,16 @@ One reason team sports are great, you're not going to just stop running and let 
 ::: {.column width="70%"}
 
 ::: {.fragment .fade-in}
-In 2004, The average time people spent on a single screen was 2.5 minutes. 
+In 2004, the average time people spent on a single screen was 2.5 minutes. 
 <BR>
 
-"I was astounded. That was so much worse than I'd thought it would be," said Mark.
+"I was astounded. That was so much worse than I'd thought it would be," said Gloria Mark.
 <BR>
 
-But that was just the beginning. By 2012, Mark and her colleagues found the average time on a single task was 75 seconds. Now it's down to about 47.
+But that was just the beginning.
+<BR>
+
+By 2012, Mark and her colleagues found the average time on a single task was 75 seconds. Now it's down to about 47.
 
 :::
 
@@ -402,14 +487,15 @@ Think about how little time you spend on each post when scrolling through Instag
 
 :::
 
-## Multi-tasking {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## Multi-tasking? {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 <BR>
 
 ::: columns
 ::: {.column width="70%"}
 
+-   We can only focus on one thing at a time.
 
--   Multitasking? We can only focus on one thing at a time. 
+<BR><BR><BR><BR>
 
 -   Task-switching.
     -   "It's like we have an internal whiteboard in our minds," Mark said. 
@@ -421,7 +507,7 @@ And just like on a real whiteboard, there can be a residue in our minds. We may 
 
 ::: {.column width="30%"}
 
-![](images/GloriaMarkAttentionSpanBook.jpeg){width=30%}
+![](images/bottleneckManyThingsOneThing.png){width=80%}
 
 ![](images/gloria_mark.png){width=60%}
 
@@ -429,6 +515,7 @@ And just like on a real whiteboard, there can be a residue in our minds. We may 
 :::
 
 ::: notes :::
+There's no such thing as true multitasking
 Task switching is extremely costly 
 :::
 
@@ -455,17 +542,25 @@ I was hoping that I would be able to compare amount of distractions in-class com
 <BR><BR>
 
 ::: {.r-fit-text}
-Menti.com code: 7353 8682
+Menti.com
 :::
-
 
 ::: notes :::
 and what do to shut out the owrld?
 :::
 
-## Cognitive / motivational factors {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## Get involved in research! {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.4"}
 
-![](images/BruceBurns.png)
+![](images/beesAndBombsHierarchicalMotion.gif){width="900px" .absolute right=0 top=200}
+
+<BR><BR><BR>
+alex.holcombe@sydney.edu.au
+
+![](images/labPhoto.png){.absolute left=0 top=500}
+
+::: notes :::
+But I know it's not just me who finds it really cool that can..
+:::
 
 ## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
@@ -479,7 +574,7 @@ and what do to shut out the owrld?
     
 <BR>
 
--   Vigilance is more about threats
+-   Vigilance is more about threats than about exploration
 
 
 :::
@@ -512,6 +607,7 @@ Vigilance is more about threats
 We are genetically programmed to explroe the environment
 :::
 
+<!--
 ## {background-image="images/hardQuiz.jpg" background-opacity="0.6"}
 
 ::: notes :::
@@ -524,66 +620,9 @@ C. Exploration
 D. Focused attention
 
 :::
+-->
 
-## CONTROLLING BOTTOM-UP SENSORY EVENTS {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
-
-## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
-<BR>
-
-![](images/notificationDetoxIrishTimes.png) [Irish times](https://www.irishtimes.com/culture/tv-radio-web/one-ping-after-another-why-we-all-need-a-notification-detox-1.4153895)
-
-::: notes :::
-Turn off phone notifications 
-:::
-
-## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
-
-![](images/SiliconValleySchoolNoDevices.png)
-
-::: notes :::
-Her goddamned school
-:::
-
-## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
-
-What do you do to shut out the world?
-
-<BR><BR><BR>
-
-![](images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg)
-
-::: notes :::
-You might be saying I really need to concentrate on this, but millions years evolution is saying otherwise, that you need to keep your ears turned on
-:::
-
-
-##  {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
-
-![](images/threeWiseMonkeys/monkeyNoHear.jpeg)
-
--   ![](images/loopEarplugs.png)
-
-::: notes
-Earplugs. This is how I do.
-Not cool? Anyone heard of loop earplugs?
-But you know what, you don't have to wait.
-There won't be any psychology tricks that are as effective as mechanical solutions.
-Put on mask.
-:::
-
-##  {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
-
-![](images/threeWiseMonkeys/monkeyNoSee.jpeg)
-
-<BR><BR>
-
-
-::: notes 
-I'm serious about sleep too. Mask.
-Are you not going to do it because it's not cool?
-Why do you wear a mask, do you have horrible scars on your face or something? 
-:::
-
+<!--
 ## Molly Worthen on monastic uns {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
 We need an intervention: ... a bold move to put the screens, the pinging notifications and the creepy humanoid A.I. chatbots in their proper place. They are our tools, not our masters. That doesn’t mean a futile attempt to wall off higher education from the modern world; it does mean selectively returning to the university’s roots in the monastic schools of medieval Europe and rekindling the old-fashioned quest for meaning.
@@ -591,7 +630,7 @@ We need an intervention: ... a bold move to put the screens, the pinging notific
 Colleges should offer a radically low-tech first-year program for students who want to apply: a secular monastery within the modern university, with a curated set of courses that ban glowing rectangles of any kind from the classroom. Students could opt to live in dorms that restrict technology, too.
 
 The first step is dethroning the small silicon idol in their pocket — and making space for the uncomfortable silence and questions that follow. The experience stuck with Ms. Ouyang, the nursing major. “I didn’t look forward to getting my phone back,” she said.
-
+-->
 
 
 
@@ -659,10 +698,23 @@ Even a sense of awe.
 Just make sure you're the one who chooses when it happens.
 :::
 
-## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## {background-image="images/BlueMtnsThorHeadMaybe.jpg" background-opacity="1.0"}
 
-![](images/surveyEndOfLecture.png)
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.1"}
 
+![](images/surveyEndOfLectureTransparent.png)
+
+## Not sure where to put this
+
+::: {.fragment}
+![](images/LeavingAFlatTasteInYourMouth.png)
+:::
+
+::: notes
+Withdrawing of the mind has Lots of consequences.
+
+"Participants rated the substances as less intense, consumed more, and preferred stronger tastes."
+:::
 
 <!--
 
@@ -686,7 +738,5 @@ Just make sure you're the one who chooses when it happens.
 My partner doesn't get distracted. Whereas I can't have the TV on, on anything!
 -->
 
-<!--
-Next year, use section headers at top right of slide like this https://meghan.rbind.io/blog/quarto-slides/#section-header
--->
+
 
