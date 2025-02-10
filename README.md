@@ -8,14 +8,16 @@ https://quarto.org/docs/publishing/github-pages.html#render-to-docs
 
 So whenever I push to github here, the new version will be published.
 
-## Can't understand how to add more space below slide titles!
+## Figured out how to add more space below slide titles
 
-Tried in styles.scss:
+In styles.scss:
 
-.reveal .slide h1 {
-	margin-top: 50em !important;
-	margin-bottom: 50em !important;
+/*-- scss:rules --*/
+
+.reveal .slides h2 {
+    margin-bottom: 40px; /* Adjust the value as needed */
 }
+
 
 See
 css-files-https-community-rstudio-com-t-how-to-increase-the-spacing-between-item-lists-in-a-revealjs-presentation-using-quarto-170579-2-u-tchevri/173432
