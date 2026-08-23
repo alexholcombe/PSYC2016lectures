@@ -28,7 +28,7 @@ editor: source
 Next year, could use section headers at top right of slide like this https://meghan.rbind.io/blog/quarto-slides/#section-header
 -->
 
-##
+## {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 <!--- {{< video images/AlexLifeJourney.mp4 >}}     Doesn't work even though it should --->
 
@@ -39,21 +39,53 @@ Prep: Have psyc2016l.whatanimalssee.com book open on lectern PC, on second scree
 Click on ALEX's journey video
 :::
 
-##
+## {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 <!--- ![](images/AmericanFlag.jpg) -->
 
 ::: {.fragment}
 ![](images/citizenshipCeremonyAshfield17Oct2013.JPG)
 :::
-## Attention
 
-## 
+## {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
-All day, the world makes its demands. There's so much of it, world
+::: {.fragment}
+All day, the world makes its demands. 
+:::
 
+::: {.fragment}
+There's so much of it, world
+:::
+
+::: {.fragment}
 begging to be noticed.
+:::
 
+
+## {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+![](images/LeilaChatti.jpeg){width=70%}
+Leila Chatti
+
+::: notes
+Unusually for a science class, I'm going to start with some poetry
+Your generation has had this more than any other in human history
+
+:::
+
+## {incremental=true background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+::: {.r-fit-text}
+All day, the world makes its demands. 
+:::
+
+::: {.r-fit-text}
+There's so much of it, world
+:::
+
+::: {.r-fit-text}
+begging to be noticed.
+:::
 
 ::: {.fragment}
 -- Leila Chatti
@@ -61,19 +93,12 @@ begging to be noticed.
 
 ::: notes
 This is something many of us love about the world, but also something that we struggle with.
-My lectures take on the basic issue of why we have issues with this.
-This is something that fascinates me too, in my daily life, and I do experiments to investigate aspects of it.
+This is a poetic way of capturing something important. 
+How are we going to understand this, because very few things are actually begging us to be noticed. Except maybe babies.
+How can we understand it scientifically?
 :::
 
-## 
 
-![](images/LeilaChatti.jpeg){width=70%}
-Leila Chatti
-
-::: notes
-Your generation has had this more than any other in human history
-
-:::
 
 ## English expressions related to attention {background-image="images/ear.jpg" background-opacity="0.2" background-size="600px" }
 
@@ -115,7 +140,7 @@ I'm lecturing on "From attention to distraction" again this year. Here's a free 
 
 ## Organisation of Alex's material
 
--   The mini-text: PSYC2016.whatanimalssee.com
+-   The mini-textbook: PSYC2016.whatanimalssee.com
 -   These slides: linked from Canvas
 -   The Week 6 tutorial: Finding and noticing things in the lab, and in the real world
 
