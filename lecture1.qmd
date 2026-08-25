@@ -5,15 +5,16 @@ title-slide-attributes:
   data-background-size: contain
   data-background-opacity: "0.8"
 author: "Alex Holcombe"
-date: 02-09-2024
+date: today
 format: 
   revealjs:
     incremental: true
     self-contained: false
     slide-number: c/t
-    width: 1920 #Wallace LT projector default
-    height: 1080 #Wallace LT projector default
-    footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
+    logo: "images/threeWiseMonkeys/monkeyNoHearHeadOnly.jpeg"
+    #width: 1920 #Wallace LT projector default
+    #height: 1080 #Wallace LT projector default
+    footer: "[PSYC2016: Attention L1](https://alexholcombe.github.io/PSYC2016lectures)"
     theme: ["simple", "styles.scss"]
     echo: true
     multiplex: false
@@ -62,17 +63,31 @@ begging to be noticed.
 :::
 
 
-## {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+## {background-image="images/LeilaChatti.jpeg" background-opacity=".3"}
 
-![](images/LeilaChatti.jpeg){width=70%}
-Leila Chatti
+All day, the world makes its demands. 
+
+There's so much of it, world
+
+begging to be noticed.
+
+<BR>
+`-` Leila Chatti
+<BR><BR>
+-   Why do we get distracted? 
 
 ::: notes
+by things "begging to be noticed"?
 Unusually for a science class, I'm going to start with some poetry
 Your generation has had this more than any other in human history
 
+This is something many of us love about the world, but also something that we struggle with.
+This is a poetic way of capturing something important. 
+How are we going to understand this, because very few things are actually begging us to be noticed. Except maybe babies.
+How can we understand it scientifically?
 :::
 
+<!---
 ## {incremental=true background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 ::: {.r-fit-text}
@@ -90,71 +105,53 @@ begging to be noticed.
 ::: {.fragment}
 -- Leila Chatti
 :::
-
-::: notes
-This is something many of us love about the world, but also something that we struggle with.
-This is a poetic way of capturing something important. 
-How are we going to understand this, because very few things are actually begging us to be noticed. Except maybe babies.
-How can we understand it scientifically?
-:::
+-->
 
 
+## {background-image="images/WmJames.jpg" background-opacity="0.4"}
 
-## English expressions related to attention {background-image="images/ear.jpg" background-opacity="0.2" background-size="600px" }
+<!-- progressively reveal without bullets, defined in styles.scss -->
+::: {.incremental .no-bullets}                                                                                
+- "Everyone knows what attention is.                                                                          
+- It is the taking possession by the mind,                                                                    
+- in a clear and vivid form                                                                                   
+- one out of several simultaneously possible objects or trains of thought.                          
+- Focalization, concentration of consciousness are of its essence.                                            
+- It implies withdrawal from some things in order to deal with others."                                       
+- — *William James (1890)*                                                                        
+:::        
 
--   Please “pay attention!”
--   “Sorry, I wasn’t listening!”
--   “Sorry, I missed that!”
--   “I didn’t notice it!”
-
-::: notes
-What do you mean you weren't listening? Were your ears not open?
-We have limited resources.
-:::
-
-## {background-image="images/WmJames.jpg" background-opacity="0.6"}
-
-"Everyone knows what attention is. 
-
-It is the taking possession by the mind, in a clear and vivid form of one out of what seem several simultaneously possible objects or trains of thought. 
-Focalization, concentration of consciousness are of its essence. It implies withdrawal from some things in order to deal with others."
-
--	William James (1890)
+<BR><BR>
+- So why does this happen; why do we need attention?
+- Why do we get distracted?
 
 :::notes
-The first great scientific psychologist. If only I could grow a beard like his.
-:::
-
-
-## Why?
-
--   Why do we need selective attention?
--   Why do we get distracted?
-
-::: notes
+The first great scientific psychologist. If only I could grow a beard like his, I would get much more respect around here.
 By the end of these 5 lectures you'll understand distraction better
-
-I'm lecturing on "From attention to distraction" again this year. Here's a free mini-textbook I wrote for that, reviewing the architecture of sensory processing as well as aspects of evolution to explain why attention is needed and how it works https://psyc2016.whatanimalssee.com/ . 
-
 :::
 
-## Organisation of Alex's material
+## Organisation of Alex's material {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".1"}
 
 -   The mini-textbook: PSYC2016.whatanimalssee.com
 -   These slides: linked from Canvas
 -   The Week 6 tutorial: Finding and noticing things in the lab, and in the real world
 
 ::: notes
+Here's the mini-textbook I wrote for these lectures, reviewing the architecture of sensory processing as well as aspects of evolution to explain why attention is needed and how it works https://psyc2016.whatanimalssee.com/ . 
+
 During the pandemic talking at people on Zoom for 50 minutes was not effective.
 Lecturing was very depressing then.
 So I wrote this mini-text.
 I find it freeing.
 
 Read it on your phone, at the bus stop, while waiting for a train. Except some images won't fully show up
-
 :::
 
-## Frequently asked questions
+
+
+## Frequently asked questions {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+https://psyc2016.whatanimalssee.com/index.html
 
 > Can the lecture be downloaded as PDF?
 
@@ -164,6 +161,8 @@ Yes.
 <BR>
 ->Tools->PDF Export
 
+or press the letter 'e'
+
 ##
 
 > What's the point of the lectures if everything is in the mini-text?
@@ -172,9 +171,9 @@ Yes.
 Lectures:
 
 -   Go over the same concepts but with different examples and wording
--   Thanks to the mini-text, can address issues that come up without worrying I'll run out of time
+-   Thanks to the mini-text, can address issues without worrying I'll run out of time
 -   Show demos
--   Quiz you, and solicit your personal experiences
+-   Quiz you, solicit personal experiences
 
 ::: notes
 which can be useful to you on the exam
@@ -184,13 +183,19 @@ which can be useful to you on the exam
 
 > I can't see everything on some mini-text pages
 
-Some things are offscreen on most phones, but will work on a laptop/desktop
+Some things are offscreen on most phones, but will work on a laptop, desktop, or tablet
 
 
-## TODAY
+##  {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+::: {.callout-note appearance="simple" icon="false"}
+Understand how unscientific ways of talking about attention relate to scientific concepts.
+:::
+
+## TODAY {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 ::: {.nonincremental}
--   Intro, attention and distraction
+-   [Intro: attention and distraction]{.grey}
 -   Limits on body
 -   Limits on mind
 -   Attentional selection
@@ -202,28 +207,74 @@ Some things are offscreen on most phones, but will work on a laptop/desktop
 -   Absence of combined selection
 :::
 
-## "It implies withdrawal from some things in order to deal with others" - William James
+##  {background-image="images/WmJames.jpg" background-opacity="0.1" }
 
--   This is a part that we sometimes don't like!
+::: {.callout-note appearance="simple" icon="false"}
+Understand how unscientific ways of talking about attention relate to scientific concepts.
+:::
 
-## "I can't be everywhere at once" {background-image="images/body-silhouette.svg" background-opacity=".2" background-size="800px" }
+"It implies withdrawal from some things in order to deal with others" 
 
+::: {.no-bullets}
+-   Very inconvenient!
+:::
+<BR><BR>
+
+
+
+##  {background-image="images/body-silhouette.svg" background-opacity=".2" background-size="800px" }
+
+::: {.callout-note appearance="simple" icon="false"}
+Understand how unscientific ways of talking about attention relate to scientific concepts.
+:::
+
+<BR>
+::: {.r-fit-text}
+"I can't be everywhere at once"
+:::
+
+
+<BR><BR>
+
+::: {.incremental}
 -   Limit on our abilities, imposed by physics!
+:::
 
-## "I can't do everything at once" {background-image="images/body-silhouette.svg" background-opacity=".2" background-size="800px" }
+::: notes
+body limits
+:::
+
+## {background-image="images/body-silhouette.svg" background-opacity=".2" background-size="800px" }
+
+::: {.callout-note appearance="simple" icon="false"}
+Understand how unscientific ways of talking about attention relate to scientific concepts.
+:::
+
+<BR>
+I can't be everywhere at once
+
+::: {.r-fit-text}
+I can't do everything at once
+:::
 
 -   Only have two hands
 -   Only have one mouth
 
-## Limit imposed by our body {background-image="images/body-silhouette.svg" background-opacity=".2" background-size="800px"}
+## {background-image="images/body-silhouette.svg" background-opacity=".2" background-size="800px"}
 
+::: {.callout-note appearance="simple" icon="false"}
+Understand how unscientific ways of talking about attention relate to scientific concepts.
+:::
+
+ Limits imposed by our body
+ 
 -   Can only be in one place at a time
 -   Can act on only a few things at a time
 -   Can look directly at only one thing at a time 
 
--   *Selection* is required
+-   *Selection* required
 
-## But the processing limit is worse than that!
+## The processing limit is even worse than that!
 
 -   Can only *extensively mentally process* simultaneously a limited number of things
 
@@ -238,12 +289,39 @@ Can only extensively mentally process a few things at once
 
 :::
 
-## Attentional selection
+## {background-image="images/WmJames.jpg" background-opacity="0.2"}
+
+MOVE THIS DOWN To bottleneck section
+
+![](images/multicore/multicoreBgRemovedCanva.png)
+
+Modern computers and phones have multiple core processors.
+
+Distractions would be less of a problem if we could devote one-quarter of our mind to the distracting stimulus, while the rest of us stayed on task.
+
+
+## Attentional selection {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 -   Can look directly at only one thing at a time
     -   Directing gaze is *overt attention*
 -   Can only extensively mentally process a few things at once
     -   Directing mental resources is *covert attention*
+
+## Covert attention {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+-   “Sorry, I wasn’t listening!”
+    - Were your ears not open?
+    - ![](images/threeWiseMonkeys/monkeyNoHear.jpeg)
+-   “Sorry, I missed that!”
+-   “I didn’t notice that!”
+    - ![](images/threeWiseMonkeys/monkeyNoSee.jpeg)
+
+
+::: notes
+What do you mean you weren't listening? Were your ears not open?
+We have limited resources.
+-   Please “pay attention!”
+:::
 
 ## Two letters can be enough to overwhelm capacity
 
@@ -261,11 +339,16 @@ Can only extensively mentally process a few things at once
 
 ## Bottleneck - for letter identification
 
+![mini-text 3.4](https://psyc2016.whatanimalssee.com/bottlenecks.html#bottleneckObjects)
+
 ![](images/HolcombeGoodbourn/GoodbournHolcombeStimSchematic.png)
 
 ## Bottleneck - for letter identification
 
 ![](images/HolcombeGoodbourn/GoodbournHolcombeSingleVersusDouble.png)
+
+<BR>
+<span style="font-size: 0.4em; color: #777;">Goodbourn PT, & Holcombe AO (2015)</span>
 
 ::: notes
 Recognizing letters seems effortless. And it is effortless, at the conscious level!
@@ -287,10 +370,8 @@ But
 -   Selection = choice of which stimulus, or stimuli, to extensively process
 
 ::: notes
-
 WHAT-   You must not have been paying attention...?
 -   "Paying attention" = devoting your resources to a task.
-
 :::
 
 ## {background-image="images/hardQuiz.jpg" background-opacity="1.0"}

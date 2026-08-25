@@ -1,0 +1,204 @@
+---
+title: "PSYC2016: Learning Outcomes & Course Alignment"
+subtitle: "Comprehensive Lecture Outcomes, Textbook Outcomes, and Curriculum Mapping"
+author: "Alex Holcombe"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+---
+
+<!-- 
+NOTE ON AUTHORSHIP & PROVENANCE:
+This document was generated and compiled by Antigravity (Google DeepMind AI assistant) 
+based on detailed analysis of the PSYC2016 Quarto lecture decks (Lectures 1-5, globalShape.qmd) 
+and the PSYC2016attentionBook mini-textbook (01-background.Rmd through 09-visualSearch.Rmd, 
+social.Rmd, realWorldSearch.Rmd, cuing.Rmd, expectation.Rmd, dividedAndTracking.Rmd, 
+memoryBottleneck.Rmd, distraction.Rmd, distractionsWorld.Rmd, and appendix_Tutorial_material.Rmd).
+-->
+
+# Overview
+
+This document synthesizes:
+1. **Lecture-Specific Learning Outcomes** derived from the live lecture decks (`lecture1.qmd` through `lecture5distraction.qmd` and `globalShape.qmd`).
+2. **Textbook Learning Outcomes** established in Chapter 2 of the mini-textbook (`02-learningOutcomes.Rmd`).
+3. **Curriculum Mapping & Alignment Matrix** linking each lecture to its corresponding textbook chapters.
+4. **Detailed Analysis of Divergence**:
+   - Textbook topics omitted from live lectures due to time constraints.
+   - New topics introduced in lectures that are not standalone chapters in the book.
+
+---
+
+# Lecture-by-Lecture Learning Outcomes
+
+## Lecture 1: Attention, Limits, and Bottlenecks (`lecture1.qmd`)
+
+After participating in Lecture 1, students should be able to:
+1. **Differentiate Physical Limits from Central Cognitive Bottlenecks**:
+   - Explain how physical effector limitations (e.g., having two hands, one mouth, one fovea) necessitate overt selection.
+   - Explain why internal mental processing is subject to a central capacity bottleneck that limits extensive processing to only one or a few items simultaneously.
+2. **Distinguish Overt vs. Covert Attention**:
+   - Define *overt attention* as aligning the physical sensory receptors (directing gaze/fovea).
+   - Define *covert attention* as deploying internal mental resources to a spatial location or stimulus without moving the eyes.
+3. **Analyze Empirical Evidence for Attentional Bottlenecks**:
+   - Interpret rapid visual stream paradigms (e.g., Goodbourn & Holcombe dual-target letter identification) demonstrating that identification rates sufficient for a single item fail when two items are presented simultaneously.
+4. **Relate Attentional Bottlenecks to Theories of Consciousness**:
+   - Describe the Global Neuronal Workspace Theory (GNWT) and recurrent processing models, explaining why stimuli selected for extensive processing result in widespread fronto-parietal ignition while unselected stimuli remain non-conscious.
+
+---
+
+## Lecture 2: Vigilance, Selection Mechanisms, and Global Features (`lecture2.qmd`)
+
+After participating in Lecture 2, students should be able to:
+1. **Explain the Evolutionary Function of Vigilance**:
+   - Define vigilance from an evolutionary/ecological perspective (monitoring for predators/threats).
+   - Explain the "nocturnal bottleneck" and how early mammalian survival necessitated a continuous, low-cost interrupt system to balance sustained concentration against environmental threats.
+2. **Distinguish Bottom-Up from Top-Down Attentional Control**:
+   - Define *bottom-up (exogenous / stimulus-driven)* attention: fast, preattentive, driven by sensory salience and local contrast (e.g., sudden onsets, loud barks, flashing alerts).
+   - Define *top-down (endogenous / goal-directed)* attention: voluntary, slower, guided by current goals, memory, and task demands.
+   - Explain how human behavior reflects continuous competition between these two systems.
+3. **Identify the Three Kinds of Attentional Selection**:
+   - Spatial selection (selecting a coordinate/region in space).
+   - Feature selection (selecting a specific visual attribute across space).
+   - Object selection (selecting bounded perceptual entities).
+4. **Explain Why Feature Selection is Compulsorily Global**:
+   - Explain why selecting a feature (e.g., "red") facilitates that feature across the entire visual field rather than in a restricted spatial sub-region (the inability to combine independent spatial and feature selections simultaneously).
+   - Connect global feature processing to the anatomical separation of the dorsal ("Where" / parietal / spatial action) and ventral ("What" / temporal / object recognition) visual pathways.
+
+---
+
+## Lecture 3: Feature Integration Theory & Visual Search (`lecture3.qmd`)
+
+After participating in Lecture 3, students should be able to:
+1. **Apply Anne Treisman’s Feature Integration Theory (FIT) to Visual Search**:
+   - Explain why single-feature search displays (e.g., oddball color, motion, or orientation) yield flat response-time slopes (**parallel / preattentive pop-out search**).
+   - Explain why conjunction search displays (targets defined by combinations of features, e.g., green 'N' among red 'N's and green 'O's) yield steep response-time slopes (**serial / capacity-limited search**).
+2. **Explain the Time Cost of Feature Binding**:
+   - Describe why binding features across different dimensions (e.g., color and motion direction) takes substantial time and requires focused spatial attention to route features through the central bottleneck.
+3. **Reconcile Bottlenecks with Subjective Experience (Phenomenal vs. Access Consciousness)**:
+   - Differentiate *phenomenal consciousness* (the subjective impression of perceiving the entire visual scene simultaneously) from *access consciousness* (the severely limited set of information that can be reported or held in working memory).
+   - Describe Wolfe et al.'s framework of a **selective pathway** (individual object bottleneck) and a **non-selective pathway** (extracting global statistics, scene gist, and spatial layout).
+
+---
+
+## Lecture 4: Change Blindness, Motion Detection, & Critique of the Grand Illusion (`lecture4.qmd`)
+
+After participating in Lecture 4, students should be able to:
+1. **Deconstruct the Mechanisms of Change Blindness**:
+   - Explain why observers fail to detect large changes in blank-screen sandwiches, mudsplash animations, film cuts, and gradual transitions.
+   - Explain how global transients (blank frames or multiple mudsplashes) saturate motion/flicker detectors across the visual field, eliminating the local motion signal that normally summons bottom-up attention to a change.
+   - Explain why gradual changes that occur below the threshold of motion detectors evade detection without serial scrutiny.
+2. **Critique the Philosophical Argument for the "Grand Illusion"**:
+   - Formally evaluate the standard syllogism:
+     * *Premise 1*: If you visually experience most objects in a scene, you will notice major changes to them.
+     * *Premise 2*: You do not notice major changes in blank-screen sandwiches.
+     * *Conclusion*: Therefore, you do not visually experience most objects.
+   - Identify why Premise 1 is logically flawed: change detection is not identical to visual experience; it independently requires (a) forming a pre-change representation, (b) forming a post-change representation, (c) a neural comparison process, and (d) conscious signaling of the comparison result.
+3. **Identify Anatomical and Memory Factors in Real-World Detection**:
+   - Explain how peripheral visual acuity constraints necessitate overt saccades rather than covert attention alone for subtle changes.
+   - Describe how long-term memory for scene locations enables rapid re-detection ("once you see it, it's hard to unsee it").
+
+---
+
+## Supplemental Lecture: Global Shape Processing (`globalShape.qmd`)
+
+After participating in the Global Shape module, students should be able to:
+1. **Distinguish Within-Dimension Feature Integration from Cross-Dimensional Binding**:
+   - Explain how combining elements within a single dimension (orientation dipoles into Glass patterns) occurs pre-bottleneck through fast, global spatial pooling and noise averaging.
+   - Contrast concentric/circular vs. radial pattern sensitivity and explain how hierarchical visual mechanisms pool local orientation signals into global shape representations.
+
+---
+
+## Lecture 5: Distraction, Smartphones, & Cognitive Control (`lecture5distraction.qmd`)
+
+After participating in Lecture 5, students should be able to:
+1. **Classify Real-World Distractions**:
+   - Identify **sensory/bottom-up distractors**: environmental noise, flashing screens, audible notifications, movement in the visual periphery.
+   - Identify **cognitive/top-down distractors**: habitual phone checking without alerts, mind-wandering, task-related boredom, and learned conditioning.
+2. **Evaluate the Cognitive Costs of Digital Devices**:
+   - Analyze the impact of smartphone notifications, constant availability, and task-switching on sustained attention and working memory capacity.
+   - Explain why true cognitive multitasking is an illusion due to central bottlenecks.
+3. **Design Evidence-Based Attentional Interventions**:
+   - Apply practical behavioral strategies to protect attention: environmental structuring, notification detox, noise attenuation (earplugs/noise-cancelling headphones), the Distraction Diary methodology, and social facilitation.
+
+---
+
+# Mini-Textbook Learning Outcomes (`02-learningOutcomes.Rmd`)
+
+The mini-textbook (*From Attention to Distraction*, `PSYC2016attentionBook`) defines the following 11 core outcomes:
+
+1. **Attentional Selection**: Explain why we need attentional selection.
+2. **Capacity Limits**: Explain what limited capacity means.
+3. **Change Blindness**: Explain the reasons why people don't notice changes in change blindness videos.
+4. **Three Kinds of Selection**: Know the three kinds of attentional selection (spatial, feature, object).
+5. **FIT & Visual Search**: Describe how the kinds of selection connect to visual search performance and Treisman’s Feature Integration Theory (FIT).
+6. **Information Processing Bottlenecks**: Know two bottlenecks in human information processing (perceptual/attentional and memory consolidation) and describe the roles they play in multiple phenomena.
+7. **Top-Down vs. Bottom-Up**: Define, and distinguish between, top-down (endogenous) and bottom-up (exogenous) attention.
+8. **Inattentional Blindness & Magic**: Explain why people miss important information in magic tricks and in the "inattentional blindness" videos.
+9. **Interaction of Attentional Factors**: Explain the role of bottom-up attention, top-down attention, expectation, task, and limited capacity in each of the phenomena discussed.
+10. **Sensory Distraction**: Understand how sensory signals can distract and the negative effects on human performance.
+11. **Learned Attention**: Explain why learning is important for determining what attracts our attention.
+
+---
+
+# Curriculum Alignment Matrix
+
+| Lecture Module | Textbook Chapter(s) | Primary Concept Alignment |
+| :--- | :--- | :--- |
+| **Lecture 1** | `01-background.Rmd`<br>`02-learningOutcomes.Rmd`<br>`03-bottlenecks.Rmd`<br>`04-overtCovert.Rmd` | Effector vs. mental limits, covert/overt attention, letter identification stream bottlenecks, Global Neuronal Workspace Theory. |
+| **Lecture 2** | `05-btmUpTopDown.Rmd`<br>`07-threeKindsOfSelection.Rmd` | Evolutionary vigilance, predator alerting, interrupt signals, bottom-up vs. top-down competition, global feature selection, dorsal/ventral streams. |
+| **Lecture 3** | `05-btmUpTopDown.Rmd`<br>`07-threeKindsOfSelection.Rmd`<br>`08-bindingTakesTime.Rmd`<br>`09-visualSearch.Rmd` | Feature Integration Theory, parallel vs. serial search slopes, color-motion binding delays, phenomenal vs. access consciousness, non-selective pathway. |
+| **Lecture 4** | `06-twoPicChangeBlindness.Rmd` | Blank-screen sandwiches, mudsplashes, flicker/motion detector saturation, gradual changes, critique of the Grand Illusion argument, peripheral vision. |
+| **Global Shape** | *(Extension of `08-bindingTakesTime.Rmd`)* | Within-dimension integration, orientation dipoles, Glass patterns, global pooling vs. cross-dimensional binding. |
+| **Lecture 5** | `distraction.Rmd`<br>`distractionsWorld.Rmd`<br>`distractionsChronic.Rmd` | Distraction taxonomy, smartphone habits, notification management, noise effects, distraction diary, multitasking limits. |
+| **Tutorial** | `appendix_Tutorial_material.Rmd`<br>`realWorldSearch.Rmd`<br>`expectation.Rmd` | In-class visual search experiment, real-world road navigation, Alex's driving test case study, redundant traffic light engineering. |
+
+---
+
+# Topics in the Textbook Omitted from the Lectures
+
+Due to lecture time constraints, several comprehensive topics, empirical studies, and applied paradigms presented in the mini-textbook are **not covered in the live lecture slide decks**:
+
+### 1. Social Attention & Gaze Bias (`social.Rmd`)
+* **Spontaneous Gaze Orienting to Faces/Bodies**: Eye tracking scanpaths showing that observers prioritize human faces, expressions, and hand interactions over low-level visual salience (e.g., the *Andy Griffith* TV viewing study by Rigby et al. and the dinner-date change blindness scanpaths).
+* **Autism Spectrum Disorder (ASD)**: Reduced gaze bias toward faces in individuals with ASD and how this alters change detection latencies for facial vs. background changes (Kikuchi et al.).
+* **Commercial Applications**: How advertisers and UI designers use human faces as attentional captures.
+
+### 2. Attentional Cuing & Developmental Gaze Following (`cuing.Rmd`)
+* **Posner Cuing Paradigm**: Formal spatial cuing paradigms quantifying valid vs. invalid cue reaction-time benefits.
+* **Infant Gaze Following**: Developmental emergence of social gaze cuing in infants (Hood et al.).
+* **Adult Gaze Cuing Across SOAs**: Automatic gaze-following effects across varying Stimulus Onset Asynchronies (Friesen & Kingstone).
+
+### 3. Working Memory Guidance & Real-World Magic / Inattentional Blindness (`expectation.Rmd`)
+* **Working Memory Guidance**: Huang & Pashler (2007) prime-shape experiments demonstrating that holding an item in working memory automatically biases subsequent visual attention.
+* **Frequency Illusion / Baader-Meinhof Phenomenon**: How newly encoded memories selectively prime subsequent perception.
+* **Apollo Robbins Pickpocketing Breakdown**: The cognitive science of sleight of hand—somatosensory adaptation to physical touch, body orientation, gaze shifts, and misdirection.
+* **The 4-Factor Attention Management Framework**: Cuing, Expectation, Task Engagement, and Schema/Action Interpretation.
+* **Inattentional Blindness (IB)**: Distinct mechanisms of inattentional blindness vs. change blindness (e.g., Haines flight simulator cockpit experiment).
+
+### 4. Multiple Object Tracking (`dividedAndTracking.Rmd`)
+* **Multiple Object Tracking (MOT)**: How humans track 3–5 moving targets among identical distractors without continuous identification (Pylyshyn / Scholl paradigm).
+* **Preattentive Objecthood Constraints**: VanMarle & Scholl's experiments demonstrating that MOT fails when targets behave as "pouring substances" or "slinkies" rather than rigid cohesive entities.
+* **Tracking Speed Thresholds**: Differential speed limits for tracking 1 vs. 2 targets (Holcombe & Goodbourn).
+* **Population Differences**: TestMyBrain MOT benchmarks comparing STEM vs. non-STEM cohorts (Treviño et al.).
+
+### 5. Memory Consolidation Bottleneck & Attentional Blink (`memoryBottleneck.Rmd`)
+* **Rapid Serial Visual Presentation (RSVP)**: Rapid single-location stream presentation.
+* **The Attentional Blink (AB)**: The 200–500 ms impairment in reporting a second target (T2) after a first target (T1), isolating a **memory consolidation/encoding bottleneck** distinct from the perceptual/binding bottleneck.
+
+### 6. Applied Baggage Screening & Stability of Individual Differences (`realWorldSearch.Rmd`)
+* **Airport Security X-ray Screening**: Why real-world baggage screening has high failure rates (overlapping clutter, multi-target memory load, 3D object rotation).
+* **Individual Differences in Search Training**: Ericson et al.'s *Airport Scanner* study showing that although practice improves search speeds, individual performance curves do not converge (initial individual differences remain stable).
+
+### 7. Chronic Distractions & Dynamic Visual Noise (`distractionsChronic.Rmd`)
+* **Workplace Noise Experiments**: Joshua Dean's randomized controlled trials on ambient engine noise in Kenyan garment factories showing measurable productivity declines on cognitive tasks.
+* **Dynamic Visual Noise (DVN)**: How background visual flicker selectively disrupts visual memory and mental imagery strategies without impacting rote verbal memory.
+
+---
+
+# Topics in Lectures Not Found as Standalone Book Chapters
+
+* **Global Shape / Glass Pattern Integration (`globalShape.qmd`)**: Detailed treatment of orientation dipoles, circular vs. radial coherence thresholds, and spatial pooling models (CCChen model).
+* **Global Neuronal Workspace Theory / David Alais Consciousness Module (`lecture1.qmd`, `AlaisConsciousnessStuff.qmd`)**: Explicit bridge between sensory bottlenecks and David Alais' preceding consciousness lectures.

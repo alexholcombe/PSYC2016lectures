@@ -1,3 +1,6 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!extra_and_in_development/**"  
   output-dir: docs

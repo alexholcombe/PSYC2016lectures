@@ -289,7 +289,15 @@ Wolfe et al. ([2011](https://www.sciencedirect.com/science/article/pii/S13646613
 
 ![](images/responses/WhatMostOftenDistractsYouDuringLecture2024.png)
 
--   Let's see what happens when we eliminate the top 2!
+## 
+
+![](images/statuesOfPeopleOnTheirPhones.jpg)
+
+## {background-image="images/statuesOfPeopleOnTheirPhones.jpg" background-opacity=0.3}
+
+::: {.r-fit-text}
+What happens when we eliminate the top 2?
+:::
 
 <!--Talk about classification into categories, from distraction lecture-->
  

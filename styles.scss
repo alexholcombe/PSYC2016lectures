@@ -2,10 +2,68 @@
 
 /*-- scss:rules --*/
 
+/* define a class to make text grey */
+.grey {
+  color: #777;
+}
+
 h1 {
   text-transform: none;
 } 
 
+/* h2 — applies the rule to every <h2> heading.
+color: — changes the text colour.
+#447099 — a hexadecimal colour value, a muted blue.
+!important — forces this colour to take precedence over most other CSS rules that might otherwise set the h2 colour.
+makes all slide titles (h2) blue, overriding the theme's normal heading colour.
+*/
 h2 {
   color: #447099 !important;
 }
+
+.reveal h2 {
+  margin-bottom: 1em;  /*-- Increase space between slide title and text --*/
+}
+
+/* Create a style for lists where bullet symbols aren't shown, useful for pr
+ogressive revealing of long quotations like Wm James */
+/* Remove bullets for lists inside .no-bullets containers */                                                  
+.reveal .no-bullets ul,                                                                                       
+.reveal .no-bullets li,                                                                                       
+.reveal ul.no-bullets,                                                                                        
+.reveal ul.no-bullets li {                                                                                    
+      list-style-type: none;                                                                                      
+  }  
+
+/* CALL-OUT NOTE customisation */
+/* modify the built-in callout note class to make it dark red */
+.callout-note {
+  border-left-color: #8B0000 !important;
+  background-color: #F8EAEA !important;
+}
+/* Because Quarto styling seems to override left bar, leaving it blue, specify it red in reveal */
+.reveal .callout-note {
+  border-left-color: #8B0000 !important;
+}
+
+/* make the callout title red */
+.callout-note .callout-title {
+  color: #8B0000 !important;
+}
+/*Make the bground transparent*/
+.reveal .callout-note {
+  background-color: rgba(200, 0, 0, 0.1) !important;
+}
+/*Tried various ways of making text bigger but didn't work*/
+.reveal .callout,                                                                                                                  
+.reveal .callout .callout-title,                                                                                                   
+.reveal .callout .callout-body,                                                                                                    
+.reveal .callout .callout-content p {                                                                                              
+  font-weight: bold !important;                                                                                                    
+}    
+/* Shrink callout box to fit text content */                                                                                       
+.reveal .callout {                                                                                                                 
+  width: fit-content;                                                                                                              
+  max-width: 100%;       /* Prevents overflow if text is very long */                                                              
+  margin-right: auto;    /* Keeps it left-aligned (default) */                                                                     
+}    

@@ -1,0 +1,114 @@
+---
+title: "Poems on Attention & Distraction"
+author: "Alex Holcombe"
+date: today
+format:
+  revealjs:
+    theme: ["simple", "styles.scss"]
+    slide-number: c/t
+    incremental: true
+    width: 1920
+    height: 1080
+    footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
+    title-slide-attributes:
+      data-background-color: "#447099"
+editor: source
+---
+
+## T.S. Eliot {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+### *Burnt Norton* (Four Quartets)
+
+> "Neither plenitude nor vacancy. Only a flicker  
+> Over the strained time-ridden faces  
+> **Distracted from distraction by distraction**  
+> Filled with fancies and empty of meaning  
+> Tumid apathy with no concentration..."
+
+::: notes
+Relates directly to smartphone loops, notification checking, and fragmented attention (Lecture 5).
+:::
+
+---
+
+## Leila Chatti {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+### *All day, the world makes its demands*
+
+::: {.r-fit-text}
+All day, the world makes its demands.  
+There's so much of it, world  
+begging to be noticed.  
+:::
+
+::: notes
+Used in Lecture 1 to introduce why selective attention is essential in a world overloaded with sensory input.
+:::
+
+---
+
+## Mary Oliver {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+### *Sometimes*
+
+> "Instructions for living a life:  
+> **Pay attention.**  
+> **Be astonished.**  
+> **Tell about it.**"
+
+<br>
+
+*(From *Yes! No!*)*:
+
+> **"To pay attention, this is our endless and proper work."**
+
+::: notes
+Emphasizes top-down, deliberate focus as an active, effortful discipline.
+:::
+
+---
+
+## W.H. Auden {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+### *Musée des Beaux Arts*
+
+> "About suffering they were never wrong,  
+> The old Masters: how well they understood  
+> Its human position...  
+> In Brueghel's Icarus, for instance: how everything turns away  
+> Quite leisurely from the disaster; the ploughman may  
+> Have heard the splash, the forsaken cry,  
+> But for him it was not an important failure..."
+
+::: notes
+Illustrates inattentional blindness and selective attention: dramatic events occurring in plain sight are missed when attentional focus is elsewhere.
+:::
+
+---
+
+## Wisława Szymborska {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+### *Distraction*
+
+> Szymborska writes of physical presence coupled with mental absence—a detached state of mind like:  
+>  
+> *"a nail stuck only halfway in the wall."*
+
+::: notes
+Captures mind-wandering and the subjective gap between sensory registration and conscious awareness.
+:::
+
+---
+
+## Sue Ellson {background-image="images/notificationDetoxPhoneOnly.png" background-opacity="0.1"}
+
+### *The Great Unfocus*
+
+> "A haze of electrons and light,  
+> Distracted by the buzz and the chime,  
+> Pulled away from the present sight,  
+> Trading focus for a fragment of time."
+
+::: notes
+A modern reflection on bottom-up digital alerts hijacking top-down concentration.
+:::

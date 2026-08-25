@@ -1,0 +1,23 @@
+---
+title: "Dials versus screens"
+author: "Alex Holcombe"
+date: today
+format:
+  revealjs:
+    theme: ["simple", "styles.scss"]
+    slide-number: c/t
+    incremental: true
+    width: 1920
+    height: 1080
+    footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
+    title-slide-attributes:
+      data-background-color: "#447099"
+editor: source
+---
+
+## Dials versus screens {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+Sebastian my 11-year-old, told me he preferred EVs that just have a big screen. As opposed to my preference for physical dials, like in the Hyundai Ioniq
+
+With the dials, you can feel your way until you grasp them without having to take your eyes off the road.
+
