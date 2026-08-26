@@ -1,5 +1,5 @@
 ---
-title: "PSYC2016: Attention lecture 1"
+title: "PSYC2016: Attention Lecture 1"
 title-slide-attributes:
   data-background-image: images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg
   data-background-size: contain
@@ -189,8 +189,9 @@ Some things are offscreen on most phones, but will work on a laptop, desktop, or
 ##  {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 ::: {.callout-note appearance="simple" icon="false"}
-Understand how unscientific ways of talking about attention relate to scientific concepts.
+Understand how unscientific attention comments relate to scientific concepts (Ch.1)
 :::
+
 
 ## TODAY {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
@@ -210,7 +211,7 @@ Understand how unscientific ways of talking about attention relate to scientific
 ##  {background-image="images/WmJames.jpg" background-opacity="0.1" }
 
 ::: {.callout-note appearance="simple" icon="false"}
-Understand how unscientific ways of talking about attention relate to scientific concepts.
+Understand how unscientific ways of talking about attention relate to scientific concepts (Ch.1)
 :::
 
 "It implies withdrawal from some things in order to deal with others" 
@@ -225,10 +226,15 @@ Understand how unscientific ways of talking about attention relate to scientific
 ##  {background-image="images/body-silhouette.svg" background-opacity=".2" background-size="800px" }
 
 ::: {.callout-note appearance="simple" icon="false"}
-Understand how unscientific ways of talking about attention relate to scientific concepts.
+Understand how unscientific ways of talking about attention relate to scientific concepts (Ch.1)
+:::
+
+::: {.callout-note appearance="simple" icon="false"}
+Differentiate physical limits from central bottlenecks (Ch.3)
 :::
 
 <BR>
+
 ::: {.r-fit-text}
 "I can't be everywhere at once"
 :::
@@ -250,6 +256,10 @@ body limits
 Understand how unscientific ways of talking about attention relate to scientific concepts.
 :::
 
+::: {.callout-note appearance="simple" icon="false"}
+Differentiate physical limits from central bottlenecks (Ch.3)
+:::
+
 <BR>
 I can't be everywhere at once
 
@@ -263,10 +273,10 @@ I can't do everything at once
 ## {background-image="images/body-silhouette.svg" background-opacity=".2" background-size="800px"}
 
 ::: {.callout-note appearance="simple" icon="false"}
-Understand how unscientific ways of talking about attention relate to scientific concepts.
+Differentiate physical limits from central bottlenecks (Ch.3)
 :::
 
- Limits imposed by our body
+Limits imposed by our body
  
 -   Can only be in one place at a time
 -   Can act on only a few things at a time
@@ -274,9 +284,24 @@ Understand how unscientific ways of talking about attention relate to scientific
 
 -   *Selection* required
 
-## The processing limit is even worse than that!
+## The processing limit is even worse than one might expect from the physical limits {background-image="images/WmJames.jpg" background-opacity="0.2"}
 
 -   Can only *extensively mentally process* simultaneously a limited number of things
+
+- "It implies withdrawal from some things in order to deal with others."                        
+
+::: notes
+Wm. James got at it to some extent
+:::
+
+
+## {background-image="images/topicsPerceptionAttentionCognition2024.png" background-opacity="0.5" background-size="460px"}
+
+![](images/bottleneckPerceptionCognition.png){width="15%"}
+
+::: notes
+Bottleneck
+:::
 
 ## {background-image="images/bottleneckDespite4effectors.png" background-opacity="1" background-size="600px" }
 
@@ -286,26 +311,30 @@ Understand how unscientific ways of talking about attention relate to scientific
 You have plenty of resources for simultaneous processing!
 
 Can only extensively mentally process a few things at once
-
 :::
 
-## {background-image="images/WmJames.jpg" background-opacity="0.2"}
+## {background-image="images/bottleneckDespite4effectors.png" background-opacity=.5 background-size="600px" }
 
-MOVE THIS DOWN To bottleneck section
+::: {.callout-note appearance="simple" icon="false"}
+Differentiate physical limits from central bottlenecks (Ch.3)
+:::
 
-![](images/multicore/multicoreBgRemovedCanva.png)
+<!-- ![](images/bottleneckDespite4effectors.png){width="50%"}-->
 
-Modern computers and phones have multiple core processors.
+::: notes
+You have plenty of resources for simultaneous processing!
 
-Distractions would be less of a problem if we could devote one-quarter of our mind to the distracting stimulus, while the rest of us stayed on task.
+Can only extensively mentally process a few things at once
+:::
 
 
-## Attentional selection {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+## {background-image="images/multicore/multicoreBgRemovedCanva.png" background-opacity="0.2" background-size="600px"}
 
--   Can look directly at only one thing at a time
-    -   Directing gaze is *overt attention*
--   Can only extensively mentally process a few things at once
-    -   Directing mental resources is *covert attention*
+<!-- ![](images/multicore/multicoreBgRemovedCanva.png) -->
+
+- Modern computers and phones have multiple core processors.
+
+- Distractions would be less of a problem if we could devote one-quarter of our mind to the distracting stimulus, while the rest of us stayed on task.
 
 ## Covert attention {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
@@ -316,34 +345,44 @@ Distractions would be less of a problem if we could devote one-quarter of our mi
 -   “I didn’t notice that!”
     - ![](images/threeWiseMonkeys/monkeyNoSee.jpeg)
 
-
 ::: notes
 What do you mean you weren't listening? Were your ears not open?
 We have limited resources.
 -   Please “pay attention!”
 :::
 
-## Two letters can be enough to overwhelm capacity
+## Two kinds of selection {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+-   Can look directly at only one thing at a time (physical limit)
+    -   Directing gaze is *overt attention*
+-   Can only extensively mentally process a few things at once (mental limit)
+    -   Directing mental resources is *covert attention*
+
+::: {.callout-note appearance="simple" icon="false" .fragment}
+Distinguish overt from covert attention (Ch.4)
+:::
+
+## Just two letters can overwhelm capacity {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 [One letter at a time](https://youtube.com/shorts/SAE3SY4Z2vc)
 
-## Two letters can be enough to overwhelm capacity
+## Just two letters can overwhelm capacity {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 ![One letter, faster](images/1target4timesFaster.mp4)
 
-## Two letters can be enough to overwhelm capacity
+## Just two letters can overwhelm capacity {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 ![Two letters](images/2targets4timesFaster.mp4)
 
 <!--dualStreamDemoPython3.py-->
 
-## Bottleneck - for letter identification
+## Just two letters can overwhelm capacity {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 ![mini-text 3.4](https://psyc2016.whatanimalssee.com/bottlenecks.html#bottleneckObjects)
 
 ![](images/HolcombeGoodbourn/GoodbournHolcombeStimSchematic.png)
 
-## Bottleneck - for letter identification
+## Just two letters can overwhelm capacity {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 ![](images/HolcombeGoodbourn/GoodbournHolcombeSingleVersusDouble.png)
 
@@ -357,14 +396,7 @@ But
 
 <!--next year add slide with results from one of our papers-->
 
-## Two letters can be enough to overwhelm capacity
-
--   Recognizing letters seems effortless. It is effortless, at the conscious level.
--   But that doesn't mean it's easy for our brains!
--   Unconscious processes process the letters enough for consciousness.
--   Or not - a capacity limit means two letters can be too much
-
-## You didn't get both letters right?
+## You didn't get both letters right? {background-image="images/bottleneckPerceptionCognition.png" background-opacity=".3"}
 
 -   A rate that is enough to process one letter is too fast for two
 -   Selection = choice of which stimulus, or stimuli, to extensively process
@@ -372,6 +404,17 @@ But
 ::: notes
 WHAT-   You must not have been paying attention...?
 -   "Paying attention" = devoting your resources to a task.
+:::
+
+## Bottleneck - for letter identification {background-image="images/bottleneckPerceptionCognition.png" background-opacity=".3"}
+
+-   Recognizing letters seems effortless. It is effortless, at the conscious level.
+-   But that doesn't mean it's easy for our brains!
+-   Unconscious processes process the letters enough for consciousness.
+-   Or not - a capacity limit means two letters can be too much
+
+::: notes
+Do I have more time as a result of not having to do the in-lecture quiz? Definitely do soemthing interactive
 :::
 
 ## {background-image="images/hardQuiz.jpg" background-opacity="1.0"}
