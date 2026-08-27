@@ -23,7 +23,9 @@ format:
       data-background-color: "#447099"
 editor: source
 ---
-<!--   A bridge between the Perception and Cognition parts of PSYC2016, forgot to say that -->
+<!-- LECTURE PREPARATION
+Check that wallace shows these slides correctly. Also try it with the other resolution 
+-->
 
 <!--
 Next year, could use section headers at top right of slide like this https://meghan.rbind.io/blog/quarto-slides/#section-header
@@ -382,6 +384,7 @@ Distinguish overt from covert attention (Ch.4)
 
 ![](images/HolcombeGoodbourn/GoodbournHolcombeStimSchematic.png)
 
+
 ## Just two letters can overwhelm capacity {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 ![](images/HolcombeGoodbourn/GoodbournHolcombeSingleVersusDouble.png)
@@ -396,9 +399,9 @@ But
 
 <!--next year add slide with results from one of our papers-->
 
-## You didn't get both letters right? {background-image="images/bottleneckPerceptionCognition.png" background-opacity=".3"}
+## You didn't get both letters right? {background-image="images/bottleneckPerceptionCognition.png" background-opacity=".2"}
 
--   A rate that is enough to process one letter is too fast for two
+-   A rate that is slow enough to process one letter is too fast for two
 -   Selection = choice of which stimulus, or stimuli, to extensively process
 
 ::: notes
@@ -406,7 +409,11 @@ WHAT-   You must not have been paying attention...?
 -   "Paying attention" = devoting your resources to a task.
 :::
 
-## Bottleneck - for letter identification {background-image="images/bottleneckPerceptionCognition.png" background-opacity=".3"}
+## Bottleneck - for letter identification {background-image="images/bottleneckPerceptionCognition.png" background-opacity=".2"}
+
+::: {.callout-note appearance="simple" icon="false"}
+Differentiate physical limits from central bottlenecks (Ch.3)
+:::
 
 -   Recognizing letters seems effortless. It is effortless, at the conscious level.
 -   But that doesn't mean it's easy for our brains!
@@ -414,12 +421,13 @@ WHAT-   You must not have been paying attention...?
 -   Or not - a capacity limit means two letters can be too much
 
 ::: notes
+How do I explain this: If we didn't have the other letters in there, there wouldn't be a problem.
+Because these two letters would just sit in your brain and your brain could take its time processing them.
+
 Do I have more time as a result of not having to do the in-lecture quiz? Definitely do soemthing interactive
 :::
 
-## {background-image="images/hardQuiz.jpg" background-opacity="1.0"}
-
-## {background-image="images/hardQuiz.jpg" background-opacity="0.1"}
+/*-- As of 2026, no in-lecture quiz ## {background-image="images/hardQuiz.jpg" background-opacity="1.0"}
 
 The choice of a stimulus for extensive processing is often referred to as 
 
@@ -428,7 +436,8 @@ The choice of a stimulus for extensive processing is often referred to as
   C) Selection
   D) Winning
   E) Grooming
-  
+--*/
+
 ::: notes
 
 What words in common English come closest to, in psychology jargon, selection of stimuli?
@@ -453,6 +462,7 @@ Limited resources;  a bottleneck
 ![](images/bottleneckDespite4effectors.png){width="40%" .absolute bottom=0 right=100}
 
 ::: notes
+You can only be in one place at a time
 You have plenty of resources for low-level visual processing!
 Once we go through the bottleneck aspect, we can circle back to consciousness.
 :::
