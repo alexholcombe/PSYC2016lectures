@@ -8,6 +8,14 @@ https://quarto.org/docs/publishing/github-pages.html#render-to-docs
 
 So whenever I push to github here, the new version will be published.
 
+## Generating PDF versions
+
+Whenever you re-render your Quarto presentations, simply run ./export_to_pdf.sh from the
+  PSYC2016_lectures_Quarto folder. It saves them to docs/PDFS/.
+
+agy spent a bunch of time working this out and figuring out to get background-images included. 
+
+
 ## Figured out how to add more space below slide titles
 
 In styles.scss:
