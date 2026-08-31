@@ -25,7 +25,6 @@ editor: source
 ---
 
 
-
 ## Attention: a bridge between Perception and Cognition  {background-image="images/topicsPerceptionAttentionCognition2024.png" background-opacity="0.5" background-size="460px"}
 
 ![](images/bottleneckPerceptionCognition.png){width="15%"}
@@ -51,10 +50,11 @@ Now we can think in more informed way about distraction
 1. Why we need selective attention
     -   Overt attention
     -   Bottleneck architecture of the visual system necessitates covert attention
-    -   Need for vigilance
-        -   Because of bottleneck, we evolved crude salience and alerting mechanisms
+
     
 2. and 3. Kinds of selection, parallel versus serial processing
+    -   Evolutionary need for vigilance
+        -   Because of bottleneck, we evolved crude salience and alerting mechanisms
     -   Bottom-up attention (Chapters 7 and 9)
     -   Our behavior reflects competition between top-down and bottom-up
     -   Combinations of features typically aren't processed in parallel

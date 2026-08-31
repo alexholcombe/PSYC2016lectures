@@ -128,22 +128,23 @@ begging to be noticed.
 - Why do we get distracted?
 
 :::notes
+A friend of mine texted me a couple days ago and told me they had been thinking a lot about Betrayal and Attention. And I was like oh, Attention? Looking forward to hearing what your thoughts are, because I'm giving 5 lectures on attention starting on Monday. But I'm worried she isn't talking about this kind of attention really, instead she's talking about how we attend to our partners.
+
 The first great scientific psychologist. If only I could grow a beard like his, I would get much more respect around here.
 By the end of these 5 lectures you'll understand distraction better
 :::
 
 ## Organisation of Alex's material {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".1"}
 
--   The mini-textbook: PSYC2016.whatanimalssee.com
--   These slides: linked from Canvas
+-   The attention textbook: [PSYC2016.whatanimalssee.com](PSYC2016.whatanimalssee.com)
+-   These slides: [linked from Canvas](https://canvas.sydney.edu.au/courses/75910/pages/attention-lectures-prof-alex-holcombe)
 -   The Week 6 tutorial: Finding and noticing things in the lab, and in the real world
 
 ::: notes
 Here's the mini-textbook I wrote for these lectures, reviewing the architecture of sensory processing as well as aspects of evolution to explain why attention is needed and how it works https://psyc2016.whatanimalssee.com/ . 
 
 During the pandemic talking at people on Zoom for 50 minutes was not effective.
-Lecturing was very depressing then.
-So I wrote this mini-text.
+So I wrote this-text.
 I find it freeing.
 
 Read it on your phone, at the bus stop, while waiting for a train. Except some images won't fully show up
@@ -191,7 +192,7 @@ Some things are offscreen on most phones, but will work on a laptop, desktop, or
 ##  {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 ::: {.callout-note appearance="simple" icon="false"}
-Understand how unscientific attention comments relate to scientific concepts (Ch.1)
+Understand how unscientific attention comments relate to scientific concepts (Ch.1,3)
 :::
 
 
@@ -213,7 +214,7 @@ Understand how unscientific attention comments relate to scientific concepts (Ch
 ##  {background-image="images/WmJames.jpg" background-opacity="0.1" }
 
 ::: {.callout-note appearance="simple" icon="false"}
-Understand how unscientific ways of talking about attention relate to scientific concepts (Ch.1)
+Understand how unscientific ways of talking about attention relate to scientific concepts (Ch.1,3)
 :::
 
 "It implies withdrawal from some things in order to deal with others" 
@@ -228,7 +229,7 @@ Understand how unscientific ways of talking about attention relate to scientific
 ##  {background-image="images/body-silhouette.svg" background-opacity=".2" background-size="800px" }
 
 ::: {.callout-note appearance="simple" icon="false"}
-Understand how unscientific ways of talking about attention relate to scientific concepts (Ch.1)
+Understand how unscientific ways of talking about attention relate to scientific concepts (Ch.1,3)
 :::
 
 ::: {.callout-note appearance="simple" icon="false"}
@@ -255,7 +256,7 @@ body limits
 ## {background-image="images/body-silhouette.svg" background-opacity=".2" background-size="800px" }
 
 ::: {.callout-note appearance="simple" icon="false"}
-Understand how unscientific ways of talking about attention relate to scientific concepts.
+Understand how unscientific ways of talking about attention relate to scientific concepts. (Ch.1,3)
 :::
 
 ::: {.callout-note appearance="simple" icon="false"}
@@ -330,15 +331,19 @@ Can only extensively mentally process a few things at once
 :::
 
 
-## {background-image="images/multicore/multicoreBgRemovedCanva.png" background-opacity="0.2" background-size="600px"}
+## {background-image="images/bottleneckDespite4effectors.png" background-opacity=.2 background-size="600px" }
 
-<!-- ![](images/multicore/multicoreBgRemovedCanva.png) -->
+![](images/multicore/multicoreBgRemovedMagicWandPreview.png)
 
 - Modern computers and phones have multiple core processors.
 
 - Distractions would be less of a problem if we could devote one-quarter of our mind to the distracting stimulus, while the rest of us stayed on task.
 
 ## Covert attention {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+::: {.callout-note appearance="simple" icon="false"}
+Understand how unscientific ways of talking about attention relate to scientific concepts (Ch.1,3)
+:::
 
 -   “Sorry, I wasn’t listening!”
     - Were your ears not open?
@@ -355,13 +360,17 @@ We have limited resources.
 
 ## Two kinds of selection {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
+::: {.callout-note appearance="simple" icon="false"}
+Distinguish overt from covert attention (Ch.4)
+:::
+
 -   Can look directly at only one thing at a time (physical limit)
     -   Directing gaze is *overt attention*
 -   Can only extensively mentally process a few things at once (mental limit)
     -   Directing mental resources is *covert attention*
 
 ::: {.callout-note appearance="simple" icon="false" .fragment}
-Distinguish overt from covert attention (Ch.4)
+
 :::
 
 ## Just two letters can overwhelm capacity {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
@@ -412,7 +421,7 @@ WHAT-   You must not have been paying attention...?
 ## Bottleneck - for letter identification {background-image="images/bottleneckPerceptionCognition.png" background-opacity=".2"}
 
 ::: {.callout-note appearance="simple" icon="false"}
-Differentiate physical limits from central bottlenecks (Ch.3)
+Differentiate physical limits from mental bottlenecks (Ch.3)
 :::
 
 -   Recognizing letters seems effortless. It is effortless, at the conscious level.
@@ -427,7 +436,7 @@ Because these two letters would just sit in your brain and your brain could take
 Do I have more time as a result of not having to do the in-lecture quiz? Definitely do soemthing interactive
 :::
 
-/*-- As of 2026, no in-lecture quiz ## {background-image="images/hardQuiz.jpg" background-opacity="1.0"}
+<!--  As of 2026, no in-lecture quiz ## {background-image="images/hardQuiz.jpg" background-opacity="1.0"}
 
 The choice of a stimulus for extensive processing is often referred to as 
 
@@ -436,9 +445,6 @@ The choice of a stimulus for extensive processing is often referred to as
   C) Selection
   D) Winning
   E) Grooming
---*/
-
-::: notes
 
 What words in common English come closest to, in psychology jargon, selection of stimuli?
 
@@ -448,12 +454,9 @@ c) I
 
 What word do we use in psychology to refer to paying attention to one thing instead of another?
 
-If someone didn't get both letters right, which common expression most refers to the reason why?
-
-"I missed it"?
-
 the Lecture Quiz is a glorified attendance/self-assessment activity, so students will be verbally walked through the MCQ by the lecturer and surveyed for what they think the answer is, then they are told what it actually is, and that’s what they enter in Canvas
-:::
+-->
+
 
 ## Can only extensively process a few things at once
 
@@ -467,6 +470,15 @@ You have plenty of resources for low-level visual processing!
 Once we go through the bottleneck aspect, we can circle back to consciousness.
 :::
 
+## {background-image="images/surveyEndOfLecture.png" background-size="contain" background-opacity="0.2"} 
+
+::: notes
+Mentimeter: PSYC2016lect1
+
+We'll talk about the results on Tuesday.
+:::
+
+
 ## Consciousness {background-image="images/Alais.jpg" background-opacity="1.0"}
 
   * David Alais
@@ -475,13 +487,6 @@ Once we go through the bottleneck aspect, we can circle back to consciousness.
 The topic of consciousness hopefully is fresh in your mind, because of this guy.
 :::
 
-## Global neuronal workspace theory
-
-![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png){width=100%}
-
--   Why can't we be conscious of all stimuli?
--   There's a bottleneck prior to the frontal lobe
--   If a stimulus gets through, it results in reverberating widespread activity associated with that stimulus
 
 <!--
 ## Consciousness and attention
@@ -492,10 +497,51 @@ Global Neuronal Workspace theory: "Attention and consciousness are the same proc
 -->
 
 
-## What happens when a stimulus location is selected?
+## What happens when a stimulus location is selected? {background-image="images/Alais.jpg" background-opacity=".2"}
 
 -   Activity makes it through the bottleneck
 -   Recurrent activity
+-   Why can't we be conscious of all stimuli?
+    - Bottleneck
+
+::: notes :::
+
+:::
+
+## {background-image="images/Alais.jpg" background-opacity=".2"}
+
+> You said the two letters are processed simultaneously, but other lecturer said the faces of Trump and Jinping alternate
+
+![](images/AlaisRivalrySlide.png)
+
+::: notes :::
+
+::: 
+
+## Binocular rivalry versus dual letters {background-image="images/Alais.jpg" background-opacity=".2"}
+
+-   Binocular rivalry: different stimuli presented to the two eyes
+    -   Processed in parallel to a point
+    -   *Incompatible*: brain expects the same object in both eyes, therefore
+    -   Direct competition for a single location, and competition resolved early
+-   Dual letters in different locations
+    -   No incompatibility, so *processed in parallel until bottleneck*, then compete
+
+::: notes :::
+He told you about it because useful for studying consciousness because stimulus doesn't change
+:::
+
+## Global neuronal workspace theory {background-image="images/Alais.jpg" background-opacity=".2"}
+
+![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png){width=100%}
+
+-   We can't be conscious of all stimuli
+-   A bottleneck prior to the frontal lobe
+-   If a stimulus gets through, it results in reverberating widespread activity associated with that stimulus
+
+::: notes :::
+
+:::
 
 ## What happens when a spatial location is selected?
 
@@ -515,16 +561,16 @@ Spatial selection facilitates stimuli getting through the bottleneck.
 Spatial selection facilitates stimuli getting through the bottleneck.
 :::
 
-## What distracts you?
+<!-- 
 
-Menti.com result
+## {background-image="images/Alais.jpg" background-opacity=".3"}
 
-::: notes
-Mentimeter: PSYC2016gettingToKnowYou
+> Didn't understand "Brain loop cycle bits"
 
-We'll talk about the results on Tuesday.
-:::
+<BR>
+![](images/AlaisSlide36Consciousness2globalNeuralWorkspace.png){width=100%}
 
+-->
 
 ## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 

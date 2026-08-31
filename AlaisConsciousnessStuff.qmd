@@ -1,0 +1,29 @@
+---
+title: "PSYC2016: Attention"
+title-slide-attributes:
+  data-background-image: images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg
+  data-background-size: contain
+  data-background-opacity: "0.8"
+author: "Alex Holcombe"
+date: 09-08-2023
+format: 
+  revealjs:
+    incremental: true
+    self-contained: false
+    slide-number: c/t
+    width: 1920 #Wallace LT projector default
+    height: 1080 #Wallace LT projector default
+    footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
+    theme: ["simple", "styles.scss"]
+    echo: true
+    multiplex: false
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+editor: source
+---
+<!--sometimes have to turn multiplex false to load speaker notes -->
+
+##
+
+COPY OVER FROM Lecture1.qmd
