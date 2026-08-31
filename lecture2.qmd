@@ -24,9 +24,59 @@ format:
       data-background-color: "#447099"
 editor: source
 ---
+<!--LECTURE PREP
+Open textbook in a separate browser window to help reassure students that the content is there.
+Prep: volume up, with mic pointed toward it, for dog barking sounds
+
+Get dog barking video ready 
+https://www.youtube.com/embed/sXjoGtuAkNU?si=84n6LvMVW98ykm8y&amp;start=29
+-->
+
+
 <!--sometimes have to turn multiplex false to load speaker notes -->
-<!--As for the format of the quizzes, we can’t sit all people in the Monday class, so I give the quiz question at the end and will explain it first thing on tuesday.  The quiz question is open until 3pm Tuesday.  For the Tuesday and Thursday class, the quiz opens at the start, but I explain it after it closes at 3:50pm. I have found setting an alarm on my phone for 3:50 (or a bit later) works well to ensure that I get to it before running out of time.-->
-<!-- Can't figure out how to turn off capitlatization in better themes like sky but this is related: https://stackoverflow.com/questions/47057398/reveal-js-title-with-capitalized-words-but-not-in-uppercase -->
+
+## Bottleneck {background-image="images/bottleneck.png" background-size="contain" background-opacity=".2"}
+
+![](images/responses/bottleneckClarity.png)
+I've updated the textbook with an additional paragraph on this.
+
+## Bottleneck {background-image="images/bottleneckPerceptionCognition.png" background-size="contain" background-opacity=".2"}
+
+- Imagine a motorway with many lanes. Everyone has to pay a toll. 
+
+- But the government doesn't have enough money to pay for more than one toll booth (this is in a country that doesn't have e-tags to collect tolls). 
+
+- The capacity to process tolls is equal to one car at a time. 
+
+- Thus everyone has to slow down when they near the toll booth because only one car can be processed at a time.
+
+##
+
+![](images/responses/overtVsCovert2026.png)
+Read [Chapter 4](https://psyc2016.whatanimalssee.com/overtCovert.html) and then give me a more specific question.
+
+##
+
+![](images/responses/twoLetter2026.png)
+Suggests limited processing capacity. For another task, see Ch. 3.4
+
+::: notes 
+Reading we
+:::
+
+##
+
+```{=html}
+<blockquote class="reddit-embed-bq" >
+<a href="https://www.reddit.com/r/interesting/comments/1teldwl/if_youre_feeling_anxious_remember_that_in_china/">If you're feeling anxious, remember that in China there's a 50-lane highway that narrows down to just 4</a><br> by
+<a href="https://www.reddit.com/user/jkitty_1960/">u/jkitty_1960</a> in
+<a href="https://www.reddit.com/r/interesting/">interesting</a>
+</blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+```
+
+[link](https://www.reddit.com/r/interesting/comments/1teldwl/if_youre_feeling_anxious_remember_that_in_china/)
+
+
 
 ## Mentimeter survey
 
@@ -34,15 +84,11 @@ most-focused experience
 
 shutting out the world
 
-## What is your degree / major?
-
-![](images/responses/whatIsYourDegreeMajor.png)
-
 ## TODAY {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 ::: {.nonincremental}
 -   Chapters 1-4: Bottlenecks, Overt and covert attention
--   Vigilance
+-   Vigilance <!-- only very briefly in Ch. 5, 16-->
 -   Top-down vs. bottom-up attention (Ch. 5)
 -   Location selection (Ch. 7)
 -   Feature selection (Ch. 7)
@@ -56,6 +102,8 @@ Get dog barking video ready
 https://www.youtube.com/embed/sXjoGtuAkNU?si=84n6LvMVW98ykm8y&amp;start=29
 
 :::
+
+
 
 ## VIGILANCE {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".3"}
 

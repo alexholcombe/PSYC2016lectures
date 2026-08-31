@@ -162,7 +162,7 @@ What do we need to concentrate on and what do we not need to concentrate on
 
 ## Organisation of Alex's material {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".1"}
 
--   The attention textbook: [PSYC2016.whatanimalssee.com](PSYC2016.whatanimalssee.com)
+-   The attention textbook: [PSYC2016.whatanimalssee.com](https://PSYC2016.whatanimalssee.com)
 -   These slides: [linked from Canvas](https://canvas.sydney.edu.au/courses/75910/pages/attention-lectures-prof-alex-holcombe)
 -   The Week 6 tutorial: Finding and noticing things in the lab, and in the real world
 
