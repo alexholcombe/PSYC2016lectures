@@ -1,5 +1,5 @@
 ---
-title: "PSYC2016: Attention Lecture 1"
+title: "PSYCXX16: Attention Lecture 1"
 title-slide-attributes:
   data-background-image: images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg
   data-background-size: contain
@@ -14,7 +14,7 @@ format:
     logo: "images/threeWiseMonkeys/monkeyNoHearHeadOnly.jpeg"
     #width: 1920 #Wallace LT projector default
     #height: 1080 #Wallace LT projector default
-    footer: "[PSYC2016: Attention L1](https://alexholcombe.github.io/PSYC2016lectures)"
+    footer: "[PSYXX16: Attention L1](https://alexholcombe.github.io/PSYC2016lectures)"
     theme: ["simple", "styles.scss"]
     echo: true
     multiplex: false
@@ -24,8 +24,9 @@ format:
 editor: source
 ---
 <!-- LECTURE PREPARATION
-Check that wallace shows these slides correctly. Also try it with the other resolution 
+- Check if slide 24 renders with this resolution, try othe resolutions
 Prep: Have psyc2016l.whatanimalssee.com book open on lectern PC, on second screen
+- Press 's' to get speaker notes
 -->
 
 <!--
@@ -90,14 +91,13 @@ begging to be noticed.
 :::
 
 ::: notes
-by things "begging to be noticed"?
 Unusually for a science class, I'm going to start with some poetry
+by things "begging to be noticed"?
 Your generation has had this more than any other in human history
 
 This is something many of us love about the world, but also something that we struggle with.
-This is a poetic way of capturing something important. 
-How are we going to understand this, because very few things are actually begging us to be noticed. Except maybe babies.
-How can we understand it scientifically?
+A poetic way of capturing something important. 
+We'll get to the science of this, 
 :::
 
 <!---
@@ -156,7 +156,8 @@ A friend of mine texted me a couple days ago and told me they had been thinking 
 
 Architecture of the mind before we can understand distraction
 
-The first great scientific psychologist. If only I could grow a beard like his, I would get much more respect around here.
+What do we need to concentrate on and what do we not need to concentrate on
+<!--The first great scientific psychologist. If only I could grow a beard like his, I would get much more respect around here.-->
 :::
 
 ## Organisation of Alex's material {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".1"}
@@ -198,9 +199,9 @@ or press the letter 'e'
 <BR>
 Lectures:
 
--   Go over the same concepts but with different examples and wording
+-   Go over the same concepts with different examples and wording
 -   Thanks to the textbook, can address issues without worrying I'll run out of time
--   Show demos
+-   We do demonstrations
 -   Quiz you, solicit personal experiences
 
 ::: notes
@@ -214,22 +215,16 @@ which can be useful to you on the exam
 Some things are offscreen on most phones, but will work on a laptop, desktop, or tablet
 
 
-##  {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
-
-::: {.callout-note appearance="simple" icon="false"}
-Understand how unscientific attention comments relate to scientific concepts (Ch.1,3)
-:::
-
-
 ## TODAY {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 ::: {.nonincremental}
--   [Intro: attention and distraction]{.grey}
+-   [Intro: Attention and distraction]{.grey}
 -   Limits on body
 -   Limits on mind
 -   Bottlenecks
 -   Attentional selection
 -   Overt versus covert attention
+-   More about bottlenecks
 -   Relationship to Consciousness
 
 <!--
@@ -333,7 +328,7 @@ Wm. James got at it to some extent
 ![](images/bottleneckPerceptionCognition.png){width="15%"}
 
 ::: notes
-Bottleneck
+Where do these lectures sit relative to other lecturers' material
 :::
 
 ## {background-image="images/bottleneckDespite4effectors.png" background-opacity="1" background-size="600px" }
@@ -355,7 +350,7 @@ Differentiate physical limits from central bottlenecks (Ch.3)
 <!-- ![](images/bottleneckDespite4effectors.png){width="50%"}-->
 
 ::: notes
-You have plenty of resources for simultaneous processing!
+You have plenty of resources for simultaneous processing
 
 Can only extensively mentally process a few things at once
 :::
@@ -388,6 +383,25 @@ We have limited resources.
 -   Please “pay attention!”
 :::
 
+## TODAY {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+::: {.nonincremental}
+-   [Intro: Attention and distraction]{.grey}
+-   [Limits on body]{.grey}
+-   [Limits on mind]{.grey}
+-   [Bottlenecks]{.grey}
+-   Attentional selection
+-   Overt versus covert attention
+-   More about bottlenecks
+-   Relationship to Consciousness
+:::
+
+::: notes
+So far I've presented it as just one bottleneck, but that's an oversimplification
+We are still trying to work out how many bottlenecks there are.
+We know that we are severely limited in
+:::
+
 ## Two kinds of selection {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 ::: {.callout-note appearance="simple" icon="false"}
@@ -399,11 +413,10 @@ Distinguish overt from covert attention (Ch.4)
 -   Can only extensively mentally process a few things at once (mental limit)
     -   Directing mental resources is *covert attention*
 
-::: {.callout-note appearance="simple" icon="false" .fragment}
-
-:::
 
 ## Just two letters can overwhelm capacity {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+Processing capacity: How many things can be processed at once.
 
 [One letter at a time](https://youtube.com/shorts/SAE3SY4Z2vc)
 
@@ -414,14 +427,7 @@ Distinguish overt from covert attention (Ch.4)
 ## Just two letters can overwhelm capacity {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 ![Two letters](images/2targets4timesFaster.mp4)
-
 <!--dualStreamDemoPython3.py-->
-
-## Just two letters can overwhelm capacity {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
-
-![mini-text 3.4](https://psyc2016.whatanimalssee.com/bottlenecks.html#bottleneckObjects)
-
-![](images/HolcombeGoodbourn/GoodbournHolcombeStimSchematic.png)
 
 
 ## Just two letters can overwhelm capacity {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
@@ -448,6 +454,17 @@ WHAT-   You must not have been paying attention...?
 -   "Paying attention" = devoting your resources to a task.
 :::
 
+## Just two letters can overwhelm capacity {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+![](images/HolcombeGoodbourn/GoodbournHolcombeStimSchematic.png){width="50%"}
+<BR>To test capacity, we have to prevent use of lingering activation.
+
+::: notes
+If I flashed just two letters, they would linger 
+Processing capacity: How many things can be processed at once.
+
+:::
+
 ## Bottleneck - for letter identification {background-image="images/bottleneckPerceptionCognition.png" background-opacity=".2"}
 
 ::: {.callout-note appearance="simple" icon="false"}
@@ -455,16 +472,19 @@ Differentiate physical limits from mental bottlenecks (Ch.3)
 :::
 
 -   Recognizing letters seems effortless. It is effortless, at the conscious level.
--   But that doesn't mean it's easy for our brains!
+-   But that doesn't mean it's easy for our unconscious brains
 -   Unconscious processes process the letters enough for consciousness.
 -   Or not - a capacity limit means two letters can be too much
+-   Reading researchers still trying to work out how we can read
 
 ::: notes
 How do I explain this: If we didn't have the other letters in there, there wouldn't be a problem.
 Because these two letters would just sit in your brain and your brain could take its time processing them.
 
-Do I have more time as a result of not having to do the in-lecture quiz? Definitely do soemthing interactive
+Specifically 2 objects bottleneck is Chapter 3.4
 :::
+
+
 
 <!--  As of 2026, no in-lecture quiz ## {background-image="images/hardQuiz.jpg" background-opacity="1.0"}
 
@@ -492,12 +512,31 @@ the Lecture Quiz is a glorified attendance/self-assessment activity, so students
 
 Limited resources;  a bottleneck
 
-![](images/bottleneckDespite4effectors.png){width="40%" .absolute bottom=0 right=100}
+![](images/bottleneckDespite4effectors.png){width="30%" .absolute bottom=0 right=100}
 
 ::: notes
 You can only be in one place at a time
 You have plenty of resources for low-level visual processing!
 Once we go through the bottleneck aspect, we can circle back to consciousness.
+:::
+
+## TODAY {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+::: {.nonincremental}
+-   [Intro: Attention and distraction]{.grey}
+-   [Limits on body]{.grey}
+-   [Limits on mind]{.grey}
+-   [Bottlenecks]{.grey}
+-   [Attentional selection]{.grey}
+-   [Overt versus covert attention]{.grey}
+-   [More about bottlenecks]{.grey}
+-   Relationship to Consciousness
+:::
+
+::: notes
+So far I've presented it as just one bottleneck, but that's an oversimplification
+We are still trying to work out how many bottlenecks there are.
+We know that we are severely limited in
 :::
 
 ## {background-image="images/surveyEndOfLecture.png" background-size="contain" background-opacity="0.2"} 
