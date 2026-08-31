@@ -25,10 +25,11 @@ editor: source
 ---
 <!-- LECTURE PREPARATION
 Check that wallace shows these slides correctly. Also try it with the other resolution 
+Prep: Have psyc2016l.whatanimalssee.com book open on lectern PC, on second screen
 -->
 
 <!--
-Next year, could use section headers at top right of slide like this https://meghan.rbind.io/blog/quarto-slides/#section-header
+Next year, could have learning outcomes as  section headers at top right of slide like this https://meghan.rbind.io/blog/quarto-slides/#section-header
 -->
 
 ## {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
@@ -38,8 +39,10 @@ Next year, could use section headers at top right of slide like this https://meg
 [Alex's journey](images/AlexLifeJourney.mp4)
 
 ::: notes
-Prep: Have psyc2016l.whatanimalssee.com book open on lectern PC, on second screen
 Click on ALEX's journey video
+
+Because how can you pay attention to the content of this lecture when it's a totally new person giving the lecture, and you're not used to their accent, the weird way that they look, and the idiosyncrasies of their mannerisms. That's why I'm talking now about nothing, just to get used to.
+Because I'm a lecturer on attention, I know I need to do this.
 :::
 
 ## {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
@@ -50,7 +53,11 @@ Click on ALEX's journey video
 ![](images/citizenshipCeremonyAshfield17Oct2013.JPG)
 :::
 
-## {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+::: notes
+Yeah, so I used to not be Australian, but fortunately that changed, more than 10 years ago
+:::
+
+## 
 
 ::: {.fragment}
 All day, the world makes its demands. 
@@ -75,8 +82,12 @@ begging to be noticed.
 
 <BR>
 `-` Leila Chatti
+
 <BR><BR>
+
+::: {.fragment}
 -   Why do we get distracted? 
+:::
 
 ::: notes
 by things "begging to be noticed"?
@@ -123,15 +134,29 @@ begging to be noticed.
 - — *William James (1890)*                                                                        
 :::        
 
+## {.smaller background-image="images/WmJames.jpg" background-opacity="0.4"}
+
+"Everyone knows what attention is. 
+
+It is the taking possession by the mind,  
+
+in a clear and vivid form 
+one out of several simultaneously possible objects or trains of thought.                          
+Focalization, concentration of consciousness are of its essence.                                            
+It implies withdrawal from some things in order to deal with others."                                       
+- — *William James (1890)*                                                                        
+     
 <BR><BR>
-- So why does this happen; why do we need attention?
-- Why do we get distracted?
+
+-   So why does this happen; why do we need attention?
+-   Why do we get distracted?
 
 :::notes
 A friend of mine texted me a couple days ago and told me they had been thinking a lot about Betrayal and Attention. And I was like oh, Attention? Looking forward to hearing what your thoughts are, because I'm giving 5 lectures on attention starting on Monday. But I'm worried she isn't talking about this kind of attention really, instead she's talking about how we attend to our partners.
 
+Architecture of the mind before we can understand distraction
+
 The first great scientific psychologist. If only I could grow a beard like his, I would get much more respect around here.
-By the end of these 5 lectures you'll understand distraction better
 :::
 
 ## Organisation of Alex's material {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".1"}
@@ -168,13 +193,13 @@ or press the letter 'e'
 
 ##
 
-> What's the point of the lectures if everything is in the mini-text?
+> What's the point of the lectures if everything is in the textbook?
 
 <BR>
 Lectures:
 
 -   Go over the same concepts but with different examples and wording
--   Thanks to the mini-text, can address issues without worrying I'll run out of time
+-   Thanks to the textbook, can address issues without worrying I'll run out of time
 -   Show demos
 -   Quiz you, solicit personal experiences
 
@@ -184,7 +209,7 @@ which can be useful to you on the exam
 
 ##
 
-> I can't see everything on some mini-text pages
+> I can't see everything on some textbook/lecture pages
 
 Some things are offscreen on most phones, but will work on a laptop, desktop, or tablet
 
@@ -202,13 +227,18 @@ Understand how unscientific attention comments relate to scientific concepts (Ch
 -   [Intro: attention and distraction]{.grey}
 -   Limits on body
 -   Limits on mind
+-   Bottlenecks
 -   Attentional selection
 -   Overt versus covert attention
+-   Relationship to Consciousness
+
+<!--
 -   Top-down vs. bottom-up attention
 -   The Distraction Diary
 -   Location selection
 -   Feature selection
 -   Absence of combined selection
+-->
 :::
 
 ##  {background-image="images/WmJames.jpg" background-opacity="0.1" }
@@ -471,6 +501,10 @@ Once we go through the bottleneck aspect, we can circle back to consciousness.
 :::
 
 ## {background-image="images/surveyEndOfLecture.png" background-size="contain" background-opacity="0.2"} 
+
+Go to Menti.com
+
+-   4415 4219
 
 ::: notes
 Mentimeter: PSYC2016lect1

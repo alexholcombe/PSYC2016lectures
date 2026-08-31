@@ -3,5 +3,7 @@
 .DS_Store
 images/.DS_Store
 docs/.DS_Store
+.Rhistory
 
 **/*.quarto_ipynb
+
