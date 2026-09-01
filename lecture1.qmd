@@ -35,6 +35,8 @@ Next year, could have learning outcomes as  section headers at top right of slid
 
 ## {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
+[PDF](https://alexholcombe.github.io/PSYC2016lectures/pdf/lecture1.pdf) of this lecture.<BR><BR>
+
 <!--- {{< video images/AlexLifeJourney.mp4 >}}     Doesn't work even though it should --->
 
 [Alex's journey](images/AlexLifeJourney.mp4)

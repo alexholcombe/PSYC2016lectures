@@ -1,0 +1,17 @@
+---
+title: "Learning Outcomes - Lecture 5: Distraction & Explore/Exploit"
+format: html
+---
+
+- **Explain the exploration vs. exploitation trade-off**
+	- Define **exploitation** (using existing knowledge/focus to reap known rewards from the current task).
+	- Define **exploration** (searching the environment for new information, stimulation, or potential rewards).
+	- Differentiate the **explore/exploit drive** (driven by reward and information foraging) from **vigilance** (driven by threat/danger monitoring).
+- **Classify mechanisms of real-world distraction**
+	- Distinguish **sensory (bottom-up) distractions** (noise, flashing screens, peripheral motion) from **internal/cognitive (top-down) distractions** (mind-wandering, habitual phone-checking, boredom).
+- **Analyze the cognitive costs of digital devices & multitasking**
+	- Explain how intermittent variable rewards in social media apps hijack the exploratory drive.
+	- Explain why true cognitive multitasking is impossible for central bottleneck tasks, and describe the switching costs of task interruptions.
+- **Evaluate evidence-based attentional interventions**
+	- Describe how environmental control (e.g., silence, notification detox, hiding phones) reduces bottom-up and habitual triggers.
+	- Explain how the **Distraction Diary** and social facilitation (e.g., study groups/monastic focus) assist in sustaining exploitation over distraction.

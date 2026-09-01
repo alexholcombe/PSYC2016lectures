@@ -22,49 +22,50 @@ format:
     code-link: true
     title-slide-attributes:
       data-background-color: "#447099"
+from: markdown+emoji #Added to enable emoji, e.g. :smile:
 editor: source
 ---
 <!--LECTURE PREP
 Open textbook in a separate browser window to help reassure students that the content is there.
 Prep: volume up, with mic pointed toward it, for dog barking sounds
 
-Get dog barking video ready 
+Tell student to be ready to play dog barking video, and do so when I raise three fingers 
 https://www.youtube.com/embed/sXjoGtuAkNU?si=84n6LvMVW98ykm8y&amp;start=29
 -->
 
 
 <!--sometimes have to turn multiplex false to load speaker notes -->
 
-## Bottleneck {background-image="images/bottleneck.png" background-size="contain" background-opacity=".2"}
+## 
+
+[PDF version](https://alexholcombe.github.io/PSYC2016lectures/pdf/lecture2.pdf) of these slides
+
+
+## {background-image="images/bottleneck.png" background-size="contain" background-opacity=".2"}
 
 ![](images/responses/bottleneckClarity.png)
-I've updated the textbook with an additional paragraph on this.
+
+I've updated the textbook with an additional paragraph on this :smile:
+
+- "Physical limit means we can only hold two pens at a time, cognitive bottleneck means we can only write with one of them at a time"
+
 
 ## Bottleneck {background-image="images/bottleneckPerceptionCognition.png" background-size="contain" background-opacity=".2"}
 
 - Imagine a motorway with many lanes. Everyone has to pay a toll. 
 
-- But the government doesn't have enough money to pay for more than one toll booth (this is in a country that doesn't have e-tags to collect tolls). 
+- But the government doesn't have enough $ to pay for more than one toll booth (this is in a country that doesn't have e-tags). 
 
 - The capacity to process tolls is equal to one car at a time. 
 
 - Thus everyone has to slow down when they near the toll booth because only one car can be processed at a time.
 
-##
-
-![](images/responses/overtVsCovert2026.png)
-Read [Chapter 4](https://psyc2016.whatanimalssee.com/overtCovert.html) and then give me a more specific question.
-
-##
-
-![](images/responses/twoLetter2026.png)
-Suggests limited processing capacity. For another task, see Ch. 3.4
-
-::: notes 
-Reading we
+::: notes
+Has anyone here remember going through a tollbooth?
 :::
 
-##
+## {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
 
 ```{=html}
 <blockquote class="reddit-embed-bq" >
@@ -77,39 +78,75 @@ Reading we
 [link](https://www.reddit.com/r/interesting/comments/1teldwl/if_youre_feeling_anxious_remember_that_in_china/)
 
 
+## {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
-## Mentimeter survey
+![](images/responses/overtVsCovert2026.png)
 
-most-focused experience
+Please read [Chapter 4](https://psyc2016.whatanimalssee.com/overtCovert.html) and then give me a more specific question :smile:
 
-shutting out the world
+## {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
-## TODAY {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+![](images/responses/twoLetter2026.png)
+Suggests limited processing capacity. For another task, see Ch. 3.4
+
+::: notes 
+Reading we
+:::
+
+
+## Learning Outcomes Lecture 2 {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06" .nonincremental}
 
 ::: {.nonincremental}
+
+- **Understand vigilance** (briefly mentioned in Ch. 5, 16)
+	- Define *vigilance*'s ecological purpose (monitoring the environment for threats and predators)
+	- Explain the "nocturnal bottleneck" in evolution and why brains require an interrupt mechanism
+- **Distinguish concentration from vigilance**
+	- Describe how the nervous system balances goal-directed focus (**concentration**) against environmental alarms (**vigilance**) and the relationship to bottom-up vs. top-down attention
+	- Contrast this biological interrupt architecture with digital computer interrupt signals
+- **Distinguish bottom-up vs. top-down attention** (Ch. 5)
+	- Define *bottom-up (exogenous / stimulus-driven)* attention: rapid, involuntary, triggered by sensory salience
+	- Define *top-down (endogenous / goal-directed)* attention: voluntary, slower, driven by intentions, tasks, memory
+:::
+
+<!--
+- **Identify the three kinds of attentional selection** (Ch. 7)
+	- Distinguish between **spatial selection** (regions/locations), **feature selection** (colors, orientations, curves), and **object selection** (bounded perceptual entities).
+- **Explain why feature selection is compulsorily global**
+	- Explain why selecting a feature (e.g., "red") enhances that feature across the entire visual field rather than just within a restricted spatial sub-region.
+	- Relate global feature processing to the anatomical separation between the dorsal ("Where/How") and ventral ("What") visual pathways.
+-->
+
+<!--
 -   Chapters 1-4: Bottlenecks, Overt and covert attention
--   Vigilance <!-- only very briefly in Ch. 5, 16-->
+-   Vigilance (briefly mentioned in Ch. 5, 16)
+-   Top-down vs. bottom-up attention (Ch. 5)
+-   Location selection (Ch. 7)
+-   Feature selection (Ch. 7)
+-   Absence of combined selection (Ch. 7)
+-->
+
+<!--
+::: {.nonincremental}
+-   [Chapters 1-4: Bottlenecks, Overt and covert attention]{.grey}
+-   Vigilance (briefly mentioned in Ch. 5, 16)
 -   Top-down vs. bottom-up attention (Ch. 5)
 -   Location selection (Ch. 7)
 -   Feature selection (Ch. 7)
 -   Absence of combined selection (Ch. 7)
 :::
+-->
 
 ::: notes
-Prep: volume up, with mic pointed toward it, for dog barking sounds
-
-Get dog barking video ready 
-https://www.youtube.com/embed/sXjoGtuAkNU?si=84n6LvMVW98ykm8y&amp;start=29
-
+How many have heard the word 'invigilator'?
+comes directly from the Latin verb invigilare, which means "to watch over," "to keep watch," or "to remain awake."
 :::
 
+## Vigilance {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".3"}
 
-
-## VIGILANCE {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".3"}
-
-  * For ecologists, *vigilance* is monitoring surroundings for predators
-  * Hard to get close to wallabies. Why? Vigilance.
-  * The arrival of predators is an example of something that can be more important than whatever an animal is doing
+  * For behavioural ecologists, *vigilance* is monitoring surroundings for predators
+  * Hard to get close. Why? Vigilance
+  * The arrival of predators is an example of something that may be more important than whatever an animal is doing
 
 <!-- - ![](images/redNeckedWallabyStarlightsTrack.jpeg){width=600}
 - ![](images/redNeckedWallabyStarlightsTrack2.jpeg){width=600} 
@@ -125,46 +162,77 @@ Have you ever tried to sneak up on a wallaby or a kangaroo?
 They're not the hardest animals to sneak up on. The haven't evolved to be very vigilant. Not many predators historically.
 :::
 
+## Vigilance {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".3" .nonincremental}
+
+::: {.nonincremental}
+  * For ecologists, *vigilance* is monitoring surroundings for predators
+:::
+
+![](images/CardinalEatingThenLooksUp.gif)
+
+
 ## {background-image="images/wikimediaGeneraPlatypusTransparent.png" background-opacity="0.4"} 
 
+::: {.callout-note appearance="simple" icon="false"}
+Vigilance - define its ecological purpose 
+:::
+
   * ![](images/platypusCecilHoskinsReserve.jpg){width=40%}
-  * Because of predators many animals (including most mammals!) are nocturnal.
+  * Because of predators many animals (including most mammals!) are nocturnal, and vigilant
 
 
 ::: notes
-How many of you grew up in Australia?
-Raise your hand if you've seen a platypus in the wild? Not many of you have.
-
+Have you seen a platypus in the wild? Not many of you have.
+It's not only because there aren't many of them left.
+It's also because of how they do things.
+I went to a river in the Southern Highlands very early in the morning
 If you're only active at night, you have to worry much less about predators spotting you
 
 ::: 
 
-## Nocturnal ancestors {background-image="images/Velociraptor_UDLwikimedia.png" background-size="1200px"  background-opacity="0.3"}
+## Our nocturnal ancestors {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".2" .nonincremental}
 
+::: {.nonincremental}
   * Prior to the dinosaurs, our ancestors had vision specialized for daytime.
-  * During the dinosaurs, our ancestors shifted into the night
+:::
 
+## Our nocturnal ancestors {background-image="images/Velociraptor_UDLwikimedia.png" background-size="1200px"  background-opacity="0.8"}
+
+::: {.nonincremental}
+
+  * During the dinosaurs, mammalian ancestors shifted into the night
+  
+:::
+<BR>
+
+::: {.no-bullets}  
   * ![](images/640px-Brasilitherium_riograndensis.jpg){width=20%}
+:::
 
 ::: notes
-
+This conveys how important predation/ vigilance was
 Our ancestors evolved during a period when dinosaurs were the dominant daytime predators. This period forced early mammals to adopt a nocturnal lifestyle to avoid predation.
 
 https://en.wikipedia.org/wiki/Nocturnal_bottleneck
 
 https://www.nature.com/articles/s41559-017-0366-5
-
 :::
 
-## Our mind evolved in an environment of predators {background-image="images/Velociraptor_UDLwikimedia.png" background-size="1200px" background-opacity="0.3"}
+## Our mind evolved in a predatory environment {background-image="images/Velociraptor_UDLwikimedia.png" background-size="1200px" background-opacity="0.04"}
 
 ![](images/640px-Brasilitherium_riograndensis.jpg){width=10%}
 
-  * Vigilance - periodically "look" around
-  * Balance concentration against watching out for more important things appearing
-  
-## Vigilance in deer, and monkeys
+::: {.callout-note appearance="simple" icon="false"}
+Vigilance - Explain the "nocturnal bottleneck" in evolution and its relationship to vigilance
+:::
 
+  * Vigilance - periodically look/listen/feel/smell around
+  * Balance focus against watching out for more important things appearing
+
+
+
+## Vigilance in deer, and monkeys {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".1"}
+ 
 <!--![](images/deer/Javan_Deer_East_Java.jpg)-->
 
 ::: {.r-stack}
@@ -177,60 +245,50 @@ https://www.nature.com/articles/s41559-017-0366-5
   * {{< video https://www.youtube.com/embed/AlSt2mT8ztw?si=D5-cviExDgQz1xBC >}}
 
 ::: notes
-
+We're not that much like deer, but we are a lot like monkeys. Some people have said that I look like a monkey
 [Article about vigilance in chitas](https://cervidonline.wixsite.com/cervid-online/post/vigilance-behaviour-in-chital)
-
 :::
 
-## Concentration vs. vigilance
+## Concentration vs. vigilance {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".1"}
+
+::: {.callout-note appearance="simple" icon="false"}
+**Distinguish concentration from vigilance**, balance, relationship to digital computer interrupt signals
+:::
 
   * Solution 1: Alternate between concentrating and looking around
   * Solution 2: Have a system for overcoming concentration with potentially-important signals
-  
+
+
 ::: notes
-The drive behind the first solution is one thing that can make it hard to concentrate.
+We saw that with the red bird, The drive behind the first solution is one thing that can make it hard to concentrate.
 Today we'll start talking about the second solution.
 :::
 
-## Computers were not designed with vigilance in mind
+## Computers were designed to focus {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".1"}
 
 ::: notes
 Have you ever had your computer freeze on you?
 Like you're using Microsoft Word to write a document or something, and then the app just stops responding?
 :::
 
-## Computer scientists created "interrupt signals"
+## Computers were designed to focus {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".1"}
 
-- Keystroke interrupt signal
-  - Option-Command-ESC (MacOS); Alt-F4 (Windows)
-
-![](images/forceQuit.png){width="800"}
+- Computer scientists had to add "interrupt signals"
+- Keystroke interrupt
+  - CTRL-C / Alt-F4 (Windows) / Option-Command-ESC (MacOS)
+- ![](images/forceQuit.png){width="800"}
 
 ::: notes
+Sometimes the computer gets so focused on the current task that it can't do anything else and it won't break out of that
 Computers used to freeze a lot more. With a lot of advances in operating system technology
 to stop the concentration on another task.
 :::
 
-## {background-image="images/hardQuiz.jpg" background-opacity="1.0"}
+## Animals had to be more interrupt-able, to not get eaten {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".1"}
 
-## {background-image="images/hardQuiz.jpg" background-opacity="0.1"}
+## Animals had to be more interrupt-able, to not get eaten {background-image="images/8Ois.gif"}
 
-Alex, you put the question on TextEdit to avoid it appearing on the web lecture slides!
-<!--
-One reason our brains have a vigilance system is:
-
-  A) To facilitate staying on a single task
-  B) To detect predators
-  C) To maximize concentration during school
-  D) To improve invigilation during exams
-  E) To better digest vegetables
--->
-
-::: notes
-the Lecture Quiz is a glorified attendance/self-assessment activity, so students will be verbally walked through the MCQ by the lecturer and surveyed for what they think the answer is, then they are told what it actually is, and that’s what they enter in Canvas
-:::
-
-## Does not compute! {background-image="images/8Ois.gif"}
+- Humans don't freeze - We have more robust interrupts than computers
 
 ::: notes
 Unlike computers, we had to evolve so that we don't have "Does not compute" moments where we just stay stuck on a single task, or freeze 
@@ -238,7 +296,21 @@ Unlike computers, we had to evolve so that we don't have "Does not compute" mome
 Humans basically never freeze. Because that would have been too detrimental during evolution.
 :::
 
-## BOTTOM-UP ATTENTION
+## {background-image="images/CalebOwens.webp"}
+
+::: notes :::
+Does anyone know who this is?
+:::
+
+## Bottom-up / exogenous attention {background-image="images/CalebOwens.webp"}
+
+::: notes :::
+Signal to student to play sound
+Wow, even though you're quite obsessed with Caleb, that was enough to pull your attention away from Caleb
+:::
+
+
+## Bottom-up / exogenous attention 
 <!--Bottom-up attention-->
 
 <!--Dog barking sound effect -->
@@ -246,8 +318,7 @@ Humans basically never freeze. Because that would have been too detrimental duri
 
 ::: notes :::
 WAIT
-Look over here.... next is monster
-Play on laptop screen.
+Move to side, Wave , Look over here.... next is monster
 :::
 
 ## {background-image="images/monster.png"}
@@ -256,11 +327,11 @@ Play on laptop screen.
 
 -   "Salient" stimuli
 -   What is salient to us?
-    - Different than other stimuli in terms of low-level features, see Chapters 7 and 9 <!--Should add comment to book that the fact that visual search is limited to individual features etc. also means gorillas don't capture our attention qua gorillas-->
-    -   Intense stimuli
+    -   Large changes to a basic feature of the scene
+    - Different than nearby stimuli in terms of low-level features, see Chapters 7 and 9 <!--Should add comment to book that the fact that visual search is limited to individual features etc. also means gorillas don't capture our attention qua gorillas-->
 -   Is a kind of vigilance
     -   Basic alerting system
-    -   Like a smoke alarm: dumb, but requires few resources. Cheap to run it all the time.
+    -   Like a smoke alarm: Dumb, but requires few resources. Cheap to run it all the time.
 
 ![](images/redAlertButton.jpg)
 
@@ -271,86 +342,117 @@ Part of the way this works is
 So we do have a system f
 :::
 
+## Bottom-up attention {background-image="images/monster.png" background-opacity="0.1"}
+
+::: {.callout-note appearance="simple" icon="false"}
+Distinguish concentration from vigilance, balance, relation of bottom-up attention to digital computer interrupt signals
+:::
+
 ## Top-down attention {background-image="images/inspectorCartoon.png" background-size="600px" background-opacity="0.6"}
 
 -   Sometimes called *endogenous* attention
   -   Internally driven
 -   Goal directed
 
-## Top-down combines with bottom-up (Ch. 5)
+## What most often distracts during a lecture? {background-image="images/responses/whatMostOftenDistracts2026.png" background-size="contain"}
 
-![](images/brainBottomupTopdownTheeuwesFailing.png)
-
-::: notes
-What we attend to reflects a combination of things we are voluntarily (endogenously) directing our attention to and things that exogenously capture our attention 
-:::
-
-## Ways to select a stimulus
-
--   Spatial/object selection
--   Feature selection
-
-## Combinations of features can't be directly selected (Ch. 7)
-
--   Features are processed somewhat separately by the brain.
--   Conjoining them requires a capacity-limited process
-
-
-
-## Feature selection is compulsorily global (Ch. 7)
+- Bottom-up vs. top-down attention
 
 ::: notes
-next slide has demo
+Outside sounds, phone, 
 :::
 
-## {background-image="images/redBlueFeatureLocationSelectionCantBeCombined.png"}
 
+## Understanding the hand-wave and monster onset  { background-image="images/monster.png" background-opacity="0.1"}
+
+-   My hand motion triggered a shift of attention to it. How?
+    -   Visual cortex signals the location of odd motions
+    -   Bottom-up attention encourages a shift of attention
+    -   Your attention may leave my hand quickly, because it's not interesting
+-   The monster appeared on the screen. 
+    -   Visual cortex signalled the location of a sudden onset (Ch. 6)
+    -   Bottom-up attention encourages a shift of attention
+    -   Attention may linger, because the monster is interesting (top-down attention)
+    
 ::: notes
-Need to make better (sparser?) version of this.
+First I said, let me get your attention over here
 
-Global facilitation of attended features is obligatory and restricts divided attention. Anderson et al.
-They showed this with EEG 
-::: 
-
-## Feature selection is compulsorily global (Ch. 7) {background-image="images/redBlueFeatureLocationSelectionCantBeCombined.png" background-opacity="0.3"}
-
-Can't attend to red on left side while simultaneously attending to blue on right side.
-
-## Feature selection is compulsorily global  {background-image="images/redBlueFeatureLocationSelectionCantBeCombined.png" background-opacity="0.1"}
-
-The *combination* of location and feature selection can't be done.
-
-You can either select a simple feature everywhere (e.g., red objects),
-or select the stimuli in a particular region, but you can't combine those two abilities.
-
-## Global: Combining location and feature selection can't be done
-
-
-![](images/300px-Ventral-dorsal_streams.png){width="60%"}
-
-Separation of what and where pathways.
-
-* dorsal = parietal = where = location
-* ventral = temporal = what = object recognition
-
-## *Why* are Where and What separated? {background-image="images/300px-Ventral-dorsal_streams.png" background-opacity="0.1"}
-
--   Object recognition (What) doesn't need location information much
--   Where is good for action, doesn't need object identity much
-
-::: notes :::
-I ad-libbed about how it makes sense that object recognition doesn't need location information much, whereas location is more important for action.
 :::
 
-## TODAY {background-image="images/monster.png" background-opacity="0.1"}
+## Bottom-up attention { background-image="images/monster.png" background-opacity="0.05"}
+
+1) The monster appeared on the screen
+    1) Visual cortex signalled the location of a sudden onset (Ch. 6)
+    1) Bottom-up attention encourages a shift of attention
+    1) *Only then* is the monster routed through the bottleneck and recognized to be a monster
+    1) Attention may linger there, because monsters are interesting / arousing
+
+-   Steps 2-3 happen faster than you can notice!
+
+## Did attention go to the monster because it was a monster? NO! { background-image="images/monster.png" background-opacity="0.1"}
 
 ::: {.nonincremental}
--   Top-down vs. bottom-up attention
--   Location selection
--   Feature selection
--   Absence of combined selection
+-   The monster appeared on the screen
+    -   Visual cortex signalled the location of a sudden onset (Ch. 6)
+    -   Bottom-up attention encourages a shift of attention
+    -   *Only then* is the monster routed throught the bottleneck and recognized to be a monster.
+    -   Attention may linger there, because monsters are interesting / arousing
 :::
 
+::: notes
+It happens faster than you can notice.
+Determining that it is a monster requires extensive processing, selection for the bottleneck. But your bottleneck was busy processing something else! 
+:::
 
-## {background-image="images/surveyEndOfLecture.png" background-opacity="0.5"}
+## {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".1"}
+
+::: {.callout-note appearance="simple" icon="false"}
+Distinguish concentration from vigilance, balance, relation of bottom-up attention to digital computer interrupt signals
+:::
+
+::: {.callout-note appearance="simple" icon="false"}
+Distinguish bottom-up from top-down attention
+:::
+
+- **Distinguish bottom-up vs. top-down attention** (Ch. 5)
+	- Define *bottom-up (exogenous / stimulus-driven)* attention: rapid, involuntary, triggered by sensory salience
+	- Define *top-down (endogenous / goal-directed)* attention: voluntary, slower, driven by intentions, tasks, memory
+
+
+## Distraction experiment {background-image="images/usingTheStopwatch.jpeg" background-opacity=0.5 background-size="200px"}
+<BR>
+
+-   Put your phone on airplane mode.
+-   Turn off notifications on your computer.
+-   Go to phone stopwatch (in "Clock" on iPhone and most Android phones).
+-   Press "lap" each time:
+    - you can't help yourself and you check social media, 
+    - think about something other than what you're reading
+    - otherwise get off task
+
+::: notes :::
+You should be reading the text anyway, so why not let it do double duty as a self-insight exercise.
+::: 
+
+## Start stopwatch and silently read Ch. 5, and Ch. 7 if you finish 5
+
+[Chapter 5](https://psyc2016.whatanimalssee.com/btmUpTopDown.html)
+
+<BR>
+Press 'lap' every time you get distracted.
+
+::: notes
+Then we'll answer some questions to enter our data, and about Chapter 5
+
+I know not everyone is going to do the exercise but please don't interfere with other people.
+Start the stopwatch "NOW"
+:::
+
+## {background-image="images/surveyEndOfLecture.png" background-opacity="0.1" background-size="contain"}
+
+8511 9832
+
+or [https://www.menti.com/al91wfyzwbom](https://www.menti.com/al91wfyzwbom)
+
+
 

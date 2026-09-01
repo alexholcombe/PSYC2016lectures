@@ -25,6 +25,88 @@ editor: source
 
 <!--sometimes have to turn multiplex false to load speaker notes -->
 
+<!--
+One reason our brains have a vigilance system is:
+
+  A) To facilitate staying on a single task
+  B) To detect predators
+  C) To maximize concentration during school
+  D) To improve invigilation during exams
+  E) To better digest vegetables
+-->
+
+##
+
+LECTURE LIKELY ENDS HERE
+
+## Ways to select a stimulus
+
+-   Spatial/object selection
+-   Feature selection
+
+## Combinations of features can't be directly selected (Ch. 7)
+
+-   Features are processed somewhat separately by the brain.
+-   Conjoining them requires a capacity-limited process
+
+
+
+## Feature selection is compulsorily global (Ch. 7)
+
+::: notes
+next slide has demo
+:::
+
+## {background-image="images/redBlueFeatureLocationSelectionCantBeCombined.png"}
+
+::: notes
+Need to make better (sparser?) version of this.
+
+Global facilitation of attended features is obligatory and restricts divided attention. Anderson et al.
+They showed this with EEG 
+::: 
+
+## Feature selection is compulsorily global (Ch. 7) {background-image="images/redBlueFeatureLocationSelectionCantBeCombined.png" background-opacity="0.3"}
+
+Can't attend to red on left side while simultaneously attending to blue on right side.
+
+## Feature selection is compulsorily global  {background-image="images/redBlueFeatureLocationSelectionCantBeCombined.png" background-opacity="0.1"}
+
+The *combination* of location and feature selection can't be done.
+
+You can either select a simple feature everywhere (e.g., red objects),
+or select the stimuli in a particular region, but you can't combine those two abilities.
+
+## Global: Combining location and feature selection can't be done
+
+
+![](images/300px-Ventral-dorsal_streams.png){width="60%"}
+
+Separation of what and where pathways.
+
+* dorsal = parietal = where = location
+* ventral = temporal = what = object recognition
+
+## *Why* are Where and What separated? {background-image="images/300px-Ventral-dorsal_streams.png" background-opacity="0.1"}
+
+-   Object recognition (What) doesn't need location information much
+-   Where is good for action, doesn't need object identity much
+
+::: notes :::
+I ad-libbed about how it makes sense that object recognition doesn't need location information much, whereas location is more important for action.
+:::
+
+
+## TODAY {background-image="images/monster.png" background-opacity="0.1"}
+
+::: {.nonincremental}
+-   Top-down vs. bottom-up attention (AKA endogenous vs exogenous)
+-   Location selection
+-   Feature selection
+-   Absence of combined selection
+:::
+
+
 
 ## TODAY {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
@@ -59,46 +141,7 @@ editor: source
   
 4. Change blindness-->
 
-## Understanding the hand-wave and monster onset  {.smaller background-image="images/monster.png" background-opacity="0.2"}
 
--   My hand motion triggered a shift of attention to it. How?
-    -   Visual cortex signals the location of odd motions
-    -   Bottom-up attention encourages a shift of attention
-    -   Your attention may leave my hand quickly, because it's not interesting
--   The monster appeared on the screen. 
-    -   Visual cortex signalled the location of a sudden onset (Ch. 6)
-    -   Bottom-up attention encourages a shift of attention
-    -   Attention may linger, because the monster is interesting (top-down attention)
-    
-::: notes
-First I said, let me get your attention over here
-
-:::
-
-## Bottom-up attention {.smaller background-image="images/monster.png" background-opacity="0.1"}
-
-1) The monster appeared on the screen
-    1) Visual cortex signalled the location of a sudden onset (Ch. 6)
-    1) Bottom-up attention encourages a shift of attention
-    1) *Only then* is the monster routed through the bottleneck and recognized to be a monster
-    1) Attention may linger there, because monsters are interesting / arousing
-
--   Steps 2-3 happen faster than you can notice!
-
-## Did attention go to the monster because it was a monster? NO! {.smaller background-image="images/monster.png" background-opacity="0.1"}
-
-::: {.nonincremental}
--   The monster appeared on the screen
-    -   Visual cortex signalled the location of a sudden onset (Ch. 6)
-    -   Bottom-up attention encourages a shift of attention
-    -   *Only then* is the monster routed throught the bottleneck and recognized to be a monster.
-    -   Attention may linger there, because monsters are interesting / arousing
-:::
-
-::: notes
-It happens faster than you can notice.
-Determining that it is a monster requires extensive processing, selection for the bottleneck. But your bottleneck was busy processing something else! 
-:::
 
 ## Parallel feature processing (Ch. 5 and 7)
 

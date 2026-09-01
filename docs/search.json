@@ -564,7 +564,7 @@
     "href": "lecture2.html#mentimeter-survey",
     "title": "PSYC2016: Attention lecture 2",
     "section": "Mentimeter survey",
-    "text": "Mentimeter survey\nmost-focused experience\nshutting out the world"
+    "text": "Mentimeter survey\nmost-focused experience\nshutting out the world\ndon’t forget related responses from lecture 1"
   },
   {
     "objectID": "lecture2.html#what-is-your-degree-major",
@@ -578,21 +578,21 @@
     "href": "lecture2.html#today",
     "title": "PSYC2016: Attention lecture 2",
     "section": "TODAY",
-    "text": "TODAY\n\nChapters 1-4: Bottlenecks, Overt and covert attention\nVigilance \nTop-down vs. bottom-up attention (Ch. 5)\nLocation selection (Ch. 7)\nFeature selection (Ch. 7)\nAbsence of combined selection (Ch. 7)\n\n\nPrep: volume up, with mic pointed toward it, for dog barking sounds\nGet dog barking video ready https://www.youtube.com/embed/sXjoGtuAkNU?si=84n6LvMVW98ykm8y&start=29"
+    "text": "TODAY\n\nTop-down vs. bottom-up attention (AKA endogenous vs exogenous)\nLocation selection\nFeature selection\nAbsence of combined selection"
   },
   {
     "objectID": "lecture2.html#vigilance",
     "href": "lecture2.html#vigilance",
     "title": "PSYC2016: Attention lecture 2",
-    "section": "VIGILANCE",
-    "text": "VIGILANCE\n\nFor ecologists, vigilance is monitoring surroundings for predators\nHard to get close to wallabies. Why? Vigilance.\nThe arrival of predators is an example of something that can be more important than whatever an animal is doing\n\n\n\nThe importance of vigilance is\nThis wallaby has been taking handouts from campsites, this one in North Sydney, for a long time, so it was easy to get close to it.\nHave you ever tried to sneak up on a wallaby or a kangaroo? They’re not the hardest animals to sneak up on. The haven’t evolved to be very vigilant. Not many predators historically."
+    "section": "Vigilance",
+    "text": "Vigilance\n\nFor behavioural ecologists, vigilance is monitoring surroundings for predators\nHard to get close. Why? Vigilance\nThe arrival of predators is an example of something that may be more important than whatever an animal is doing\n\n\n\nThe importance of vigilance is\nThis wallaby has been taking handouts from campsites, this one in North Sydney, for a long time, so it was easy to get close to it.\nHave you ever tried to sneak up on a wallaby or a kangaroo? They’re not the hardest animals to sneak up on. The haven’t evolved to be very vigilant. Not many predators historically."
   },
   {
     "objectID": "lecture2.html#section",
     "href": "lecture2.html#section",
     "title": "PSYC2016: Attention lecture 2",
     "section": "",
-    "text": "Read Chapter 4 and then give me a more specific question."
+    "text": "PDF version of these slides"
   },
   {
     "objectID": "lecture2.html#nocturnal-ancestors",
@@ -613,14 +613,14 @@
     "href": "lecture2.html#vigilance-in-deer-and-monkeys",
     "title": "PSYC2016: Attention lecture 2",
     "section": "Vigilance in deer, and monkeys",
-    "text": "Vigilance in deer, and monkeys\n\n\n\n\n\n\n\n\n\n\nArticle about vigilance in chitas"
+    "text": "Vigilance in deer, and monkeys\n\n\n\n\n\n\n\n\n\n\nWe’re not that much like deer, but we are a lot like monkeys. Some people have said that I look like a monkey Article about vigilance in chitas"
   },
   {
     "objectID": "lecture2.html#concentration-vs.-vigilance",
     "href": "lecture2.html#concentration-vs.-vigilance",
     "title": "PSYC2016: Attention lecture 2",
     "section": "Concentration vs. vigilance",
-    "text": "Concentration vs. vigilance\n\nSolution 1: Alternate between concentrating and looking around\nSolution 2: Have a system for overcoming concentration with potentially-important signals\n\n\nThe drive behind the first solution is one thing that can make it hard to concentrate. Today we’ll start talking about the second solution."
+    "text": "Concentration vs. vigilance\n\n\n\nDistinguish concentration from vigilance, balance, relationship to digital computer interrupt signals\n\n\n\n\nSolution 1: Alternate between concentrating and looking around\nSolution 2: Have a system for overcoming concentration with potentially-important signals\n\n\nWe saw that with the red bird, The drive behind the first solution is one thing that can make it hard to concentrate. Today we’ll start talking about the second solution."
   },
   {
     "objectID": "lecture2.html#computers-were-not-designed-with-vigilance-in-mind",
@@ -648,21 +648,21 @@
     "href": "lecture2.html#does-not-compute",
     "title": "PSYC2016: Attention lecture 2",
     "section": "Does not compute!",
-    "text": "Does not compute!\n\nUnlike computers, we had to evolve so that we don’t have “Does not compute” moments where we just stay stuck on a single task, or freeze\nHumans basically never freeze. Because that would have been too detrimental during evolution."
+    "text": "Does not compute!\n\nHumans don’t freeze - We have more robust interrupts than computers\n\n\nUnlike computers, we had to evolve so that we don’t have “Does not compute” moments where we just stay stuck on a single task, or freeze\nHumans basically never freeze. Because that would have been too detrimental during evolution."
   },
   {
     "objectID": "lecture2.html#bottom-up-attention",
     "href": "lecture2.html#bottom-up-attention",
     "title": "PSYC2016: Attention lecture 2",
-    "section": "BOTTOM-UP ATTENTION",
-    "text": "BOTTOM-UP ATTENTION\n\n\n.\n\nWAIT Look over here…. next is monster Play on laptop screen."
+    "section": "Bottom-up attention",
+    "text": "Bottom-up attention\n\n“Salient” stimuli\nWhat is salient to us?\n\nLarge changes to a basic feature of the scene\nDifferent than nearby stimuli in terms of low-level features, see Chapters 7 and 9 \n\nIs a kind of vigilance\n\nBasic alerting system\nLike a smoke alarm: Dumb, but requires few resources. Cheap to run it all the time.\n\n\n\n\nThis has been one of the big projects in the study of visual attention, to work out what can generate an interrupt signal\nPart of the way this works is So we do have a system f"
   },
   {
     "objectID": "lecture2.html#bottom-up-attention-1",
     "href": "lecture2.html#bottom-up-attention-1",
     "title": "PSYC2016: Attention lecture 2",
     "section": "Bottom-up attention",
-    "text": "Bottom-up attention\n\n“Salient” stimuli\nWhat is salient to us?\n\nDifferent than other stimuli in terms of low-level features, see Chapters 7 and 9 \nIntense stimuli\n\nIs a kind of vigilance\n\nBasic alerting system\nLike a smoke alarm: dumb, but requires few resources. Cheap to run it all the time.\n\n\n\n\nThis has been one of the big projects in the study of visual attention, to work out what can generate an interrupt signal\nPart of the way this works is So we do have a system f"
+    "text": "Bottom-up attention\n\n\n\nDistinguish concentration from vigilance, balance, relation of bottom-up attention to digital computer interrupt signals"
   },
   {
     "objectID": "lecture2.html#top-down-attention",
@@ -704,7 +704,7 @@
     "href": "lecture2.html#section-4",
     "title": "PSYC2016: Attention lecture 2",
     "section": "",
-    "text": "Alex, you put the question on TextEdit to avoid it appearing on the web lecture slides! \n\nthe Lecture Quiz is a glorified attendance/self-assessment activity, so students will be verbally walked through the MCQ by the lecturer and surveyed for what they think the answer is, then they are told what it actually is, and that’s what they enter in Canvas"
+    "text": "Suggests limited processing capacity. For another task, see Ch. 3.4\n\nReading we"
   },
   {
     "objectID": "lecture2.html#feature-selection-is-compulsorily-global-ch.-7-1",
@@ -732,21 +732,21 @@
     "href": "lecture2.html#why-are-where-and-what-separated",
     "title": "PSYC2016: Attention lecture 2",
     "section": "Why are Where and What separated?",
-    "text": "Why are Where and What separated?\n\nObject recognition (What) doesn’t need location information much\nWhere is good for action, doesn’t need object identity much\n\n\nI ad-libbed about how it makes sense that object recognition doesn’t need location information much, whereas location is more important for action."
+    "text": "Why are Where and What separated?\n\nObject recognition (What) doesn’t need location information much\nWhere is good for action, doesn’t need object identity much\n\n\nI ad-libbed about how it makes sense that object recognition doesn’t need location information much, whereas location is more important for action.\n\nMENTIMETER read chapter 7?\nLook at lecture 3 cleanup slides"
   },
   {
     "objectID": "lecture2.html#today-1",
     "href": "lecture2.html#today-1",
     "title": "PSYC2016: Attention lecture 2",
     "section": "TODAY",
-    "text": "TODAY\n\nTop-down vs. bottom-up attention\nLocation selection\nFeature selection\nAbsence of combined selection"
+    "text": "TODAY\n\nTop-down vs. bottom-up attention (AKA endogenous vs exogenous)\nLocation selection\nFeature selection\nAbsence of combined selection"
   },
   {
     "objectID": "lecture2.html#section-5",
     "href": "lecture2.html#section-5",
     "title": "PSYC2016: Attention lecture 2",
     "section": "",
-    "text": "Alex, you put the question on TextEdit to avoid it appearing on the web lecture slides! \n\nthe Lecture Quiz is a glorified attendance/self-assessment activity, so students will be verbally walked through the MCQ by the lecturer and surveyed for what they think the answer is, then they are told what it actually is, and that’s what they enter in Canvas"
+    "text": "Vigilance - define its ecological purpose\n\n\n\n\n\nBecause of predators many animals (including most mammals!) are nocturnal, and vigilant\n\n\nHave you seen a platypus in the wild? Not many of you have. It’s not only because there aren’t many of them left. It’s also because of how they do things. I went to a river in the Southern Highlands very early in the morning If you’re only active at night, you have to worry much less about predators spotting you"
   },
   {
     "objectID": "individualDiffs.html#individual-differences",
@@ -1145,7 +1145,7 @@
     "href": "lecture1.html#section",
     "title": "PSYCXX16: Attention Lecture 1",
     "section": "",
-    "text": "Alex’s journey\n\nClick on ALEX’s journey video\nBecause how can you pay attention to the content of this lecture when it’s a totally new person giving the lecture, and you’re not used to their accent, the weird way that they look, and the idiosyncrasies of their mannerisms. That’s why I’m talking now about nothing, just to get used to. Because I’m a lecturer on attention, I know I need to do this."
+    "text": "PDF of this lecture.\n\nAlex’s journey\n\nClick on ALEX’s journey video\nBecause how can you pay attention to the content of this lecture when it’s a totally new person giving the lecture, and you’re not used to their accent, the weird way that they look, and the idiosyncrasies of their mannerisms. That’s why I’m talking now about nothing, just to get used to. Because I’m a lecturer on attention, I know I need to do this."
   },
   {
     "objectID": "lecture1.html#section-2",
@@ -2076,7 +2076,7 @@
     "href": "lecture2.html#bottleneck",
     "title": "PSYC2016: Attention lecture 2",
     "section": "Bottleneck",
-    "text": "Bottleneck\n I’ve updated the textbook with an additional paragraph on this."
+    "text": "Bottleneck\n\nImagine a motorway with many lanes. Everyone has to pay a toll.\nBut the government doesn’t have enough $ to pay for more than one toll booth (this is in a country that doesn’t have e-tags).\nThe capacity to process tolls is equal to one car at a time.\nThus everyone has to slow down when they near the toll booth because only one car can be processed at a time.\n\n\nHas anyone here remember going through a tollbooth?"
   },
   {
     "objectID": "lecture2.html#china-highway",
@@ -2090,34 +2090,251 @@
     "href": "lecture2.html#section-1",
     "title": "PSYC2016: Attention lecture 2",
     "section": "",
-    "text": "Suggests limited processing capacity. For another task, see Ch. 3.4\n\nReading we"
+    "text": "I’ve updated the textbook with an additional paragraph on this 😄\n\n“Physical limit means we can only hold two pens at a time, cognitive bottleneck means we can only write with one of them at a time”"
   },
   {
     "objectID": "lecture2.html#section-3",
     "href": "lecture2.html#section-3",
     "title": "PSYC2016: Attention lecture 2",
     "section": "",
-    "text": "Because of predators many animals (including most mammals!) are nocturnal.\n\n\nHow many of you grew up in Australia? Raise your hand if you’ve seen a platypus in the wild? Not many of you have.\nIf you’re only active at night, you have to worry much less about predators spotting you"
+    "text": "Please read Chapter 4 and then give me a more specific question 😄"
   },
   {
     "objectID": "lecture2.html#bottleneck-1",
     "href": "lecture2.html#bottleneck-1",
     "title": "PSYC2016: Attention lecture 2",
     "section": "Bottleneck",
-    "text": "Bottleneck\n\nImagine a motorway with many lanes. Everyone has to pay a toll.\nBut the government doesn’t have enough money to pay for more than one toll booth (this is in a country that doesn’t have e-tags to collect tolls).\nThe capacity to process tolls is equal to one car at a time.\nThus everyone has to slow down when they near the toll booth because only one car can be processed at a time."
+    "text": "Bottleneck\n\nI’ve updated the textbook with an additional paragraph on this 😄"
   },
   {
     "objectID": "lecture2.html#section-6",
     "href": "lecture2.html#section-6",
     "title": "PSYC2016: Attention lecture 2",
     "section": "",
-    "text": "Need to make better (sparser?) version of this.\nGlobal facilitation of attended features is obligatory and restricts divided attention. Anderson et al. They showed this with EEG"
+    "text": "Does anyone know who this is?"
   },
   {
     "objectID": "lecture2.html#section-7",
     "href": "lecture2.html#section-7",
     "title": "PSYC2016: Attention lecture 2",
     "section": "",
+    "text": "Alex, you put the question on TextEdit to avoid it appearing on the web lecture slides! \n\nthe Lecture Quiz is a glorified attendance/self-assessment activity, so students will be verbally walked through the MCQ by the lecturer and surveyed for what they think the answer is, then they are told what it actually is, and that’s what they enter in Canvas"
+  },
+  {
+    "objectID": "lecture2.html#section-8",
+    "href": "lecture2.html#section-8",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "",
+    "text": "Distinguish concentration from vigilance, balance, relation of bottom-up attention to digital computer interrupt signals\n\n\n\n\n\n\nDistinguish bottom-up from top-down attention\n\n\n\n\nDistinguish bottom-up vs. top-down attention (Ch. 5)\n\nDefine bottom-up (exogenous / stimulus-driven) attention: rapid, involuntary, triggered by sensory salience\nDefine top-down (endogenous / goal-directed) attention: voluntary, slower, driven by intentions, tasks, memory"
+  },
+  {
+    "objectID": "lecture2.html#section-9",
+    "href": "lecture2.html#section-9",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "",
+    "text": "8511 9832\nor https://www.menti.com/al91wfyzwbom"
+  },
+  {
+    "objectID": "lecture2.html#learning-outcomes-lecture-2",
+    "href": "lecture2.html#learning-outcomes-lecture-2",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Learning Outcomes Lecture 2",
+    "text": "Learning Outcomes Lecture 2\n\nUnderstand vigilance (briefly mentioned in Ch. 5, 16)\n\nDefine vigilance’s ecological purpose (monitoring the environment for threats and predators)\nExplain the “nocturnal bottleneck” in evolution and why brains require an interrupt mechanism\n\nDistinguish concentration from vigilance\n\nDescribe how the nervous system balances goal-directed focus (concentration) against environmental alarms (vigilance) and the relationship to bottom-up vs. top-down attention\nContrast this biological interrupt architecture with digital computer interrupt signals\n\nDistinguish bottom-up vs. top-down attention (Ch. 5)\n\nDefine bottom-up (exogenous / stimulus-driven) attention: rapid, involuntary, triggered by sensory salience\nDefine top-down (endogenous / goal-directed) attention: voluntary, slower, driven by intentions, tasks, memory\n\n\n\n\n\n\nHow many have heard the word ‘invigilator’? comes directly from the Latin verb invigilare, which means “to watch over,” “to keep watch,” or “to remain awake.”"
+  },
+  {
+    "objectID": "lecture2.html#slide-title",
+    "href": "lecture2.html#slide-title",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Slide Title",
+    "text": "Slide Title\n\nUnderstand the evolutionary purpose of vigilance\n\nDefine vigilance’s ecological purpose (monitoring the environment for threats and predators).\nExplain the “nocturnal bottleneck” in evolution and why brains require an interrupt mechanism.\n\nDistinguish concentration from vigilance\n\nDescribe how the nervous system balances goal-directed focus (concentration) against environmental alarms (vigilance).\nContrast this biological interrupt architecture with digital computer interrupt signals.\n\nDistinguish bottom-up vs. top-down attentional control\n\nDefine bottom-up (exogenous / stimulus-driven) attention: rapid, involuntary, triggered by sensory contrast/salience\nDefine top-down (endogenous / goal-directed) attention: voluntary, slower, driven by intentions, tasks, and memory.\n\nIdentify the three kinds of attentional selection\n\nDistinguish between spatial selection (regions/locations), feature selection (colors, orientations, curves), and object selection (bounded perceptual entities).\n\nExplain why feature selection is compulsorily global\n\nExplain why selecting a feature (e.g., “red”) enhances that feature across the entire visual field rather than just within a restricted spatial sub-region.\nRelate global feature processing to the anatomical separation between the dorsal (“Where/How”) and ventral (“What”) visual pathways."
+  },
+  {
+    "objectID": "lecture2.html#vigilance-1",
+    "href": "lecture2.html#vigilance-1",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Vigilance",
+    "text": "Vigilance\n\nFor ecologists, vigilance is monitoring surroundings for predators"
+  },
+  {
+    "objectID": "lecture2.html#background-imageimagesthreewisemonkeysthree_wise_monkeys_640px.jpeg-background-opacity.06",
+    "href": "lecture2.html#background-imageimagesthreewisemonkeysthree_wise_monkeys_640px.jpeg-background-opacity.06",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "background-image=“images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg” background-opacity=“.06”}",
+    "text": "background-image=“images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg” background-opacity=“.06”}\n\nIf you're feeling anxious, remember that in China there's a 50-lane highway that narrows down to just 4 by\nu/jkitty_1960 in\ninteresting\n\nlink"
+  },
+  {
+    "objectID": "lecture2.html#our-nocturnal-ancestors",
+    "href": "lecture2.html#our-nocturnal-ancestors",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Our nocturnal ancestors",
+    "text": "Our nocturnal ancestors\n\nPrior to the dinosaurs, our ancestors had vision specialized for daytime."
+  },
+  {
+    "objectID": "lecture2.html#our-nocturnal-ancestors-1",
+    "href": "lecture2.html#our-nocturnal-ancestors-1",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Our nocturnal ancestors",
+    "text": "Our nocturnal ancestors\n\nDuring the dinosaurs, mammalian ancestors shifted into the night\n\n\n\n\n\n\n\n\nThis conveys how important predation/ vigilance was Our ancestors evolved during a period when dinosaurs were the dominant daytime predators. This period forced early mammals to adopt a nocturnal lifestyle to avoid predation.\nhttps://en.wikipedia.org/wiki/Nocturnal_bottleneck\nhttps://www.nature.com/articles/s41559-017-0366-5"
+  },
+  {
+    "objectID": "lecture2.html#our-mind-evolved-in-a-predatory-environment",
+    "href": "lecture2.html#our-mind-evolved-in-a-predatory-environment",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Our mind evolved in a predatory environment",
+    "text": "Our mind evolved in a predatory environment\n\n\n\n\nVigilance - Explain the “nocturnal bottleneck” in evolution and its relationship to vigilance\n\n\n\n\nVigilance - periodically look/listen/feel/smell around\nBalance focus against watching out for more important things appearing"
+  },
+  {
+    "objectID": "lecture2.html#computers-were-designed-to-focus",
+    "href": "lecture2.html#computers-were-designed-to-focus",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Computers were designed to focus",
+    "text": "Computers were designed to focus\n\nHave you ever had your computer freeze on you? Like you’re using Microsoft Word to write a document or something, and then the app just stops responding?"
+  },
+  {
+    "objectID": "lecture2.html#computers-were-designed-to-focus-1",
+    "href": "lecture2.html#computers-were-designed-to-focus-1",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Computers were designed to focus",
+    "text": "Computers were designed to focus\n\nComputer scientists had to add “interrupt signals”\nKeystroke interrupt\n\nCTRL-C / Alt-F4 (Windows) / Option-Command-ESC (MacOS)\n\n\n\n\nSometimes the computer gets so focused on the current task that it can’t do anything else and it won’t break out of that Computers used to freeze a lot more. With a lot of advances in operating system technology to stop the concentration on another task."
+  },
+  {
+    "objectID": "lecture2.html#bottom-up-or-exogenous-attention",
+    "href": "lecture2.html#bottom-up-or-exogenous-attention",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "BOTTOM-UP or exogenous ATTENTION",
+    "text": "BOTTOM-UP or exogenous ATTENTION\n\nSignal to student to play sound Wow, that was enough to pull your attention away from Caleb"
+  },
+  {
+    "objectID": "lecture2.html#bottom-up-or-exogenous-attention-1",
+    "href": "lecture2.html#bottom-up-or-exogenous-attention-1",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "BOTTOM-UP or exogenous ATTENTION",
+    "text": "BOTTOM-UP or exogenous ATTENTION\n\n\n.\n\nWAIT Walk to side, say Look over here…. next is monster Play on laptop screen."
+  },
+  {
+    "objectID": "lecture2.html#bottom-up-vs.-top-down-attention",
+    "href": "lecture2.html#bottom-up-vs.-top-down-attention",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Bottom-up vs. top-down attention",
+    "text": "Bottom-up vs. top-down attention\nWhat most often distracts during a lecture?\n\nOutside sounds, phone,"
+  },
+  {
+    "objectID": "lecture2.html#what-most-often-distracts-during-a-lecture",
+    "href": "lecture2.html#what-most-often-distracts-during-a-lecture",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "What most often distracts during a lecture?",
+    "text": "What most often distracts during a lecture?\n\nBottom-up vs. top-down attention\n\n\nOutside sounds, phone,"
+  },
+  {
+    "objectID": "lecture2.html#understanding-the-hand-wave-and-monster-onset",
+    "href": "lecture2.html#understanding-the-hand-wave-and-monster-onset",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Understanding the hand-wave and monster onset",
+    "text": "Understanding the hand-wave and monster onset\n\nMy hand motion triggered a shift of attention to it. How?\n\nVisual cortex signals the location of odd motions\nBottom-up attention encourages a shift of attention\nYour attention may leave my hand quickly, because it’s not interesting\n\nThe monster appeared on the screen.\n\nVisual cortex signalled the location of a sudden onset (Ch. 6)\nBottom-up attention encourages a shift of attention\nAttention may linger, because the monster is interesting (top-down attention)\n\n\n\nFirst I said, let me get your attention over here"
+  },
+  {
+    "objectID": "lecture2.html#did-attention-go-to-the-monster-because-it-was-a-monster-no",
+    "href": "lecture2.html#did-attention-go-to-the-monster-because-it-was-a-monster-no",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Did attention go to the monster because it was a monster? NO!",
+    "text": "Did attention go to the monster because it was a monster? NO!\n\nThe monster appeared on the screen\n\nVisual cortex signalled the location of a sudden onset (Ch. 6)\nBottom-up attention encourages a shift of attention\nOnly then is the monster routed throught the bottleneck and recognized to be a monster.\nAttention may linger there, because monsters are interesting / arousing\n\n\n\nIt happens faster than you can notice. Determining that it is a monster requires extensive processing, selection for the bottleneck. But your bottleneck was busy processing something else!"
+  },
+  {
+    "objectID": "lecture2.html#bottleneck-2",
+    "href": "lecture2.html#bottleneck-2",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Bottleneck",
+    "text": "Bottleneck\n\nImagine a motorway with many lanes. Everyone has to pay a toll.\nBut the government doesn’t have enough money to pay for more than one toll booth (this is in a country that doesn’t have e-tags to collect tolls).\nThe capacity to process tolls is equal to one car at a time.\nThus everyone has to slow down when they near the toll booth because only one car can be processed at a time."
+  },
+  {
+    "objectID": "lecture2.html#distraction-experiment",
+    "href": "lecture2.html#distraction-experiment",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Distraction experiment",
+    "text": "Distraction experiment\n\n\nPut your phone on airplane mode.\nTurn off notifications on your computer.\nGo to phone stopwatch (in “Clock” on iPhone and most Android phones).\nPress “lap” each time:\n\nyou can’t help yourself and you check social media,\nthink about something other than what you’re reading\notherwise get off task\n\n\n\nYou should be reading the text anyway, so why not let it do double duty as a self-insight exercise."
+  },
+  {
+    "objectID": "lecture2.html#lets-spend-x-minutes-silently-reading-chapter-5-and-7-if-you-finish",
+    "href": "lecture2.html#lets-spend-x-minutes-silently-reading-chapter-5-and-7-if-you-finish",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Let’s spend X minutes silently reading Chapter 5, and 7 if you finish",
+    "text": "Let’s spend X minutes silently reading Chapter 5, and 7 if you finish\n\n\n\nChapter 5\n\n\n Press ‘lap’ every time you get distracted.\n\nThen we’ll answer some questions to enter our data, and about Chapter 5\nI know not everyone is going to do the exercise but please don’t interfere with other people. Start the stopwatch “NOW”"
+  },
+  {
+    "objectID": "lecture2.html#section-10",
+    "href": "lecture2.html#section-10",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "",
+    "text": "LECTURE LIKELY ENDS HERE"
+  },
+  {
+    "objectID": "lecture2.html#section-11",
+    "href": "lecture2.html#section-11",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "",
     "text": "Need to make better (sparser?) version of this.\nGlobal facilitation of attended features is obligatory and restricts divided attention. Anderson et al. They showed this with EEG"
+  },
+  {
+    "objectID": "lecture2.html#section-12",
+    "href": "lecture2.html#section-12",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "",
+    "text": "Need to make better (sparser?) version of this.\nGlobal facilitation of attended features is obligatory and restricts divided attention. Anderson et al. They showed this with EEG"
+  },
+  {
+    "objectID": "lecture2.html#bottom-up-exogenous-attention",
+    "href": "lecture2.html#bottom-up-exogenous-attention",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Bottom-up / exogenous attention",
+    "text": "Bottom-up / exogenous attention\n\nSignal to student to play sound Wow, even though you’re quite obsessed with Caleb, that was enough to pull your attention away from Caleb"
+  },
+  {
+    "objectID": "lecture2.html#bottom-up-exogenous-attention-1",
+    "href": "lecture2.html#bottom-up-exogenous-attention-1",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Bottom-up / exogenous attention",
+    "text": "Bottom-up / exogenous attention\n\n\n.\n\nWAIT Move to side, Wave , Look over here…. next is monster"
+  },
+  {
+    "objectID": "lecture2.html#bottom-up-attention-2",
+    "href": "lecture2.html#bottom-up-attention-2",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Bottom-up attention",
+    "text": "Bottom-up attention\n\nThe monster appeared on the screen\n\nVisual cortex signalled the location of a sudden onset (Ch. 6)\nBottom-up attention encourages a shift of attention\nOnly then is the monster routed through the bottleneck and recognized to be a monster\nAttention may linger there, because monsters are interesting / arousing\n\n\n\nSteps 2-3 happen faster than you can notice!"
+  },
+  {
+    "objectID": "lecture2.html#lets-spend-x-minutes-silently-reading-chapter-5-and-7-if-you-finish-5",
+    "href": "lecture2.html#lets-spend-x-minutes-silently-reading-chapter-5-and-7-if-you-finish-5",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Let’s spend X minutes silently reading Chapter 5, and 7 if you finish 5",
+    "text": "Let’s spend X minutes silently reading Chapter 5, and 7 if you finish 5\n\n\n\nChapter 5\n\n\n Press ‘lap’ every time you get distracted.\n\nThen we’ll answer some questions to enter our data, and about Chapter 5\nI know not everyone is going to do the exercise but please don’t interfere with other people. Start the stopwatch “NOW”"
+  },
+  {
+    "objectID": "lecture2.html#animals-had-to-be-more-interrupt-able-to-not-get-eaten",
+    "href": "lecture2.html#animals-had-to-be-more-interrupt-able-to-not-get-eaten",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Animals had to be more interrupt-able, to not get eaten",
+    "text": "Animals had to be more interrupt-able, to not get eaten"
+  },
+  {
+    "objectID": "lecture2.html#animals-had-to-be-more-interrupt-able-to-not-get-eaten-1",
+    "href": "lecture2.html#animals-had-to-be-more-interrupt-able-to-not-get-eaten-1",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Animals had to be more interrupt-able, to not get eaten",
+    "text": "Animals had to be more interrupt-able, to not get eaten\n\nHumans don’t freeze - We have more robust interrupts than computers\n\n\nUnlike computers, we had to evolve so that we don’t have “Does not compute” moments where we just stay stuck on a single task, or freeze\nHumans basically never freeze. Because that would have been too detrimental during evolution."
+  },
+  {
+    "objectID": "lecture2.html#lets-spend-some-minutes-silently-reading-chapter-5-and-7-if-you-finish-5",
+    "href": "lecture2.html#lets-spend-some-minutes-silently-reading-chapter-5-and-7-if-you-finish-5",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Let’s spend some minutes silently reading Chapter 5, and 7 if you finish 5",
+    "text": "Let’s spend some minutes silently reading Chapter 5, and 7 if you finish 5\nChapter 5\n Press ‘lap’ every time you get distracted.\n\nThen we’ll answer some questions to enter our data, and about Chapter 5\nI know not everyone is going to do the exercise but please don’t interfere with other people. Start the stopwatch “NOW”"
+  },
+  {
+    "objectID": "lecture2.html#start-stopwatch-and-silently-read-ch.-5-and-ch.-7-if-you-finish-5",
+    "href": "lecture2.html#start-stopwatch-and-silently-read-ch.-5-and-ch.-7-if-you-finish-5",
+    "title": "PSYC2016: Attention lecture 2",
+    "section": "Start stopwatch and silently read Ch. 5, and Ch. 7 if you finish 5",
+    "text": "Start stopwatch and silently read Ch. 5, and Ch. 7 if you finish 5\nChapter 5\n Press ‘lap’ every time you get distracted.\n\nThen we’ll answer some questions to enter our data, and about Chapter 5\nI know not everyone is going to do the exercise but please don’t interfere with other people. Start the stopwatch “NOW”"
   }
 ]

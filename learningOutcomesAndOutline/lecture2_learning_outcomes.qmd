@@ -1,0 +1,19 @@
+---
+title: "Learning Outcomes - Lecture 2: Vigilance & Selection"
+format: html
+---
+
+- **Understand the evolutionary purpose of vigilance**
+	- Define *vigilance* from an ecological perspective (monitoring the environment for threats and predators).
+	- Explain the "nocturnal bottleneck" in mammalian evolution and why brains require an interrupt mechanism to periodically overcome concentration.
+- **Distinguish concentration from vigilance**
+	- Describe how the nervous system balances deep goal-directed focus (**concentration**) against sudden environmental alarms (**vigilance**).
+	- Contrast this biological interrupt architecture with digital computer interrupt signals.
+- **Distinguish bottom-up vs. top-down attentional control**
+	- Define *bottom-up (exogenous / stimulus-driven)* attention: rapid, involuntary, triggered by sensory contrast/salience (e.g., sudden dog bark, abrupt visual onset).
+	- Define *top-down (endogenous / goal-directed)* attention: voluntary, slower, driven by intentions, tasks, and memory.
+- **Identify the three kinds of attentional selection**
+	- Distinguish between **spatial selection** (regions/locations), **feature selection** (colors, orientations, curves), and **object selection** (bounded perceptual entities).
+- **Explain why feature selection is compulsorily global**
+	- Explain why selecting a feature (e.g., "red") enhances that feature across the entire visual field rather than just within a restricted spatial sub-region.
+	- Relate global feature processing to the anatomical separation between the dorsal ("Where/How") and ventral ("What") visual pathways.
