@@ -5,7 +5,7 @@ title-slide-attributes:
   data-background-size: contain
   data-background-opacity: "0.4"
 author: "Alex Holcombe"
-date: 03-09-2024
+date: 01-Sep-2026
 format:
   revealjs:
     auto-stretch: false
@@ -41,7 +41,7 @@ https://www.youtube.com/embed/sXjoGtuAkNU?si=84n6LvMVW98ykm8y&amp;start=29
 [PDF version](https://alexholcombe.github.io/PSYC2016lectures/pdf/lecture2.pdf) of these slides
 
 
-## {background-image="images/bottleneck.png" background-size="contain" background-opacity=".2"}
+## 
 
 ![](images/responses/bottleneckClarity.png)
 
