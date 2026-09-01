@@ -12,10 +12,16 @@ import time
 import json
 import socket
 import struct
+import hashlib
 import base64
 import subprocess
 import urllib.request
 from urllib.parse import urlparse
+
+# How long (seconds) to wait for all images to load after page load event
+MAX_IMAGE_WAIT = 15
+# How long (seconds) to wait for Page.loadEventFired after navigation
+MAX_LOAD_WAIT = 30
 
 CHROME_CANDIDATES = [
     "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
@@ -38,6 +44,7 @@ def find_chrome():
     return None
 
 def send_ws_frame(sock, data_str):
+    """Send a masked WebSocket text frame."""
     payload = data_str.encode('utf-8')
     length = len(payload)
     mask = os.urandom(4)
@@ -52,6 +59,62 @@ def send_ws_frame(sock, data_str):
         masked[i] = payload[i] ^ mask[i % 4]
     sock.sendall(hdr + mask + masked)
 
+def recv_ws_frame(sock):
+    """Read a single WebSocket frame and return the payload bytes."""
+    hdr = b''
+    while len(hdr) < 2:
+        hdr += sock.recv(2 - len(hdr))
+    b0, b1 = hdr[0], hdr[1]
+    masked = bool(b1 & 0x80)
+    length = b1 & 0x7F
+    if length == 126:
+        ext = b''
+        while len(ext) < 2:
+            ext += sock.recv(2 - len(ext))
+        length = struct.unpack('!H', ext)[0]
+    elif length == 127:
+        ext = b''
+        while len(ext) < 8:
+            ext += sock.recv(8 - len(ext))
+        length = struct.unpack('!Q', ext)[0]
+    if masked:
+        mask_key = b''
+        while len(mask_key) < 4:
+            mask_key += sock.recv(4 - len(mask_key))
+    payload = b''
+    while len(payload) < length:
+        payload += sock.recv(length - len(payload))
+    if masked:
+        payload = bytearray(payload)
+        for i in range(len(payload)):
+            payload[i] ^= mask_key[i % 4]
+        payload = bytes(payload)
+    return payload
+
+def cdp_send(sock, msg_id, method, params=None):
+    """Send a CDP command over WebSocket."""
+    msg = {'id': msg_id, 'method': method}
+    if params:
+        msg['params'] = params
+    send_ws_frame(sock, json.dumps(msg))
+
+def cdp_recv_until(sock, predicate, timeout=30):
+    """Read WS frames until predicate(parsed_json) returns truthy, or timeout."""
+    sock.settimeout(timeout)
+    deadline = time.time() + timeout
+    messages = []
+    while time.time() < deadline:
+        try:
+            frame = recv_ws_frame(sock)
+            parsed = json.loads(frame.decode('utf-8', errors='replace'))
+            messages.append(parsed)
+            result = predicate(parsed)
+            if result:
+                return result, messages
+        except socket.timeout:
+            break
+    return None, messages
+
 def export_single_html_to_pdf(chrome_bin, html_file, out_pdf, port=9445):
     # Start Chrome with remote debugging
     cmd = [
@@ -63,7 +126,7 @@ def export_single_html_to_pdf(chrome_bin, html_file, out_pdf, port=9445):
         '--no-default-browser-check'
     ]
     proc = subprocess.Popen(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-    time.sleep(1.2)
+    time.sleep(1.5)
     
     try:
         url = f'file://{os.path.abspath(html_file)}?view=print'
@@ -94,46 +157,156 @@ def export_single_html_to_pdf(chrome_bin, html_file, out_pdf, port=9445):
                 break
             buf += chunk
         
-        # Allow time for reveal.js layout and image decoding
-        time.sleep(2.5)
+        # Enable Page domain events so we get Page.loadEventFired
+        cdp_send(sock, 10, 'Page.enable')
+        # Drain the response to Page.enable
+        cdp_recv_until(sock, lambda m: m.get('id') == 10, timeout=5)
+        
+        # Wait for Page.loadEventFired (the page may have already loaded, so also check)
+        print("    Waiting for page load...", flush=True)
+        cdp_recv_until(
+            sock,
+            lambda m: m.get('method') == 'Page.loadEventFired',
+            timeout=MAX_LOAD_WAIT
+        )
+        
+        # Now poll JavaScript to check that all images (including CSS background-image) are loaded
+        # This JS snippet checks:
+        # 1. All <img> elements have .complete == true and .naturalWidth > 0
+        # 2. All elements with a CSS background-image url() have had their images loaded
+        check_images_js = r"""
+        (function() {
+            // Check all <img> elements
+            var imgs = document.querySelectorAll('img');
+            for (var i = 0; i < imgs.length; i++) {
+                if (!imgs[i].complete || imgs[i].naturalWidth === 0) {
+                    return JSON.stringify({ready: false, reason: 'img not loaded: ' + imgs[i].src});
+                }
+            }
+            // Check all elements with CSS background-image
+            var allEls = document.querySelectorAll('*');
+            var bgUrls = [];
+            for (var j = 0; j < allEls.length; j++) {
+                var bg = getComputedStyle(allEls[j]).backgroundImage;
+                if (bg && bg !== 'none' && bg.indexOf('url(') !== -1) {
+                    // Extract URLs
+                    var matches = bg.match(/url\(["']?([^"')]+)["']?\)/g);
+                    if (matches) {
+                        for (var k = 0; k < matches.length; k++) {
+                            var u = matches[k].replace(/url\(["']?/, '').replace(/["']?\)/, '');
+                            if (u && u.indexOf('data:') !== 0) {
+                                bgUrls.push(u);
+                            }
+                        }
+                    }
+                }
+            }
+            // Verify background image URLs are fetchable/cached by creating Image objects
+            // (they should already be cached by the browser)
+            if (bgUrls.length > 0 && !window.__bgImagesChecked) {
+                window.__bgImagesChecked = true;
+                window.__bgImagesReady = false;
+                window.__bgImagesCount = bgUrls.length;
+                window.__bgImagesLoaded = 0;
+                for (var m = 0; m < bgUrls.length; m++) {
+                    var testImg = new Image();
+                    testImg.onload = function() {
+                        window.__bgImagesLoaded++;
+                        if (window.__bgImagesLoaded >= window.__bgImagesCount) {
+                            window.__bgImagesReady = true;
+                        }
+                    };
+                    testImg.onerror = function() {
+                        window.__bgImagesLoaded++;
+                        if (window.__bgImagesLoaded >= window.__bgImagesCount) {
+                            window.__bgImagesReady = true;
+                        }
+                    };
+                    testImg.src = bgUrls[m];
+                }
+                return JSON.stringify({ready: false, reason: 'checking ' + bgUrls.length + ' background images'});
+            }
+            if (window.__bgImagesChecked && !window.__bgImagesReady) {
+                return JSON.stringify({ready: false, reason: 'background images loading: ' + window.__bgImagesLoaded + '/' + window.__bgImagesCount});
+            }
+            return JSON.stringify({ready: true, imgCount: imgs.length, bgCount: bgUrls.length});
+        })()
+        """
+        
+        print("    Waiting for all images to load...", flush=True)
+        deadline = time.time() + MAX_IMAGE_WAIT
+        images_ready = False
+        while time.time() < deadline:
+            msg_id = 100 + int(time.time() * 10) % 10000
+            cdp_send(sock, msg_id, 'Runtime.evaluate', {
+                'expression': check_images_js,
+                'returnByValue': True
+            })
+            result, _ = cdp_recv_until(
+                sock,
+                lambda m: m.get('id') == msg_id,
+                timeout=5
+            )
+            if result:
+                try:
+                    val = result.get('result', {}).get('result', {}).get('value', '{}')
+                    status = json.loads(val)
+                    if status.get('ready'):
+                        print(f"    All images ready (img: {status.get('imgCount', '?')}, bg: {status.get('bgCount', '?')})", flush=True)
+                        images_ready = True
+                        break
+                    else:
+                        print(f"    ... {status.get('reason', 'waiting')}", flush=True)
+                except (json.JSONDecodeError, AttributeError):
+                    pass
+            time.sleep(0.5)
+        
+        if not images_ready:
+            print("    Warning: timed out waiting for images, proceeding anyway", flush=True)
+        
+        # Extra settle time for CSS rendering after images are decoded
+        time.sleep(1.0)
         
         # Issue printToPDF with background graphics enabled
-        msg = json.dumps({
-            'id': 1,
-            'method': 'Page.printToPDF',
-            'params': {
-                'printBackground': True,
-                'preferCSSPageSize': True,
-                'marginTop': 0,
-                'marginBottom': 0,
-                'marginLeft': 0,
-                'marginRight': 0
-            }
+        cdp_send(sock, 1, 'Page.printToPDF', {
+            'printBackground': True,
+            'preferCSSPageSize': True,
+            'marginTop': 0,
+            'marginBottom': 0,
+            'marginLeft': 0,
+            'marginRight': 0
         })
-        send_ws_frame(sock, msg)
         
-        # Read WebSocket response until id:1 data is found
-        raw = b''
-        sock.settimeout(60)
+        # Read WebSocket response - the PDF data can be very large
+        # so we need to accumulate frames and parse the full JSON
+        print("    Generating PDF...", flush=True)
+        sock.settimeout(120)
+        accumulated = b''
         while True:
-            chunk = sock.recv(65536)
-            if not chunk:
+            try:
+                frame = recv_ws_frame(sock)
+                accumulated += frame
+                # Try to parse as JSON - if it works and has our id, we're done
+                try:
+                    resp = json.loads(accumulated.decode('utf-8', errors='replace'))
+                    if resp.get('id') == 1 and 'result' in resp:
+                        b64_data = resp['result'].get('data', '')
+                        if b64_data:
+                            pdf_bytes = base64.b64decode(b64_data)
+                            with open(out_pdf, 'wb') as f:
+                                f.write(pdf_bytes)
+                            return True
+                        return False
+                except (json.JSONDecodeError, UnicodeDecodeError):
+                    # Incomplete - keep reading frames
+                    continue
+            except socket.timeout:
+                print("    Warning: timeout reading PDF response", flush=True)
                 break
-            raw += chunk
-            if b'"id":1' in raw and b'"data":"' in raw:
-                idx_data = raw.find(b'"data":"')
-                if idx_data != -1:
-                    end_quote = raw.find(b'"', idx_data + 8)
-                    if end_quote != -1:
-                        b64_data = raw[idx_data + 8:end_quote].decode('utf-8')
-                        pdf_bytes = base64.b64decode(b64_data)
-                        with open(out_pdf, 'wb') as f:
-                            f.write(pdf_bytes)
-                        return True
     finally:
         try:
             proc.terminate()
-            proc.wait(timeout=2)
+            proc.wait(timeout=3)
         except Exception:
             pass
     return False

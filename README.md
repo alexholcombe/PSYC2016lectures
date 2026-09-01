@@ -10,7 +10,7 @@ So whenever I push to github here, the new version will be published.
 
 ## Generating PDF versions
 
-Whenever you re-render your Quarto presentations, simply run ./export_to_pdf.sh from the
+ run ./export_to_pdf.sh from the
   PSYC2016_lectures_Quarto folder. It saves them to docs/PDFS/.
 
 agy spent a bunch of time working this out and figuring out to get background-images included. 
