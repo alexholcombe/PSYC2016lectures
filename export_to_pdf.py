@@ -110,7 +110,7 @@ def cdp_recv_until(sock, predicate, timeout=30):
             messages.append(parsed)
             result = predicate(parsed)
             if result:
-                return result, messages
+                return parsed, messages
         except socket.timeout:
             break
     return None, messages
@@ -176,60 +176,36 @@ def export_single_html_to_pdf(chrome_bin, html_file, out_pdf, port=9445):
         # 2. All elements with a CSS background-image url() have had their images loaded
         check_images_js = r"""
         (function() {
-            // Check all <img> elements
+            // 1. Check all <img> elements are loaded
             var imgs = document.querySelectorAll('img');
             for (var i = 0; i < imgs.length; i++) {
-                if (!imgs[i].complete || imgs[i].naturalWidth === 0) {
-                    return JSON.stringify({ready: false, reason: 'img not loaded: ' + imgs[i].src});
+                if (!imgs[i].complete) {
+                    return JSON.stringify({ready: false, reason: 'img loading: ' + (imgs[i].src || '').slice(-60)});
                 }
             }
-            // Check all elements with CSS background-image
-            var allEls = document.querySelectorAll('*');
-            var bgUrls = [];
-            for (var j = 0; j < allEls.length; j++) {
-                var bg = getComputedStyle(allEls[j]).backgroundImage;
-                if (bg && bg !== 'none' && bg.indexOf('url(') !== -1) {
-                    // Extract URLs
-                    var matches = bg.match(/url\(["']?([^"')]+)["']?\)/g);
-                    if (matches) {
-                        for (var k = 0; k < matches.length; k++) {
-                            var u = matches[k].replace(/url\(["']?/, '').replace(/["']?\)/, '');
-                            if (u && u.indexOf('data:') !== 0) {
-                                bgUrls.push(u);
-                            }
-                        }
-                    }
+            // 2. Check Reveal.js slide-background elements
+            //    These have inline style background-image set by Reveal.js
+            var bgEls = document.querySelectorAll('.slide-background-content');
+            var pending = 0;
+            for (var j = 0; j < bgEls.length; j++) {
+                var bg = bgEls[j].style.backgroundImage;
+                if (!bg || bg === 'none') continue;
+                // Use a cached probe Image on the element
+                if (!bgEls[j].__probeImg) {
+                    var url = bg.replace(/^url\(["']?/, '').replace(/["']?\)$/, '');
+                    if (!url || url.indexOf('data:') === 0) continue;
+                    var probe = new Image();
+                    probe.src = url;
+                    bgEls[j].__probeImg = probe;
+                }
+                if (!bgEls[j].__probeImg.complete) {
+                    pending++;
                 }
             }
-            // Verify background image URLs are fetchable/cached by creating Image objects
-            // (they should already be cached by the browser)
-            if (bgUrls.length > 0 && !window.__bgImagesChecked) {
-                window.__bgImagesChecked = true;
-                window.__bgImagesReady = false;
-                window.__bgImagesCount = bgUrls.length;
-                window.__bgImagesLoaded = 0;
-                for (var m = 0; m < bgUrls.length; m++) {
-                    var testImg = new Image();
-                    testImg.onload = function() {
-                        window.__bgImagesLoaded++;
-                        if (window.__bgImagesLoaded >= window.__bgImagesCount) {
-                            window.__bgImagesReady = true;
-                        }
-                    };
-                    testImg.onerror = function() {
-                        window.__bgImagesLoaded++;
-                        if (window.__bgImagesLoaded >= window.__bgImagesCount) {
-                            window.__bgImagesReady = true;
-                        }
-                    };
-                    testImg.src = bgUrls[m];
-                }
-                return JSON.stringify({ready: false, reason: 'checking ' + bgUrls.length + ' background images'});
+            if (pending > 0) {
+                return JSON.stringify({ready: false, reason: pending + ' background images still loading'});
             }
-            if (window.__bgImagesChecked && !window.__bgImagesReady) {
-                return JSON.stringify({ready: false, reason: 'background images loading: ' + window.__bgImagesLoaded + '/' + window.__bgImagesCount});
-            }
-            return JSON.stringify({ready: true, imgCount: imgs.length, bgCount: bgUrls.length});
+            return JSON.stringify({ready: true, imgCount: imgs.length, bgCount: bgEls.length});
         })()
         """
         
