@@ -35,9 +35,15 @@ One reason our brains have a vigilance system is:
   E) To better digest vegetables
 -->
 
-##
+## Top-down combines with bottom-up (Ch. 5)
 
-LECTURE LIKELY ENDS HERE
+![](images/brainBottomupTopdownTheeuwesFailing.png)
+
+::: notes
+What we attend to reflects a combination of things we are voluntarily (endogenously) directing our attention to and things that exogenously capture our attention 
+:::
+
+WHAT DISCONTINUITY
 
 ## Ways to select a stimulus
 
@@ -323,6 +329,33 @@ Wolfe et al. ([2011](https://www.sciencedirect.com/science/article/pii/S13646613
 
 -   ![](images/NonselectivePathwayWolfeEtAl2011.png){width="45%"}
 
+## <!--bottleneck student question -->
+
+![](images/responses/isBottleneckSuitableAnalogy.png)
+
+- Unlike highway bottlenecks, pre-bottleneck stimuli constantly being replaced
+
+- That's how the two-letter experiment worked, new letters were rapidly coming in and replaced the ones that were previously pre-bottleneck
+
+::: notes
+Be constantly being replaced by new sensory stimuli
+That's actually how the two-letter experiment worked, new letters were rapidly coming in and replaced the ones that were previously pre-bottleneck
+:::
+
+##
+
+ForceQuitQuestion2026.png
+
+lect2ch5oneOfTheMainPoints.png
+
+lect2AnsToQuestions.png
+
+## What distracted you?
+
+DistractedYouReading6groups2026.png
+
+
+"People leaving", "People talking outside", "friend sniffling"
 
 ## "What most often distracts you during a lecture?" {background-image="images/notificationDetoxPhoneOnly.png" background-opacity=0.3}
 
@@ -344,42 +377,6 @@ What happens when we eliminate the top 2?
 
 <!--Talk about classification into categories, from distraction lecture-->
  
-## Distraction experiment {background-image="images/usingTheStopwatch.jpeg" background-opacity=0.3 background-size="200px"}
-<BR>
-
--   Put your phone on airplane mode.
--   Turn off notifications on your computer.
--   Start the phone stopwatch (typically on Android phones, in Clock).
--   Press "lap" every time you can't help yourself and you check social media, think about something other than what you're reading, or otherwise get off task.
-
-::: notes :::
-You should be reading the mini-text anyway, so why not let it do double duty as a self-insight exercise.
-::: 
-
-## Let's spend X minutes silently reading Chapter 7, and 8 if you finish
-
-<BR>
-Press 'lap' every time you get distracted.
-
-::: notes
-Then we'll answer some questions to enter our data, and about Chapter 7
-
-I know not everyone is going to do the exercise but please don't interfere with other people.
-Start the stopwatch "NOW"
-:::
-
-
-## Distraction experiment results {background-image="images/surveyEndOfLecture.png" background-opacity="0.5"}
-
-<BR>
-
--   How many times did you press 'lap'?
-
-
-::: notes :::
-Menti: DistractionExperiment and End of lecture survey - didn't understand; main point, other comments
-:::
-
 ## 
 
 ![](images/surveyEndOfLecture.png)
