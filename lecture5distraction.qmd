@@ -42,6 +42,11 @@ Our animal natures
 Now we can think in more informed way about distraction
 :::
 
+## Some things CALEB OWENS said
+
+Can't multitask
+
+Listening to music impairs attention
 
 ## Outline of Lectures 1-4 {.smaller background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
 
@@ -562,44 +567,6 @@ alex.holcombe@sydney.edu.au
 But I know it's not just me who finds it really cool that can..
 :::
 
-## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
-
-::: columns
-::: {.column width="40%"}
-
--   When we find something rewarding/worthwhile, ideally we **exploit** it
--   But exploration is also a drive
-    -   The *yin* to exploitation's *yang*
-    -   The **explore/exploit trade-off**
-    
-<BR>
-
--   Vigilance is more about threats than about exploration
-
-
-:::
-
-::: {.column width="60%"}
-
-![](images/exploreExploitRestaurantChoice.jpg)
-
-:::
-:::
-
-::: notes :::
-Many animals, including us, have a drive to explore the world and gather information about it.
-Vigilance is more about threats
-:::
-
-## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
-
-![](images/exploreExploitRestaurantChoice.jpg){width=60%}
-
-<BR><BR>
-**Exploitation** - using known information to get rewards
-
-<BR>
-**Exploration** - exploring the environment to look for new information/rewards
 
 
 

@@ -5,7 +5,7 @@ title-slide-attributes:
   data-background-size: contain
   data-background-opacity: "0.5"
 author: "Alex Holcombe"
-date: 05-09-2024
+date: 03-09-2026
 format: 
   revealjs:
     incremental: true
@@ -34,6 +34,114 @@ One reason our brains have a vigilance system is:
   D) To improve invigilation during exams
   E) To better digest vegetables
 -->
+
+## 
+
+[PDF](https://alexholcombe.github.io/PSYC2016lectures/pdf/lecture3.pdf) of these slides
+
+(some of the images may not be included; I am working on fixing this)
+
+<!----------------- LECTURE 2 CLEAN-UP ------------------------>
+<!----------------- ------------------ ------------------------>
+
+## <!--bottleneck student question --> {background-image="images/bottleneck.png" background-size="contain" background-opacity=".2"}
+
+
+![](images/responses/isBottleneckSuitableAnalogy.png)
+
+- Unlike highway bottlenecks, pre-bottleneck stimuli are constantly replaced
+- In real life
+- In the two-letter experiment
+
+::: notes
+Be constantly being replaced by new sensory stimuli
+That's actually how the two-letter experiment worked, new letters were rapidly coming in and replaced the ones that were previously pre-bottleneck
+:::
+
+## {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+![](images/responses/ForceQuitQuestion2026.png)
+
+## {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+![](images/responses/lect2ch5oneOfTheMainPoints.png)
+
+## {background-image="images/responses/lect2AnsToQuestions.png" background-opacity="1"}
+
+
+## "What most often distracts you during a lecture?" {background-image="images/responses/whatMostOftenDistracts2026.png" background-size="contain" background-opacity=1}
+
+
+## Phone turned off {background-image="images/notificationDetoxPhoneOnly.png" background-opacity=0.3}
+
+
+## {background-image="images/responses/DistractedYouReading6groups2026.png" background-opacity="0.1"}
+
+
+## What distracted you? {background-image="images/notificationDetoxPhoneOnly.png" background-opacity=0.3}
+
+"People leaving", "People talking outside", "friend sniffling"
+
+::: notes
+Phone shouldn't have distracted
+:::
+
+
+
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+::: columns
+::: {.column width="40%"}
+
+-   When we find something rewarding/worthwhile, ideally we **exploit** it
+-   But exploration is also a drive
+    -   The *yin* to exploitation's *yang*
+    -   The **explore/exploit trade-off**
+    
+<BR>
+
+-   Vigilance is more about threats than about exploration
+
+
+:::
+
+::: {.column width="60%"}
+
+![](images/exploreExploitRestaurantChoice.jpg)
+
+:::
+:::
+
+::: notes :::
+Many animals, including us, have a drive to explore the world and gather information about it.
+Vigilance is more about threats
+:::
+
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+
+![](images/exploreExploitRestaurantChoice.jpg){width=60%}
+
+<BR><BR>
+**Exploitation** - using known information to get rewards
+
+<BR>
+**Exploration** - exploring the environment to look for new information/rewards
+
+
+## 
+
+![](images/statuesOfPeopleOnTheirPhones.jpg)
+
+So the phone obsession is also about exploiting what one already knows is interesting
+
+## {background-image="images/statuesOfPeopleOnTheirPhones.jpg" background-opacity=0.3}
+
+::: {.r-fit-text}
+What happens when we eliminate the top 2?
+:::
+
+<!--Talk about classification into categories, from distraction lecture-->
+ 
 
 ## Top-down combines with bottom-up (Ch. 5)
 
@@ -106,19 +214,18 @@ I ad-libbed about how it makes sense that object recognition doesn't need locati
 ## TODAY {background-image="images/monster.png" background-opacity="0.1"}
 
 ::: {.nonincremental}
--   Top-down vs. bottom-up attention (AKA endogenous vs exogenous)
 -   Location selection
 -   Feature selection
 -   Absence of combined selection
 :::
 
-
+::: notes
+This is all described in the textbook but it's a bit tricky so I'm going to lecture on it
+:::
 
 ## TODAY {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
 
 ::: {.nonincremental}
--   Understanding the hand-wave and monster onset
--   Top-down vs. bottom-up attention (Ch. 5)
 -   Parallel feature processing (Ch. 5, Ch. 7)
 -   Absence of feature pairing (Ch. 7)
 -   Feature integration theory (Ch. 9)
@@ -329,54 +436,7 @@ Wolfe et al. ([2011](https://www.sciencedirect.com/science/article/pii/S13646613
 
 -   ![](images/NonselectivePathwayWolfeEtAl2011.png){width="45%"}
 
-## <!--bottleneck student question -->
 
-![](images/responses/isBottleneckSuitableAnalogy.png)
-
-- Unlike highway bottlenecks, pre-bottleneck stimuli constantly being replaced
-
-- That's how the two-letter experiment worked, new letters were rapidly coming in and replaced the ones that were previously pre-bottleneck
-
-::: notes
-Be constantly being replaced by new sensory stimuli
-That's actually how the two-letter experiment worked, new letters were rapidly coming in and replaced the ones that were previously pre-bottleneck
-:::
-
-##
-
-ForceQuitQuestion2026.png
-
-lect2ch5oneOfTheMainPoints.png
-
-lect2AnsToQuestions.png
-
-## What distracted you?
-
-DistractedYouReading6groups2026.png
-
-
-"People leaving", "People talking outside", "friend sniffling"
-
-## "What most often distracts you during a lecture?" {background-image="images/notificationDetoxPhoneOnly.png" background-opacity=0.3}
-
-![](images/responses/WhatMostOftenDistractsYouDuringLecture2024.png){.r-stretch}
-
-## "What most often distracts you during a lecture?" 
-
-![](images/responses/WhatMostOftenDistractsYouDuringLecture2024.png)
-
-## 
-
-![](images/statuesOfPeopleOnTheirPhones.jpg)
-
-## {background-image="images/statuesOfPeopleOnTheirPhones.jpg" background-opacity=0.3}
-
-::: {.r-fit-text}
-What happens when we eliminate the top 2?
-:::
-
-<!--Talk about classification into categories, from distraction lecture-->
- 
 ## 
 
 ![](images/surveyEndOfLecture.png)
