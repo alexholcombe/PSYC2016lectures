@@ -39,7 +39,7 @@ One reason our brains have a vigilance system is:
 
 [PDF](https://alexholcombe.github.io/PSYC2016lectures/pdf/lecture3.pdf) of these slides
 
-(some of the images may not be included; I am working on fixing this)
+(some images may not be included / formatting may be weird; I am working on fixing this)
 
 <!----------------- LECTURE 2 CLEAN-UP ------------------------>
 <!----------------- ------------------ ------------------------>
@@ -65,9 +65,6 @@ That's actually how the two-letter experiment worked, new letters were rapidly c
 
 ![](images/responses/ForceQuitQuestion2026.png)
 
-## {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
-
-![](images/responses/lect2ch5oneOfTheMainPoints.png)
 
 ## {background-image="images/responses/lect2AnsToQuestions.png" background-opacity="1"}
 
@@ -333,9 +330,14 @@ Menti.com
 
 2795 8157
 
-##
+## {background-image="images/statuesOfPeopleOnTheirPhones.jpg" background-opacity=.06}
 
-Let's spend the next five minutes and finish reading / re-read Chapter 5
+Let's spend the next X minutes finishing reading / re-reading Chapter 5
+
+## Chapter 5 {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+![](images/responses/lect2ch5oneOfTheMainPoints.png)
+
 
 ## Top-down combines with bottom-up (Ch. 5)
 
