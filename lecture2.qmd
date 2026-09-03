@@ -8,7 +8,7 @@ author: "Alex Holcombe"
 date: 01-Sep-2026
 format:
   revealjs:
-    auto-stretch: false
+    auto-stretch: false #Otherwise manual image resize (e.g. width) doesn't work!
     incremental: true
     self-contained: false
     slide-number: c/t
@@ -38,7 +38,7 @@ https://www.youtube.com/embed/sXjoGtuAkNU?si=84n6LvMVW98ykm8y&amp;start=29
 
 ## 
 
-[PDF version](https://alexholcombe.github.io/PSYC2016lectures/pdf/lecture2.pdf) of these slides
+[PDF version](https://alexholcombe.github.io/PSYC2016lectures/pdf/lecture2.pdf) of these slides (some of the images may not be present; I have been working on fixing this)
 
 
 ## 

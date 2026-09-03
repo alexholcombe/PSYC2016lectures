@@ -9,11 +9,11 @@ date: 03-09-2026
 format: 
   revealjs:
     incremental: true
-    auto-stretch: false
+    auto-stretch: false #Otherwise manual image resize (e.g. width) doesn't work!
     self-contained: false
     slide-number: c/t
     logo: "images/threeWiseMonkeys/monkeyNoHearHeadOnly.jpeg"
-    footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
+    footer: "[](https://alexholcombe.github.io/PSYC2016lectures)"
     theme: ["simple", "styles.scss"]
     echo: true
     multiplex: false
@@ -35,7 +35,7 @@ One reason our brains have a vigilance system is:
   E) To better digest vegetables
 -->
 
-## 
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.08"}
 
 [PDF](https://alexholcombe.github.io/PSYC2016lectures/pdf/lecture3.pdf) of these slides
 
@@ -43,6 +43,9 @@ One reason our brains have a vigilance system is:
 
 <!----------------- LECTURE 2 CLEAN-UP ------------------------>
 <!----------------- ------------------ ------------------------>
+
+## LECTURE 2 review / clean-up {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.08"}
+
 
 ## <!--bottleneck student question --> {background-image="images/bottleneck.png" background-size="contain" background-opacity=".2"}
 
@@ -69,79 +72,270 @@ That's actually how the two-letter experiment worked, new letters were rapidly c
 ## {background-image="images/responses/lect2AnsToQuestions.png" background-opacity="1"}
 
 
+
 ## "What most often distracts you during a lecture?" {background-image="images/responses/whatMostOftenDistracts2026.png" background-size="contain" background-opacity=1}
 
 
-## Phone turned off {background-image="images/notificationDetoxPhoneOnly.png" background-opacity=0.3}
+## {background-image="images/notificationDetoxPhoneOnly.png" background-opacity=0.2}
 
-
-## {background-image="images/responses/DistractedYouReading6groups2026.png" background-opacity="0.1"}
-
-
-## What distracted you? {background-image="images/notificationDetoxPhoneOnly.png" background-opacity=0.3}
-
-"People leaving", "People talking outside", "friend sniffling"
+![](images/statuesOfPeopleOnTheirPhonesNoAlex.jpg)
 
 ::: notes
-Phone shouldn't have distracted
-:::
-
-
-
-## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
-
-::: columns
-::: {.column width="40%"}
-
--   When we find something rewarding/worthwhile, ideally we **exploit** it
--   But exploration is also a drive
-    -   The *yin* to exploitation's *yang*
-    -   The **explore/exploit trade-off**
-    
-<BR>
-
--   Vigilance is more about threats than about exploration
-
+This is a set of sculptures in Perth I came across a couple months ago.
+With statues we are used to seeing people looking off into the distance
+But making a realistic depiction of people today would have them all looking at their phones
+Clever of the artist to highlight that
 
 :::
 
-::: {.column width="60%"}
 
-![](images/exploreExploitRestaurantChoice.jpg)
+## {background-image="images/notificationDetoxPhoneOnly.png" background-opacity=0.2}
 
-:::
-:::
-
-::: notes :::
-Many animals, including us, have a drive to explore the world and gather information about it.
-Vigilance is more about threats
-:::
-
-## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
-
-![](images/exploreExploitRestaurantChoice.jpg){width=60%}
-
-<BR><BR>
-**Exploitation** - using known information to get rewards
-
-<BR>
-**Exploration** - exploring the environment to look for new information/rewards
-
-
-## 
 
 ![](images/statuesOfPeopleOnTheirPhones.jpg)
 
-So the phone obsession is also about exploiting what one already knows is interesting
+::: notes
+I needed a place to sit actually, so I joined them.
+Because we saw that phones are the top distraction,
 
-## {background-image="images/statuesOfPeopleOnTheirPhones.jpg" background-opacity=0.3}
-
-::: {.r-fit-text}
-What happens when we eliminate the top 2?
 :::
 
-<!--Talk about classification into categories, from distraction lecture-->
+## The in-class reading experiment {background-image="images/notificationDetoxPhoneOnly.png" background-opacity=0.3}
+
+We turned off the top 2: Phones and Computer notifications
+
+::: notes :::
+Because we already know that phones/computer notifications are the top 2 distractions, to learn more
+it's useful to turn the phones off and see what happens
+:::
+
+## {background-image="images/responses/whatMostOftenDistracts2026nophone.png" background-size="contain" background-opacity=1}
+
+
+::: notes :::
+Phones turned off for the experiment
+:::
+
+## {background-image="images/responses/DistractedYouReading6groups2026.png" background-opacity="1"}
+
+::: notes
+So we see that it's most often sensory things
+Recommend finding a quiet place to study
+:::
+
+## TODAY {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+-   [The in-class distraction study]{.grey} 
+-   Explore-exploit dilemma
+    - Understand what it means and the relation to habits
+    - Understand how a study showed its relation to learning a new task
+    - Know how it varies over the lifespan
+    - Know its connection to mind-wandering
+
+## Interruption of focus {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".2" }
+
+- [Vigilance]{.grey}
+- Drive for exploration
+
+::: notes
+We've talked about vigilance as one reason that animals like humans focus is interrupted.
+Now I'm going to tell you about another factor
+:::
+
+## {background-image="images/restaurants/thaiRestaurantsChatGPT.png" background-size="contain"}
+
+::: notes
+I asked ChatGPT to make an image of restaurant signs in Newtown. It actually made Newtown look fancier than it is, it doesn't give you the gritty feeling.
+How many have you have eaten a meal in Newtown?
+How many of you have eaten at the same place more than once? 5 times? 10 times?
+There must be at least 100 restaurants in Newtown, why are you eating at the same place so many timesss?
+:::
+
+## {background-image="images/restaurants/Thai-La-Ong.jpg" background-size="contain"}
+
+::: notes
+I've fallen into the same behavior pattern. This is my go-to place.
+:::
+
+## {background-image="images/exploreExploit/exploreExploitRestaurantChoice.jpg" background-size="contain"}
+
+
+::: notes
+Throughout our lives, we will all face this in multiple contexts.
+There is some source of reward or sustenance, in this case a restaurant, that has provided for us before.
+But there are others out there that could be better.
+
+This is a kind of trap that many of us fall into
+We've talked about vigilance as one reason that animals like humans focus is interrupted.
+Now I'm going to tell you about another factor
+:::
+
+## The explore/exploit dilemma {background-image="images/exploreExploit/exploreExploitRestaurantChoice.jpg" background-opacity=".3"}
+
+We must choose between
+
+  - the action that we estimate will yield the best consequence (highest value)
+  - trying an action of unknown or less certain value. 
+
+## The explore/exploit dilemma {background-image="images/exploreExploit/exploreExploitRestaurantChoice.jpg" background-opacity=".2"}
+
+-   When we find something rewarding/worthwhile, it makes sense to **exploit** it
+-   A known source of reward can be a sure thing
+-   Associative/reinforcement learning pulls us toward those
+-   To facilitate discovery of better options, we have a *drive to explore*
+
+::: notes :::
+Many animals, including us, have a drive to explore the world and gather information about it.
+:::
+
+
+## {background-image="images/exploreExploit/exploreExploitRestaurantChoice.jpg" background-opacity=".05"}
+
+![](images/exploreExploit/exploreExploitDevelopmental.png)
+
+- First: explore the possibilities
+
+<!-- https://52aces.com/blog/exploration-exploitation-dilemma/ -->
+
+## Mind-wandering {.smaller background-image="images/exploreExploit/exploreExploitRestaurantChoice.jpg" background-opacity=".05"}
+
+- Even when there's zero distractions, sometimes our mind wanders
+- ![](images/exploreExploit/SripadaMindwanderingExplore.png){width="700px"}
+- Partly due to drive for exploration
+
+
+## {background-image="images/exploreExploit/exploreExploitRestaurantChoice.jpg" background-opacity=".1"}
+
+Too much exploitation
+
+  - rely on suboptimal options and seldom discover higher-reward options
+
+Too much exploration
+
+  - waste time exploring the possibilities without getting a sure-thing reward
+
+## Lab study of explore-exploit {.smaller background-image="images/exploreExploit/exploreExploitRestaurantChoice.jpg" background-opacity=".05"}
+
+::: columns
+::: {.column width="60%"}
+
+Stafford et al. (2012)
+
+Certain characteristics of movement yield points (reinforcement signal)
+
+Could be:
+
+- a ‘hotspot’
+- relative motion anywhere in absolute space, such as a line or circle
+- could reflect movement timing, e.g. speed, regardless of its spatial characteristics
+
+<!-- The task is to discover what characteristics of movement which evoke the reinforcement signal. The target may be defined in terms of absolute spatial position, in which case it is a ‘hotspot’, or in terms of a relative motion anywhere in absolute space, such as a line or circle. The target can even be related to the timing of the movement, e.g. onset or speed, regardless of its spatial characteristics. The success of many real-life actions will depend on all of these components. For different experiments with the task the reinforcement criteria can be defined in terms of one or more of these dimensions, so it is possible to investigate the discovery of different components of an action. When one target has been learnt the reinforcement criteria are simply changed and a new action has to be discovered. This therefore affords the requirements of repeated measures. Although participants are not naive to the whole task, they must learn a new action each time the target is changed.
+-->
+
+:::
+
+::: {.column width="35%"}
+
+![](images/exploreExploit/StaffordFig1.png)
+
+:::
+:::
+
+
+## {.smaller background-image="images/exploreExploit/exploreExploitRestaurantChoice.jpg" background-opacity=".08"}
+
+Not maximizing performance during early task practice = superior subsequent performance. 
+
+![Greater exploration associated with improved performance, across different participants.](images/exploreExploit/Fig7StaffordPlosONEfixed.png){width="650px"}
+
+
+
+<!--Figure 7. Greater exploration associated with improved performance, across different participants.
+https://doi.org/10.1371/journal.pone.0037749.g007 
+Indeed, one might even expect that expert learners would adopt an early exploration strategy in order to maximize final performance.
+https://journals.sagepub.com/doi/abs/10.1177/0956797613511466
+-->
+
+## {.smaller background-image="images/exploreExploit/exploreExploitRestaurantChoice.jpg" background-opacity=".08"}
+
+Not maximizing performance during early task practice = superior subsequent performance. 
+
+![Greater exploration associated with improved performance, across different participants.](images/exploreExploit/Fig7StaffordPlosONE.png){width="650px"}
+
+
+## {.smaller background-image="images/exploreExploit/exploreExploitRestaurantChoice.jpg" background-opacity=".5"}
  
+![](images/restaurants/Thai-La-Ong.jpg){width="400px"}
+ 
+- ![](images/restaurants/eatClub.png)
+
+::: notes
+It artificially and temporarily increases the value of other places, to break you out of an ingrained exploitation
+ingrained habit
+:::
+
+## Vigilance is more about *threats* than general exploration {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".1"}
+
+::: columns
+::: {.column width="60%"}
+
+-   Behaviors and systems that support vigilance also support exploration
+    - Periodically scanning the environment
+    - Sensory systems that draw attention to new things
+
+:::
+
+::: {.column width="40%"}
+
+![](images/CardinalEatingThenLooksUp.gif)
+
+:::
+:::
+
+::: notes 
+So we have two quite different motives that have led us to the same behavior pattern
+and have sustained us continuing to have this vigilance system, crude alerting "smoke alarms"
+:::
+
+## {background-image="images/exploreExploit/exploreExploitRestaurantChoice.jpg" background-opacity=".01"}
+
+![](images/exploreExploitRestaurantChoice.jpg){width=60%}
+
+**Exploitation** - using known information to get rewards
+
+**Exploration** - exploring the environment to look for new information/rewards
+
+::: notes
+If we didn't have this drive, we would quickly zero in on just a few sources of reward and never do anything else until those were completely exhausted
+:::
+
+## {background-image="images/statuesOfPeopleOnTheirPhones.jpg" background-opacity=.3}
+
+- Our phone obsession is partly about exploiting what has already been shown to be rewarded
+
+- I have found countless rewarding things in my phone
+- I'd never been to this place in Perth = don't have much reward associated with looking around
+- Maybe our drive for exploration is not strong enough
+
+
+## TODAY {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
+
+-   [The in-class distraction study]{.grey} 
+-   Explore-exploit dilemma
+    - Understand what it means and the relation to habits
+    - Understand how a study showed its relation to learning a new task
+    - Know how it varies over the lifespan
+    - Know its connection to mind-wandering
+    
+## MENTIMETER {background-image="images/statuesOfPeopleOnTheirPhones.jpg" background-opacity=.06}
+
+Menti.com 
+
+2795 8157
+
+##
+
+Let's spend the next five minutes and finish reading / re-read Chapter 5
 
 ## Top-down combines with bottom-up (Ch. 5)
 
@@ -151,303 +345,17 @@ What happens when we eliminate the top 2?
 What we attend to reflects a combination of things we are voluntarily (endogenously) directing our attention to and things that exogenously capture our attention 
 :::
 
-WHAT DISCONTINUITY
-
-## Ways to select a stimulus
-
--   Spatial/object selection
--   Feature selection
-
-## Combinations of features can't be directly selected (Ch. 7)
-
--   Features are processed somewhat separately by the brain.
--   Conjoining them requires a capacity-limited process
-
-
-
-## Feature selection is compulsorily global (Ch. 7)
-
-::: notes
-next slide has demo
-:::
-
-## {background-image="images/redBlueFeatureLocationSelectionCantBeCombined.png"}
-
-::: notes
-Need to make better (sparser?) version of this.
-
-Global facilitation of attended features is obligatory and restricts divided attention. Anderson et al.
-They showed this with EEG 
-::: 
-
-## Feature selection is compulsorily global (Ch. 7) {background-image="images/redBlueFeatureLocationSelectionCantBeCombined.png" background-opacity="0.3"}
-
-Can't attend to red on left side while simultaneously attending to blue on right side.
-
-## Feature selection is compulsorily global  {background-image="images/redBlueFeatureLocationSelectionCantBeCombined.png" background-opacity="0.1"}
-
-The *combination* of location and feature selection can't be done.
-
-You can either select a simple feature everywhere (e.g., red objects),
-or select the stimuli in a particular region, but you can't combine those two abilities.
-
-## Global: Combining location and feature selection can't be done
-
-
-![](images/300px-Ventral-dorsal_streams.png){width="60%"}
-
-Separation of what and where pathways.
-
-* dorsal = parietal = where = location
-* ventral = temporal = what = object recognition
-
-## *Why* are Where and What separated? {background-image="images/300px-Ventral-dorsal_streams.png" background-opacity="0.1"}
-
--   Object recognition (What) doesn't need location information much
--   Where is good for action, doesn't need object identity much
-
-::: notes :::
-I ad-libbed about how it makes sense that object recognition doesn't need location information much, whereas location is more important for action.
-:::
-
-
-## TODAY {background-image="images/monster.png" background-opacity="0.1"}
-
-::: {.nonincremental}
--   Location selection
--   Feature selection
--   Absence of combined selection
-:::
-
-::: notes
-This is all described in the textbook but it's a bit tricky so I'm going to lecture on it
-:::
-
-## TODAY {background-image="images/threeWiseMonkeys/Three_Wise_Monkeys_640px.jpeg" background-opacity=".06"}
-
-::: {.nonincremental}
--   Parallel feature processing (Ch. 5, Ch. 7)
--   Absence of feature pairing (Ch. 7)
--   Feature integration theory (Ch. 9)
--   It feels like we see everything at once (Ch. 3.5)
--   Distraction experiment
-:::
-
-## Lecture 3 outline {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
-
-::: {.nonincremental}
-
-3. Treisman's diagram and combining features
-  -   Individual-feature salience is computed in parallel
-  -   Flat search slopes (parallel) vs. steep (serial)
-  -   Combining features from two different objects takes the longest, but even within an object takes awhile (both require focused attention)
-  -   It feels like we see everything at once
-  -   The mysterious non-selective pathway
-:::
-
-<!--  -   Shape
-    -   Combining oriented elements into a shape doesn't require focused attention
-      -   Uses sophisticated cues
-      -   Fast
-      -   Can combine many elements, oaveraging over noise
-    -   Combining that shape with a color does require focused attention
-  
-4. Change blindness-->
-
-
-
-## Parallel feature processing (Ch. 5 and 7)
-
-![](images/bluePopoutFromBookParallelSearchSection.png){width=70%}
-
-## Parallel feature processing {.smaller background-image="images/bluePopoutFromBookParallelSearchSection.png" background-opacity="0.15" background-size="contain"}
-
--   Visual cortex detects color difference
-    -   Processes whole visual field simultaneously
-    -   Oddball color signal propagates (salience)
-    -   Drives bottom-up attention
-
-
-## Parallel feature processing  {.smaller background-image="images/bluePopoutFromBookParallelSearchSection.png" background-opacity="0.05" background-size="contain"}
-
-![](images/salienceFromFIT.png){width="50%" .absolute bottom=30 left=0}
-
-<!-- -   Within a feature dimension, *salience* computation is massively parallel
-    -   "parallel" = simultaneously at many locations in the visual field
-    -   e.g. detecting a unique color
--->
-
-## Features {background-image="images/bluePopoutFromBookParallelSearchSection.png" background-opacity="0.02"}
-
--   Feature *dimension*s include color, motion, orientation
-    -   Feature *values*: red, blue for color
-    -   Feature *values*: leftward, downward for motion
-
-![](images/salienceFromFIT.png){width="50%" .absolute bottom=20 left=0}
-
-
-## Parallel processing 
-
-<BR>Odd feature values are salient
-
-
-![](images/parallelUniqueColorAndGraph.png){.absolute bottom=0}
-
-<!-- Make odd color displays fill the whole screen, otherwise my joke of "Have you found it yet?" doesn't work -->
-
-## Feature processing
-
--   *Within* a feature dimension, salience computation is massively parallel
--   Identifying feature *combinations* is *slow*.
-
-## Identifying feature combinations is slow {background-image="images/colorMotionBindingSlow.gif" background-size="contain"}
-
-[Chapter 8](https://psyc2016.whatanimalssee.com/bindingTime.html)
-
-## Identifying feature combinations is slow {.smaller}
-
-<BR>
-Possibly doesn't occur unless selective attention routes the features through the bottleneck.
-
-![](images/bottleneck.png){height="50%"}
-
-## From lecture 2, Didn't understand: {background-image="images/300px-Ventral-dorsal_streams.png" background-opacity="0.2" background-size="contain"}
-<BR>
-
-> The different brain regions responsible for object and feature selection
-
-What you need to know:
-
--   dorsal = parietal = where = location processing
--   ventral = temporal = what = object recognition
-
-## Feature integration theory of Treisman {.smaller}
-
-![](images/featureIntegrationTheorySchematic.png){width=70%}
-
-::: {.nonincremental}
--   *Within* a feature dimension, salience computation is massively parallel
--   Identifying feature combinations is slow.
-:::
-
-::: notes :::
-These two points explain many characteristics of visual search
-:::
-
-## Odd *pair* of features: *serial* processing
-
-<BR><BR>
-Get ready to look for the odd pair of features!
-
-
-
-::: notes :::
-Get ready to look for the odd pair of features
-:::
-
-##
-
-![](images/serialUniqueConjunction.png){.r-stretch}
-
-## Odd feature pair: *serial* processing
-
-![](images/serialUniqueConjunctionAndGraph.png)
-
-## Feature integration theory of Treisman
-
-![](images/featureIntegrationTheorySchematic.png){.r-stretch}
-
-## {background-image="images/hardQuiz.jpg" background-opacity="0.8"}
-
-::: notes :::
-See question in
-quizQuestionsDuringLecture.rtf
-:::
-
-## {background-image="images/hardQuiz.jpg" background-opacity="0.2"}
-
-<!--2023 According to Treisman's Feature Integration Theory, when search is serial, what is also true?
-
-A. It usually involves search for a single feature (such as "blue")
-
-B. The person has been distracted by a unique item
-
-C. Motion is one of the features involved
-
-D. Focused attention has to visit each location-->
-
-::: notes :::
-
-:::
-
-## Two letters > processing capacity
-
-![](images/HolcombeGoodbourn/GoodbournHolcombeStimSchematic.png){.r-stretch}
-
-## Two letters > processing capacity
-
-<BR><BR>
-![](images/HolcombeGoodbourn/GoodbournHolcombeSingleVersusDouble.png){width="30%"}
-
-::: notes
-Bottleneck - for letter identification
-:::
-
-## Feels like we see everything at once
-
--   "phenomenal content overflows cognitive access." - [Ned Block](https://royalsocietypublishing.org/doi/10.1098/rstb.2017.0353)
-    -   "phenomenal" consciousness
--   Chapter 3.5
-
-<!---   access consciousness 
--   ![](images/Alais.jpg){width=40%} -->
-
-::: notes ::: 
-Added to end of bottleneck chapter
-it *doesn't* feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn't feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don't give them time to move their attention around, the results suggest much processing is limited to only a few objects.
-:::
-
-## Feels like we see everything at once
-
-↑ How can we reconcile this with the bottleneck?
-
-<BR>
-
-1)   Attention shifts so quickly we don't notice it
-      -   The refrigerator light illusion.
-1)   Something's missing from our theories?
-
-::: notes ::: 
-
-Added to end of bottleneck chapter
-
-it *doesn't* feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn't feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don't give them time to move their attention around, the results suggest much processing is limited to only a few objects.
-
-The discrepancy between what people think they experience and what information they can report is sometimes referred to as the puzzle of phenomenal experience. The simultaneous experience of the entire visual field is labelled "phenomenal consciousness" and the more limited ability to report information about the contents of visual experience has been labelled "access consciousness" 
-
-Researchers can't yet fully explain the difference between phenomenal consciousness and access consciousness. However, they have discovered various visual processes that are *not* very capacity-limited, which can help account for some aspects of phenomenal consciousness. In the following chapters, we will go through some of these processes.
-:::
-
-## <!--Something's missing-->
-
-Wolfe et al. ([2011](https://www.sciencedirect.com/science/article/pii/S1364661310002536)):
-
-> there is a ‘selective’ path in which candidate objects must be individually selected for recognition and a **‘nonselective’** path in which information can be extracted from global and/or statistical information.
-
--   ![](images/NonselectivePathwayWolfeEtAl2011.png){width="45%"}
-
-
 ## 
 
-![](images/surveyEndOfLecture.png)
+To ask another question, go back to 
 
-##
+Menti.com 
 
-<!-- should have one study supporting the non-selective pathway, like perceiving the average facial expression-->
+2795 8157
 
-
-<!--There's a tension between simultaneous selection found by Goodbourn & Holcombe and that it takes time. So it seems the selection doesn't take much time, but rather a subsequent identification process, as hypothesized by Nishida -->
-
-
+::: notes
+Potentially go over those results
+Potentially go over previous mentimeter times interrupted
+:::
 
 
