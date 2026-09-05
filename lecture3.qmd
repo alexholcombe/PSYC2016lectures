@@ -22,8 +22,15 @@ format:
       data-background-color: "#447099"
 editor: source
 ---
-
 <!--sometimes have to turn multiplex false to load speaker notes -->
+
+<!-- In 2026 they loved this lecture, I was worried it would be too short but it wasn't because they asked so many questions, including about:
+- dating , whether explore/exploit applies to that
+- something that led me to talk about optimal foraging theory and how our primate ancestors had to decide when to move on to the next food source
+- choice overload
+
+- Only thing I would add is the baby chimp in Rwanda playing, discovering/exploring how it can move its body (don't forget to like and subscribe!)
+-->
 
 <!--
 One reason our brains have a vigilance system is:
@@ -238,6 +245,9 @@ Could be:
 :::
 :::
 
+<!-- Give this as reading 
+Since you're teaching, I think this is a neat real-world example of explore-exploit https://tomstafford.substack.com/p/striking-evidence-for-forced-experimentation
+-->
 
 ## {.smaller background-image="images/exploreExploit/exploreExploitRestaurantChoice.jpg" background-opacity=".08"}
 
@@ -247,17 +257,13 @@ Not maximizing performance during early task practice = superior subsequent perf
 
 
 
-<!--Figure 7. Greater exploration associated with improved performance, across different participants.
+<!--
+I changed the x-axis label because I thought it was wrong, but then Tom explaiend that the issue is that even though the vertical axis is labelled performance, higher is worse! But that's too hard for the students to keep straight so I'll stick with this.
+Figure 7. Greater exploration associated with improved performance, across different participants.
 https://doi.org/10.1371/journal.pone.0037749.g007 
 Indeed, one might even expect that expert learners would adopt an early exploration strategy in order to maximize final performance.
 https://journals.sagepub.com/doi/abs/10.1177/0956797613511466
 -->
-
-## {.smaller background-image="images/exploreExploit/exploreExploitRestaurantChoice.jpg" background-opacity=".08"}
-
-Not maximizing performance during early task practice = superior subsequent performance. 
-
-![Greater exploration associated with improved performance, across different participants.](images/exploreExploit/Fig7StaffordPlosONE.png){width="650px"}
 
 
 ## {.smaller background-image="images/exploreExploit/exploreExploitRestaurantChoice.jpg" background-opacity=".5"}

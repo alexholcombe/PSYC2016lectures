@@ -5,7 +5,7 @@ title-slide-attributes:
   data-background-size: contain
   data-background-opacity: "0.5"
 author: "Alex Holcombe"
-date: 9-09-2024
+date: 7-9-2026
 format: 
   revealjs:
     smaller: true
@@ -13,7 +13,7 @@ format:
     incremental: true
     self-contained: false
     slide-number: c/t
-    footer: "[PSYC2016: Attention](https://alexholcombe.github.io/PSYC2016lectures)"
+    footer: "[](https://alexholcombe.github.io/PSYC2016lectures)"
     theme: ["simple", "styles.scss"]
     echo: true
     multiplex: false #otherwise speaker notes sometimes doesn't work?
@@ -26,7 +26,6 @@ editor: source
 <!--2024 only got to mudsplashes, see below. Because also covered Shape.
 2023 notes I still had time at the end of the lecture despite 5 questions from the audience and hamming up the change blindness videos. But that's because too much syllogism and Grand illusion stuff
 -->
-
 
 
 ## Lecture 3 student question {background-image="images/puzzledFace.png" background-opacity="0.08"}
@@ -43,20 +42,32 @@ You are:
 
 [globalShape.html](globalShape.html)
 
-## {background-image="images/hardQuiz.jpg" background-opacity="0.9"}
-
-## {background-image="images/hardQuiz.jpg" background-opacity="0.2"}
+<!-- ## {background-image="images/hardQuiz.jpg" background-opacity="0.9"} -->
 
 ::: notes :::
-
+THIS IS IN THE MENTI "Grand illusion, blank screen sandwich
 Which is thought to be true?
 
 A. Combining features from different feature dimensions requires attention
 B. The ventral pathway is specialized for location information
 C. Detecting an odd feature within one feature dimension requires attention
 D. Peripheral vision is mostly better than central vision
-
 :::
+
+## Attention: a bridge between Perception and Cognition  {background-image="images/topicsPerceptionAttentionCognition2024.png" background-opacity="0.5" background-size="460px"}
+
+![](images/bottleneckPerceptionCognition.png){width="15%"}
+
+-   Our mental architecture is massively-parallel, followed by bottleneck(s)
+-   To deal with this architecture, we have:
+    -   Crude salience and alerting mechanisms
+    -   Guidance of attention by memory
+-   This helps explain distractions
+
+<!----------------------- ----------------  -------------------------------->
+<!----------------------- CHANGE BLINDNESS  -------------------------------->
+<!----------------------- ----4 lessons---  -------------------------------->
+<!----------------------- ----------------  -------------------------------->
 
 ## CHANGE BLINDNESS - [Chapter 6](https://psyc2016.whatanimalssee.com/twoPicChangeBlindness.html) {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
 
@@ -69,8 +80,9 @@ Points to "a grand illusion of visual experience"?
 
 ![](images/320px-IceCreamSandwich.jpg){width="50%" .absolute right=0 bottom=0}
 
-## Blank-screen sandwiches: Lessons {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.05"}
+## Blank-screen sandwiches: Lessons {background-image="images/320px-IceCreamSandwich.jpg" background-repeat="repeat" background-size="100px" background-opacity="0.05"}
 <BR>
+
 
 ::: {.nonincremental}
 -   Grand illusion of visual experience?
@@ -507,3 +519,9 @@ Occurred during film cut, where the entire scene suddenly changed - flicker
 To give them some real meat, it would be good to go through the REnsink change blindness search logic that indicates that people check 3-4 objects per cycle for change
 -->
 
+<!--
+## Inattentional blindness
+
+What is the difference between this and change blindness? 
+<--Hard to answer: Is not seeing something at all, as opposed to not seeing a change? But this seems dodgy because it is a change, that is sometimes the only reason you'd notice it. But no, they try to deliberately make it unusual enough (like a gorilla) that you'd notice it regardless of whether you encoded it as a change or not -->
+-->
