@@ -32,12 +32,14 @@ editor: source
 
 ## {.nonincremental .smallest  background-image="images/brainBottomupTopdownTheeuwesFailing.png" background-opacity="0.08"}
 
+::: {.nonincremental}
+
 - **Distinguish the ways a stimulus can be selected**
     - Contrast *bottom-up (salience-driven)* and *top-down (goal-directed)* attentional control.
     - Identify the types of top-down selection: spatial/location and feature selection.
 
 - **Explain why feature selection is global (Ch. 7)**
-    - State that attending to a feature (e.g., red) enhances that feature across the *entire* visual field, not just a restricted region.
+    - Know that attending to a feature (e.g., red) enhances that feature across the *entire* visual field, not just a restricted region.
     - Explain why you cannot simultaneously attend to red on the left and blue on the right.
     - Relate global feature processing to the anatomical separation of the dorsal ("Where") and ventral ("What") visual pathways.
 
@@ -51,7 +53,7 @@ editor: source
     - Distinguish *feature dimensions* (e.g., color, orientation, motion) from *feature values* (e.g., red, blue; leftward, downward).
 
 - **Explain why identifying feature *combinations* is slow (Ch. 7, 8, Tutorial)**
-    - Contrast flat (parallel) search slopes for single-feature targets with steep (serial) slopes for conjunction targets.
+    - Contrast flat (parallel) search slopes for single-feature targets with steep (serial) slopes for feature-pair targets.
     - Describe why combining features requires focused attention and is capacity-limited.
 
 - **Summarise Treisman's Feature Integration Theory (Ch. 9)**
@@ -59,6 +61,7 @@ editor: source
     - Explain how *illusory conjunctions* arise when features are incorrectly bound without focused attention.
     - Apply FIT to predict whether a given visual search will be easy (parallel) or difficult (serial).
 
+:::
 
 ## Lecture 4 {background-image="images/monster.png" background-opacity="0.1"}
 
@@ -138,7 +141,7 @@ I went to Coogee, and this is basically what it looked like.
 - ![](images/Wally.webp)
 
 ::: notes
-Does this remind anyone of their childhood?
+Does this remind anyone of their childhood? For those who don't know, you need to find this man
 Red-and-white horizontally striped shirt and hat, blue trousers
 A guy who skipped leg day. A guy who looks like he skipped upper body day, which I didn't think was a thing.
 :::
@@ -298,12 +301,15 @@ Possibly doesn't occur unless selective attention routes the features through th
 3. Treisman's diagram and combining features
   -   Individual-feature salience is computed in parallel
   -   Flat search slopes (parallel) vs. steep (serial)
-  -   Combining features from two different objects takes the longest, but even within an object takes awhile (both require focused attention)
-  -   It feels like we see everything at once
-  -   The mysterious non-selective pathway
+  -   Combining features may require attending to that location
+  
 :::
 
-<!--  -   Shape
+<!--
+Combining features  from two different objects takes the longest, but even within an object takes awhile (both require focused attention)
+  -   It feels like we see everything at once
+  -   The mysterious non-selective pathway
+  -   Shape
     -   Combining oriented elements into a shape doesn't require focused attention
       -   Uses sophisticated cues
       -   Fast
@@ -331,8 +337,6 @@ These two points explain many characteristics of visual search
 <BR><BR>
 Get ready to look for the odd pair of features!
 
-
-
 ::: notes :::
 Get ready to look for the odd pair of features
 :::
@@ -340,6 +344,9 @@ Get ready to look for the odd pair of features
 ##
 
 ![](images/serialUniqueConjunction.png){.r-stretch}
+::: notes :::
+Raise your hand when you find it
+:::
 
 ## Odd feature pair: *serial* processing
 
@@ -348,14 +355,30 @@ Get ready to look for the odd pair of features
 ## Feature integration theory of Treisman
 
 ![](images/featureIntegrationTheorySchematic.png){.r-stretch}
+
+## {background-image="images/wheresWallyBeach.jpg" background-opacity="1"}
+
+![](images/Wally.webp){width=40%}
+
+- Identifying combination of features is slow
+- Peripheral vision is low-resolution
+
+::: notes
+If you just look for the red stripes, that doesn't work.
+If you just look for a blue are, that doesn't work. It's the combination of red stripes and blue
+(talk about spatial arrangement later)
+:::
+
 ## {.nonincremental .smallest  background-image="images/brainBottomupTopdownTheeuwesFailing.png" background-opacity="0.08"}
+
+::: {.nonincremental}
 
 - **Distinguish the ways a stimulus can be selected**
     - Contrast *bottom-up (salience-driven)* and *top-down (goal-directed)* attentional control.
     - Identify the types of top-down selection: spatial/location and feature selection.
 
 - **Explain why feature selection is global (Ch. 7)**
-    - State that attending to a feature (e.g., red) enhances that feature across the *entire* visual field, not just a restricted region.
+    - Know that attending to a feature (e.g., red) enhances that feature across the *entire* visual field, not just a restricted region.
     - Explain why you cannot simultaneously attend to red on the left and blue on the right.
     - Relate global feature processing to the anatomical separation of the dorsal ("Where") and ventral ("What") visual pathways.
 
@@ -369,7 +392,7 @@ Get ready to look for the odd pair of features
     - Distinguish *feature dimensions* (e.g., color, orientation, motion) from *feature values* (e.g., red, blue; leftward, downward).
 
 - **Explain why identifying feature *combinations* is slow (Ch. 7, 8, Tutorial)**
-    - Contrast flat (parallel) search slopes for single-feature targets with steep (serial) slopes for conjunction targets.
+    - Contrast flat (parallel) search slopes for single-feature targets with steep (serial) slopes for feature-pair targets.
     - Describe why combining features requires focused attention and is capacity-limited.
 
 - **Summarise Treisman's Feature Integration Theory (Ch. 9)**
@@ -377,6 +400,7 @@ Get ready to look for the odd pair of features
     - Explain how *illusory conjunctions* arise when features are incorrectly bound without focused attention.
     - Apply FIT to predict whether a given visual search will be easy (parallel) or difficult (serial).
 
+:::
 
 ## {background-image="images/surveyEndOfLecture.png" background-opacity="0.2" background-size="contain"}
 

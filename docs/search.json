@@ -277,7 +277,7 @@
     "href": "lecture4.html#section-1",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "Distinguish the ways a stimulus can be selected\n\nContrast bottom-up (salience-driven) and top-down (goal-directed) attentional control.\nIdentify the types of top-down selection: spatial/location and feature selection.\n\nExplain why feature selection is global (Ch. 7)\n\nState that attending to a feature (e.g., red) enhances that feature across the entire visual field, not just a restricted region.\nExplain why you cannot simultaneously attend to red on the left and blue on the right.\nRelate global feature processing to the anatomical separation of the dorsal (“Where”) and ventral (“What”) visual pathways.\n\nExplain how bottom-up and top-down attention combine (Ch. 5)\n\nDescribe how voluntary goals can supplement or override bottom-up salience signals.\nGive examples of when salience alone is insufficient and top-down attention must step in.\n\nDescribe parallel processing of individual features (Ch. 5, 7)\n\nDefine parallel processing as simultaneous processing across many locations in the visual field.\nExplain how a unique feature value (e.g., an oddball color or orientation) generates a salient signal that pops out, driving bottom-up attention.\nDistinguish feature dimensions (e.g., color, orientation, motion) from feature values (e.g., red, blue; leftward, downward).\n\nExplain why identifying feature combinations is slow (Ch. 7, 8, Tutorial)\n\nContrast flat (parallel) search slopes for single-feature targets with steep (serial) slopes for conjunction targets.\nDescribe why combining features requires focused attention and is capacity-limited.\n\nSummarise Treisman’s Feature Integration Theory (Ch. 9)\n\nOutline the FIT model: a pre-attentive stage that computes feature maps in parallel, followed by an attentive stage that binds features at a location.\nExplain how illusory conjunctions arise when features are incorrectly bound without focused attention.\nApply FIT to predict whether a given visual search will be easy (parallel) or difficult (serial)."
+    "text": "Distinguish the ways a stimulus can be selected\n\nContrast bottom-up (salience-driven) and top-down (goal-directed) attentional control.\nIdentify the types of top-down selection: spatial/location and feature selection.\n\nExplain why feature selection is global (Ch. 7)\n\nKnow that attending to a feature (e.g., red) enhances that feature across the entire visual field, not just a restricted region.\nExplain why you cannot simultaneously attend to red on the left and blue on the right.\nRelate global feature processing to the anatomical separation of the dorsal (“Where”) and ventral (“What”) visual pathways.\n\nExplain how bottom-up and top-down attention combine (Ch. 5)\n\nDescribe how voluntary goals can supplement or override bottom-up salience signals.\nGive examples of when salience alone is insufficient and top-down attention must step in.\n\nDescribe parallel processing of individual features (Ch. 5, 7)\n\nDefine parallel processing as simultaneous processing across many locations in the visual field.\nExplain how a unique feature value (e.g., an oddball color or orientation) generates a salient signal that pops out, driving bottom-up attention.\nDistinguish feature dimensions (e.g., color, orientation, motion) from feature values (e.g., red, blue; leftward, downward).\n\nExplain why identifying feature combinations is slow (Ch. 7, 8, Tutorial)\n\nContrast flat (parallel) search slopes for single-feature targets with steep (serial) slopes for feature-pair targets.\nDescribe why combining features requires focused attention and is capacity-limited.\n\nSummarise Treisman’s Feature Integration Theory (Ch. 9)\n\nOutline the FIT model: a pre-attentive stage that computes feature maps in parallel, followed by an attentive stage that binds features at a location.\nExplain how illusory conjunctions arise when features are incorrectly bound without focused attention.\nApply FIT to predict whether a given visual search will be easy (parallel) or difficult (serial)."
   },
   {
     "objectID": "lecture4.html#change-blindness---chapter-6",
@@ -368,7 +368,7 @@
     "href": "lecture4.html#section-3",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "Does this remind anyone of their childhood? Red-and-white horizontally striped shirt and hat, blue trousers A guy who skipped leg day. A guy who looks like he skipped upper body day, which I didn’t think was a thing."
+    "text": "Does this remind anyone of their childhood? For those who don’t know, you need to find this man Red-and-white horizontally striped shirt and hat, blue trousers A guy who skipped leg day. A guy who looks like he skipped upper body day, which I didn’t think was a thing."
   },
   {
     "objectID": "lecture4.html#section-4",
@@ -480,28 +480,28 @@
     "href": "lecture4.html#section-9",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "Treisman’s diagram and combining features\n\n\nIndividual-feature salience is computed in parallel\nFlat search slopes (parallel) vs. steep (serial)\nCombining features from two different objects takes the longest, but even within an object takes awhile (both require focused attention)\nIt feels like we see everything at once\nThe mysterious non-selective pathway"
+    "text": "Treisman’s diagram and combining features\n\n\nIndividual-feature salience is computed in parallel\nFlat search slopes (parallel) vs. steep (serial)\nCombining features may require attending to that location"
   },
   {
     "objectID": "lecture4.html#section-10",
     "href": "lecture4.html#section-10",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "4538 2627"
+    "text": "::: notes ::: Raise your hand when you find it :::"
   },
   {
     "objectID": "lecture4.html#section-11",
     "href": "lecture4.html#section-11",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "4538 2627"
+    "text": "Identifying combination of features is slow\nPeripheral vision is low-resolution\n\n\nIf you just look for the red stripes, that doesn’t work. If you just look for a blue are, that doesn’t work. It’s the combination of red stripes and blue (talk about spatial arrangement later)"
   },
   {
     "objectID": "lecture4.html#section-12",
     "href": "lecture4.html#section-12",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "Wolfe et al. (2011):\n\nthere is a ‘selective’ path in which candidate objects must be individually selected for recognition and a ‘nonselective’ path in which information can be extracted from global and/or statistical information."
+    "text": "Distinguish the ways a stimulus can be selected\n\nContrast bottom-up (salience-driven) and top-down (goal-directed) attentional control.\nIdentify the types of top-down selection: spatial/location and feature selection.\n\nExplain why feature selection is global (Ch. 7)\n\nKnow that attending to a feature (e.g., red) enhances that feature across the entire visual field, not just a restricted region.\nExplain why you cannot simultaneously attend to red on the left and blue on the right.\nRelate global feature processing to the anatomical separation of the dorsal (“Where”) and ventral (“What”) visual pathways.\n\nExplain how bottom-up and top-down attention combine (Ch. 5)\n\nDescribe how voluntary goals can supplement or override bottom-up salience signals.\nGive examples of when salience alone is insufficient and top-down attention must step in.\n\nDescribe parallel processing of individual features (Ch. 5, 7)\n\nDefine parallel processing as simultaneous processing across many locations in the visual field.\nExplain how a unique feature value (e.g., an oddball color or orientation) generates a salient signal that pops out, driving bottom-up attention.\nDistinguish feature dimensions (e.g., color, orientation, motion) from feature values (e.g., red, blue; leftward, downward).\n\nExplain why identifying feature combinations is slow (Ch. 7, 8, Tutorial)\n\nContrast flat (parallel) search slopes for single-feature targets with steep (serial) slopes for feature-pair targets.\nDescribe why combining features requires focused attention and is capacity-limited.\n\nSummarise Treisman’s Feature Integration Theory (Ch. 9)\n\nOutline the FIT model: a pre-attentive stage that computes feature maps in parallel, followed by an attentive stage that binds features at a location.\nExplain how illusory conjunctions arise when features are incorrectly bound without focused attention.\nApply FIT to predict whether a given visual search will be easy (parallel) or difficult (serial)."
   },
   {
     "objectID": "lecture4.html#gradual-changes",
@@ -541,9 +541,9 @@
   {
     "objectID": "lecture4.html#section-13",
     "href": "lecture4.html#section-13",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 4",
     "section": "",
-    "text": "–&gt;"
+    "text": "4538 2627"
   },
   {
     "objectID": "lecture4.html#section-14",
@@ -3469,7 +3469,7 @@
     "href": "lecture4.html#feature-integration-theory-of-treisman-1",
     "title": "Attention Lecture 4",
     "section": "Feature integration theory of Treisman",
-    "text": "Feature integration theory of Treisman\n ## {.nonincremental .smallest background-image=“images/brainBottomupTopdownTheeuwesFailing.png” background-opacity=“0.08”}\n\nDistinguish the ways a stimulus can be selected\n\nContrast bottom-up (salience-driven) and top-down (goal-directed) attentional control.\nIdentify the types of top-down selection: spatial/location and feature selection.\n\nExplain why feature selection is global (Ch. 7)\n\nState that attending to a feature (e.g., red) enhances that feature across the entire visual field, not just a restricted region.\nExplain why you cannot simultaneously attend to red on the left and blue on the right.\nRelate global feature processing to the anatomical separation of the dorsal (“Where”) and ventral (“What”) visual pathways.\n\nExplain how bottom-up and top-down attention combine (Ch. 5)\n\nDescribe how voluntary goals can supplement or override bottom-up salience signals.\nGive examples of when salience alone is insufficient and top-down attention must step in.\n\nDescribe parallel processing of individual features (Ch. 5, 7)\n\nDefine parallel processing as simultaneous processing across many locations in the visual field.\nExplain how a unique feature value (e.g., an oddball color or orientation) generates a salient signal that pops out, driving bottom-up attention.\nDistinguish feature dimensions (e.g., color, orientation, motion) from feature values (e.g., red, blue; leftward, downward).\n\nExplain why identifying feature combinations is slow (Ch. 7, 8, Tutorial)\n\nContrast flat (parallel) search slopes for single-feature targets with steep (serial) slopes for conjunction targets.\nDescribe why combining features requires focused attention and is capacity-limited.\n\nSummarise Treisman’s Feature Integration Theory (Ch. 9)\n\nOutline the FIT model: a pre-attentive stage that computes feature maps in parallel, followed by an attentive stage that binds features at a location.\nExplain how illusory conjunctions arise when features are incorrectly bound without focused attention.\nApply FIT to predict whether a given visual search will be easy (parallel) or difficult (serial)."
+    "text": "Feature integration theory of Treisman"
   },
   {
     "objectID": "lecture4.html#two-letters-processing-capacity",
