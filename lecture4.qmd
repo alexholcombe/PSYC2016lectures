@@ -30,7 +30,7 @@ editor: source
 
 (some of the images may not be included; I am working on fixing this)
 
-## {.nonincremental .smallest  background-image="images/brainBottomupTopdownTheeuwesFailing.png" background-opacity="0.08"}
+## Learning Outcomes {.nonincremental .smallest  background-image="images/brainBottomupTopdownTheeuwesFailing.png" background-opacity="0.08"}
 
 ::: {.nonincremental}
 
@@ -87,8 +87,8 @@ What we attend to reflects a combination of things we are voluntarily (endogenou
 
 We'll dive into:
 
-- How top-down goals step in when salience falls short
 - Details of how bottom-up salience works
+- How top-down goals step in when salience falls short
 
 ## Ways to select a stimulus {background-image="images/brainBottomupTopdownTheeuwesFailing.png" background-opacity="0.04"}
 <!-- {background-image="images/inspectorCartoon.png" background-size="100px" background-repeat="repeat" background-opacity="0.07"} -->
@@ -100,8 +100,11 @@ We'll dive into:
 
 ## Combinations of features can't be directly selected (Ch.7) {background-image="images/brainBottomupTopdownTheeuwesFailing.png" background-opacity="0.04"}
 
--   Features are processed somewhat separately by the brain.
--   Conjoining them requires a capacity-limited process
+-   Different feature dimensions are processed somewhat separately
+    -   Feature *dimension*s include color, motion, orientation
+    -   Feature *values*: red, blue for color; leftward, downward for motion
+-   Pairing them requires a capacity-limited process
+    -   Possibly serial
 
 
 ## Feature selection is global (Ch.7) {background-image="images/brainBottomupTopdownTheeuwesFailing.png" background-opacity="0.04"}
@@ -131,31 +134,8 @@ Global facilitation of an attended feature is obligatory and restricts dividing 
 
 <!--Anderson et al. showed this with EEG -->
 
-::: notes
-Did anyone go to the beach on Saturday?
-I went to Coogee, and this is basically what it looked like.
-:::
+[Sàenz, M., Buraĉas, G. T., & Boynton, G. M. (2003). Global feature-based attention for motion and color. Vision Research, 43(6), 629–637.]{.smallest}
 
-## {background-image="images/wheresWallyBeach.jpg" background-opacity="1"}
-
-- ![](images/Wally.webp)
-
-::: notes
-Does this remind anyone of their childhood? For those who don't know, you need to find this man
-Red-and-white horizontally striped shirt and hat, blue trousers
-A guy who skipped leg day. A guy who looks like he skipped upper body day, which I didn't think was a thing.
-:::
-<!-- glasses, Brown hair -->
-
-## {background-image="images/wheresWallyBeach.jpg" background-opacity="1"}
-
-![](images/Wally.webp)
-
-::: notes
-If you just look for the red stripes, that doesn't work.
-If you just look for a blue are, that doesn't work. It's the combination of red stripes and blue
-(talk about spatial arrangement later)
-:::
 
 ## Feature selection is global {background-image="colorSelectionDemo/colorSelectnScreenshot.png" background-opacity="0.05"}
 
@@ -192,7 +172,7 @@ it makes sense that object recognition doesn't need location information much, w
 Great that can confirm that with neural network research
 :::
 
-## Lecture 4a {background-image="images/bottleneck.png" background-size="contain" background-opacity=".1"}
+## Lecture 4 {background-image="images/bottleneck.png" background-size="contain" background-opacity=".1"}
 
 ::: {.nonincremental}
 -   Processing of some features is parallel (Ch. 5, Ch. 7)
@@ -203,6 +183,23 @@ Great that can confirm that with neural network research
 <!--
 -   It feels like we see everything at once (Ch. 3.5)
 -->
+
+::: notes
+Did anyone go to the beach on Saturday?
+I did. While not an actual photo of ,  this is how crowded it was.
+:::
+
+## {background-image="images/wheresWallyBeach.jpg" background-opacity="1"}
+
+- ![](images/Wally.webp)
+
+::: notes
+Does this remind anyone of their childhood? For those who don't know, you need to find this man
+Red-and-white horizontally striped shirt and hat, blue trousers
+A guy who skipped leg day. A guy who looks like he skipped upper body day, which I didn't think was a thing.
+:::
+<!-- glasses, Brown hair -->
+
 
 ## Parallel feature processing (Ch.5,7)
 
@@ -223,7 +220,7 @@ Have you found it yet?
     -   If I tell you to look for blue, you activate blue things in your visual field
     -   Difference in color from the others
 
-## {background-image="images/linePopoutFromPopoutDemo.png" background-opacity="1" }
+## Parallel feature processing {background-image="images/linePopoutFromPopoutDemo.png" background-opacity="1" }
 
 ::: notes
 OK, so there's actually a line tilted to the right somewhere among all these lines.
@@ -294,7 +291,17 @@ Possibly doesn't occur unless selective attention routes the features through th
 
 ![](images/bottleneck.png){height="50%"}
 
-## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.07"}
+## {background-image="images/wheresWallyBeach.jpg" background-opacity="1"}
+
+![](images/Wally.webp)
+
+::: notes
+If you just look for the red stripes, that doesn't work.
+If you just look for a blue area, that doesn't work. It's the combination of red stripes and blue
+(talk about spatial arrangement later)
+:::
+
+## {background-image="images/wheresWallyBeach.jpg" background-opacity="0.08"}
 
 ::: {.nonincremental}
 
