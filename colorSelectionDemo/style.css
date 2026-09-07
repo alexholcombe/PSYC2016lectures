@@ -16,7 +16,7 @@ html, body { height: 100%; overflow: hidden; font-family: Arial, sans-serif; }
 }
 .crosshair { position: absolute; background: #000; }
 .crosshair.horizontal { top: 40%; left: 0; width: 150%; height: 10px; transform: translateY(-0.5px); }
-.crosshair.vertical { left: 50%; top: 0; width: 10px; height: 100%; transform: translateX(-0.5px); }
+/*.crosshair.vertical { left: 50%; top: 0; width: 10px; height: 100%; transform: translateX(-0.5px); }*/
 /* Bottom control bar */
 .control-bar {
   position: absolute;

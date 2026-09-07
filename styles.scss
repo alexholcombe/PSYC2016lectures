@@ -2,6 +2,23 @@
 
 /*-- scss:rules --*/
 
+.smaller {
+  font-size: 0.7em;
+  line-height: 1.2;
+}
+/* Addresses problem that spacing between wrapped-lines continues despite line-height instruction above*/
+.smaller { 
+  display: inline-block;
+}
+.smallest {
+  font-size: 0.4em;
+  line-height: 1.1;
+}
+/* Addresses problem that spacing between wrapped-lines continues despite line-height instruction above*/
+.smallest { 
+  display: inline-block;
+}
+
 /* define a class to make text grey */
 .grey {
   color: #777;

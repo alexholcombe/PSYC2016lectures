@@ -53,7 +53,7 @@ function drawField(ctx, count, colour) {
     ctx.arc(p.x, p.y, config.radius, 0, Math.PI * 2);
     ctx.fill();
   }
-  ctx.globalAlpha = 1;
+  ctx.globalAlpha = .5;
 }
 
 function drawDots() {
@@ -110,9 +110,9 @@ function bindControls() {
   document.getElementById('resetBtn').addEventListener('click', () => {
     const defaults = {
       numDots: 900,
-      alpha: 1,
-      redLevel: 200,
-      blueLevel: 200,
+      alpha: .5,
+      redLevel: 220,
+      blueLevel: 255,
       radius: 9,
     };
     Object.assign(config, defaults);

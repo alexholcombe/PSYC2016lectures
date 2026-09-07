@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Line Segment Demo</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <canvas id="mainCanvas"></canvas>
+  <div class="control-bar">
+    <div class="slider-row">
+      <label>
+        Refresh rate (Hz)
+        <input type="range" id="refreshRate" min="0" max="20" step="0.1" value="0" />
+        <span id="refreshRateVal">0</span>
+      </label>
+      <label>
+        Line length (px)
+        <input type="range" id="lineLength" min="1" max="200" value="50" />
+        <span id="lineLengthVal">50</span>
+      </label>
+      <label>
+        Number of lines
+        <input type="range" id="numLines" min="10" max="2000" value="200" />
+        <span id="numLinesVal">200</span>
+      </label>
+      <label>
+        Entropy (0‑1)
+        <input type="range" id="entropy" min="0" max="1" step="0.01" value="0" />
+        <span id="entropyVal">0</span>
+      </label>
+      <label>
+        Line width (px)
+        <input type="range" id="lineWidth" min="0" max="10" step="1" value="1" />
+        <span id="lineWidthVal">1</span>
+      </label>
+      <label>
+        Mode
+        <select id="orientationSelect">
+          <option value="orientation" selected>orientation</option>
+          <option value="conjunction">conjunction</option>
+        </select>
+      </label>
+    </div>
+    <button id="resetBtn">Reset</button>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
