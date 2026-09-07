@@ -1,0 +1,31 @@
+---
+title: "Learning Outcomes - Lecture 4: Feature Selection & Feature Integration"
+format: html
+---
+
+- **Distinguish the ways a stimulus can be selected**
+    - Contrast *bottom-up (salience-driven)* and *top-down (goal-directed)* attentional control.
+    - Identify the three types of top-down selection: spatial/location, feature, and object selection.
+
+- **Explain how bottom-up and top-down attention combine (Ch. 5)**
+    - Describe how voluntary goals can supplement or override bottom-up salience signals.
+    - Give examples of when salience alone is insufficient and top-down attention must step in.
+
+- **Explain why feature selection is global (Ch. 7)**
+    - State that attending to a feature (e.g., red) enhances that feature across the *entire* visual field, not just a restricted region.
+    - Explain why you cannot simultaneously attend to red on the left and blue on the right.
+    - Relate global feature processing to the anatomical separation of the dorsal ("Where") and ventral ("What") visual pathways.
+
+- **Describe parallel processing of individual features (Ch. 5, 7)**
+    - Define *parallel processing* as simultaneous processing across many locations in the visual field.
+    - Explain how a unique feature value (e.g., an oddball color or orientation) generates a salient signal that pops out, driving bottom-up attention.
+    - Distinguish *feature dimensions* (e.g., color, orientation, motion) from *feature values* (e.g., red, blue; leftward, downward).
+
+- **Explain why identifying feature *combinations* is slow (Ch. 7, 8)**
+    - Contrast flat (parallel) search slopes for single-feature targets with steep (serial) slopes for conjunction targets.
+    - Describe why combining features requires focused attention and is capacity-limited.
+
+- **Summarise Treisman's Feature Integration Theory (FIT) (Ch. 9)**
+    - Outline the FIT model: a pre-attentive stage that computes feature maps in parallel, followed by an attentive stage that binds features at a location.
+    - Explain how *illusory conjunctions* arise when features are incorrectly bound without focused attention.
+    - Apply FIT to predict whether a given visual search will be easy (parallel) or difficult (serial).
