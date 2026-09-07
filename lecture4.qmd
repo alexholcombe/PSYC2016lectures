@@ -321,7 +321,7 @@ Combining features  from two different objects takes the longest, but even withi
 
 ## Feature integration theory of Treisman {.smaller}
 
-![](images/featureIntegrationTheorySchematic.png){width=70%}
+![](images/featureIntegrationTheorySchematic.png){width=50%}
 
 ::: {.nonincremental}
 -   *Within* a feature dimension, salience computation is massively parallel
@@ -344,6 +344,7 @@ Get ready to look for the odd pair of features
 ##
 
 ![](images/serialUniqueConjunction.png){.r-stretch}
+
 ::: notes :::
 Raise your hand when you find it
 :::
@@ -354,7 +355,7 @@ Raise your hand when you find it
 
 ## Feature integration theory of Treisman
 
-![](images/featureIntegrationTheorySchematic.png){.r-stretch}
+![](images/featureIntegrationTheorySchematic.png){width=60%}
 
 ## {background-image="images/wheresWallyBeach.jpg" background-opacity="1"}
 
