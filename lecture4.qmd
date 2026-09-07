@@ -5,7 +5,7 @@ title-slide-attributes:
   data-background-size: contain
   data-background-opacity: "0.5"
 author: "Alex Holcombe"
-date: 07-09-2026
+date: 07-Sep-2026
 format: 
   revealjs:
     incremental: true
@@ -301,7 +301,7 @@ If you just look for a blue area, that doesn't work. It's the combination of red
 (talk about spatial arrangement later)
 :::
 
-## {background-image="images/wheresWallyBeach.jpg" background-opacity="0.08"}
+## {background-image="images/featureIntegrationTheorySchematic.png)" background-opacity="0.3"}
 
 ::: {.nonincremental}
 
@@ -328,7 +328,7 @@ Combining features  from two different objects takes the longest, but even withi
 
 ## Feature integration theory of Treisman {.smaller}
 
-![](images/featureIntegrationTheorySchematic.png){width=50%}
+![](images/featureIntegrationTheorySchematic.png){width=70%}
 
 ::: {.nonincremental}
 -   *Within* a feature dimension, salience computation is massively parallel
@@ -364,9 +364,8 @@ Raise your hand when you find it
 
 ![](images/featureIntegrationTheorySchematic.png){width=60%}
 
-## {background-image="images/wheresWallyBeach.jpg" background-opacity="1"}
+## {background-image="images/wheresWallyBeach.jpg" background-opacity=".7"}
 
-![](images/Wally.webp){width=40%}
 
 - Identifying combination of features is slow
 - Peripheral vision is low-resolution
