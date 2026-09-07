@@ -5,7 +5,7 @@ title-slide-attributes:
   data-background-size: contain
   data-background-opacity: "0.5"
 author: "Alex Holcombe"
-date: 7-9-2026
+date: 8-9-2026
 format: 
   revealjs:
     smaller: true
@@ -27,6 +27,7 @@ editor: source
 2023 notes I still had time at the end of the lecture despite 5 questions from the audience and hamming up the change blindness videos. But that's because too much syllogism and Grand illusion stuff
 -->
 
+The tutorial  has change blindness in it
 
 ## Lecture 3 student question {background-image="images/puzzledFace.png" background-opacity="0.08"}
 

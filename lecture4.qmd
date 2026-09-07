@@ -57,8 +57,7 @@ editor: source
     - Describe why combining features requires focused attention and is capacity-limited.
 
 - **Summarise Treisman's Feature Integration Theory (Ch. 9)**
-    - Outline the FIT model: a pre-attentive stage that computes feature maps in parallel, followed by an attentive stage that binds features at a location.
-    - Explain how *illusory conjunctions* arise when features are incorrectly bound without focused attention.
+    - Outline the FIT model: a pre-attentive stage that computes feature maps in parallel, followed by focused attention being needed to bind features at a location.
     - Apply FIT to predict whether a given visual search will be easy (parallel) or difficult (serial).
 
 :::
@@ -380,6 +379,16 @@ If you just look for a blue are, that doesn't work. It's the combination of red 
 
 ::: {.nonincremental}
 
+## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.08"}
+
+[PDF](https://alexholcombe.github.io/PSYC2016lectures/pdf/lecture4.pdf) of these slides
+
+(some of the images may not be included; I am working on fixing this)
+
+## Learning Outcomes {.nonincremental .smallest  background-image="images/brainBottomupTopdownTheeuwesFailing.png" background-opacity="0.08"}
+
+::: {.nonincremental}
+
 - **Distinguish the ways a stimulus can be selected**
     - Contrast *bottom-up (salience-driven)* and *top-down (goal-directed)* attentional control.
     - Identify the types of top-down selection: spatial/location and feature selection.
@@ -403,8 +412,7 @@ If you just look for a blue are, that doesn't work. It's the combination of red 
     - Describe why combining features requires focused attention and is capacity-limited.
 
 - **Summarise Treisman's Feature Integration Theory (Ch. 9)**
-    - Outline the FIT model: a pre-attentive stage that computes feature maps in parallel, followed by an attentive stage that binds features at a location.
-    - Explain how *illusory conjunctions* arise when features are incorrectly bound without focused attention.
+    - Outline the FIT model: a pre-attentive stage that computes feature maps in parallel, followed by focused attention being needed to bind features at a location.
     - Apply FIT to predict whether a given visual search will be easy (parallel) or difficult (serial).
 
 :::
