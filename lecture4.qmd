@@ -26,7 +26,7 @@ editor: source
 
 ## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.08"}
 
-[PDF](https://alexholcombe.github.io/PSYC2016lectures/pdf/lecture4a.pdf) of these slides
+[PDF](https://alexholcombe.github.io/PSYC2016lectures/pdf/lecture4.pdf) of these slides
 
 (some of the images may not be included; I am working on fixing this)
 
