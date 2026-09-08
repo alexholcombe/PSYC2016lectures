@@ -3,30 +3,56 @@ title: "Learning Outcomes - Lecture 5: Capacity Limits, Change Blindness & Inatt
 format: html
 ---
 
-- **Describe capacity limits of visual processing (Ch. 8, 9)**
+
+<!-- ============================================================ -->
+<!-- Condensed version: first-level points only (no sub-bullets). -->
+<!-- The detailed two-level version above was left unchanged.      -->
+<!-- ============================================================ -->
+
+## Learning outcomes {background-image="images/bottleneck.png" background-size="contain" background-opacity=".1"}
+
+1. **Review capacity limits of visual processing** (Ch. 8, 9)
+1. **Articulate the tension between subjective visual experience and processing limits** (Ch. 3.5)
+1. **Define change blindness, explain causes and the link with vigilance** (Ch. 6)
+1. **Evaluate the "grand illusion of visual experience" argument** (Ch. 13.4)
+1. **Explain the role of focused attention in change detection** (Ch. 6)
+1. **Define inattentional blindness and distinguish it from change blindness** (Ch. 13.4)
+
+<!-- The detailed two-level version, below       -->
+<!-- ============================================================ -->
+
+## Learning outcomes: Detailed {.smallest background-image="images/bottleneck.png" background-size="contain" background-opacity=".1"}
+
+::: {.fragment .nonincremental}
+
+1. **Review capacity limits of visual processing** (Ch. 8, 9)
     - Explain why identifying two simultaneous letters exceeds processing capacity, whereas detecting an oddball colour does not.
     - Distinguish tasks that can be processed in parallel (individual features) from those that require the limited-capacity bottleneck (feature combinations, letter/word identification).
 
-- **Articulate the tension between subjective visual experience and processing limits** (Ch.3.5)
+1. **Articulate the tension between subjective visual experience and processing limits** (Ch.3.5)
     - Explain why it *feels* like we see everything at once even though careful experiments reveal severe capacity limits.
     - Define *phenomenal consciousness* and explain Ned Block's claim that "phenomenal content overflows cognitive access".
 
-- **Define change blindness and explain what causes it** (Ch. 6)
+1. 1. **Define change blindness, explain causes and the link with vigilance** (Ch. 6)
     - Define change blindness and describe the blank-screen sandwich paradigm used to demonstrate it.
     - Explain the role of the **blank frame** in disrupting motion-detector signals, preventing the change location from being salient.
     - Explain why "mud splashes" produce a similar effect to the blank screen.
     - Explain why removing the blank frame allows changes to be detected
         - the change produces a *unique* sudden-motion signal.
 
-- **Evaluate the "grand illusion of visual experience" argument** (Ch. 13.4)
+1. **Evaluate the "grand illusion of visual experience" argument** (Ch. 13.4)
     - Reproduce the logical structure of the grand illusion argument (Premise 1, Premise 2, Conclusion) in your own words.
     - Identify which premise researchers have contested and why: having a visual experience of an object does not entail having (a) a stored prior representation or (b) a comparison process that would reveal a change.
 
-- **Explain the role of focused attention in change detection**
+1. **Explain the role of focused attention in change detection** (Ch. 6)
     - State that focused attention is required to hold onto a prior representation and/or to compare before-and-after representations.
-    - Link this to Feature Integration Theory: without focused attention, features are not fully bound and represented, making comparison impossible.
+    - Link this to Feature Integration Theory: without focused attention, features are not processed in some way, making comparison impossible.
 
-- **Define inattentional blindness and distinguish it from change blindness**
+1. **Define inattentional blindness and distinguish it from change blindness** (Ch. 13.4)
     - Define inattentional blindness as failing to notice a clearly visible, unexpected stimulus when attention is otherwise engaged.
     - Contrast with change blindness
         - Inattentional blindness does not require a blank screen or flicker — the missed object is continuously present.
+:::
+
+
+

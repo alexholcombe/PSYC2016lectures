@@ -39,15 +39,11 @@ You are:
 -   Simultaneously processing color, motion, but not their combination
 -   Extensively processing (through the bottleneck) one or a few objects at the location of your attention
 -   Doing additional processing that we don't understand through your non-selective pathway
--->
 
-<!--
 ## 2024 Combining features within a dimension
 
 [globalShape.html](globalShape.html)
--->
 
-::: notes :::
 THIS IS IN THE MENTI "Grand illusion, blank screen sandwich
 Which is thought to be true?
 
@@ -55,50 +51,72 @@ A. Combining features from different feature dimensions requires attention
 B. The ventral pathway is specialized for location information
 C. Detecting an odd feature within one feature dimension requires attention
 D. Peripheral vision is mostly better than central vision
+-->
+
+## Learning outcomes {background-image="images/bottleneck.png" background-size="contain" background-opacity=".1"}
+
+1. **Review capacity limits of visual processing** (Ch. 8, 9)
+1. **Articulate the tension between subjective visual experience and processing limits** (Ch. 3.5)
+1. **Define change blindness, explain causes and the link with vigilance** (Ch. 6)
+1. **Evaluate the "grand illusion of visual experience" argument** (Ch. 13.4)
+1. **Explain the role of focused attention in change detection** (Ch. 6)
+1. **Define inattentional blindness and distinguish it from change blindness** (Ch. 13.4)
+
+## Learning outcomes: Detailed {.smallest background-image="images/bottleneck.png" background-size="contain" background-opacity=".1"}
+
+::: {.fragment .nonincremental}
+
+1. **Review capacity limits of visual processing** (Ch. 8, 9)
+    - Explain why identifying two simultaneous letters exceeds processing capacity, whereas detecting an oddball colour does not.
+    - Distinguish tasks that can be processed in parallel (individual features) from those that require the limited-capacity bottleneck (feature combinations, letter/word identification).
+
+1. **Articulate the tension between subjective visual experience and processing limits** (Ch.3.5)
+    - Explain why it *feels* like we see everything at once even though careful experiments reveal severe capacity limits.
+    - Define *phenomenal consciousness* and explain Ned Block's claim that "phenomenal content overflows cognitive access".
+
+1. **Define change blindness, explain causes and the link with vigilance** (Ch. 6)
+    - Define change blindness and describe the blank-screen sandwich paradigm used to demonstrate it.
+    - Explain the role of the **blank frame** in disrupting motion-detector signals, preventing the change location from being salient.
+    - Explain why "mud splashes" produce a similar effect to the blank screen.
+    - Explain why removing the blank frame allows changes to be detected
+        - the change produces a *unique* sudden-motion signal.
+
+1. **Evaluate the "grand illusion of visual experience" argument** (Ch. 13.4)
+    - Reproduce the logical structure of the grand illusion argument (Premise 1, Premise 2, Conclusion) in your own words.
+    - Identify which premise researchers have contested and why: having a visual experience of an object does not entail having (a) a stored prior representation or (b) a comparison process that would reveal a change.
+
+1. **Explain the role of focused attention in change detection** (Ch. 6)
+    - State that focused attention is required to hold onto a prior representation and/or to compare before-and-after representations.
+    - Link this to Feature Integration Theory: without focused attention, features are not processed in some way, making comparison impossible.
+
+1. **Define inattentional blindness and distinguish it from change blindness** (Ch. 13.4)
+    - Define inattentional blindness as failing to notice a clearly visible, unexpected stimulus when attention is otherwise engaged.
+    - Contrast with change blindness
+        - Inattentional blindness does not require a blank screen or flicker — the missed object is continuously present.
 :::
 
-## Two letters can exceed processing capacity {background-image="images/bottleneck.png" background-size="contain" background-opacity=".1"}
 
-![](images/HolcombeGoodbourn/GoodbournHolcombeStimSchematic.png){.r-stretch}
-
-::: notes
-remember this movie from lecture 1?
-:::
 
 ## Two letters can exceed processing capacity {background-image="images/bottleneck.png" background-size="contain" background-opacity=".1"}
 
 ![Two letters](images/2targets4timesFaster.mp4)
 <!--dualStreamDemoPython3.py-->
 
-## Two letters can exceed processing capacity {background-image="images/bottleneck.png" background-size="contain" background-opacity=".1"}
-
-<BR><BR>
-![](images/HolcombeGoodbourn/GoodbournHolcombeSingleVersusDouble.png){width="30%"}
-
 ::: notes
-Bottleneck - for letter identification
+remember this movie from lecture 1?
+Bottleneck for letter identification
 :::
 
 ## Capacity is very limited for some things 
 
-- Letters (that don't make a word) or words
+- Letters (that don't make a word), or words
 
-## Capacity is very limited for some things {background-image="images/conjunctionRedRight.png" background-opacity=".5" }
+## Capacity is very limited for some things {background-image="images/conjunctionRedRight.png" background-opacity=".3" }
 
 - Letters (that don't make a word) or words
 - Other feature combinations
-  
-## {background-image="images/wheresWallyBeach.jpg" background-opacity=".5"}
 
-Limited capacity is *part* of the difficulty in finding Wally
-
-![](images/Wally.webp)
-
-::: notes
-But another part is that peripheral vision is crap. 
-:::
-
-## Capacity for some things is very limited, but
+## Capacity for some things is very limited, but {background-image="images/bottleneck.png" background-size="contain" background-opacity=".1"}
 
 Feels like we see everything at once
 
@@ -366,7 +384,7 @@ Or to do the comparison.
 Or both.
 :::
 
-## Linking back to vigilance {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".3"}
+## Link change blindness back to vigilance {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".3"}
 
 
 ## Blank screen sandwiches include a blank frame {background-image="images/wallabyCampsitePittwater.JPG" background-opacity=".15"}
@@ -418,11 +436,12 @@ No blank frame = unique sudden change
 Motion no longer informs us of the change
 :::
 
-## {background-image="images/320px-IceCreamSandwich.jpg" background-repeat="repeat" background-size="200px" background-opacity="0.05"}
+## The fly visual system {background-image="images/320px-IceCreamSandwich.jpg" background-repeat="repeat" background-size="200px" background-opacity="0.05"}
 
 ![](images/arrayOfMotionDetectorsEgelhaaf2013.png)
 
 ::: notes :::
+Only such simple animals we've fully worked out the circuitry
 This is actually a fly brain, but this aspect of the architecture is very similar to our own.
 
 We have motion detectors across the scene. In other words, they are pre-bottleneck.
@@ -442,7 +461,7 @@ Nulls the motion detectors
 - Failures to notice a change can be even more dramatic when people aren't expecting a change
 - Inattentional blindness refers to not noticing something that you would notice if you were actively looking for it
 
-## Inattentional blindness {background-image="images/gorillaVideoSnapshotNoGorilla.png" }
+## {background-image="images/gorillaVideoSnapshotNoGorilla.png" }
 
 ::: notes
 Raise your hand if you think you've seen this movie before
