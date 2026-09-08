@@ -107,7 +107,7 @@ remember this movie from lecture 1?
 Bottleneck for letter identification
 :::
 
-## Capacity is very limited for some things 
+## Capacity is very limited for some things {background-image="images/bottleneck.png" background-size="contain" background-opacity=".2"}
 
 - Letters (that don't make a word), or words
 
@@ -156,7 +156,7 @@ it *doesn't* feel like we can only process one thing at a time. As I write these
 <!----------------------- ----4 lessons---  -------------------------------->
 <!----------------------- ----------------  -------------------------------->
 
-## CHANGE BLINDNESS - [Chapter 6](https://psyc2016.whatanimalssee.com/twoPicChangeBlindness.html) {background-image="images/NedBlock.webp" background-opacity=".2"}
+## CHANGE BLINDNESS - [Ch. 6](https://psyc2016.whatanimalssee.com/twoPicChangeBlindness.html) {background-image="images/NedBlock.webp" background-opacity=".2"}
 
 <BR>
 Points to "a grand illusion of visual experience"?
