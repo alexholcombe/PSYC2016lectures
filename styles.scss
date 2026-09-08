@@ -49,7 +49,7 @@ ogressive revealing of long quotations like Wm James */
 .reveal .no-bullets li,                                                                                       
 .reveal ul.no-bullets,                                                                                        
 .reveal ul.no-bullets li {                                                                                    
-      list-style-type: none;                                                                                      
+      list-style-type: none !important;                                                                                      
   }  
 
 /* CALL-OUT NOTE customisation */

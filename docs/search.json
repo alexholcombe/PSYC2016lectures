@@ -473,7 +473,7 @@
     "href": "lecture4.html#section-8",
     "title": "Attention Lecture 4",
     "section": "",
-    "text": "Raise your hand when you find it"
+    "text": "Raise your hand when you find it. There’s actually two haha. Also a green horizontal near bottom right."
   },
   {
     "objectID": "lecture4.html#section-9",
@@ -3378,7 +3378,7 @@
     "href": "lecture4.html#why-are-where-and-what-separated",
     "title": "Attention Lecture 4",
     "section": "Why are Where and What separated?",
-    "text": "Why are Where and What separated?\n\nObject recognition (What) doesn’t need location information much\nWhere is good for action, doesn’t need object identity much\n\n\nHan, Z., & Sereno, A. (2023). Is it always computationally advantageous to use segregated pathways to process different visual stimulus attributes separately? Journal of Vision. https://doi.org/10.1167/jov.23.9.5020 \n\n\nit makes sense that object recognition doesn’t need location information much, whereas location is more important for action. Great that can confirm that with neural network research"
+    "text": "Why are Where and What separated?\n\nObject recognition (What) doesn’t need location information much\nWhere is good for action, doesn’t need object identity much\n\n\nHan, Z., & Sereno, A. (2023). Is it always computationally advantageous to use segregated pathways to process different visual stimulus attributes separately? Journal of Vision. https://doi.org/10.1167/jov.23.9.5020 \n\n\nit makes sense that object recognition doesn’t need location information much, whereas location is more important for action. Great that can confirm that with neural network research I NEED TO FIRM THIS UP BECAUSE I STRUGGLED To explain it in 2026"
   },
   {
     "objectID": "lecture4.html#lecture-4a",
@@ -3537,9 +3537,9 @@
   {
     "objectID": "lecture5.html#two-letters-processing-capacity",
     "href": "lecture5.html#two-letters-processing-capacity",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Two letters > processing capacity",
-    "text": "Two letters &gt; processing capacity"
+    "text": "Two letters &gt; processing capacity\n \n\nBottleneck - for letter identification"
   },
   {
     "objectID": "lecture5.html#two-letters-processing-capacity-1",
@@ -3551,9 +3551,9 @@
   {
     "objectID": "lecture5.html#feels-like-we-see-everything-at-once",
     "href": "lecture5.html#feels-like-we-see-everything-at-once",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Feels like we see everything at once",
-    "text": "Feels like we see everything at once\n\n“phenomenal content overflows cognitive access.” - Ned Block\n\n“phenomenal” consciousness\n\nChapter 3.5\n\n\n\nAdded to end of bottleneck chapter it doesn’t feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn’t feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don’t give them time to move their attention around, the results suggest much processing is limited to only a few objects."
+    "text": "Feels like we see everything at once\n↑ How can we reconcile this with the bottleneck?\n\n\nAttention shifts so quickly we don’t notice it\n\nThe refrigerator light illusion.\n\nSomething’s missing from our theories?\n\n\nAdded to end of bottleneck chapter (Ch3.5)\nit doesn’t feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn’t feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don’t give them time to move their attention around, the results suggest much processing is limited to only a few objects.\nThe discrepancy between what people think they experience and what information they can report is sometimes referred to as the puzzle of phenomenal experience. The simultaneous experience of the entire visual field is labelled “phenomenal consciousness” and the more limited ability to report information about the contents of visual experience has been labelled “access consciousness”\nResearchers can’t yet fully explain the difference between phenomenal consciousness and access consciousness. However, they have discovered various visual processes that are not very capacity-limited, which can help account for some aspects of phenomenal consciousness. In the following chapters, we will go through some of these processes."
   },
   {
     "objectID": "lecture5.html#feels-like-we-see-everything-at-once-1",
@@ -3565,296 +3565,296 @@
   {
     "objectID": "lecture5.html#section",
     "href": "lecture5.html#section",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "",
-    "text": "Wolfe et al. (2011):\n\nthere is a ‘selective’ path in which candidate objects must be individually selected for recognition and a ‘nonselective’ path in which information can be extracted from global and/or statistical information."
+    "text": "Limited capacity is part of the difficulty in finding Wally\n\n\nBut another part is that peripheral vision is crap."
   },
   {
     "objectID": "lecture5.html#attention-a-bridge-between-perception-and-cognition",
     "href": "lecture5.html#attention-a-bridge-between-perception-and-cognition",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Attention: a bridge between Perception and Cognition",
-    "text": "Attention: a bridge between Perception and Cognition\n\n\nOur mental architecture is massively-parallel, followed by bottleneck(s)\nTo deal with this architecture, we have:\n\nCrude salience and alerting mechanisms\nGuidance of attention by memory\n\nThis helps explain distractions"
+    "text": "Attention: a bridge between Perception and Cognition\n\n\nOur mental architecture is massively-parallel, followed by bottleneck(s)\nTo deal with this architecture, we have:\n\nCrude salience and alerting mechanisms\nGuidance of attention by memory\n\nThis helps explain distractions\n\n\n\n–&gt;"
   },
   {
     "objectID": "lecture5.html#change-blindness---chapter-6",
     "href": "lecture5.html#change-blindness---chapter-6",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "CHANGE BLINDNESS - Chapter 6",
     "text": "CHANGE BLINDNESS - Chapter 6\n Points to “a grand illusion of visual experience”?"
   },
   {
     "objectID": "lecture5.html#blank-screen-sandwiches",
     "href": "lecture5.html#blank-screen-sandwiches",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Blank screen sandwiches",
-    "text": "Blank screen sandwiches"
+    "text": "Blank screen sandwiches\n\n\n\n\n\n\n\nIs there anything better than an ice-cream sandwich to each, or a blank-screen sandwich in a psychology class? Well, mybe chocolate brownies warm out of the oven with ice cream are better? That’s what I had for Father’s Day. But I digress."
   },
   {
     "objectID": "lecture5.html#blank-screen-sandwiches-lessons",
     "href": "lecture5.html#blank-screen-sandwiches-lessons",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Blank-screen sandwiches: Lessons",
-    "text": "Blank-screen sandwiches: Lessons\n\n\nGrand illusion of visual experience?\nPeripheral vision\nMotion detectors\n\nBlank screen\nGradual changes\n\nMemory\n\n\nAs well as shedding light on this idea, CB Number of insights into the processes that determine whether we notice things"
+    "text": "Blank-screen sandwiches: Lessons\n\n\nGrand illusion of visual experience?\nPeripheral vision\nMotion detectors\n\nBlank screen\nGradual changes\n\nMemory"
   },
   {
     "objectID": "lecture5.html#find-the-change",
     "href": "lecture5.html#find-the-change",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Find the change",
     "text": "Find the change\n\n\nRaise your hand when you see the change"
   },
   {
     "objectID": "lecture5.html#section-3",
     "href": "lecture5.html#section-3",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "",
-    "text": "Raise your hand when you see the change"
+    "text": "Premise 1 was part of the argument for the grand illusion\nPremise 1 is highly questionable\nThis argument for the “grand illusion” is not great!\nMaybe we do experience the whole scene, rather than it being an illusion"
   },
   {
     "objectID": "lecture5.html#change-blindness",
     "href": "lecture5.html#change-blindness",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Change blindness",
-    "text": "Change blindness\n Be able to explain why it inspired the “grand illusion of visual experience” theory"
+    "text": "Change blindness\n\n\n\nBe able to explain why it inspired the “grand illusion of visual experience” theory"
   },
   {
     "objectID": "lecture5.html#it-feels-like-we-see-everything-at-once",
     "href": "lecture5.html#it-feels-like-we-see-everything-at-once",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "It feels like we see everything at once",
-    "text": "It feels like we see everything at once\n\nBut, change blindness!\nSo, we’re wrong that we see everything simultaneously.\n\nThere’s a “grand illusion of visual experience”\nIt’s like the refrigerator light illusion"
+    "text": "It feels like we see everything at once\n\nBut, change blindness!\nSo, we’re wrong that we see everything simultaneously.\n\nThere’s a “grand illusion of visual experience”\nMuch like the refrigerator light illusion"
   },
   {
     "objectID": "lecture5.html#argument-for-the-grand-illusion",
     "href": "lecture5.html#argument-for-the-grand-illusion",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Argument for “the grand illusion”",
-    "text": "Argument for “the grand illusion”\n\n\nPremise 1. If you visually experience most of a scene’s objects, you will notice major changes to them.\nPremise 2. You don’t detect major changes to most objects in a scene (in the blank-screen sandwich movies).\nConclusion. Therefore, you don’t visually experience most objects in a scene.\n\n\n\nIf A, then B.\nB is not true.\nTherefore, A is not true.\n\n\nA bad habit that most of us have is that we rarely spell out the reasons for our beliefs very carefully. If you negate the consequent, the antecedent must be false. If A, then B. Not B. Therefore, not A."
+    "text": "Argument for “the grand illusion”\n\n\nPremise 1. If you visually experience most of a scene’s objects, you will notice major changes to them.\nPremise 2. You don’t detect major changes to most objects in a scene (blank-screen sandwiches).\nConclusion. Therefore, you don’t visually experience most objects in a scene.\n\n\n\nIf A, then B.\nB is not true.\nTherefore, A is not true.\n\n\nA bad habit that most of us have is that we rarely spell out the reasons for our beliefs very carefully. If you negate the consequent, the antecedent must be false. If A, then B. Not B. Therefore, not A."
   },
   {
     "objectID": "lecture5.html#menti.com",
     "href": "lecture5.html#menti.com",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Menti.com",
-    "text": "Menti.com\n\nAnswer a question about the “grand illusion of visual experience” argument.\n\nGrand illusion argument logic\nI agree with the conclusion Premise 1 is false Premise 2 is false Premise 2 does not negate the consequent of Premise 1. Something else."
+    "text": "Menti.com\n8890 2133\n\nAnswer questions about the “grand illusion of visual experience” argument.\n\nGrand illusion argument logic\nI agree with the conclusion Premise 1 is false Premise 2 is false Premise 2 does not negate the consequent of Premise 1. Something else."
   },
   {
     "objectID": "lecture5.html#argument-for-the-grand-illusion-1",
     "href": "lecture5.html#argument-for-the-grand-illusion-1",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Argument for “the grand illusion”",
-    "text": "Argument for “the grand illusion”\n\nPremise 1. If you visually experience most of a scene’s objects, you will notice major changes to them.\nPremise 2. You don’t detect major changes to most objects in a scene (in the blank-screen sandwich movies).\nConclusion. Therefore, you don’t visually experience most objects in a scene.\n\nResearchers have mostly contested premise 1."
+    "text": "Argument for “the grand illusion”\n\n\nPremise 1. If you visually experience most of a scene’s objects, you will notice major changes to them.\nPremise 2. You don’t detect major changes to most objects in a scene (blank-screen sandwiches).\nConclusion. Therefore, you don’t visually experience most objects in a scene.\n\n\n\nIf A, then B.\nB is not true.\nTherefore, A is not true.\n\n\nSTRIKE-THROUGH B If you negate the consequent, the antecedent must be false."
   },
   {
     "objectID": "lecture5.html#needed-to-detect-a-change",
     "href": "lecture5.html#needed-to-detect-a-change",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Needed to detect a change",
-    "text": "Needed to detect a change\n\n\nInternal representations of the object before and after the change.\nA process that compares the before representation to the after.\nA process that calls attention to, or brings into conscious awareness, the comparison results.\n\n\n\nPremise 1. If you visually experience most of a scene’s objects, you will notice major changes to them.\n\nDoes having visual experience of all the objects in a scene mean you also have 1 and 2?\n\n\n\n\nDoes visually experiencing most of a scene’s objects entail having what’s necessary to detect a change? In other words, is it possible to have visual experience without having one of these? In that case, you can There’s a lot of text here, so let’s simplify"
+    "text": "Needed to detect a change\n\nInternal representations of the object before and after the change.\nA process that compares the before representation to the after.\nA process that calls attention to, or brings into conscious awareness, the comparison results.\n\n\n\nPremise 1. If you visually experience most of a scene’s objects, you will notice major changes to them.\n\nDoes having visual experience of all the objects in a scene mean you also have 1 and 2?\n\n\n\n\nDoes visually experiencing most of a scene’s objects entail having what’s necessary to detect a change? In other words, is it possible to have visual experience without having one of these? In that case, you can There’s a lot of text here, so let’s simplify"
   },
   {
     "objectID": "lecture5.html#the-processes-for-detecting-a-change",
     "href": "lecture5.html#the-processes-for-detecting-a-change",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "The processes for detecting a change",
-    "text": "The processes for detecting a change\n\n\nBefore / after\nComparison\n\n\n\n\nPremise 1. If you visually experience most of a scene’s objects, you will notice major changes to them.\n\n\n\n\nPremise 1 is questionable\nYou might be able to have visual experience of the objects without having 1 and/or 2\n\n\nIf any one of these is not entailed by Does having visual experience of all the objects in a scene mean you also have #1 and #2?"
+    "text": "The processes for detecting a change\n\nBefore / after\nComparison\n\n\n\n\nPremise 1. If you visually experience most of a scene’s objects, you will notice major changes to them.\n\n\n\n\nPremise 1 is questionable\nYou might be able to have visual experience of the objects without having 1 and/or 2\n\n\nIf any one of these is not entailed by Does having visual experience of all the objects in a scene mean you also have #1 and #2?"
   },
   {
     "objectID": "lecture5.html#section-4",
     "href": "lecture5.html#section-4",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "",
-    "text": "Premise 1 was part of the argument for the grand illusion\nPremise 1 is highly questionable\nThe argument for the “grand illusion” is not good!\nMaybe we do experience the whole scene"
+    "text": "Has anyone found the change yet?"
   },
   {
     "objectID": "lecture5.html#section-5",
     "href": "lecture5.html#section-5",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "",
-    "text": "Re-run Menti grand illusion argument poll\n\nShow responses when poll is done"
+    "text": "No blank frame = unique sudden change"
   },
   {
     "objectID": "lecture5.html#maybe-we-do-experience-the-whole-scene",
     "href": "lecture5.html#maybe-we-do-experience-the-whole-scene",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Maybe we do experience the whole scene",
     "text": "Maybe we do experience the whole scene"
   },
   {
     "objectID": "lecture5.html#review-of-the-argument-now-in-essay-format-in-case-that-helps",
     "href": "lecture5.html#review-of-the-argument-now-in-essay-format-in-case-that-helps",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Review of the argument (now in essay format in case that helps)",
-    "text": "Review of the argument (now in essay format in case that helps)\nThe “grand illusion” argument: if we really did experience everything in the scene, we would quickly detect changes to the objects in the scene. So, because we don’t quickly detect many changes to the scene (change blindness), we must not really experience everything.\nBut the grand illusion argument is actually not a great argument; the first part that says that if we really did experience everything, we would quickly detect changes. Maybe we really do experience everything but we don’t have a comparison process that’s always comparing everything. Or maybe we really do experience everything but we don’t have a representation of the scene a short time ago, so we can’t do the comparison. In other words, the idea that “if we really did experience everything, we would quickly detect changes” may be false.\n\nI know it’s hard."
+    "text": "Review of the argument (now in essay format in case that helps)\nThe “grand illusion” argument: if we really did experience everything in the scene, we would quickly detect changes to the objects in the scene. So, because we don’t quickly detect many changes to the scene (change blindness), we must not really experience everything.\nBut the grand illusion argument is actually not a great argument; the first part that says that if we really did experience everything, we would quickly detect changes. Maybe we really do experience everything but we don’t have a comparison process that’s always comparing everything. Or maybe we really do experience everything but we don’t have a representation of the scene a short time ago, so we can’t do the comparison. In other words, the idea that “if we really did experience everything, we would quickly detect changes” may be false.\n\n\n\n\nBe able to explain why change blindness inspired the “grand illusion of visual experience” theory - Know which premise researchers have contested and why\n\n\n\n\n\nI know it’s hard."
   },
   {
     "objectID": "lecture5.html#explaining-blank-screen-sandwiches",
     "href": "lecture5.html#explaining-blank-screen-sandwiches",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Explaining blank screen sandwiches",
-    "text": "Explaining blank screen sandwiches\n - Focused attention is needed to detect change\n\n\n\n\nCould be needed to hold onto the old representaiton. Or to do the comparison. Or both."
+    "text": "Explaining blank screen sandwiches\n\nFocused attention is needed to detect change\n\nTo hold onto the old representation?\nTo do the comparison?\n\n\n\n\nCould be needed to hold onto the old representaiton. Or to do the comparison. Or both."
   },
   {
     "objectID": "lecture5.html#section-6",
     "href": "lecture5.html#section-6",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "",
-    "text": "Change blindness -&gt; “the grand illusion”\n\n\nYou can still believe there is a “grand illusion” of visual experience, but change blindness is not a good argument for it.\n\n\n\nFor more, see Overgaard (2018) or read Block’s 550-page book."
+    "text": "Motion detectors respond to flicker\nIf there’s motion everywhere, there might as well be motion nowhere\n\nMotion detector response not unique to site of change, so no longer makes change location salient\n\n\n\nMotion no longer informs us of the change"
   },
   {
     "objectID": "lecture5.html#blank-screen-sandwiches-1",
     "href": "lecture5.html#blank-screen-sandwiches-1",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Blank-screen sandwiches",
     "text": "Blank-screen sandwiches\n\nPeripheral vision\nMotion detectors\nMemory\n\n\nSome other lessons we can draw from change blindness"
   },
   {
     "objectID": "lecture5.html#section-7",
     "href": "lecture5.html#section-7",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "",
-    "text": "May need to refresh page to see GIF"
+    "text": "This is actually a fly brain, but this aspect of the architecture is very similar to our own.\nWe have motion detectors across the scene. In other words, they are pre-bottleneck.\nNulls the motion detectors"
   },
   {
     "objectID": "lecture5.html#peripheral-vision",
     "href": "lecture5.html#peripheral-vision",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Peripheral vision",
     "text": "Peripheral vision\n\nGood experimenters ensure that the object is visible in the periphery.\n\nIf the object is not visible in the periphery, need overt attention to the location, not just covert attention\n\nUnsurprising that this can’t be done at all locations at once!\n\n\n\nI’ve conditioned you to say “bottleneck” but in this particular demonstration, the change is quite small."
   },
   {
     "objectID": "lecture5.html#section-8",
     "href": "lecture5.html#section-8",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "",
-    "text": "Poor peripheral vision prevents you from seeing it"
+    "text": "“Mud splashes” almost as good as blank screen\nMotion detectors misdirect attention"
   },
   {
     "objectID": "lecture5.html#poor-peripheral-vision",
     "href": "lecture5.html#poor-peripheral-vision",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Poor peripheral vision",
     "text": "Poor peripheral vision\n\n\n\nIn rigorous experiments, stimuli are placed carefully so they are visible in the periphery\n\n\n\nExperimenters control this\n\n\nBecker, Anstis, and Pashler (2000)"
   },
   {
     "objectID": "lecture5.html#once-you-find-it-its-hard-to-un-see-it",
     "href": "lecture5.html#once-you-find-it-its-hard-to-un-see-it",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Once you find it, it’s hard to un-see it",
     "text": "Once you find it, it’s hard to un-see it\n\n\n\nMemories guide attention quickly\nThis helps us in countless situations, including on the road\n\n\n\nShowing one you already saw before. Once you find it, it’s so hard to un-see it"
   },
   {
     "objectID": "lecture5.html#blank-screen-sandwiches-2",
     "href": "lecture5.html#blank-screen-sandwiches-2",
-    "title": "Attention Lecture 5_2026",
-    "section": "Blank screen sandwiches",
-    "text": "Blank screen sandwiches"
+    "title": "Attention Lecture 5",
+    "section": "Blank-screen sandwiches",
+    "text": "Blank-screen sandwiches\n\nPeripheral vision\nMotion detectors\nMemory\n\n\nSome other lessons we can draw from change blindness"
   },
   {
     "objectID": "lecture5.html#no-blank-frame",
     "href": "lecture5.html#no-blank-frame",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "No blank frame",
-    "text": "No blank frame\n Find the change, but this time there will be no blank screen"
+    "text": "No blank frame\nFind the change.\nThere will be no blank screen (no ice cream)."
   },
   {
     "objectID": "lecture5.html#no-blank-frame-1",
     "href": "lecture5.html#no-blank-frame-1",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "No blank frame",
-    "text": "No blank frame"
+    "text": "No blank frame\n\nNo blank frame = unique sudden change"
   },
   {
     "objectID": "lecture5.html#section-9",
     "href": "lecture5.html#section-9",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "",
-    "text": "This is actually a fly brain, but this aspect of the architecture is very similar to our own.\nWe have motion detectors across the scene. In other words, they are pre-bottleneck.\nNulls the motion detectors"
+    "text": "2751 6070"
   },
   {
     "objectID": "lecture5.html#section-10",
     "href": "lecture5.html#section-10",
-    "title": "Attention Lecture 5_2026",
-    "section": "",
-    "text": "Motion detectors respond to flicker\nIf there’s motion everywhere, there might as well be motion nowhere\n\nOdd motion detector response no longer makes change location salient\n\n\n\nMotion no longer informs us of the change"
-  },
-  {
-    "objectID": "lecture5.html#section-11",
-    "href": "lecture5.html#section-11",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "",
     "text": "See responses to last Menti"
   },
   {
-    "objectID": "lecture5.html#section-12",
-    "href": "lecture5.html#section-12",
-    "title": "Attention Lecture 5_2026",
+    "objectID": "lecture5.html#section-11",
+    "href": "lecture5.html#section-11",
+    "title": "Attention Lecture 5",
     "section": "",
     "text": "“Mud splashes” almost as good as blank screen\nMotion detectors misdirect attention"
   },
   {
-    "objectID": "lecture5.html#section-13",
-    "href": "lecture5.html#section-13",
-    "title": "Attention Lecture 5_2026",
+    "objectID": "lecture5.html#section-12",
+    "href": "lecture5.html#section-12",
+    "title": "Attention Lecture 5",
     "section": "",
     "text": "What made the mud splashes more salient than the white road lines?\n\n\nThey are bigger and thus stimulate the motion detectors more strongly\nThey are more different to their surround (parallel bottom-up attention processing)"
   },
   {
+    "objectID": "lecture5.html#section-13",
+    "href": "lecture5.html#section-13",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "Menti.com\nWhy do people miss many of the changes?\n\n\nDid you notice that this slide has no background image? 😄\n\n\nOccurred during film cut, where the entire scene suddenly changed - flicker One of the cheesiest videos I’ve ever seen Attention2SocrativeResponses.pdf"
+  },
+  {
     "objectID": "lecture5.html#gradual-changes",
     "href": "lecture5.html#gradual-changes",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Gradual changes",
     "text": "Gradual changes\n\n\n\nYoutube"
   },
   {
     "objectID": "lecture5.html#gradual-changes-1",
     "href": "lecture5.html#gradual-changes-1",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Gradual changes",
     "text": "Gradual changes\n\nWhy are gradual changes hard to find?\n\nThey don’t stimulate motion detectors"
   },
   {
     "objectID": "lecture5.html#blank-screen-sandwiches-lessons-1",
     "href": "lecture5.html#blank-screen-sandwiches-lessons-1",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Blank-screen sandwiches: Lessons",
     "text": "Blank-screen sandwiches: Lessons\n\n\nGrand illusion of visual experience?\nPeripheral vision\nMotion detectors\n\nBlank screen\nGradual changes\n\nMemory"
   },
   {
     "objectID": "lecture5.html#tutorial-week-5",
     "href": "lecture5.html#tutorial-week-5",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Tutorial Week 5",
     "text": "Tutorial Week 5\n\nImplications for driving"
   },
   {
     "objectID": "lecture5.html#change-blindness-in-continuous-movie",
     "href": "lecture5.html#change-blindness-in-continuous-movie",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "Change blindness in continuous movie",
     "text": "Change blindness in continuous movie\n\n\n\n\nYoutube"
   },
   {
     "objectID": "lecture5.html#section-14",
     "href": "lecture5.html#section-14",
-    "title": "Attention Lecture 5_2026",
-    "section": "",
-    "text": "Menti.com\nWhy do people miss many of the changes?\n\n\nDid you notice that this slide has no background image? 😄\n\n\nOccurred during film cut, where the entire scene suddenly changed - flicker One of the cheesiest videos I’ve ever seen Attention2SocrativeResponses.pdf"
-  },
-  {
-    "objectID": "lecture5.html#section-15",
-    "href": "lecture5.html#section-15",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "",
     "text": "Occurred during film cut, where the entire scene suddenly changed - flicker"
   },
   {
+    "objectID": "lecture5.html#section-15",
+    "href": "lecture5.html#section-15",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "Wolfe et al. (2011):\n\nthere is a ‘selective’ path in which candidate objects must be individually selected for recognition and a ‘nonselective’ path in which information can be extracted from global and/or statistical information."
+  },
+  {
     "objectID": "lecture5.html#section-16",
     "href": "lecture5.html#section-16",
-    "title": "Attention Lecture 5_2026",
+    "title": "Attention Lecture 5",
     "section": "",
-    "text": "–&gt;"
+    "text": "Wolfe et al. (2011):\n\nthere is a ‘selective’ path in which candidate objects must be individually selected for recognition and a ‘nonselective’ path in which information can be extracted from global and/or statistical information."
   },
   {
     "objectID": "lecture4.html#learning-outcomes-1",
@@ -3862,5 +3862,173 @@
     "title": "Attention Lecture 4",
     "section": "Learning Outcomes",
     "text": "Learning Outcomes\n\nDistinguish the ways a stimulus can be selected\n\nContrast bottom-up (salience-driven) and top-down (goal-directed) attentional control.\nIdentify the types of top-down selection: spatial/location and feature selection.\n\nExplain why feature selection is global (Ch. 7)\n\nKnow that attending to a feature (e.g., red) enhances that feature across the entire visual field, not just a restricted region.\nExplain why you cannot simultaneously attend to red on the left and blue on the right.\nRelate global feature processing to the anatomical separation of the dorsal (“Where”) and ventral (“What”) visual pathways.\n\nExplain how bottom-up and top-down attention combine (Ch. 5)\n\nDescribe how voluntary goals can supplement or override bottom-up salience signals.\nGive examples of when salience alone is insufficient and top-down attention must step in.\n\nDescribe parallel processing of individual features (Ch. 5, 7)\n\nDefine parallel processing as simultaneous processing across many locations in the visual field.\nExplain how a unique feature value (e.g., an oddball color or orientation) generates a salient signal that pops out, driving bottom-up attention.\nDistinguish feature dimensions (e.g., color, orientation, motion) from feature values (e.g., red, blue; leftward, downward).\n\nExplain why identifying feature combinations is slow (Ch. 7, 8, Tutorial)\n\nContrast flat (parallel) search slopes for single-feature targets with steep (serial) slopes for feature-pair targets.\nDescribe why combining features requires focused attention and is capacity-limited.\n\nSummarise Treisman’s Feature Integration Theory (Ch. 9)\n\nOutline the FIT model: a pre-attentive stage that computes feature maps in parallel, followed by focused attention being needed to bind features at a location.\nApply FIT to predict whether a given visual search will be easy (parallel) or difficult (serial)."
+  },
+  {
+    "objectID": "lecture5.html#two-letters-can-exceed-processing-capacity",
+    "href": "lecture5.html#two-letters-can-exceed-processing-capacity",
+    "title": "Attention Lecture 5",
+    "section": "Two letters can exceed processing capacity",
+    "text": "Two letters can exceed processing capacity\n\n\nremember this movie from lecture 1?"
+  },
+  {
+    "objectID": "lecture5.html#two-letters-can-exceed-processing-capacity-1",
+    "href": "lecture5.html#two-letters-can-exceed-processing-capacity-1",
+    "title": "Attention Lecture 5",
+    "section": "Two letters can exceed processing capacity",
+    "text": "Two letters can exceed processing capacity\nTwo letters"
+  },
+  {
+    "objectID": "lecture5.html#capacity-is-very-limited-for-some-things",
+    "href": "lecture5.html#capacity-is-very-limited-for-some-things",
+    "title": "Attention Lecture 5",
+    "section": "Capacity is very limited for some things",
+    "text": "Capacity is very limited for some things\n\nLetters (that don’t make a word) or words"
+  },
+  {
+    "objectID": "lecture5.html#capacity-for-some-things-is-very-limited-but",
+    "href": "lecture5.html#capacity-for-some-things-is-very-limited-but",
+    "title": "Attention Lecture 5",
+    "section": "Capacity for some things is very limited, but",
+    "text": "Capacity for some things is very limited, but\nFeels like we see everything at once\n\nThere is a contradiction, or at least a tension, there\nWhat does it mean for consciousness?"
+  },
+  {
+    "objectID": "lecture5.html#section-1",
+    "href": "lecture5.html#section-1",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "Talked about consciousness, but not about the tension that\n\nwe feel we see everything at once\ncertain processing is very limited\n\n\n\nDo you remember this guy? At this stage you might not totally get this"
+  },
+  {
+    "objectID": "lecture5.html#philosophers-freak-out",
+    "href": "lecture5.html#philosophers-freak-out",
+    "title": "Attention Lecture 5",
+    "section": "Philosophers freak out",
+    "text": "Philosophers freak out\n\n“phenomenal” consciousness (Ch. 3.5)\n\nVisual experience, not just performance\n\n“phenomenal content overflows cognitive access” - Ned Block\n\n\nWhen we talk about consciousness we’re talking about the feeling of it\nWhat really got philosophers of consciousness saying that kind of stuff was change blindness\nAdded to end of bottleneck chapter it doesn’t feel like we can only process one thing at a time. As I write these words, for example, I seem to be experiencing the whole visual field simultaneously. It doesn’t feel like I can only experience one object at a time. Yet when we carefully test people on what they can report about multiple objects, if we don’t give them time to move their attention around, the results suggest much processing is limited to only a few objects."
+  },
+  {
+    "objectID": "lecture5.html#section-2",
+    "href": "lecture5.html#section-2",
+    "title": "Attention Lecture 5",
+    "section": "",
+    "text": "Raise your hand when you see the change"
+  },
+  {
+    "objectID": "lecture5.html#two-letters-can-exceed-processing-capacity-2",
+    "href": "lecture5.html#two-letters-can-exceed-processing-capacity-2",
+    "title": "Attention Lecture 5",
+    "section": "Two letters can exceed processing capacity",
+    "text": "Two letters can exceed processing capacity\n \n\nBottleneck - for letter identification"
+  },
+  {
+    "objectID": "lecture5.html#capacity-is-very-limited-for-some-things-1",
+    "href": "lecture5.html#capacity-is-very-limited-for-some-things-1",
+    "title": "Attention Lecture 5",
+    "section": "Capacity is very limited for some things",
+    "text": "Capacity is very limited for some things\n\nLetters (that don’t make a word) or words\nOther feature combinations"
+  },
+  {
+    "objectID": "lecture5.html#lessons-of-blank-screen-sandwiches",
+    "href": "lecture5.html#lessons-of-blank-screen-sandwiches",
+    "title": "Attention Lecture 5",
+    "section": "Lessons of blank-screen sandwiches",
+    "text": "Lessons of blank-screen sandwiches\n\nGrand illusion of visual experience?\nPeripheral vision\nMotion detectors\n\nBlank screen\nGradual changes\n\nMemory\n\n\nAs well as shedding light on this idea, CB Number of insights into the processes that determine whether we notice things"
+  },
+  {
+    "objectID": "lecture5.html#argument-for-the-grand-illusion-2",
+    "href": "lecture5.html#argument-for-the-grand-illusion-2",
+    "title": "Attention Lecture 5",
+    "section": "Argument for “the grand illusion”",
+    "text": "Argument for “the grand illusion”\n\n\nPremise 1. If you visually experience most of a scene’s objects, you will notice major changes to them.\nPremise 2. You don’t detect major changes to most objects in a scene (blank-screen sandwiches).\nConclusion. Therefore, you don’t visually experience most objects in a scene.\n\n\n\nResearchers have contested Premise 1"
+  },
+  {
+    "objectID": "lecture5.html#answer-questions-about-the-grand-illusion-of-visual-experience-argument",
+    "href": "lecture5.html#answer-questions-about-the-grand-illusion-of-visual-experience-argument",
+    "title": "Attention Lecture 5",
+    "section": "Answer questions about the “grand illusion of visual experience” argument",
+    "text": "Answer questions about the “grand illusion of visual experience” argument\nMenti.com\n8890 2133\n\n\nGrand illusion argument logic\nI agree with the conclusion Premise 1 is false Premise 2 is false Premise 2 does not negate the consequent of Premise 1. Something else."
+  },
+  {
+    "objectID": "lecture5.html#to-detect-a-change-need",
+    "href": "lecture5.html#to-detect-a-change-need",
+    "title": "Attention Lecture 5",
+    "section": "To detect a change, need:",
+    "text": "To detect a change, need:\n\nInternal representations of the object before and after the change.\nA process that compares the before representation to the after.\nA process that calls attention to, or brings into conscious awareness, the comparison results.\n\n\n\nPremise 1. If you visually experience most of a scene’s objects, you will notice major changes to them.\n\nDoes having visual experience of all the objects in a scene mean you also have 1 and 2?\n\n\n\n\nDoes visually experiencing most of a scene’s objects entail having what’s necessary to detect a change? In other words, is it possible to have visual experience without having one of these? In that case, you can There’s a lot of text here, so let’s simplify"
+  },
+  {
+    "objectID": "lecture5.html#linking-back-to-vigilance",
+    "href": "lecture5.html#linking-back-to-vigilance",
+    "title": "Attention Lecture 5",
+    "section": "Linking back to vigilance",
+    "text": "Linking back to vigilance"
+  },
+  {
+    "objectID": "lecture5.html#the-argument-now-in-essay-format-in-case-that-helps",
+    "href": "lecture5.html#the-argument-now-in-essay-format-in-case-that-helps",
+    "title": "Attention Lecture 5",
+    "section": "The argument (now in essay format in case that helps)",
+    "text": "The argument (now in essay format in case that helps)\nThe “grand illusion” argument: if we really did experience everything in the scene, we would quickly detect changes to the objects in the scene. So, because we don’t quickly detect many changes to the scene (change blindness), we must not really experience everything.\nBut the grand illusion argument is actually not a great argument; the first part that says that if we really did experience everything, we would quickly detect changes. Maybe we really do experience everything but we don’t have a comparison process that’s always comparing everything. Or maybe we really do experience everything but we don’t have a representation of the scene a short time ago, so we can’t do the comparison. In other words, the idea that “if we really did experience everything, we would quickly detect changes” may be false.\n\n\n\n\nBe able to explain why change blindness inspired the “grand illusion of visual experience” theory - Know which premise researchers have contested and why\n\n\n\n\n\nI know it’s hard."
+  },
+  {
+    "objectID": "lecture5.html#philosophers-freak-out-1",
+    "href": "lecture5.html#philosophers-freak-out-1",
+    "title": "Attention Lecture 5",
+    "section": "Philosophers freak out",
+    "text": "Philosophers freak out\n\nChange blindness -&gt; “a grand illusion of visual experience”\n\n\nFor more, see Overgaard (2018) or read Block’s 550-page book."
+  },
+  {
+    "objectID": "lecture5.html#blank-screen-sandwiches-include-a-blank-frame",
+    "href": "lecture5.html#blank-screen-sandwiches-include-a-blank-frame",
+    "title": "Attention Lecture 5",
+    "section": "Blank screen sandwiches include a blank frame",
+    "text": "Blank screen sandwiches include a blank frame"
+  },
+  {
+    "objectID": "lecture5.html#capacity-for-some-things-is-very-limited-but-background-image",
+    "href": "lecture5.html#capacity-for-some-things-is-very-limited-but-background-image",
+    "title": "Attention Lecture 5",
+    "section": "Capacity for some things is very limited, but {background-image=”",
+    "text": "Capacity for some things is very limited, but {background-image=”\nFeels like we see everything at once\n\nThere is a contradiction, or at least a tension, there\nWhat does it mean for consciousness?"
+  },
+  {
+    "objectID": "lecture5.html#blank-screen-sandwiches-include-a-blank-frame-1",
+    "href": "lecture5.html#blank-screen-sandwiches-include-a-blank-frame-1",
+    "title": "Attention Lecture 5",
+    "section": "Blank screen sandwiches include a blank frame",
+    "text": "Blank screen sandwiches include a blank frame"
+  },
+  {
+    "objectID": "lecture5.html#no-blank-frame-unique-sudden-change",
+    "href": "lecture5.html#no-blank-frame-unique-sudden-change",
+    "title": "Attention Lecture 5",
+    "section": "No blank frame = unique sudden change",
+    "text": "No blank frame = unique sudden change"
+  },
+  {
+    "objectID": "lecture5.html#inattentional-blindness",
+    "href": "lecture5.html#inattentional-blindness",
+    "title": "Attention Lecture 5",
+    "section": "Inattentional blindness",
+    "text": "Inattentional blindness\n\nFailures to notice a change can be even more dramatic when people aren’t expecting a change\nInattentional blindness refers to not noticing something that you would notice if you were actively looking for it"
+  },
+  {
+    "objectID": "lecture5.html#inattentional-blindness-1",
+    "href": "lecture5.html#inattentional-blindness-1",
+    "title": "Attention Lecture 5",
+    "section": "Inattentional blindness",
+    "text": "Inattentional blindness\n\nRaise your hand if you think you’ve seen this movie before"
+  },
+  {
+    "objectID": "lecture5.html#inattentional-blindness-2",
+    "href": "lecture5.html#inattentional-blindness-2",
+    "title": "Attention Lecture 5",
+    "section": "Inattentional blindness",
+    "text": "Inattentional blindness\nWhen watching the video, your task is to count the number of times the people in white shirts pass the basketball. Watch the video here."
+  },
+  {
+    "objectID": "lecture5.html#inattentional-blindness-3",
+    "href": "lecture5.html#inattentional-blindness-3",
+    "title": "Attention Lecture 5",
+    "section": "Inattentional blindness",
+    "text": "Inattentional blindness\n\nFailures to notice a change can be even more dramatic when people aren’t expecting a change\nInattentional blindness refers to not noticing something that you would notice if you were actively looking for it"
   }
 ]

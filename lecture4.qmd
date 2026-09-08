@@ -24,6 +24,9 @@ editor: source
 ---
 <!--sometimes have to turn multiplex false to load speaker notes -->
 
+<!-- 2026 Post-mortem . there was too much foreshadowing of combinations before I got through the parallel part 
+They loved Where's Wally.  Someone skipped leg day-->
+
 ## {background-image="images/threeWiseMonkeys/640.jpg" background-opacity="0.08"}
 
 [PDF](https://alexholcombe.github.io/PSYC2016lectures/pdf/lecture4.pdf) of these slides
@@ -169,6 +172,7 @@ It's been speculated that it's because the what and where pathways are separated
 ::: notes :::
 it makes sense that object recognition doesn't need location information much, whereas location is more important for action.
 Great that can confirm that with neural network research
+I NEED TO FIRM THIS UP BECAUSE I STRUGGLED To explain it in 2026
 :::
 
 ## Lecture 4 {background-image="images/bottleneck.png" background-size="contain" background-opacity=".1"}
@@ -352,7 +356,7 @@ Get ready to look for the odd pair of features
 ![](images/serialUniqueConjunction.png){.r-stretch}
 
 ::: notes :::
-Raise your hand when you find it
+Raise your hand when you find it. There's actually two haha. Also a green horizontal near bottom right.
 :::
 
 ## Odd feature pair: *serial* processing

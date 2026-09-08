@@ -1,17 +1,32 @@
 ---
-title: "Learning Outcomes - Lecture 5: Distraction & Explore/Exploit"
+title: "Learning Outcomes - Lecture 5: Capacity Limits, Change Blindness & Inattentional Blindness"
 format: html
 ---
 
-- **Explain the exploration vs. exploitation trade-off**
-	- Define **exploitation** (using existing knowledge/focus to reap known rewards from the current task).
-	- Define **exploration** (searching the environment for new information, stimulation, or potential rewards).
-	- Differentiate the **explore/exploit drive** (driven by reward and information foraging) from **vigilance** (driven by threat/danger monitoring).
-- **Classify mechanisms of real-world distraction**
-	- Distinguish **sensory (bottom-up) distractions** (noise, flashing screens, peripheral motion) from **internal/cognitive (top-down) distractions** (mind-wandering, habitual phone-checking, boredom).
-- **Analyze the cognitive costs of digital devices & multitasking**
-	- Explain how intermittent variable rewards in social media apps hijack the exploratory drive.
-	- Explain why true cognitive multitasking is impossible for central bottleneck tasks, and describe the switching costs of task interruptions.
-- **Evaluate evidence-based attentional interventions**
-	- Describe how environmental control (e.g., silence, notification detox, hiding phones) reduces bottom-up and habitual triggers.
-	- Explain how the **Distraction Diary** and social facilitation (e.g., study groups/monastic focus) assist in sustaining exploitation over distraction.
+- **Describe capacity limits of visual processing (Ch. 8, 9)**
+    - Explain why identifying two simultaneous letters exceeds processing capacity, whereas detecting an oddball colour does not.
+    - Distinguish tasks that can be processed in parallel (individual features) from those that require the limited-capacity bottleneck (feature combinations, letter/word identification).
+
+- **Articulate the tension between subjective visual experience and processing limits** (Ch.3.5)
+    - Explain why it *feels* like we see everything at once even though careful experiments reveal severe capacity limits.
+    - Define *phenomenal consciousness* and explain Ned Block's claim that "phenomenal content overflows cognitive access".
+
+- **Define change blindness and explain what causes it** (Ch. 6)
+    - Define change blindness and describe the blank-screen sandwich paradigm used to demonstrate it.
+    - Explain the role of the **blank frame** in disrupting motion-detector signals, preventing the change location from being salient.
+    - Explain why "mud splashes" produce a similar effect to the blank screen.
+    - Explain why removing the blank frame allows changes to be detected
+        - the change produces a *unique* sudden-motion signal.
+
+- **Evaluate the "grand illusion of visual experience" argument** (Ch. 13.4)
+    - Reproduce the logical structure of the grand illusion argument (Premise 1, Premise 2, Conclusion) in your own words.
+    - Identify which premise researchers have contested and why: having a visual experience of an object does not entail having (a) a stored prior representation or (b) a comparison process that would reveal a change.
+
+- **Explain the role of focused attention in change detection**
+    - State that focused attention is required to hold onto a prior representation and/or to compare before-and-after representations.
+    - Link this to Feature Integration Theory: without focused attention, features are not fully bound and represented, making comparison impossible.
+
+- **Define inattentional blindness and distinguish it from change blindness**
+    - Define inattentional blindness as failing to notice a clearly visible, unexpected stimulus when attention is otherwise engaged.
+    - Contrast with change blindness
+        - Inattentional blindness does not require a blank screen or flicker — the missed object is continuously present.
